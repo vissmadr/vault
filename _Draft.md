@@ -1,3 +1,25 @@
+# Research
+
+## Isometric 2D
+
+Enough examples with great and simple graphics.
+
+Will 100% suffice for my first one.
+
+It's more about design than the art itself.
+
+Great examples online.
+
+The angle is not a problem - even ellipses are very slight.
+
+3D ones of the genre don't really look that good.
+
+Polish is what makes it great.
+
+Figure out controls.
+
+---
+
 **Color Palettes**: https://lospec.com/palette-list
 
 ---

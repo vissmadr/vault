@@ -1,6 +1,6 @@
 ---
 context:
-  - "[[Build Process (Software Engineering)]]"
+  - "[[Build Process]]"
   - "[[Build Automation]]"
 ---
 

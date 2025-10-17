@@ -6,9 +6,9 @@ context:
   - "[[Software Engineering]]"
 ---
 
-# Build Process (Software Engineering)
+# Build Process
 
-The process of converting development [[Source Code]] into a standalone software product.
+The process of converting development [[Source Code]] into an executable product.
 
 ---
 

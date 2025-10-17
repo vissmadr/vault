@@ -21,5 +21,5 @@ Common features that a game engine should provide include:
 - Animation system
 - Audio system
 - Physics
-- [[Build Process (Software Engineering)|Build Process]]
+- [[Build Process|Build Process]]
 - Platform abstraction

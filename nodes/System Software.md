@@ -1,6 +1,8 @@
 ---
 context:
   - "[[Software]]"
+  - "[[Build Automation]]"
+  - "[[Build Process]]"
 ---
 
 # System Software

@@ -97,7 +97,7 @@ Also free to build my own stuff simply with code, for example DOD architecture.
 > If I write Raylib application it's more cross-platform than your JavaScript. Dab Dab Dab.
 > - Tsoding
 
-Current List: Raylib > Godot > SDL3 > Bevy > C
+Current List: Raylib > SDL3 > Godot > Bevy > C
 
 _The need is to know and understand, not to implement and reinvent._
 

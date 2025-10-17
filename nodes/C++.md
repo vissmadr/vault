@@ -13,7 +13,7 @@ General-purpose low-level programming language.
 
 ---
 
-Extends the [[C (Programming Language)|C programming language]] with [[Object-Oriented Programming|object-oriented]] and generic features.
+Extends the [[C (Programming Language)|C programming language]] with more features.
 
 **Properties**: General-purpose, low-level, multi-paradigm, compiled, statically typed, high-performance, portable.
 

@@ -3,12 +3,8 @@ context:
   - "[[Software Application]]"
 ---
 
-#empty
-
 # Libresprite
 
-ad
-
----
+[[Free and Open Source]] fork of an earlier [[Aseprite]] version.
 
 [Website](https://libresprite.github.io/#!/)

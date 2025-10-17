@@ -35,7 +35,7 @@ And then maybe watch the things not so carefully:
 - [x] **FloatyMonkey Vectors**: https://youtu.be/Ej3ZVxljJfo
 - [x] **FloatyMonkey Matrices and Transformations**: https://youtu.be/HgQzOmnBGCo
 
-- [ ] **The Player Never Moves**: https://youtu.be/wiYTxjJjfxs
+- [x] **The Player Never Moves**: https://youtu.be/wiYTxjJjfxs
 
 - WrapPI
 
@@ -113,9 +113,9 @@ All have their pros and cons.
 
 Mostly dependent on the artist, if any.
 
-**Simulation**: The type of graphics should not be of early concern, as the simulation of game mechanics should be separated from the game view, meaning that the same reusable components of mechanics should work with any graphics.
+**Prototype**: The type of graphics should not be of early concern, as the prototype of game mechanics should be separated from the game view, meaning that the same reusable components of mechanics should work with any graphics.
 
-- Can build an advanced simulation way before any graphics.
+- Can build an advanced prototype way before any graphics.
 
 Currently 2.5D
 

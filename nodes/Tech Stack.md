@@ -2,8 +2,7 @@
 tags:
   - "data"
 context:
-  - [[Software]]
----
+  - [[Software]] ---
 
 # Tech Stack
 
@@ -12,6 +11,8 @@ Personal list of technology expertise.
 ---
 
 - [[C (Programming Language)]]
+
+- [[Raylib]]
 
 - [[HTML]]
 - [[CSS]]
@@ -54,7 +55,7 @@ Personal list of technology expertise.
 
 - [[Neovim]]
 
-Learn [[SDL]]
+- [[Aseprite]]
 
 ## Misc
 

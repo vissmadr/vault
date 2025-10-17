@@ -11,4 +11,6 @@ context:
 
 ---
 
+The de-facto standard for building C/C++ projects.
+
 **Meta-Build**: CMake is a meta-build tool, generating configuration files for other native build tools which in turn build the software.

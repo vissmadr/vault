@@ -1,20 +1,16 @@
 ---
 context:
-  - "[[Software Architecture]]"
+  - "[[Computing]]"
 ---
 
 # Binary File
 
-File containing executable machine code.
+File that stores data in [[Binary]] form.
 
 ---
 
-Contains sequences of bytes.
+Represented as sequences of bytes rather than human-readable text.
 
-Produced by [[Compilation]] of [[Source Code]].
+Binary files may contain [[Machine Code]], structured data, or any other non-text content.
 
-**Opaque**: Not intended to be interpreted as human-readable text.
-
-**Executable**: Can be run directly by the [[CPU]].
-
-**Optimized**: Binary files store data in a format optimized for machine processing.
+Optimized for efficient storage and processing by machines, not for readability.

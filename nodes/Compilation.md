@@ -5,42 +5,55 @@ context:
 
 # Compilation
 
-The process of translating [[Source Code]] into [[Machine Code]].
+The process of translating [[Source Code]] into executable [[Machine Code]].
 
 ---
 
-This process is executed done by a [[Compiler]].
+Transforms human-readable source code into a runnable [[Computer Program]] through several stages.
 
-## Process
+## Overview
 
-In general, the compilation process follows these steps:
+Compilation typically includes these stages:
 
-1. Preprocessing
-2. Compilation
-3. Assembly
-4. Linking
+1. **Preprocessing**
+2. **Compilation**
+3. **Assembly**
+4. **Linking**
 
 ### Preprocessing
 
-Prepares the source code by doing things like:
+Prepares the source code for compilation by:
 
 - **Removing Comments**
 - **Expanding Macros**
-- **Resolving Conditional Compilation**
-- **Resolving Includes**: Replaces the `include` lines with the contents of the header file, and all the headers it includes. Basically inserts the code into the file before the compilation begins.
+- **Handling Conditional Compilation**
+- **Resolving Includes**: Inserts the contents of header files before compilation begins.
 
-**Output**: Single large file
+**Output**: Single expanded and cleaned-up source file.
 
 ### Compilation
 
-**Assembly**: Translates source code into an intermediate [[Assembly]] source code.
+Translates the preprocessed source code into an intermediate [[Assembly]] representation, often performing syntax and semantic analysis and applying optimization.
+
+See [[Compiler]]
+
+**Output**: Assembly code.
 
 ### Assembly
 
-**Machine Code**: Translates the human-readable assembly into [[Machine Code]].
+Converts the assembly code into [[Object Code]] containing [[Machine Code]] instructions.
+
+See [[Assembler]]
+
+**Output**: [[Object File]] (`.o` or `.obj`).
 
 ### Linking
 
-**Static**: Puts any needed machine code into the final [[Binary File]].
+Combines one or more object files and required libraries into a single [[Executable File]].
 
-Dynamic files ending in `.dll` on [[Windows]] or `.so` on [[Linux]] and [[MacOS]].
+See [[Linker]]
+
+- **Static Linking**: Includes all necessary code directly in the final binary.
+- **Dynamic Linking**: References shared libraries (`.so` on [[Linux]] and [[MacOS]], `.dll` on [[Windows]]).
+
+**Output**: Executable binary or library file.

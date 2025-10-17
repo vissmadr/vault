@@ -1,6 +1,4 @@
 ---
-aliases:
-  - Spekimathr
 context:
   - "[[Etymology]]"
   - "[[Old Norse]]"

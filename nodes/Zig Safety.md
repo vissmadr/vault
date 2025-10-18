@@ -9,6 +9,8 @@ Safety mechanisms in Zig.
 
 ---
 
+**Deferring**: See [[Zig Defer]]
+
 **No Shadowing**: Variable identifiers are never allowed to shadow identifiers from an outer scope.
 
 ```zig
@@ -18,3 +20,4 @@ pub fn main() void {
     const something: bool = false; // ERROR
 }
 ```
+

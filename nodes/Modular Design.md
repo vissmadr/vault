@@ -2,6 +2,7 @@
 context:
   - "[[System Design]]"
   - "[[Software Design]]"
+  - "[[Software Architecture]]"
 ---
 
 # Modular Design

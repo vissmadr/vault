@@ -6,20 +6,17 @@ context:
 
 # Raylib
 
-[[Free and Open Source]] [[Game Development]] library.
+[[Free and Open Source]] multimedia library.
 
 ---
 
+[Website](https://www.raylib.com/index.html)
+[Cheatsheet](https://www.raylib.com/cheatsheet/cheatsheet.html)
+
 _Simple library to actually enjoy game programming._
 
-**Usage**: Used for multimedia, game development, and prototyping.
+Used for multimedia, [[Game Development]], and [[Prototyping]].
 
-**Simplicity**: Designed for simplicity, elegance, and ease of use.
-
-**Lightweight**: Extremely lightweight and efficient.
-
-**Self-Contained**: Completely self-contained with no external dependencies.
+**Properties**: Simple, elegant, lightweight, straightforward, performant, cross-platform, self-contained.
 
 **Language**: Written in [[C (Programming Language)|C]] with support for other languages aswell, such as [[C++]], [[Zig]], and more.
-
-**Cross-Platform**: Supports multiple platforms.

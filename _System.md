@@ -1,8 +1,10 @@
 # System
 
-**System Files**: [[_System]], [[_Tasks]], [[_Quotes]], [[_Draft]], [[_Study]], [[_Template]]
+**System Files**: Located in the root directory and prefixed by a `_` symbol.
 
 **Main Idea**: Create nodes, link them together, let structure emerge by itself.
+
+**Adaptive**: The only sure way to scale and develop across time is to continually improve vault nodes.
 
 **Atomic Nodes**: Each node should be an atomic note, meaning that it should strive to be an independent as-is idea.
 
@@ -10,4 +12,4 @@
 
 **Tags**: Nodes can have tags to specify what kind of node they are. Without tags, they are assumed to be atomic nodes by default.
 
-Nodes Count: `870`
+Nodes Count: `882`

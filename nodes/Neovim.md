@@ -1,4 +1,6 @@
 ---
+aliases:
+  - nvim
 context:
   - "[[Text Editor]]"
 ---

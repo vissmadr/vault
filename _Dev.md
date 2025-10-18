@@ -4,9 +4,9 @@ Learn how C/C++ programs are compiled.
 
 What is make, cmake, linking, headers, and so on.
 
-Setup a project.
+Watch the bookmarked videos for various setups.
 
-https://www.youtube.com/watch?v=5glH8dGoeCA
+Setup a project.
 
 # Technology
 
@@ -25,6 +25,8 @@ Maybe consider ImGui
 Figure out how to implement ESC.
 
 Don't go for perfect code. Overrated. Just build.
+
+https://www.youtube.com/watch?v=5glH8dGoeCA
 
 # Core Systems
 

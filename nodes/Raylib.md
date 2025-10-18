@@ -20,6 +20,6 @@ _Simple library to actually enjoy game programming._
 
 **Self-Contained**: Completely self-contained with no external dependencies.
 
-**Language**: Uses [[C (Programming Language)]], with support for other languages.
+**Language**: Written in [[C (Programming Language)|C]] with support for other languages aswell, such as [[C++]], [[Zig]], and more.
 
 **Cross-Platform**: Supports multiple platforms.

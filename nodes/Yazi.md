@@ -5,7 +5,7 @@ context:
 
 #empty
 
-# yazi
+# Yazi
 
 ad
 

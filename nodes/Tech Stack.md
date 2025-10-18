@@ -2,7 +2,8 @@
 tags:
   - "data"
 context:
-  - [[Software]] ---
+  - "[[Software]]"
+---
 
 # Tech Stack
 
@@ -10,9 +11,10 @@ Personal list of technology expertise.
 
 ---
 
-- [[C (Programming Language)]]
+## Programming
 
-- [[Raylib]]
+- [[C (Programming Language)]]
+- [[C++]]
 
 - [[HTML]]
 - [[CSS]]
@@ -20,47 +22,59 @@ Personal list of technology expertise.
 - [[TypeScript]]
 - [[JavaScript]]
 
-- [[NodeJS]]
-- [[SolidJS]]
-- [[Turborepo]]
-- [[Vite]]
+- [[GLSL]]
+
+## Graphics
 
 - [[WebGL]]
 - [[WebGL2]]
 - [[Canvas 2D API]]
 - [[p5js]]
 
-- [[GLSL]]
+## Engines
+
+- [[SDL]]
+- [[Raylib]]
 
 - [[Godot]]
 - [[Unity]]
 
-- [[Java]]
-- [[C-Sharp]]
-
-- [[MySQL]]
-- [[MariaDB]]
+## Version Control
 
 - [[Git]]
 
 - [[GitHub]]
 - [[GitLab]]
 
-- [[Shell]]
-- [[Bash]]
+## Databases
+
+- [[SQLite]]
+- [[MariaDB]]
+- [[MySQL]]
+
+## Web
+
+- [[NodeJS]]
+- [[SolidJS]]
+- [[Turborepo]]
+- [[Vite]]
+
+## Art
+
+- [[Aseprite]]
+
+## Operating System
 
 - [[Linux]]
 - [[Ubuntu]]
 - [[Arch Linux]]
 
+## CLI
+
+- [[Shell]]
+- [[Bash]]
+
 - [[Neovim]]
-
-- [[Aseprite]]
-
-## Misc
-
-- [[OBS]]
-
-## Crap
-
-- [[Slack]]
+- [[Zoxide]]
+- [[Yazi]]
+- [[btop]]

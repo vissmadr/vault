@@ -9,7 +9,7 @@ context:
 
 # SQLite
 
-[[Relational Database Management System]] that uses [[SQL]] for manipulating data.
+Lightweight [[Relational Database Management System]] that uses [[SQL]] for manipulating data.
 
 ---
 

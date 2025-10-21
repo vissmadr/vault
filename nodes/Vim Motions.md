@@ -352,3 +352,9 @@ Grids:
 | └         | `ur`    | Right and Up.            |
 
 Use the `:digraphs` command to see the whole list.
+
+## Terminal
+
+Write `:terminal` to open a terminal inside neovim.
+
+Use `<C-\><C-n>` to unselect the terminal input.

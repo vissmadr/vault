@@ -6,10 +6,10 @@ context:
 
 #empty
 
-# Data-Oriented Design
+# Structures of Arrays vs Arrays of Structures
 
 ad
 
 ---
 
-See [[Structures of Arrays vs Arrays of Structures]]
+See [[Data-Oriented Design]]

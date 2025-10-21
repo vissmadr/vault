@@ -5,7 +5,7 @@ Study all the examples in the `raylib-zig` directory.
 - [x] core/2d_camera.zig
 - [x] core/2d_camera_mouse_zoom.zig
 - [x] core/2d_camera_platformer.zig
-- [ ] core/3d_camera_first_person.zig
+- [x] core/3d_camera_first_person.zig
 - [ ] core/3d_camera_free.zig
 - [ ] core/3d_picking.zig
 - [ ] core/basic_screen_manager.zig

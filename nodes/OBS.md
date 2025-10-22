@@ -2,7 +2,7 @@
 aliases:
   - Open Broadcaster Software
 context:
-  - "[[Software Application]]"
+  - "[[Application Software]]"
 ---
 
 # OBS

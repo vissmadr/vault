@@ -2,7 +2,7 @@
 aliases:
   - curl
 context:
-  - "[[Software Application]]"
+  - "[[Application Software]]"
 ---
 
 # cURL

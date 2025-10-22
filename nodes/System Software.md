@@ -5,7 +5,7 @@ context:
 
 # System Software
 
-[[Software]] that manages [[Hardware]] and enables other software to run.
+Software that manages [[Hardware]].
 
 ---
 

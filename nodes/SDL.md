@@ -2,7 +2,7 @@
 aliases:
   - Simple DirectMedia Layer
 context:
-  - "[[Programming Software]]"
+  - "[[Development Software]]"
   - "[[System Software]]"
 ---
 

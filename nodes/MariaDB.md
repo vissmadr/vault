@@ -1,7 +1,7 @@
 ---
 context:
   - "[[Relational Database Management System]]"
-  - "[[Software Application]]"
+  - "[[Application Software]]"
 ---
 
 # MariaDB

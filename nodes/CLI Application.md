@@ -3,12 +3,12 @@ aliases:
   - CLI Tool
 context:
   - "[[CLI]]"
-  - "[[Software Application]]"
+  - "[[Application Software]]"
 ---
 
 # CLI Application
 
-[[Software Application]] used primarily through a [[CLI]].
+[[Application Software]] used primarily through a [[CLI]].
 
 ---
 

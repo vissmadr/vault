@@ -1,7 +1,7 @@
 ---
 context:
   - "[[Version Control]]"
-  - "[[Programming Software]]"
+  - "[[Development Software]]"
   - "[[System Software]]"
 ---
 
@@ -11,7 +11,7 @@ context:
 
 ---
 
-**Appication**: As a [[Software Application]], Git itself is a [[CLI Application]], but there are also many [[GUI Application]]s that wrap around it.
+**Appication**: As a [[Application Software]], Git itself is a [[CLI Application]], but there are also many [[GUI Application]]s that wrap around it.
 
 ## Common Commands
 

@@ -1,6 +1,6 @@
 ---
 context:
-  - "[[Software Application]]"
+  - "[[Application Software]]"
 ---
 
 # Neofetch

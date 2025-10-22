@@ -5,10 +5,8 @@ context:
 
 # Embedded Software
 
-[[Software]] running on [[Embedded System|Embedded Systems]].
+Specialized type of [[System Software]] that is designed to control a specific piece of [[Hardware]], which is not itself a general-purpose [[Computer]].
 
 ---
 
-Written to control machines or devices that are not typically thought of as computers.
-
-Typically specialized for the particular [[Hardware]] that it runs on and has time and memory constraints.
+Typically very specialized for the particular hardware that it runs on, respecting its resource constraints.

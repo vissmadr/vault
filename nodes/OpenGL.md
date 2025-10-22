@@ -3,7 +3,7 @@ aliases:
   - Open Graphics Library
 context:
   - "[[Computer Graphics]]"
-  - "[[Programming Software]]"
+  - "[[Development Software]]"
   - "[[System Software]]"
 ---
 

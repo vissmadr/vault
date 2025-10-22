@@ -2,7 +2,7 @@
 aliases:
   - Dear ImGui
 context:
-  - "[[Software Application]]"
+  - "[[Application Software]]"
 ---
 
 # ImGui

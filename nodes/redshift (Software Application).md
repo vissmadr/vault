@@ -2,7 +2,7 @@
 aliases:
   - redshift
 context:
-  - "[[Software Application]]"
+  - "[[Application Software]]"
 ---
 
 # redshift (Software Application)

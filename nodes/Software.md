@@ -8,15 +8,18 @@ Refers to the product of [[Computer Program|Computer Programs]] with their desig
 
 ---
 
-Categories of software include:
+Main categories of software include:
 
-- [[Programming Software]]
-- [[Software Application]]
+- [[Application Software]]
+- [[Development Software]]
 - [[System Software]]
-- [[Embedded Software]]
-- [[Daemon]]
 
 Categories by [[Interface]]:
 
 - [[CLI Application]]
 - [[GUI Application]]
+
+Additional categories:
+
+- [[Embedded Software]]
+- [[Daemon]]

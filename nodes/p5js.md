@@ -1,7 +1,7 @@
 ---
 context:
-  - "[[Programming Software]]"
-  - "[[Software Application]]"
+  - "[[Development Software]]"
+  - "[[Application Software]]"
   - "[[Computer Graphics]]"
 ---
 

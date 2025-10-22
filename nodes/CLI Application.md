@@ -1,6 +1,4 @@
 ---
-aliases:
-  - CLI Tool
 context:
   - "[[CLI]]"
   - "[[Application Software]]"
@@ -8,7 +6,7 @@ context:
 
 # CLI Application
 
-[[Application Software]] used primarily through a [[CLI]].
+Application software used primarily through a CLI.
 
 ---
 

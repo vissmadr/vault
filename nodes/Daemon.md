@@ -5,7 +5,7 @@ context:
 
 # Daemon
 
-[[Computer Program]] that runs as a background process, independent of user interaction.
+Software that runs as a background process, independent of user interaction.
 
 ---
 

@@ -5,13 +5,13 @@ context:
 
 # Software Licensing
 
-Defines the legal terms under which [[Software]] can be used, modified, and distributed.
+Defines the legal terms under which software can be used, modified, and distributed.
 
 ---
 
 Balances the legal rights of software creators, users, and distributors.
 
-A [[Software License]] file should usually present in a project.
+A [[Software License]] file should usually be present in a project.
 
 ## Open Source Nuances
 

@@ -7,11 +7,11 @@ context:
 
 # Operating System
 
-[[System Software]] that manages [[Computer|computer]] [[Hardware|hardware]] and resources.
-
-Provides common services for [[Computer Program|computer programs]].
+System software that manages [[Computer]] [[Hardware]] and resources.
 
 ---
+
+Provides common services for [[Computer Program|computer programs]].
 
 **Process Management**: Handles running applications and multitasking.
 
@@ -19,6 +19,6 @@ Provides common services for [[Computer Program|computer programs]].
 
 **File System Management**: Organizes and controls access to files and directories.
 
-**Device Management**: Interfaces with hardware.
+**Device Management**: Interfaces with hardware and peripherals.
 
 **User Inteface**: Provides a way for users to interact with the system.

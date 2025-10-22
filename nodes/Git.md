@@ -2,16 +2,15 @@
 context:
   - "[[Version Control]]"
   - "[[Development Software]]"
-  - "[[System Software]]"
 ---
 
 # Git
 
-[[Free and Open Source]] distributed [[Version Control]] system.
+Distributed version control system.
 
 ---
 
-**Appication**: As a [[Application Software]], Git itself is a [[CLI Application]], but there are also many [[GUI Application]]s that wrap around it.
+[[Free and Open Source]]
 
 ## Common Commands
 
@@ -29,6 +28,9 @@ context:
 - `git log --oneline`: Show compact commit history.
 - `git diff`: Show unstaged changes.
 - `git diff --staged`: Show staged changes.
+
+- `git branch -a`: Show all branches.
+- `git checkout branchName`: Checkout to a branch.
 
 - `git stash`: Save changes temporarily.
 - `git stash list`: List stashes.

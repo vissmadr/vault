@@ -4,18 +4,16 @@ context:
   - "[[Computer Graphics]]"
 ---
 
-# p5js
+# Processing (Software)
 
-Simple and straightforward computer graphics library for the web.
+Simple and straightforward computer graphics library.
 
-[Website](https://p5js.org/)
+[Website](https://processing.org/)
 
 ---
 
 [[Free and Open Source]]
 
-Based on [[Processing (Software)]].
-
 Designed primarily for [[Creative Coding]], multimedia, digital art, and education.
 
-**JavaScript**: Built and used with [[JavaScript]].
+**Java**: Built and used with the [[Java]] programming language.

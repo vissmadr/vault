@@ -2,7 +2,6 @@
 aliases:
   - Structured Query Language
 context:
-  - "[[Software]]"
   - "[[Query Language]]"
 ---
 
@@ -10,7 +9,7 @@ context:
 
 (Structured Query Language)
 
-Standardized [[Query Language]] for managing and manipulating [[Relational Database]] systems.
+Standardized query language for managing and manipulating [[Relational Database]] systems.
 
 ---
 

@@ -9,16 +9,26 @@ context:
 
 # Vim Motions
 
-Vim motions are the commands used to control and navigate [[Vim]] and [[Neovim]]. They are also used in other software that supports them.
+Vim motions are the commands used to control and navigate Vim and NeoVim. They can also be used in other software that supports them.
 
 ---
 
-## Exit
+The system is built for maximum efficiency, control, and ergonomics.
 
-`Esc`: Exit.
-`Ctrl c`: Exit.
+Try to make sense of how the system works instead of trying to memorize bindings.
 
-**Trigger**: Note that in general `Esc` triggers some on-exit effects, while `Ctrl c` doesn't.
+**Modes**: One of the core ideas is to reuse good keys by having different modes for different purposes. This way one key can be used for different things depending on the current context.
+
+- For example, the key button `c` does one thing when pressed in insert mode, another thing in normal mode, another in visual mode, and it does different things when combined with modifiers such as `Ctrl`, `Shift`, `Alt`, or the leader key.
+
+**Ergonomics**: Some key buttons are better than others in terms of where they are placed on the keyboard. The system is designed to attempt to assign the most frequent actions to the best keys. Experienced vim users can keep their hands on the keyboard and do everything without having to move from the typewriter position. This includes not having to do anything with the mouse.
+
+## Escape
+
+`Esc`: Soft escape.
+`Ctrl c`: Hard escape.
+
+**Trigger**: In general, `Esc` triggers some on-escape effects, while `Ctrl c` doesn't.
 
 ## Movement
 
@@ -28,6 +38,9 @@ _Cursor movement and navigation._
 `j`: Down.
 `k`: Up.
 `l`: Right.
+
+`gj`: Word wrap down.
+`gk`: Word wrap up.
 
 `w`: Start of next word.
 `W`: Same, ignores punctuation.
@@ -49,13 +62,13 @@ _Cursor movement and navigation._
 
 `gg`: First line in file.
 `G`: Last line in file.
-`<number>g`: To `n` line in file.
+`<n>g`: To `n` line in file.
 
-`f <x>`: Next `<x>` on the line.
-`F <x>`: Previous `<x>` on the line.
+`f<x>`: Next `<x>` on the line.
+`F<x>`: Previous `<x>` on the line.
 
-`t <x>`: Before next `<x>` on the line.
-`T <x>`: Before previous `<x>` on the line.
+`t<x>`: Before next `<x>` on the line.
+`T<x>`: Before previous `<x>` on the line.
 
 `;`: Next line match.
 `,`: Previous line match.
@@ -102,15 +115,15 @@ _Manipulation mode where input keys are used as actions._
 `u`: Undo.
 `Ctrl r`: Redo.
 
-`g u`: Lowercase (pending).
-`g U`: Upercase (pending).
-`g ~`: Toggle case (pending).
+`gu`: Lowercase (pending).
+`gU`: Upercase (pending).
+`g~`: Toggle case (pending).
 `Shift ~`: Toggle case under cursor.
 
 `Ctrl a`: Number increment.
 `Ctrl x`: Number decrement.
 
-`g i`: Go to last insert.
+`gi`: Go to last insert.
 
 ## Search
 
@@ -281,7 +294,7 @@ _There are many ways to repeat previous actions._
 **Numbers**: Any number `n` before an action generally repeats the action `n` number of times.
 
 - Example: Using `12j` will go down `12` times. Think of it as pressing `j` twelve times.
-- There are smart nuances to this. For example spamming `r a` will replace the character under the cursor with `a`, but doing `3 r a` will replace the next `3` characters with `a`.
+- There are smart nuances to this. For example spamming `ra` will replace the character under the cursor with `a`, but doing `3ra` will replace the next `3` characters with `a`.
 
 **Dot**: Actions can be repeated using the `.` dot key.
 

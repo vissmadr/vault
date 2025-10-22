@@ -3,18 +3,20 @@ aliases:
   - Simple DirectMedia Layer
 context:
   - "[[Development Software]]"
-  - "[[System Software]]"
 ---
 
 # SDL
 
 (Simple DirectMedia Layer)
 
-Cross-platform [[Free and Open Source]] development library.
+Cross-platform development library.
 
 ---
 
+[[Free and Open Source]]
+
 Provides low-level [[Hardware]] abstraction for:
+
 - Window Management
 - Graphics
 - Audio

@@ -3,13 +3,19 @@ aliases:
   - nvim
 context:
   - "[[Text Editor]]"
+  - "[[Development Software]]"
+  - "[[Application Software]]"
 ---
 
 # Neovim
 
-Extremely efficient [[Open Source]] [[Text Editor]].
+Extremely efficient text editor.
 
 ---
+
+_King._
+
+[[Free and Open Source]]
 
 Neovim is based on [[Vim]], but rebuilt for extensibility and efficiency.
 

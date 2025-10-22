@@ -1,6 +1,5 @@
 ---
 context:
-  - "[[systemd]]"
   - "[[System Software]]"
 ---
 

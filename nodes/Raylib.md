@@ -1,17 +1,18 @@
 ---
 context:
   - "[[Development Software]]"
-  - "[[System Software]]"
 ---
 
 # Raylib
 
-[[Free and Open Source]] multimedia library.
-
----
+Lightweight [[Game Development]] and multimedia library.
 
 [Website](https://www.raylib.com/index.html)
 [Cheatsheet](https://www.raylib.com/cheatsheet/cheatsheet.html)
+
+---
+
+[[Free and Open Source]]
 
 _Simple library to actually enjoy game programming._
 

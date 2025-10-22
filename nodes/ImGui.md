@@ -2,12 +2,12 @@
 aliases:
   - Dear ImGui
 context:
-  - "[[Application Software]]"
+  - "[[Development Software]]"
 ---
 
 # ImGui
 
-Bloat-free [[GUI|Graphical User Interface]] library for [[C++]].
+Bloat-free [[C++]] library for building [[GUI|Graphical User Interfaces]].
 
 ---
 

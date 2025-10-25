@@ -6,17 +6,17 @@ Study all the examples in the `raylib-zig` directory.
 - [x] core/2d_camera_mouse_zoom.zig
 - [x] core/2d_camera_platformer.zig
 - [x] core/3d_camera_first_person.zig
-- [ ] core/3d_camera_free.zig
-- [ ] core/3d_picking.zig
-- [ ] core/basic_screen_manager.zig
-- [ ] core/basic_window.zig
-- [ ] core/basic_window_web.zig
-- [ ] core/drop_files.zig
-- [ ] core/input_keys.zig
-- [ ] core/input_mouse.zig
-- [ ] core/input_mouse_wheel.zig
-- [ ] core/input_multitouch.zig
-- [ ] core/window_flags.zig
+- [x] core/3d_camera_free.zig
+- [x] core/3d_picking.zig
+- [x] core/basic_screen_manager.zig
+- [x] core/basic_window.zig
+- [x] core/basic_window_web.zig
+- [x] core/drop_files.zig
+- [x] core/input_keys.zig
+- [x] core/input_mouse.zig
+- [x] core/input_mouse_wheel.zig
+- [x] core/input_multitouch.zig
+- [x] core/window_flags.zig
 
 - [ ] audio/module_playing.zig
 - [ ] audio/music_stream.zig

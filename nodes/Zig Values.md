@@ -66,9 +66,9 @@ Values in Zig.
 
 _**String Literals and Unicode Code Point Literals**_
 
-#wip
-#wip
-#wip
+String literals are constant single-item pointers to null-terminated byte arrays.
+
+Dereferencing string literals convertd them to arrays.
 
 ### Escape Sequences
 
@@ -88,7 +88,7 @@ _**String Literals and Unicode Code Point Literals**_
 Multiline string literals have no escapes and can span across multiple lines. To start a multiline string literal, use the `\\` token. Just like a comment, the string literal goes until the end of the line. The end of the line is not included in the string literal. However, if the next line begins with `\\` then a newline is appended and the string literal continues.
 
 ```zig
-const stuff =
+const helloWorldInC =
     \\#include <stdio.h>
     \\
     \\int main(int argc, char **argv) {
@@ -97,3 +97,35 @@ const stuff =
     \\}
 ;
 ```
+
+## Assignment
+
+Use the `const` keyword to assign a constant value to an identifier.
+
+Use the `var` keyword to assign a mutable value to an identifier.
+
+```zig
+pub fn main() void {
+    const solid: i32 = 42;
+
+    var fluid: i32 = 1234;
+    fluid = 5678;
+}
+```
+
+### Undefined
+
+Use `undefined` to leave variables uninitialized:
+
+```zig
+pub fn main() void {
+    var value: i32 = undefined;
+
+    value = 42;
+    print("{}\n", .{value}); // 42
+}
+```
+
+The `undefined` variable can be coerced to any type. Once this happens, it is no longer possible to detect that the value is `undefined`.
+
+The meaning of `undefined` is that a value could be anything, even something that is nonsense according to the type.

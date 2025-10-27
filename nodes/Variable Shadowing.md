@@ -5,7 +5,7 @@ context:
 
 # Variable Shadowing
 
-When a [[Variable (Programming)|variable]] declared within a certain scope has the same name as a variable declared in an outer scope.
+When a [[Variable (Programming)|Variable]] declared within a certain [[Scope (Computer Science)|Scope]] has the same name as a variable declared in an outer scope.
 
 ---
 

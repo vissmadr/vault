@@ -2,13 +2,15 @@
 tags:
   - "data"
 context:
-  - "[[Zig]]]"
+  - "[[Zig]]"
   - "[[Data Type (Computer Science)]]"
 ---
 
 # Zig Values
 
 Values in Zig.
+
+[Documentation](https://ziglang.org/documentation/master/#Values)
 
 ---
 
@@ -129,3 +131,50 @@ pub fn main() void {
 The `undefined` variable can be coerced to any type. Once this happens, it is no longer possible to detect that the value is `undefined`.
 
 The meaning of `undefined` is that a value could be anything, even something that is nonsense according to the type.
+
+### Destructure
+
+The destructuring assignment can separate elements of indexable aggregate types:
+
+```zig
+fn destructure() void {
+    var x: i32 = undefined;
+    var y: i32 = undefined;
+    var z: i32 = undefined;
+
+    const tuple = .{ 10, 20, 30 };
+
+    x, y, z = tuple;
+
+    print("{d}\n", .{x}); // 10
+    print("{d}\n", .{y}); // 20
+    print("{d}\n", .{z}); // 30
+
+    const array = [_]i32{100, 200, 300};
+
+    x, y, z = array;
+
+    print("{d}\n", .{x}); // 100
+    print("{d}\n", .{y}); // 200
+    print("{d}\n", .{z}); // 300
+
+    const vector: @Vector(3, i32) = .{1000, 2000, 3000};
+
+    x, y, z = vector;
+
+    print("{d}\n", .{x}); // 1000
+    print("{d}\n", .{y}); // 2000
+    print("{d}\n", .{z}); // 3000
+
+    comptime const vx, _, const vz: i32 = vector;
+
+    print("{d}\n", .{vx}); // 1000
+    print("{d}\n", .{vz}); // 3000
+}
+```
+
+A destructuring expression may only appear within a block.
+
+The left hand side of the assignment must consist of a comma separated list, each element of which may be either an lvalue (for instance, an existing `var`) or a variable declaration.
+
+A destructure may be prefixed with the `comptime` keyword, in which case the entire destructure expression is evaluated at comptime. All vars declared would be comptime vars and all expressions (both result locations and the assignee expression) are evaluated at comptime.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Zig Comments.md",
+                "file": "nodes/Zig Integer.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Zig Comments"
+              "title": "Zig Integer"
             }
           }
         ]
@@ -153,19 +153,21 @@
   },
   "active": "75f225d9d06153ee",
   "lastOpenFiles": [
-    "nodes/Zig Comments.md~",
+    "nodes/Zig Integer.md~",
+    "nodes/Zig.md~",
     "nodes/4913",
+    "nodes/Zig Values.md~",
+    "nodes/Zig Comments.md~",
+    "nodes/Zig Variables.md~",
+    "nodes/Zig Integer.md",
+    "nodes/Zig Values.md",
     "nodes/Vim Motions.md",
     "nodes/systemctl.md~",
     "nodes/Neovim.md~",
     "nodes/Text Editor.md~",
     "nodes/Raylib.md~",
     "nodes/Aseprite.md~",
-    "nodes/Pixel Art.md~",
     "nodes/Pixel Art.md",
-    "nodes/ImGui.md~",
-    "nodes/Software.md~",
-    "nodes/SDL.md~",
     "nodes/Software.md",
     "nodes/Zig Safety.md",
     "nodes/Zig Conditionals.md",
@@ -173,7 +175,6 @@
     "nodes/Zig Data Types.md",
     "nodes/Comment (Programming).md",
     "nodes/Code Comment.md",
-    "nodes/Zig Values.md",
     "nodes/Zig Assignment.md",
     "nodes/Zig Comments.md",
     "nodes/Zig Arrays.md",
@@ -188,7 +189,6 @@
     "nodes/Assembly.md",
     "nodes/Free and Open Source.md",
     "nodes/ImGui.md",
-    "nodes/A-Star Algorithm.md",
     "Untitled.canvas",
     "las.png",
     "Argus.canvas",

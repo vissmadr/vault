@@ -8,6 +8,8 @@ context:
 
 Comments in Zig.
 
+[Documentation](https://ziglang.org/documentation/master/#Comments)
+
 ---
 
 Zig supports 3 types of comments:

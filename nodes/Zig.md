@@ -10,6 +10,8 @@ General-purpose low-level programming language.
 
 ---
 
+[[Free and Open Source]]
+
 Designed for optimality, robustness, maintainability, and clarity.
 
 **Properties**: General-purpose, low-level, systems-level, compiled, statically typed, extremely performant, portable.

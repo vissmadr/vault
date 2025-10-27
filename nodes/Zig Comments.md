@@ -12,9 +12,9 @@ Comments in Zig.
 
 Zig supports 3 types of comments:
 
-- Normal comments (`//`)
-- Doc comments (`///`)
-- Top-level doc comments (`//!`)
+- **Normal comments (`//`)**
+- **Doc comments (`///`)**
+- **Top-level doc comments (`//!`)**
 
 ```zig
 //! Main module
@@ -33,7 +33,7 @@ pub fn main() void {
 
 **Package Documentation**: Normal comments are ignored, but doc comments and top-level doc comments are used by the compiler to generate the package documentation.
 
-**No Multiline**: There are no multiline comments in Zig. This allows Zig to have the property that each line of code can be tokenized out of context.
+**Single Line**: There are no multiline comments in Zig. This allows Zig to have the property that each line of code can be tokenized out of context.
 
 ## Doc Comments
 
@@ -44,12 +44,3 @@ Doc comments are only allowed in certain places; it is a compile error to have a
 ## Top-level Doc Comments
 
 The top-level doc comment begins with two slashes and an exclamation point: `//!`; It documents the current module.
-
-```zig
-//! Utilities module
-
-/// Function returning zero
-pub fn returnZero() i32 {
-    return 0;
-}
-```

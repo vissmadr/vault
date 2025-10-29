@@ -5,7 +5,7 @@ context:
 
 # Pseudorandom Generator (DSAP)
 
-Build [[Pseudorandom]] [[RNG|Random Number Generation]].
+Build [[Pseudorandom]] [[Random Number Generation]].
 
 ---
 

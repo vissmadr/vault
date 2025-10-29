@@ -7,7 +7,7 @@ context:
 
 # Random Generation
 
-The process of generating [[Random]] or [[Pseudorandom]] data.
+The process of generating random or pseudorandom data.
 
 ---
 

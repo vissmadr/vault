@@ -1,12 +1,12 @@
 ---
 context:
-  - "[[Random Generation]]"
+  - "[[Random Number Generation]]"
   - "[[Algorithm]]"
 ---
 
 # Xorshift
 
-Efficient [[Random Generation]] [[Algorithm]].
+Efficient pseudorandom number generation algorithm.
 
 ---
 

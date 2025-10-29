@@ -32,9 +32,9 @@ Local variables occur inside functions, `comptime` blocks, and `@cImport` blocks
 
 When a local variable is `const`, it means that after initialization, the variable's value will not change.
 
-If the initialization value of a `const` variable is `comptime`-known, then the variable is also `comptime`-known.
-
 ## Comptime
+
+If the initialization value of a `const` variable is `comptime`-known, then the variable is also `comptime`-known.
 
 A local variable may be qualified with the `comptime` keyword. This causes the variable's value to be `comptime`-known, and all loads and stores of the variable to happen during semantic analysis of the program, rather than at runtime.
 

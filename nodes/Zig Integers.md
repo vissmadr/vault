@@ -4,7 +4,7 @@ context:
   - "[[Integer]]"
 ---
 
-# Zig Integer
+# Zig Integers
 
 Integers in Zig.
 

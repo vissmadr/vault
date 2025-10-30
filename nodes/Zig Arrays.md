@@ -20,6 +20,8 @@ const arrInfer = [_]u8{ 10, 20, 30, 40, 50 };
 const arrExplicit: [5]u8 = [5]u8{ 10, 20, 30, 40, 50 };
 ```
 
+Use the built-in `@splat` function to convert a scalar into a vector:
+
 ## Length
 
 To get the size of the array, access the array's `len` field:
@@ -28,6 +30,16 @@ To get the size of the array, access the array's `len` field:
 const arr = [5]u8{1, 2, 3, 4, 5};
 const length = arr.len; // 5
 ```
+
+## Splat
+
+Use the built-in `@splat` function to convert number into an array where each element is the number:
+
+```zig
+const arr: [4]i32 = @splat(42);
+```
+
+- The array type and length are inferred.
 
 ## Multidimensional Arrays
 

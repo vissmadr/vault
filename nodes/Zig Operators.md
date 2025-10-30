@@ -4,8 +4,6 @@ context:
   - "[[Operator (Programming)]]"
 ---
 
-#wip
-
 # Zig Operators
 
 Operators in Zig.
@@ -54,30 +52,5 @@ Operators in Zig.
 | Array Concatenation        | `a ++ b`                       | Arrays                                      | Only available when the lengths of both `a` and `b` are compile-time known.                                                                                                                                                                                                                                                      | `const mem = @import("std").mem; const array1 = [_]u32{1,2}; const array2 = [_]u32{3,4}; const together = array1 ++ array2; mem.eql(u32, &together, &[_]u32{1,2,3,4})` |
 | Array Multiplication       | `a ** b`                       | Arrays                                      | Only available when the length of `a` and `b` are compile-time known.                                                                                                                                                                                                                                                            | `const mem = @import("std").mem; const pattern = "ab" ** 3; mem.eql(u8, pattern, "ababab")`                                                                            |
 | Pointer Dereference        | `a.* `                         | Pointers                                    | Pointer dereference.                                                                                                                                                                                                                                                                                                             | `const x: u32 = 1234; const ptr = &x; ptr.* == 1234`                                                                                                                   |
-
-#wip
-#wip
-#wip
-#wip
-
-Address Of
-
-&a
-
-    All types
-
-const x: u32 = 1234;
-const ptr = &x;
-ptr.\* == 1234
-
-Error Set Merge
-
-a || b
-
-    Error Set Type
-
-    Merging Error Sets
-
-const A = error{One};
-const B = error{Two};
-(A || B) == error{One, Two}
+| Address Of                 | `&a`                           | All types                                   |                                                                                                                                                                                                                                                                                                                                  | `const x: u32 = 1234; const ptr = &x; ptr.* == 1234`                                                                                                                   |
+| Error Set Merge            | `a ││ b`                       | Error Set Type                              | Merging Error Sets                                                                                                                                                                                                                                                                                                               | `const A = error{One}; const B = error{Two}; (A ││ B) == error{One, Two}`                                                                                              |

@@ -12,10 +12,12 @@ Personal game ideas.
 ---
 
 [[Project Spellblade]]
+[[Project Riftwalker]]
 [[Project Runner]]
 [[Project Ronin]]
 Roguelike FPS (ultrakill, ROR2, it consumes, daggers, amidevil inspired)
 Melee combat
+
 
 Darker aesthetics always seem to be cooler.
 

@@ -30,6 +30,31 @@ const vec: @Vector(4, i32) = @splat(42);
 
 - The vector type and length are inferred.
 
+## Reduce
+
+Use the built-in `@reduce` function to reduce a vector into a scalar:
+
+```zig
+const vA = @Vector(3, i32){ 10, 20, 30 };
+
+print("Mul: {}\n", .{@reduce(.Mul, vA)});
+print("Min: {}\n", .{@reduce(.Min, vA)});
+print("Max: {}\n", .{@reduce(.Max, vA)});
+print("Add: {}\n", .{@reduce(.Add, vA)});
+print("And: {}\n", .{@reduce(.And, vA)});
+print("Xor: {}\n", .{@reduce(.Xor, vA)});
+print("Or: {}\n", .{@reduce(.Or, vA)});
+
+// Output:
+// Mul: 6000
+// Min: 10
+// Max: 30
+// Add: 60
+// And: 0
+// Xor: 0
+// Or: 30
+```
+
 ## Operators
 
 Vectors generally support the same built-in operators as their underlying base types.

@@ -20,6 +20,10 @@ Zig's conditional statements accept only boolean values: `true` or `false`.
 
 **If Expressions**: If statements are also valid expressions: `x += if (a) 1 else 2;`
 
+## Switch
+
+#wip
+
 ## While Loop
 
 ```zig

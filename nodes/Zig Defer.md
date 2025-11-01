@@ -31,3 +31,12 @@ fn multiple() void {
 
 // Output: 1, 2, 3, 4, 5, 6
 ```
+
+**Error Defer**: An `errdefer` is a defer that only runs if the block exits with an error.
+
+```zig
+{
+    errdefer cleanup();
+    try canFail();
+}
+```

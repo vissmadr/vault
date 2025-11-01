@@ -114,3 +114,25 @@ print("RGB({d}, {d}, {d})\n", .{ thirdRed, thirdGreen, thirdBlue });
 // RGB(101, 102, 103)
 // RGB(100, 103, 130)
 ```
+
+## Concatenation
+
+Use `++` to concatenate two arrays:
+
+```zig
+const a = [_]u8{ 1, 2 };
+const b = [_]u8{ 3, 4 };
+const c = a ++ b ++ [_]u8{ 5 }; // 1 2 3 4 5
+```
+
+This is a compile-time operation.
+
+## Repeat
+
+Use `**` to repeat an array:
+
+```zig
+const d = [_]u8{ 1,2,3 } ** 2; // 1 2 3 1 2 3
+```
+
+This is a compile-time operation.

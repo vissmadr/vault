@@ -23,6 +23,10 @@ See [[Structures of Arrays vs Arrays of Structures]]
 Watch [Mike Acton - Data Oriented Design and C++](https://www.youtube.com/watch?v=rX0ItVEVjHc)
 Watch [Nic Barker - Intro to Data Oriented Design for Games](https://www.youtube.com/watch?v=WwkuAqObplU)
 
+#wip
+TODO: `14:00`
+[Andrew Kelley - Practical Data Oriented Design](https://www.youtube.com/watch?v=IroPQ150F6c)
+
 ---
 
 #wip

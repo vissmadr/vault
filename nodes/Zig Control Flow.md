@@ -12,13 +12,13 @@ Control flow in Zig.
 
 ## Conditional Logic
 
-Zig's conditional statements accept boolean values: `true` or `false`.
+Zig's conditional statements accept only boolean values: `true` or `false`.
 
 **No Coercion**: Unlike other languages, there are no values that implicitly coerce to boolean values.
 
 **No Ternary**: The ternary conditional operator (`cond ? a : b`) does not exist in Zig.
 
-**If Expressions**: If statements also work as expressions: `x += if (a) 1 else 2;`
+**If Expressions**: If statements are also valid expressions: `x += if (a) 1 else 2;`
 
 ## Loops
 
@@ -29,6 +29,12 @@ while (i < 10) {
     bark();
     i += 1;
 }
+```
+
+Zig `while` statements can have an optional 'continue expression' which runs every time the while loop continues (either at the end of the loop or when an explicit `continue` is invoked.
+
+```zig
+var i: i32 = 0;
 
 while (i < 10) : (i += 1) {
     bark();

@@ -12,4 +12,4 @@ ad
 
 ---
 
-See [[Data-Oriented Design]]
+See [[Data Oriented Design]]

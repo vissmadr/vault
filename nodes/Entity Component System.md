@@ -3,7 +3,7 @@ aliases:
   - ECS
 context:
   - "[[Software Architecture]]"
-  - "[[Data-Oriented Design]]"
+  - "[[Data Oriented Design]]"
 ---
 
 # Entity Component System

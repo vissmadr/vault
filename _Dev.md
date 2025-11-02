@@ -68,24 +68,24 @@ Study all the examples in the `raylib-zig` directory:
 - [x] shaders/shaders_hybrid_render.zig
 - [x] shaders/texture_outline.zig
 
-- [ ] shapes/basic_shapes.zig
-- [ ] shapes/bouncing_ball.zig
-- [ ] shapes/collision_area.zig
-- [ ] shapes/colors_palette.zig
-- [ ] shapes/draw_circle_sector.zig
-- [ ] shapes/draw_rectangle_rounded.zig
-- [ ] shapes/draw_ring.zig
-- [ ] shapes/easings_ball_anim.zig
-- [ ] shapes/easings_box_anim.zig
-- [ ] shapes/easings_rectangle_array.zig
-- [ ] shapes/following_eyes.zig
-- [ ] shapes/lines_bezier.zig
-- [ ] shapes/logo_raylib.zig
-- [ ] shapes/logo_raylib_anim.zig
-- [ ] shapes/reasings.zig
-- [ ] shapes/rectangle_scaling.zig
-- [ ] shapes/splines_drawing.zig
-- [ ] shapes/top_down_lights.zig
+- [x] shapes/basic_shapes.zig
+- [x] shapes/bouncing_ball.zig
+- [x] shapes/collision_area.zig
+- [x] shapes/colors_palette.zig
+- [x] shapes/draw_circle_sector.zig
+- [x] shapes/draw_rectangle_rounded.zig
+- [x] shapes/draw_ring.zig
+- [x] shapes/easings_ball_anim.zig
+- [x] shapes/easings_box_anim.zig
+- [x] shapes/easings_rectangle_array.zig
+- [x] shapes/following_eyes.zig
+- [x] shapes/lines_bezier.zig
+- [x] shapes/logo_raylib.zig
+- [x] shapes/logo_raylib_anim.zig
+- [x] shapes/reasings.zig
+- [x] shapes/rectangle_scaling.zig
+- [x] shapes/splines_drawing.zig
+- [x] shapes/top_down_lights.zig
 
 - [x] text/codepoints_loading.zig
 - [x] text/draw_3d.zig

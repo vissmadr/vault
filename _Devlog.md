@@ -79,3 +79,9 @@ Researching data oriented design, ECS, and software architecture.
 It's good and I learned a ton.
 
 Found out that it's not necessarily an all-in architecture. Things can be refactored into data oriented form later for better performance. So focus on building first.
+
+# Raylib-Zig Examples
+
+`2025 11 02`
+
+Going back and completing the `zig-raylib` examples.

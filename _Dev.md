@@ -34,7 +34,7 @@ That yields maintainable code and strong performance without premature complexit
 
 # Examples
 
-Study all the examples in the `raylib-zig` directory.
+Study all the examples in the `raylib-zig` directory:
 
 - [x] core/2d_camera.zig
 - [x] core/2d_camera_mouse_zoom.zig
@@ -53,20 +53,20 @@ Study all the examples in the `raylib-zig` directory.
 - [x] core/window_flags.zig
 
 - [x] audio/module_playing.zig
-- [ ] audio/music_stream.zig
-- [ ] audio/raw_stream.zig
-- [ ] audio/sound_loading.zig
+- [x] audio/music_stream.zig
+- [x] audio/raw_stream.zig
+- [x] audio/sound_loading.zig
 
-- [ ] gui/message_box.zig
+- [x] gui/message_box.zig
 
-- [ ] models/models_bone_socket.zig
-- [ ] models/models_box_collisions.zig
-- [ ] models/models_heightmap.zig
+- [x] models/models_bone_socket.zig
+- [x] models/models_box_collisions.zig
+- [x] models/models_heightmap.zig
 
-- [ ] shaders/raymarching.zig
-- [ ] shaders/shaders_basic_pbr.zig
-- [ ] shaders/shaders_hybrid_render.zig
-- [ ] shaders/texture_outline.zig
+- [x] shaders/raymarching.zig
+- [x] shaders/shaders_basic_pbr.zig
+- [x] shaders/shaders_hybrid_render.zig
+- [x] shaders/texture_outline.zig
 
 - [ ] shapes/basic_shapes.zig
 - [ ] shapes/bouncing_ball.zig
@@ -87,22 +87,22 @@ Study all the examples in the `raylib-zig` directory.
 - [ ] shapes/splines_drawing.zig
 - [ ] shapes/top_down_lights.zig
 
-- [ ] text/codepoints_loading.zig
-- [ ] text/draw_3d.zig
-- [ ] text/font_filters.zig
-- [ ] text/font_loading.zig
-- [ ] text/font_sdf.zig
-- [ ] text/font_spritefont.zig
-- [ ] text/format_text.zig
-- [ ] text/input_box.zig
-- [ ] text/raylib_fonts.zig
-- [ ] text/rectangle_bounds.zig
-- [ ] text/unicode.zig
-- [ ] text/writing_anim.zig
+- [x] text/codepoints_loading.zig
+- [x] text/draw_3d.zig
+- [x] text/font_filters.zig
+- [x] text/font_loading.zig
+- [x] text/font_sdf.zig
+- [x] text/font_spritefont.zig
+- [x] text/format_text.zig
+- [x] text/input_box.zig
+- [x] text/raylib_fonts.zig
+- [x] text/rectangle_bounds.zig
+- [x] text/unicode.zig
+- [x] text/writing_anim.zig
 
-- [ ] textures/sprite_anim.zig
-- [ ] textures/textures_background_scrolling.zig
-- [ ] textures/textures_image_loading.zig
+- [x] textures/sprite_anim.zig
+- [x] textures/textures_background_scrolling.zig
+- [x] textures/textures_image_loading.zig
 
 # Art
 
@@ -131,6 +131,8 @@ Zig: Low level, full control, clean.
 Raylib: Effectively native performance for 2D.
 
 - Can rebuild own parts from it in the future by looking at the source.
+
+_Raylib is good as fuck._
 
 # Engine Tasklist
 

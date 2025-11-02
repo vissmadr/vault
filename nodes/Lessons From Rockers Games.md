@@ -6,7 +6,7 @@ context:
 
 # Lessons From Rockers Games
 
-Learn from the Rockers Games guy.
+Lessons learned from the Rockers Games guy.
 
 ---
 

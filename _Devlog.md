@@ -69,3 +69,13 @@ _Practice, practice, practice..._
 Went through the full Raylib wiki.
 
 Going through the `zig-raylib` package examples one by one to build a fundamental understanding before I dive in myself.
+
+# Data Oriented Design
+
+`2025 10 28`
+
+Researching data oriented design, ECS, and software architecture.
+
+It's good and I learned a ton.
+
+Found out that it's not necessarily an all-in architecture. Things can be refactored into data oriented form later for better performance. So focus on building first.

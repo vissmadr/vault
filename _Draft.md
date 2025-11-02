@@ -1,98 +1,49 @@
-# Research
+# On Habits
 
-## Isometric 2D
+- we are what we do
+- 3 months vs 5 years
+- Kaizen Kaizen Kaizen Kaizen Kaizen...
+- impulsive behavior vs actual choice
+- building yourself
+- fuck talent
 
-Enough examples with great and simple graphics.
+# Deserving Money
 
-Will 100% suffice for my first one.
+Money is not what you deserve, but what you ask for and what you can get.
 
-It's more about design than the art itself.
+It is not an adequate measure of skill nor experience nor expertise.
 
-Great examples online.
+It is only a representation of how much you were able to get.
 
-The angle is not a problem - even ellipses are very slight.
+# Other
 
-3D ones of the genre don't really look that good.
+- On fear (and against)
 
-Polish is what makes it great.
+- Calmness instead of hype for performance (Alex, Danaher...)
 
-Figure out controls.
+- Consistency in training
 
----
+- Textual styling design, markup, colors... it matters.
 
-**Color Palettes**: https://lospec.com/palette-list
+- Creative coding guide: additive concepts. Start with one, add another known technique, another, another...
 
----
+- Explain accessible science design, which is one of the goals with my website.
 
-Tim Ruswick:
+- Fault of Making Retards Famous (stop doing it)
 
-Prototype hard. Not only one thing, but many, and keep them fast and simple.
+- Investing in competition vs learning the art. Differences. How one of the most effective way to produce champions is having a trainer that has mastered the art coaching a student who excels at competition.
 
-Don't chase trends. Make the game you want to play.
+- Prejudice is kinda necessary to have.
 
-Do one thing really really well instead of trying to do everything.
+- Boat paradox & gradients.
 
-Mechanics & Fun > Realism.
+- Recency Bias.
 
-Aesthetic Style > Graphics
+- Educational Psychology.
 
-- (good color palettes and stuff)
+- Sometimes it's very beneficial to learn from people that
+  are still not at the highest level. Link to overfitting.
 
-Focus on the front. Everyone plays the start, but not everyone finishes a game.
+- Does the world change as a system? Or is it static.
 
-Get HONEST feedback.
-
-- Problems they say are usually good, but solutions they say are usually not.
-- Make sure the people are interested in the genre!
-
----
-
-See the We Who Are About To Die dev video.
-
----
-
-Specific software architecture doesn't really work lol.
-
-Do not look too far ahead.
-
-Explore and Lock.
-
-Just explore and write code without thinking about the encompassing structure too much.
-
----
-
-Software architecture is not really architecture as a blueprint, as this is basically what programming itself is. If "architecture" is supposed to produce a blueprint that is sufficient enough to explain how the program works, then this is actually the full code of the program itself.
-
-Software architecture, in practice, is separation of code.
-
-The purposes of separation:
-
-- mental clarity, keeping things separate so you don't have to consider them at once
-- code reuse
-- division of labor
-
----
-
-Not to have anyone step above you, but to be just, do not step on anyone then. Fair trade.
-
----
-
-"It actually looks like im better at math on the screen than I actually am. Probably because I am covering things that I know really well. When I'm actually working out new math stuff it's atrocious. It's a disaster zone all the time."
-
-- Casey Muratori
-
----
-
-- Reusable Game Modules
-- Build Systems, Not Games
-- Simulation vs View Separation
-
-Learn fundaments well, use whatever tools to get the job done.
-
-Learn from Thronefall
-
----
-
-Ventsi: "Most important for programming is simplicity"
-
----
+- Cooperation and Game Theory stuff.

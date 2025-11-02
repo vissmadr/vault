@@ -104,9 +104,27 @@ Study all the examples in the `raylib-zig` directory.
 - [ ] textures/textures_background_scrolling.zig
 - [ ] textures/textures_image_loading.zig
 
-# Core Systems
+# Art
 
-Tasklist:
+Isometric 2D
+
+Will 100% suffice for my first one.
+
+It's more about design than the art itself.
+
+**Color Palettes**: https://lospec.com/palette-list
+
+Great examples online.
+
+The angle is not a problem - even ellipses are very slight.
+
+3D ones of the genre don't really look that good.
+
+Polish is what makes it great.
+
+Figure out controls.
+
+# Engine Tasklist
 
 - [ ] Get a window running.
 - [ ] Print user input.
@@ -116,4 +134,19 @@ Tasklist:
 - [ ] Read/write to file.
 - [ ] Make a sound.
 - [ ] Database query.
+- [ ] Profiler setup.
+- [ ] Cross-platform builds.
 
+# Prorotype Tasklist
+
+- [ ] Isometric tilemap.
+- [ ] Player movement.
+- [ ] Player controls.
+- [ ] Camera follow.
+- [ ] Terrain collision.
+- [ ] Save/Load file.
+- [ ] Basic GUI.
+- [ ] Random enemies.
+- [ ] Enemy behavior.
+- [ ] Debug hitboxes.
+- [ ] Terrain generation.

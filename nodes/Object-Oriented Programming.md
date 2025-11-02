@@ -2,9 +2,9 @@
 aliases:
   - OOP
 context:
-  - "[[Programming Paradigm]]"
+  - "[[Object Oriented Design]]"
   - "[[Imperative Programming]]"
-  - "[[Software Design]]"
+  - "[[Programming Paradigm]]"
 ---
 
 # Object-Oriented Programming

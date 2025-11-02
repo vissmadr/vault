@@ -1,3 +1,37 @@
+# Architecture
+
+Start simple, then evolve.
+
+**Early stage**:
+
+- Focus on gameplay logic and iteration speed.
+- Use clear, object-style structs and references.
+- Don’t over-optimize data layout before you have working systems.
+
+**Mid stage**:
+
+- Profile real gameplay.
+- Identify hot loops (thousands of bullets, AI ticks, physics updates).
+- Convert those specific systems to data-oriented or ECS layouts.
+
+**Late stage**:
+
+- Keep the high-level game logic (spawning, quests, UI) object-style.
+- Keep the performance-critical subsystems (movement, collision, rendering) SoA or ECS.
+
+**You can mix both**:
+
+- Entities at the design level (spells, enemies, etc.) can own IDs pointing into data-oriented subsystems.
+- Each subsystem manages its own arrays efficiently.
+
+**Summary**:
+
+- Build for clarity first.
+- Profile.
+- Refactor the 5–10% of code that runs 90% of the time into data-oriented form.
+
+That yields maintainable code and strong performance without premature complexity.
+
 # Examples
 
 Study all the examples in the `raylib-zig` directory.
@@ -82,3 +116,4 @@ Tasklist:
 - [ ] Read/write to file.
 - [ ] Make a sound.
 - [ ] Database query.
+

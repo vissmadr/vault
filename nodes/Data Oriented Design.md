@@ -4,7 +4,7 @@ context:
   - "[[Software Design]]"
 ---
 
-#empty
+#wip
 
 # Data Oriented Design
 
@@ -16,7 +16,9 @@ _The purpose of all programs, and all parts of those programs, is to transform d
 
 _Where there is one, there are probably many._
 
-See [[Structures of Arrays vs Arrays of Structures]]
+See [[Lessons From Mike Acton]]
+
+See [[AoS vs SoA]]
 
 ## Resources
 
@@ -27,6 +29,8 @@ Watch [Nic Barker - Intro to Data Oriented Design for Games](https://www.youtube
 TODO: `14:00`
 [Andrew Kelley - Practical Data Oriented Design](https://www.youtube.com/watch?v=IroPQ150F6c)
 
----
+## Tips
 
-#wip
+Prefer simple arrays whenever possible.
+
+Replace pointers with integer indexes.

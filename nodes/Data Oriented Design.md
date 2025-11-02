@@ -12,13 +12,14 @@ ad
 
 ---
 
-_The purpose of all programs, and all parts of those programs, is to transform data from one form to another._
+_The purpose of all programs is to transform data from one form to another._
 
 _Where there is one, there are probably many._
 
-See [[Lessons From Mike Acton]]
-
 See [[AoS vs SoA]]
+
+See [[Lessons From Mike Acton]]
+See [[Lessons From Nic Barker]]
 
 ## Resources
 
@@ -30,6 +31,8 @@ TODO: `14:00`
 [Andrew Kelley - Practical Data Oriented Design](https://www.youtube.com/watch?v=IroPQ150F6c)
 
 ## Tips
+
+#wip
 
 Prefer simple arrays whenever possible.
 

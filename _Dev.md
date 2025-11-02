@@ -52,7 +52,7 @@ Study all the examples in the `raylib-zig` directory.
 - [x] core/input_multitouch.zig
 - [x] core/window_flags.zig
 
-- [ ] audio/module_playing.zig
+- [x] audio/module_playing.zig
 - [ ] audio/music_stream.zig
 - [ ] audio/raw_stream.zig
 - [ ] audio/sound_loading.zig
@@ -123,6 +123,14 @@ The angle is not a problem - even ellipses are very slight.
 Polish is what makes it great.
 
 Figure out controls.
+
+# Technology
+
+Zig: Low level, full control, clean.
+
+Raylib: Effectively native performance for 2D.
+
+- Can rebuild own parts from it in the future by looking at the source.
 
 # Engine Tasklist
 

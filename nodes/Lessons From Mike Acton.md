@@ -7,9 +7,26 @@ context:
 
 # Lessons From Mike Acton
 
-Lessons learned from Mike Acton, primarily by his talk [Mike Acton - Data Oriented Design and C++](https://www.youtube.com/watch?v=rX0ItVEVjHc)
+Lessons learned from Mike Acton
 
 ---
+
+See [Mike Acton - Data Oriented Design and C++](https://www.youtube.com/watch?v=rX0ItVEVjHc)
+See [Mike Acton -  Solving the Right Problems for Engine Programmers](https://www.youtube.com/watch?v=4B00hV3wmMY)
+
+Extremely practical!
+
+**Practice**: You should practice your craft every day.
+
+**Version Serialized Data**: Always version your serialized data by default.
+
+**Model First**: Model the target first however you can before actually building it.
+
+**Multiple By Default**: Most systems will do the same thing multiple times, so design around that.
+
+**Sample Systems**: Create systems that sample your other systems, in order to know what to optimize.
+
+## Quotes
 
 _The purpose of all programs, and all parts of those programs, is to transform data from one form to another._
 

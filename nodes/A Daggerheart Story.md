@@ -5,11 +5,9 @@ context:
   - "[[Daggerheart]]"
 ---
 
-#empty
-
 # A Daggerheart Story
 
-ad
+Story about a learner in a mysterious land.
 
 ---
 
@@ -27,7 +25,7 @@ ad
   "hope_feature": "No Mercy",
   "class_features": ["Attack of Opportunity", "Combat Training"],
 
-  "subclass": "Slayer",
+  "subclass": "Call Of The Slayer",
   "foundation_feature": "Slayer",
 
   "domains": ["Blade", "Bone"],
@@ -36,9 +34,6 @@ ad
   "level": 2,
 
   "proficiency": 2,
-
-  "health": 7,
-  "stress": 7,
 
   "stats": {
     "agility": 3,
@@ -55,11 +50,26 @@ ad
     "loyal": 2
   },
 
-  "evasion": 13,
-  "armor": 3,
-  "damage_thresholds": [8, 15],
+  "health": 7,
+  "stress": 7,
 
-  "items": {
+  "defense": {
+    "evasion": 13,
+    "armor": {
+      "score": 3,
+      "thresholds": [8, 15]
+    }
+  },
+
+  "offense": {
+    "primary": {
+      "trait": "Agility",
+      "range": "Melee",
+      "damage": "d8 d8 +6 +2 +2 physical or magical"
+    }
+  },
+
+  "equipment": {
     "armor": {
       "name": "Leather Armor",
       "thresholds": [6, 13],
@@ -69,7 +79,7 @@ ad
 
     "weapons": {
       "primary": {
-        "name": "Ghostblade Improved Longsword",
+        "name": "Ghostblade Longsword",
         "trait": "Agility",
         "range": "Melee",
         "damage": "d8 +6 physical or magical",
@@ -84,101 +94,109 @@ ad
         "damage": "d8 physical",
         "burden": "One-Handed",
         "feature": "Paired: +2 to primary weapon damage to targets within Melee range"
-      },
-
-      "inventory_weapons": [
-        {
-          "name": "Shortbow",
-          "trait": "Agility",
-          "range": "Far",
-          "damage": "d6 +3 physical",
-          "burden": "Two-Handed",
-          "feature": null
-        },
-        {
-          "name": "Tower Shield",
-          "trait": "Strength",
-          "range": "Melee",
-          "damage": "d6 physical",
-          "burden": "One-Handed",
-          "feature": "Barrier: +2 to Armor Score; -1 to Evasion"
-        }
-      ]
-    },
-
-    "gold": {
-      "handfulls": 1,
-      "bags": 0,
-      "chests": 0
-    },
-
-    "inventory": [
-      {
-        "name": "Longsword",
-        "trait": "Agility",
-        "range": "Melee",
-        "damage": "d8 +3 physical",
-        "burden": "Two-Handed",
-        "feature": null
-      },
-      {
-        "quantity": 2,
-        "name": "Broadsword",
-        "trait": "Agility",
-        "range": "Melee",
-        "damage": "d8 physical",
-        "burden": "One-Handed",
-        "feature": "Reliable: +1 to attack rolls"
-      },
-      {
-        "name": "Torch"
-      },
-      {
-        "quantity": 2,
-        "name": "Basic Supplies"
-      },
-      {
-        "name": "Minor Stamina Potion",
-        "info": "Clear 1d4 Stress."
-      },
-      {
-        "name": "Sharpening Stone"
-      },
-      {
-        "name": "Rope"
-      },
-      {
-        "name": "Broken Crown"
-      },
-      {
-        "name": "Skeleton Key"
-      },
-      {
-        "name": "Minor Stamina Potion Recipe",
-        "info": "As a downtime move, you can use the bone of a creature to craft a Minor Stamina Potion."
-      },
-      {
-        "name": "Vial of Darksmoke Recipe",
-        "info": "As a downtime move, you can mark a Stress to craft a Vial of Darksmoke."
-      },
-      {
-        "name": "Varik Leaves",
-        "info": "You can eat these paired leaves to immediately gain 2 Hope."
-      },
-      {
-        "quantity": 2,
-        "name": "Snap Powder",
-        "info": "Mark a Stress and clear a HP."
-      },
-      {
-        "quantity": 2,
-        "name": "Skull"
-      },
-      {
-        "name": "Faerie Talisman",
-        "info": "Gift from the faeries as a sign of friendship"
       }
-    ]
-  }
+    }
+  },
+
+  "backpack": [
+    {
+      "name": "Shortbow",
+      "trait": "Agility",
+      "range": "Far",
+      "damage": "d6 +3 physical",
+      "burden": "Two-Handed",
+      "feature": null
+    },
+    {
+      "name": "Tower Shield",
+      "trait": "Strength",
+      "range": "Melee",
+      "damage": "d6 physical",
+      "burden": "One-Handed",
+      "feature": "Barrier: +2 to Armor Score; -1 to Evasion"
+    }
+  ],
+
+  "gold": {
+    "handfulls": 1,
+    "bags": 0,
+    "chests": 0
+  },
+
+  "inventory": [
+    {
+      "name": "Faerie Talisman",
+      "info": "Gift from the faeries as a token of friendship."
+    },
+    {
+      "name": "Skeleton Key",
+      "description": "When you use this key to open a locked door, you gain advantage on the Finesse Roll.",
+      "info": "Found near the ancient skeleton throne."
+    },
+
+    {
+      "name": "Broken Crown",
+      "info": "Looted from the remains of one reckless and yet heroic dwarf."
+    },
+    {
+      "name": "Sharpening Stone"
+    },
+
+    {
+      "name": "Longsword",
+      "trait": "Agility",
+      "range": "Melee",
+      "damage": "d8 +3 physical",
+      "burden": "Two-Handed",
+      "feature": null
+    },
+    {
+      "quantity": 2,
+      "name": "Broadsword",
+      "trait": "Agility",
+      "range": "Melee",
+      "damage": "d8 physical",
+      "burden": "One-Handed",
+      "feature": "Reliable: +1 to attack rolls"
+    },
+
+    {
+      "quantity": 2,
+      "name": "Basic Supplies"
+    },
+    {
+      "name": "Torch"
+    },
+    {
+      "name": "Rope"
+    },
+    {
+      "quantity": 2,
+      "name": "Skull"
+    },
+
+    {
+      "name": "Minor Stamina Potion",
+      "description": "Clear 1d4 Stress."
+    },
+    {
+      "name": "Varik Leaves",
+      "description": "You can eat these paired leaves to immediately gain 2 Hope."
+    },
+    {
+      "quantity": 2,
+      "name": "Snap Powder",
+      "description": "Mark a Stress and clear a HP."
+    },
+
+    {
+      "name": "Minor Stamina Potion Recipe",
+      "description": "As a downtime move, you can use the bone of a creature to craft a Minor Stamina Potion."
+    },
+    {
+      "name": "Vial of Darksmoke Recipe",
+      "description": "As a downtime move, you can mark a Stress to craft a Vial of Darksmoke."
+    }
+  ]
 }
 ```

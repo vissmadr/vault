@@ -13,15 +13,17 @@ Error handling in Zig.
 // main.zig
 const std = @import("std");
 
-const somefile = @import("./somefile.zig");
+const worldedit = @import("./worldedit.zig");
 
 pub fn main() void {
-    somefile.main() catch |err| {
-        std.log.err("somefile: {}", .{err});
+    worldedit.main() catch |err| {
+        std.log.err("worldedit: {}", .{err});
+        // Output:
+        // error: worldedit: error.BufferOutOfMemory
     };
 }
 
-// somefile.zig
+// worldedit.zig
 const std = @import("std");
 const log = @import("std").debug.print;
 
@@ -37,8 +39,8 @@ pub fn main() !void {
 
     for (dungeon.m1_floor) |row| {
         for (row) |item| {
-            set.put(item, {}) catch |err| {
-                return err;
+            set.put(item, {}) catch {
+                return error.BufferOutOfMemory;
             };
         }
     }

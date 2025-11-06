@@ -85,3 +85,11 @@ Found out that it's not necessarily an all-in architecture. Things can be refact
 `2025 11 02`
 
 Going back and completing the `zig-raylib` examples.
+
+# Isometric Tilemap
+
+`2025 11 06`
+
+Figuring out how to do the isometric tilemap.
+
+Should probably use Tiled, and then convert the data for the game.

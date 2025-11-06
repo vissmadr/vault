@@ -52,6 +52,8 @@ Polish is what makes it great.
 
 Figure out controls.
 
+Carrion seems low res. Also Celeste, etc.
+
 # Technology
 
 Zig: Low level, full control, clean.
@@ -77,7 +79,7 @@ _Raylib is good as fuck._
 
 # Prorotype Tasklist
 
-- [ ] Isometric tilemap.
+- [ ] Isometric Tilemap.
 - [x] Player movement.
 - [x] Player controls.
 - [ ] Camera follow.

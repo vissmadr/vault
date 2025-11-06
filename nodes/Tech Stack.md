@@ -13,6 +13,8 @@ Personal list of technology expertise.
 
 ## Programming
 
+- [[Zig]]
+
 - [[C (Programming Language)]]
 - [[C++]]
 
@@ -33,7 +35,6 @@ Personal list of technology expertise.
 
 ## Engines
 
-- [[SDL]]
 - [[Raylib]]
 
 - [[Godot]]
@@ -73,8 +74,3 @@ Personal list of technology expertise.
 
 - [[Shell]]
 - [[Bash]]
-
-- [[Neovim]]
-- [[Zoxide]]
-- [[Yazi]]
-- [[btop]]

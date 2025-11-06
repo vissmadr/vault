@@ -7,28 +7,20 @@ context:
 
 # Warrior Philosopher
 
-The concept and aesthetic of
+The concept and aesthetic of warrior-philosopher.
 
 ---
 
 ## History
 
-**Samurai**:
-
-**Ronin**: Masterless samurai, often on a philosophical journey.
-
-**Sōhei**: Type of Japanese warrior.
-
-**Templar**: Monks who took religious and martial vows to protect pilgrims and holy sites.
+**Samurai**
+**Ronin**
+**Sōhei**
+**Templar**
 
 ## Fiction
 
 **Battlemage**
-
-**Warmage**
-
 **Spellsword**
-
 **Jedi**
-
-**Sith**
+**Monk**

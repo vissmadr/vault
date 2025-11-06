@@ -3,6 +3,7 @@ tags:
   - "original"
 context:
   - "[[Daggerheart]]"
+  - "[[Warrior Philosopher]]"
 ---
 
 # A Daggerheart Story
@@ -15,25 +16,39 @@ Story about a learner in a mysterious land.
 {
   "name": "Doni",
 
-  "ancestry": "Human",
-  "ancestry_features": ["High Stamina", "Adaptability"],
+  "ancestry": {
+    "type": "Human",
+    "features": ["High Stamina", "Adaptability"]
+  },
 
-  "community": "Wildborne",
-  "community_feature": "Lightfoot",
+  "community": {
+    "type": "Wildborne",
+    "features": ["Lightfoot"]
+  },
 
-  "class": "Warrior",
-  "hope_feature": "No Mercy",
-  "class_features": ["Attack of Opportunity", "Combat Training"],
+  "class": {
+    "type": "Warrior",
+    "domains": ["Blade", "Bone"],
+    "features": {
+      "hope": "No Mercy",
+      "class": ["Attack of Opportunity", "Combat Training"]
+    },
 
-  "subclass": "Call Of The Slayer",
-  "foundation_feature": "Slayer",
+    "subclass": {
+      "type": "Call Of The Slayer",
+      "features": {
+        "foundation": "Slayer"
+      }
+    }
+  },
 
-  "domains": ["Blade", "Bone"],
   "skills": ["Strategic Approach", "Untouchable", "I See It Coming"],
 
   "level": 2,
-
   "proficiency": 2,
+
+  "health": 7,
+  "stress": 7,
 
   "stats": {
     "agility": 3,
@@ -49,9 +64,6 @@ Story about a learner in a mysterious land.
     "tactician": 2,
     "loyal": 2
   },
-
-  "health": 7,
-  "stress": 7,
 
   "defense": {
     "evasion": 13,

@@ -63,6 +63,7 @@ Personal list of technology expertise.
 ## Art
 
 - [[Aseprite]]
+- [[Tiled]]
 
 ## Operating System
 

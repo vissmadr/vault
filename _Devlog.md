@@ -93,3 +93,11 @@ Going back and completing the `zig-raylib` examples.
 Figuring out how to do the isometric tilemap.
 
 Should probably use Tiled, and then convert the data for the game.
+
+# Isometric Tilemap
+
+`2025 11 07`
+
+Learned how to use Tiled.
+
+Playing around with exporting tilemap data and loading it in Zig.

@@ -101,3 +101,9 @@ Should probably use Tiled, and then convert the data for the game.
 Learned how to use Tiled.
 
 Playing around with exporting tilemap data and loading it in Zig.
+
+# Grid
+
+`2025 11 08`
+
+Got a debug grid working.

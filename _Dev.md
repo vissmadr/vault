@@ -66,12 +66,16 @@ _Raylib is good as fuck._
 
 # Engine Tasklist
 
+- [x] Rectangular Grid
+- [x] Isometric Grid
 - [x] Get a window running.
 - [ ] Print user input.
 - [x] Display an image.
 - [ ] Display a shader.
 - [ ] Open a debug GUI.
-- [ ] Read/write to file.
+- [x] Load assets.
+- [x] Read from a file.
+- [ ] Write to a file.
 - [ ] Make a sound.
 - [ ] Database query.
 - [ ] Profiler setup.

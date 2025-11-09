@@ -17,3 +17,5 @@ Ideas, guidelines, and techniques for software optimization.
 **Create Once**: Create all the data once in the beginning, and then only reuse it. See [[Object Pooling]].
 
 **Local Cache**: Store frequently used data in cache instead of fetching it repeatedly.
+
+**Culling**: Render only what is visible.

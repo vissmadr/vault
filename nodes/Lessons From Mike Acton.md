@@ -7,7 +7,7 @@ context:
 
 # Lessons From Mike Acton
 
-Lessons learned from Mike Acton
+Lessons learned from Mike Acton.
 
 ---
 

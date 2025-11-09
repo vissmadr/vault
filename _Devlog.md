@@ -119,3 +119,9 @@ Imported a 3D model.
 Got a 3D camera working.
 
 Created a GUI for the camera control.
+
+# 3D Files
+
+`2025 11 09`
+
+Researching how 3D works in terms of files and stuff.

@@ -94,7 +94,7 @@ Figuring out how to do the isometric tilemap.
 
 Should probably use Tiled, and then convert the data for the game.
 
-# Isometric Tilemap
+# Tilemap Grid
 
 `2025 11 07`
 
@@ -102,8 +102,20 @@ Learned how to use Tiled.
 
 Playing around with exporting tilemap data and loading it in Zig.
 
-# Grid
+Got a debug grid working, both rectangular and isometric.
+
+# Perspective
 
 `2025 11 08`
 
-Got a debug grid working.
+But what if I try 3D?
+
+Imported a 3D model.
+
+# Camera
+
+`2025 11 09`
+
+Got a 3D camera working.
+
+Created a GUI for the camera control.

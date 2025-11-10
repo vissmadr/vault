@@ -125,3 +125,7 @@ Created a GUI for the camera control.
 `2025 11 09`
 
 Researching how 3D works in terms of files and stuff.
+
+Managed to import a 3D model.
+
+Struggling with character animations.

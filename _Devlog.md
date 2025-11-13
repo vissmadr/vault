@@ -129,3 +129,19 @@ Researching how 3D works in terms of files and stuff.
 Managed to import a 3D model.
 
 Struggling with character animations.
+
+# Graphics Decision
+
+`2025 11 13`
+
+Played around with graphics, 3D models, animations, Blender, talked to developers...
+
+I needed a decision between 2D vs 3D, as both have their own reasonable pros & cons.
+
+I've decided on 2D.
+
+Now, time to decide between standard and isometric.
+
+2D can really look good and sharp. Especially for top-down.
+
+Experimenting with 3D was a good experience nonetheless.

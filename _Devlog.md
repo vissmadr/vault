@@ -155,3 +155,15 @@ Loaded spritesheets and setup the player render.
 Switching from `.png` to `.dds` format drastically improved load times.
 
 Need to remember that `.dds`, although extremely unlikely, may not be supported on all platforms. Need to test targets.
+
+About the graphics: Looking at other games, it seems like it's all about polish. Even low-quality assets can look really good in a complete game.
+
+For advanced character spritesheets (probably only the player and bosses, if at all), there is a technique to go from 3D to 2D. Use Blender or something to model and animate 3D characters, and with an orthographic camera record in 4, 8, or 16 directions by rotating the model. Figure out how to capture images. Assemble to a spritesheet. Now it's 2D. It can also have a consistent light source in Blender.
+
+Improved the asset loader structure.
+
+# Grid
+
+`2025 11 15`
+
+Going back to playing around with an isometric grid.

@@ -11,10 +11,14 @@
             "id": "75f225d9d06153ee",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "nodes/Game Feel.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Game Feel"
             }
           }
         ]
@@ -149,6 +153,7 @@
   },
   "active": "75f225d9d06153ee",
   "lastOpenFiles": [
+    "nodes/Game Feel.md~",
     "nodes/Programming.md",
     "nodes/A Daggerheart Story.md",
     "nodes/A Daggerheart Story.md~",
@@ -184,7 +189,6 @@
     "nodes/Zig Data Types.md",
     "nodes/Comment (Programming).md",
     "nodes/Code Comment.md",
-    "nodes/Zig Assignment.md",
     "Untitled.canvas",
     "las.png",
     "Argus.canvas",

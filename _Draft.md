@@ -5,3 +5,4 @@ TODO: `Ctrl a` in insert?
 **Mixamo - Blender - Raylib - GLTF**: https://www.youtube.com/watch?v=MYaIodlxHrk
 
 Learn from ISOCORE
+Learn from 9kings

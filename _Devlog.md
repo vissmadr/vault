@@ -145,3 +145,13 @@ Now, time to decide between standard and isometric.
 2D can really look good and sharp. Especially for top-down.
 
 Experimenting with 3D was a good experience nonetheless.
+
+# Player Spritesheets
+
+`2025 11 15`
+
+Loaded spritesheets and setup the player render.
+
+Switching from `.png` to `.dds` format drastically improved load times.
+
+Need to remember that `.dds`, although extremely unlikely, may not be supported on all platforms. Need to test targets.

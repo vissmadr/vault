@@ -1,11 +1,12 @@
 ---
 context:
   - "[[Computer Graphics]]"
+  - "[[Precomputation]]"
 ---
 
 # Mipmap
 
-Series of precomputed, optimized, and progressively smaller versions of a [[Texture]] used in [[Computer Graphics]].
+Series of precomputed, optimized, and progressively smaller versions of a [[Texture]].
 
 ---
 

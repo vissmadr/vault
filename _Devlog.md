@@ -167,3 +167,7 @@ Improved the asset loader structure.
 `2025 11 15`
 
 Going back to playing around with an isometric grid.
+
+Did a huge fucking refactor of everything btw lmao.
+
+Still need to figure out isometric, normal, or hybrid.

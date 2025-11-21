@@ -8,3 +8,5 @@ Learn from ISOCORE
 Learn from 9kings
 Learn from Stoneshard
 Learn from Death Must Die (!)
+
+**rTexPacker**: https://raylibtech.itch.io/rtexpacker

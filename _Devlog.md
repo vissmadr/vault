@@ -171,3 +171,15 @@ Going back to playing around with an isometric grid.
 Did a huge fucking refactor of everything btw lmao.
 
 Still need to figure out isometric, normal, or hybrid.
+
+# Isometric Grid
+
+`2025 11 18`
+
+Decided to stick to 2D isometric.
+
+Grid looks good.
+
+Had a design problem around the movement. The grid is squashed 2:1 width:height, so the `y`-axis movement should technically be halved to achieve 'correct' movement on the grid. But it feels kinda shit and slow when you move like this. Sticking to the same speed in all directions feels better, even if it's not technically the 'correct' isometric behavior. Have to test this further.
+
+# State Machine

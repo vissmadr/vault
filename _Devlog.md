@@ -182,4 +182,28 @@ Grid looks good.
 
 Had a design problem around the movement. The grid is squashed 2:1 width:height, so the `y`-axis movement should technically be halved to achieve 'correct' movement on the grid. But it feels kinda shit and slow when you move like this. Sticking to the same speed in all directions feels better, even if it's not technically the 'correct' isometric behavior. Have to test this further.
 
-# State Machine
+# Player
+
+`2025 11 20`
+
+Worked on the player state machine.
+
+Decoupled animations.
+
+Decoupled movement.
+
+# Player Movement
+
+`2025 11 22`
+
+Went heavy on the player movement.
+
+Made a clean and configurable movement component.
+
+Struggled with the classic 'drag' approach, where one would scale the velocity by a scalar number each frame. It's harder to get this working properly without being framerate dependent. Another problem is that I would like to have exact movement passed through config. The way it works now is with a flag that marks whether the velocity is currently being accelerated or not. If it is, it applies a constant scalar `acceleration` velocity. If not, it applies a constant scalar `deceleration` velocity.
+
+Also split the movement into different pieces for each type of movement. Currently there are:
+
+- `selfMovement`: the manual movement of the player.
+- `pushMovement`: external movement applied to the player.
+- `attackStepMovement`: movement applied when the player uses an attack.

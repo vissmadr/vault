@@ -9,4 +9,8 @@ Learn from 9kings
 Learn from Stoneshard
 Learn from Death Must Die (!)
 
+Amit Patel RPG probability
+
 **rTexPacker**: https://raylibtech.itch.io/rtexpacker
+
+**3D Animation Pack**: https://quaternius.itch.io/universal-animation-library

@@ -11,14 +11,10 @@
             "id": "75f225d9d06153ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/Game Feel.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Game Feel"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -153,6 +149,7 @@
   },
   "active": "75f225d9d06153ee",
   "lastOpenFiles": [
+    "nodes/Game Feel.md",
     "nodes/Game Feel.md~",
     "nodes/Programming.md",
     "nodes/A Daggerheart Story.md",
@@ -177,7 +174,6 @@
     "nodes/Lessons From Casey Muratori.md",
     "_Dev.md~",
     "_Ideas.md",
-    "_Draft.md~",
     "nodes/Zig Integer.md",
     "nodes/Zig Values.md",
     "nodes/Vim Motions.md",

@@ -1,3 +1,5 @@
+Spellblade - Movement WHILE attacking.
+
 TODO: `Ctrl a` in insert?
 
 **Raylib Performance**: https://youtu.be/aRTi7D4V0Yg
@@ -8,6 +10,7 @@ Learn from ISOCORE
 Learn from 9kings
 Learn from Stoneshard
 Learn from Death Must Die (!)
+Check out Drova: Forsaken Kin
 
 Amit Patel RPG probability
 

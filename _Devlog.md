@@ -207,3 +207,15 @@ Also split the movement into different pieces for each type of movement. Current
 - `selfMovement`: the manual movement of the player.
 - `pushMovement`: external movement applied to the player.
 - `attackStepMovement`: movement applied when the player uses an attack.
+
+# Spells
+
+`2025 11 24`
+
+Created the spell combination keys.
+
+There are the 3 spell keys, as well as the attack key.
+
+The combinations are 9 spells and 3 attackSpells in total.
+
+Spent some time refactoring code and also thinking carefully about the input. It's important to catch the correct keys when players get really fast.

@@ -11,36 +11,17 @@ Active player abilities.
 
 ---
 
-## `QQ`: Offense-Front
+**OffenseBolt**: Projectile forward.
+**OffenseAOE**: Damage in AOE around the player.
+**OffenseGround**: Damage that remains on the ground.
+**OffenseMeleeBuff**: Special slash attack that enchants the blade afterwards.
 
-## `QW`: Offense-Bolt
+**BuffOffense**: Immolation aura maybe.
+**Shield**: Instant deflection.
+**BuffDefense**: Defensive armor aura.
+**Stun**: Melee stun attack.
 
-- **Fire**: Fireball.
-- **Lightning**: Lightning Bolt.
-- **Earth**: Boulder Toss.
-- **Chaos**: Chaos Bolt.
-- **Frost**: Frostbolt/Ice Shards.
-
-## `QE`: Offense-AOE
-
-## `WQ`: Enchant
-
-- **Fire**: Stacking burn damage.
-- **Lightning**: Stormclaw.
-- **Wind**: Faster.
-- **Chaos**: RNG.
-- **Earth**: Poison.
-
-## `WW`: Block
-
-## `WE`: Aura
-
-- **Fire**: Flame guard.
-
-## `EQ`: Totem
-
-Basically any on-ground ward effects.
-
-## `EW`: Sense/Heal/Debuff (?)
-
-## `EE`: Dash
+**SummonOffense**: Serpent ward.
+**SummonBuff**: Totem buff.
+**Dash**: Dash with a sprint afterwards.
+**Push**: Push maybe?

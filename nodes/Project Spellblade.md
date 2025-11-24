@@ -26,15 +26,3 @@ Designing a hack & slash melee mage game.
 [[Project Spellblade - Enemies]]
 [[Project Spellblade - Spells]]
 [[Project Spellblade - Input]]
-
-## Druid and Others
-
-Consider multiple classes or games.
-
-Druid with the QWE mechanics morphing into other forms. The A applies depending on form.
-
-Ranged spellcaster with the QWE ones and shoot on A maybe.
-
-Spellblade with QWE for spells and melee on A with heavy combos.
-
-Warrior with QWE for attacks each, and QWE mechanics for attack/movement combos.

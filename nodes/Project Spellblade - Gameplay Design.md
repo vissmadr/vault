@@ -15,8 +15,9 @@ Design ideas related to gameplay.
 
 **Flow State**: One of the most difficult yet rewarding gameplay design goals is to enable the player achieve flow state in game.
 
-- The player should be on the edge of challenge, where the game is difficult by default, but not unplayable.
-- Smooth control is crucial. The gap between the mind and action should be as small as possible.
+**Challenge**: The player should be on the edge of challenge, where the game is difficult by default, but not unplayable.
+
+**Control**: Smooth control is crucial. The gap between mind and action should be as small as possible.
 
 **Freedom**: The player is the master of the game and should be free to choose his own playstyle.
 
@@ -24,7 +25,7 @@ Design ideas related to gameplay.
 
 **Interactions**: Spells and effects must interact with one another, leading to devastating combinations.
 
-- This should be the incentive of the player to constantly switch spells instead of spamming the same thing over and over again.
+**Switch**: There should be an incentive for the player to constantly switch abilities instead of spamming the same thing over and over again.
 
 **Reward Skill**: The potential skill of the player should be the most overpowered mechanic.
 

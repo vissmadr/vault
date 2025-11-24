@@ -29,7 +29,11 @@ EQ, EW, EE,
 Qa, Wa, Ea
 ```
 
-Currently thinking about `9`.
+| Dilemma              | 9    | 12   |
+| -------------------- | ---- | ---- |
+| Spell Count          | Less | More |
+| Cast while attacking | Yes  | No   |
+| Cancel single orb    | No   | No   |
 
 ### Unlocks
 
@@ -53,7 +57,7 @@ Default ones can also be changed from talents, but still remain level 1.
 
 Maybe talents can also affect the weight of randomness of some elements/abilities.
 
-During gameplay, random unlocks for each ability, increasing it's level. Kinda Hades-like.
+During gameplay, random unlocks for each ability, increasing it level. Kinda Hades-like.
 
 For example Offsense-Bolt level 1 by default, with Magic Bolt. Then in game, get the choice of level 2 Fireball or level 2 Chaos Bolt, or even level 3 Chaos Bolt.
 
@@ -67,4 +71,4 @@ Melee range attack.
 
 - Being able to hold the button down in addition to spamming it is probably a good idea. Should be toggled from settings.
 
-**Effect**: Attacks interact with the effects of spells.
+**Spell Synergy**: Attacks interact with the effects of spells.

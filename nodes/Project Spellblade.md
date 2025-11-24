@@ -23,6 +23,5 @@ Designing a hack & slash melee mage game.
 [[Project Spellblade - Gameplay Design]]
 [[Project Spellblade - Gameplay UI]]
 [[Project Spellblade - Mechanics]]
-[[Project Spellblade - Enemies]]
 [[Project Spellblade - Spells]]
 [[Project Spellblade - Input]]

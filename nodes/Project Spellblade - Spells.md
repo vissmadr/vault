@@ -11,6 +11,36 @@ Active player abilities.
 
 ---
 
+## Design 3
+
+`JJ`: **OffenseFront** → **Enchant**
+`JK`: **OffenseAOE** → **Immolation**
+`JL`: **OffenseBolt** → null
+
+`KJ`: **Stun** → null
+`KK`: **Block** → **Shield**: The block acts as a counterspell, rewarding (probably with mana) upon timed blocks.
+`KL`: **Heal** → **Regen**
+
+`LJ`: **Ward** → null
+`LK`: **Totem** → null
+`LL`: **Dash** → **Sprint**
+
+## Design 2
+
+`JJ`: OffenseFront → null
+`JK`: OffenseAOE → null
+`JL`: OffenseBolt → null
+
+`KJ`: Stun → null
+`KK`: **Block** → **Shield**
+`KL`: BuffDefense → null
+
+`LJ`: SummonOffense → null
+`LK`: SummonBuff → null
+`LL`: **Dash** → **Sprint**
+
+## Design 1
+
 **OffenseBolt**: Projectile forward.
 **OffenseAOE**: Damage in AOE around the player.
 **OffenseGround**: Damage that remains on the ground.

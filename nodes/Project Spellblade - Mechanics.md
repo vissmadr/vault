@@ -29,7 +29,7 @@ EQ, EW, EE,
 Qa, Wa, Ea
 ```
 
-| Dilemma              | 9    | 12   |
+| Dilemma              | `9`  | `12` |
 | -------------------- | ---- | ---- |
 | Spell Count          | Less | More |
 | Cast while attacking | Yes  | No   |
@@ -69,6 +69,6 @@ Melee range attack.
 
 **Spam**: Repeatable with no cooldown. The attack rate should be relatively fast, ever increasing.
 
-- Being able to hold the button down in addition to spamming it is probably a good idea. Should be toggled from settings.
+- Being able to hold the button down in addition to spamming it is probably a good idea. Could be toggled from settings.
 
 **Spell Synergy**: Attacks interact with the effects of spells.

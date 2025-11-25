@@ -11,7 +11,9 @@ The fundamental gameplay mechanics.
 
 ---
 
-Roguelike influences such as Hades.
+**Attack**: Core free and spammable.
+**Orb Spells**: Can use combo points.
+Combo points
 
 ---
 

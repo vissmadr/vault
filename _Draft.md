@@ -1,3 +1,9 @@
+TODO: https://www.method.gg/fellowship/heroes/meiko/playstyle-and-rotation
+
+Fuck Y/D and distractions!
+
+---
+
 Spellblade - Movement WHILE attacking.
 
 TODO: `Ctrl a` in insert?

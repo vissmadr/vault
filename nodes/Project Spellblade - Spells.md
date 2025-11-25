@@ -13,17 +13,23 @@ Active player abilities.
 
 ## Design 3
 
-`JJ`: **OffenseFront** → **Enchant**
-`JK`: **OffenseAOE** → **Immolation**
-`JL`: **OffenseBolt** → null
+Spells have no cooldown.
 
-`KJ`: **Stun** → null
-`KK`: **Block** → **Shield**: The block acts as a counterspell, rewarding (probably with mana) upon timed blocks.
-`KL`: **Heal** → **Regen**
+**CP**: Spells can use combo points (CP) to increase potency.
 
-`LJ`: **Ward** → null
-`LK`: **Totem** → null
-`LL`: **Dash** → **Sprint**
+**Max CP**: The player can stack up to `5` combo points.
+
+| Orbs | Active               | CP Dump | CP Effect | Details             |
+| ---- | -------------------- | ------- | --------- | ------------------- |
+| JJ   | FlameSlash & Enchant | all     | +duration | .                   |
+| JK   | OffenseAOE           | all     | +power    | +CP per target hit  |
+| JL   | OffenseBolt          | all     | +power    | +CP per target hit  |
+| KJ   | Stun                 | .       | .         | .                   |
+| KK   | Block & Shield       | .       | .         | +CP per hit blocked |
+| KL   | Heal & Regen         | all     | +duration | .                   |
+| LJ   | Shukuchi             | .       | .         | .                   |
+| LK   | SlowAura             | .       | .         | .                   |
+| LL   | Dash & Sprint        | .       | .         | .                   |
 
 ## Design 2
 

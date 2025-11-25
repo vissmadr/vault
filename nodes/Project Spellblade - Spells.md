@@ -19,45 +19,19 @@ Spells have no cooldown.
 
 **Max CP**: The player can stack up to `5` combo points.
 
-| Orbs | Active               | CP Dump | CP Effect | Details             |
-| ---- | -------------------- | ------- | --------- | ------------------- |
-| JJ   | FlameSlash & Enchant | all     | +duration | .                   |
-| JK   | OffenseAOE           | all     | +power    | +CP per target hit  |
-| JL   | OffenseBolt          | all     | +power    | +CP per target hit  |
-| KJ   | Stun                 | .       | .         | .                   |
-| KK   | Block & Shield       | .       | .         | +CP per hit blocked |
-| KL   | Heal & Regen         | all     | +duration | .                   |
-| LJ   | Shukuchi             | .       | .         | .                   |
-| LK   | SlowAura             | .       | .         | .                   |
-| LL   | Dash & Sprint        | .       | .         | .                   |
+| Orbs | Active        | CP Dump | CP Effect    | CP Gain         | Details                               | Bonuses                               |
+| ---- | ------------- | ------- | ------------ | --------------- | ------------------------------------- | ------------------------------------- |
+| JJ   | MeleeStun     | all     | +power +stun | .               |                                       |                                       |
+| JK   | DamageAOE     | all     | +power +area | per target hit  |                                       |                                       |
+| JL   | Bolt          | all     | +power +area | per target hit  |                                       |                                       |
+| KJ   | Enchant       | all     | +duration    | .               |                                       | Attacks can extend duration slightly. |
+| KK   | Block         | .       | .            | per hit blocked |                                       |                                       |
+| KL   | Regeneration  | all     | +duration    | .               | Getting hit reduces duration greatly. |                                       |
+| LJ   | DashStrike(?) | .       | .            | .               |                                       |                                       |
+| LK   | .             | .       | .            | .               |                                       |                                       |
+| LL   | Dash & Sprint | .       | .            | .               |                                       |                                       |
 
-## Design 2
+**Synergies**: Spells can have synergies between eachother:
 
-`JJ`: OffenseFront → null
-`JK`: OffenseAOE → null
-`JL`: OffenseBolt → null
-
-`KJ`: Stun → null
-`KK`: **Block** → **Shield**
-`KL`: BuffDefense → null
-
-`LJ`: SummonOffense → null
-`LK`: SummonBuff → null
-`LL`: **Dash** → **Sprint**
-
-## Design 1
-
-**OffenseBolt**: Projectile forward.
-**OffenseAOE**: Damage in AOE around the player.
-**OffenseGround**: Damage that remains on the ground.
-**OffenseMeleeBuff**: Special slash attack that enchants the blade afterwards.
-
-**BuffOffense**: Immolation aura maybe.
-**Shield**: Instant deflection.
-**BuffDefense**: Defensive armor aura.
-**Stun**: Melee stun attack.
-
-**SummonOffense**: Serpent ward.
-**SummonBuff**: Totem buff.
-**Dash**: Dash with a sprint afterwards.
-**Push**: Push maybe?
+- Hitting a Bolt with a MeleeStun.
+- Dash into Bolt makes it fly faster.

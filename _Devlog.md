@@ -219,3 +219,9 @@ There are the 3 spell keys, as well as the attack key.
 The combinations are 9 spells and 3 attackSpells in total.
 
 Spent some time refactoring code and also thinking carefully about the input. It's important to catch the correct keys when players get really fast.
+
+# Spell Design
+
+`2025 11 25`
+
+Parabol.

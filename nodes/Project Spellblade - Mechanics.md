@@ -11,66 +11,35 @@ The fundamental gameplay mechanics.
 
 ---
 
-**Attack**: Core free and spammable.
-**Orb Spells**: Can use combo points.
-Combo points
+## Actions
 
----
+**`Q`: Attack**: Melee swing. Instant hit at time `0`.
+**`W`: Dash**: Quick dash.
+**`E`: Toggle**: Special mode toggle.
 
-## Abilities
+While Special is toggled:
 
-Either `9` or `12` abilities.
+**`Q`: Special1**
+**`W`: Special2**
+**`E`: Special3**
 
-With `3` orbs and `2` permutations, there are `9` combinations. Can add additional `3` for single orb-attack combination, for a total of `12`.
+States:
 
-```
-QQ, QW, QE,
-WQ, WW, WE,
-EQ, EW, EE,
+- Free
+- Dashing
+- Casting
+- Stunned
 
-Qa, Wa, Ea
-```
+## Animations
 
-| Dilemma              | `9`  | `12` |
-| -------------------- | ---- | ---- |
-| Spell Count          | Less | More |
-| Cast while attacking | Yes  | No   |
-| Cancel single orb    | No   | No   |
+Animations should only follow the logic.
 
-### Unlocks
+States:
 
-Generic abilities, each in one of the `9` slots.
-
-Something like:
-
-- `QQ`: Offense-Front
-- `QW`: Offense-Bolt
-- `QE`: Offense-AOE
-- `WQ`: Enchant
-- `WW`: Block
-- `WE`: Aura
-- `EQ`: Totem
-- `EW`: Sense/Heal/Debuff (?)
-- `EE`: Dash
-
-With base default abilities at level 1.
-
-Default ones can also be changed from talents, but still remain level 1.
-
-Maybe talents can also affect the weight of randomness of some elements/abilities.
-
-During gameplay, random unlocks for each ability, increasing it level. Kinda Hades-like.
-
-For example Offsense-Bolt level 1 by default, with Magic Bolt. Then in game, get the choice of level 2 Fireball or level 2 Chaos Bolt, or even level 3 Chaos Bolt.
-
-That way, the same key combos apply to the same mechanics.
-
-## Attack
-
-Melee range attack.
-
-**Spam**: Repeatable with no cooldown. The attack rate should be relatively fast, ever increasing.
-
-- Being able to hold the button down in addition to spamming it is probably a good idea. Could be toggled from settings.
-
-**Spell Synergy**: Attacks interact with the effects of spells.
+- Idling
+- Running
+- Dashing
+- Attacking
+- DashAttacking
+- Casting
+- Stunned

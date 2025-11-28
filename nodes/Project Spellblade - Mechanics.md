@@ -23,11 +23,12 @@ While Special is toggled:
 **`W`: Special2**
 **`E`: Special3**
 
-States:
+## State Machine
 
 - Free
 - Dashing
-- Stunned
+- AttackSetup
+- CastSetup
 
 ## Mechanics
 
@@ -62,3 +63,11 @@ States:
 - DashAttacking
 - Casting
 - Stunned
+
+## Attack
+
+1. Extremely short window of setup.
+
+- During that short window, dashing will result in DashAttack.
+
+2. Hitbox hits. Sword effect spawns around character. Animation plays the 'ending' part.

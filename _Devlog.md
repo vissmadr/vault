@@ -224,4 +224,20 @@ Spent some time refactoring code and also thinking carefully about the input. It
 
 `2025 11 25`
 
-Parabol.
+Bruh.
+
+# Spell Design
+
+`2025 11 27`
+
+Finally `3` buttons for: Attack, Dash, SpecialMode
+
+# Overhaul
+
+`2025 11 28`
+
+Simpler and sharper movement.
+
+No velocity, no acceleration.
+
+If it needs to look smooth - animations only.

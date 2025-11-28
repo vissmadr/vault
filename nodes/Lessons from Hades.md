@@ -9,7 +9,7 @@ Lessons learned from Hades.
 
 ---
 
-## Mechanics
+## Movement
 
 **Movement**
 Instant 8-directional movement.
@@ -24,17 +24,23 @@ For example 180° from West to East plays a frame of South facing, and then East
 
 _Movement itself is instant. The *stopping* animation is what makes the illusion._
 
-**Attack**
+## Attack
+
 Has an extremely small (1 frame) window of setup before the hit.
 (Animation) Single frame of setup, then the completed swing.
 
 _The hit swing happens almost instantly, and the *post-swing* animation follows afterwards._
 
-**DashAttack**
+The sword effect is "attached" to the character I think.
+So that it can remain for 1-2 frames even when the animation is now different - dashing.
+
+## Dash Attack
+
 Single frame to Dash while in Attack setup.
 Or Attack while Dash.
 
-**Cast**
+## Cast
+
 Can dash while casting at any time, not preventing the cast.
 Very early attack overwrites the cast.
 Late attack waits for the cast to complete.

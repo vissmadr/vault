@@ -13,7 +13,7 @@ The fundamental gameplay mechanics.
 
 ## Actions
 
-**`Q`: Attack**: Melee swing. Instant hit at time `0`.
+**`Q`: Attack**: Melee swing. Instant hit at `0`.
 **`W`: Dash**: Quick dash.
 **`E`: Toggle**: Special mode toggle.
 
@@ -27,8 +27,27 @@ States:
 
 - Free
 - Dashing
-- Casting
 - Stunned
+
+## Mechanics
+
+Dash > Attack & Cast > Move
+
+**Movement**
+Instant 8-directional movement.
+(Animation) Follows the movement.
+Horizontal and vertical are linear.
+Diagonal follows the isometric grid.
+
+_Movement itself is instant. The animation is what makes the illusion._
+
+**Attack**
+Has a VERY small window before the hit.
+(Animation) Single frame of setup, then the completed swing.
+
+**DashAttack**
+Single frame to Dash while in Attack setup.
+Or Attack while Dash.
 
 ## Animations
 

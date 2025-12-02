@@ -241,3 +241,34 @@ Simpler and sharper movement.
 No velocity, no acceleration.
 
 If it needs to look smooth - animations only.
+
+# Overhaul complete
+
+`2025 12 02`
+
+Split the player into `logic`, `render`, and `stats` files.
+
+Mechanics:
+
+```
+Attack
+  Instant action.
+  Attack `duration` and `cooldown` are the same.
+  Slows player movement while in attack state.
+  Can be overwritten by dash.
+
+Dash
+  Instant action.
+  Player is locked while dashing.
+  Both facing and movement directions remain locked while dashing.
+  New directions are set after the dash is completed.
+
+Cast
+  Instant action.
+  Slows player movement while in cast state.
+  Can be overwriten by dash.
+```
+
+The dash now has charges.
+
+Fixed the player debug renderer.

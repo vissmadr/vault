@@ -272,3 +272,11 @@ Cast
 The dash now has charges.
 
 Fixed the player debug renderer.
+
+# GUI
+
+`2025 12 05`
+
+Created ability icons.
+
+Created player stats debug.

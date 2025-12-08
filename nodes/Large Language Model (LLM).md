@@ -2,6 +2,7 @@
 aliases:
   - LLM
 context:
+  - "[[Artificial Intelligence]]"
 ---
 
 #empty

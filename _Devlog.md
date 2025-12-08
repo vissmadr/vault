@@ -280,3 +280,21 @@ Fixed the player debug renderer.
 Created ability icons.
 
 Created player stats debug.
+
+# Collisions
+
+`2025 12 06`
+
+Created collisions with walls in rectangular space.
+
+# Isometric
+
+`2025 12 07`
+
+Separated the rectangle logic from the isometric render.
+
+**Direction**: Had to rotate the movement direction `45°` counterclockwise so that WASD matches the movement in the isometric render.
+
+**Anti Stuck System**: Created an AntiStuckSystem that checks if the player is colliding with anything or is outside of the map once in a while, and if so teleports him back to a safe position.
+
+**Isometric Shift**: Implemented switching between rectangle (logical) space and isometric (render) space.

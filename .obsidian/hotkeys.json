@@ -6,7 +6,7 @@
       "modifiers": [
         "Alt"
       ],
-      "key": "Q"
+      "key": "A"
     }
   ],
   "file-explorer:new-file-in-new-pane": [],
@@ -41,7 +41,7 @@
       "modifiers": [
         "Alt"
       ],
-      "key": "E"
+      "key": "Q"
     }
   ],
   "editor:save-file": [],
@@ -100,14 +100,6 @@
         "Alt"
       ],
       "key": "G"
-    }
-  ],
-  "file-explorer:reveal-active-file": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "A"
     }
   ],
   "app:open-vault": [

@@ -1,6 +1,6 @@
 ---
 context:
-- "[[Philosophy]]"
+  - "[[Philosophy]]"
 ---
 
 # Philosophy of Mind

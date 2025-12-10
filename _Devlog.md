@@ -298,3 +298,21 @@ Separated the rectangle logic from the isometric render.
 **Anti Stuck System**: Created an AntiStuckSystem that checks if the player is colliding with anything or is outside of the map once in a while, and if so teleports him back to a safe position.
 
 **Isometric Shift**: Implemented switching between rectangle (logical) space and isometric (render) space.
+
+# Collision Architecture
+
+`2025 12 10`
+
+Trying to figure out how to design some data-oriented-ish system for projectiles, collisions, targets, and so on.
+
+For example, if I have a bunch of enemies in the object pool, most of them inactive, how should I design the logic to have a collider check against the active enemies?
+
+There were 3 main options:
+
+1. **Linear Search**: Just iterate the array of `enemies` and `if(!enemy.isActive) continue;`. Basically a linear search.
+2. **ArrayList Swapping**: Have separate data structures, one for active and one for inactive enemies, swapping the enemies between those structures.
+3. **Spatial Partitioning**: Store enemies in some form of spatial partitioning, which indirectly solves the problem of 'active/inactive' enemies, since inactive ones wouldn't be in the space.
+
+Think I'll go for the spatial partitioning approach, as in the other cases I would still need to implement spatial partitioning anyways.
+
+The only downside, even though I cannot really call a solid argument against it, is that it feels weird that I rely on some system, like spatial partitioning, to kiiinda indirectly solve a problem. Since I don't explicitly have an awareness of `active` or `inactive` enemies.

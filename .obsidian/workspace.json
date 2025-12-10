@@ -196,6 +196,7 @@
   },
   "active": "c12470b34ff32f0b",
   "lastOpenFiles": [
+    "_System.md~",
     "nodes/Remote Procedure Call (RPC).md~",
     "nodes/Remote Procedure Call (RPC).md",
     "nodes/Deep Q-Network (DQN).md~",
@@ -220,7 +221,6 @@
     "nodes/Game Feel.md~",
     "nodes/Programming.md",
     "nodes/A Daggerheart Story.md",
-    "nodes/A Daggerheart Story.md~",
     "nodes/Tech Stack.md",
     "nodes/Untitled.md",
     "nodes/Adaptive Volatility.md",

@@ -125,6 +125,10 @@ _Manipulation mode where input keys are used as actions._
 
 `gi`: Go to last insert.
 
+## Replace Mode
+
+`Shift R`: Enter replace mode.
+
 ## Search
 
 _Search for patterns in the current file._

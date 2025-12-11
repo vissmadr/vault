@@ -1,4 +1,7 @@
 # Quadtree
+
 #empty
 
-Recursion
+[[Data Structure]]
+[[Spatial Partitioning]]
+[[Recursion]]

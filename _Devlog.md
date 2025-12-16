@@ -316,3 +316,7 @@ There were 3 main options:
 Think I'll go for the spatial partitioning approach, as in the other cases I would still need to implement spatial partitioning anyways.
 
 The only downside, even though I cannot really call a solid argument against it, is that it feels weird that I rely on some system, like spatial partitioning, to kiiinda indirectly solve a problem. Since I don't explicitly have an awareness of `active` or `inactive` enemies.
+
+# Sectors
+
+`2025 12 12`

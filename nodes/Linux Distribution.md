@@ -13,6 +13,6 @@ Complete [[Operating System]] built around the [[Linux]] kernel, bundled with [[
 
 Examples:
 
-- [[Arch Linux]]
+- [[Arch]]
 - [[Ubuntu]]
 - [[Debian]]

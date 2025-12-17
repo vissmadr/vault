@@ -7,7 +7,7 @@ context:
 
 # Pacman (Package Manager)
 
-The package manager for [[Arch Linux]] and its derivatives.
+The package manager for [[Arch]] and its derivatives.
 
 ---
 

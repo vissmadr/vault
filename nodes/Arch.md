@@ -1,19 +1,17 @@
 ---
-aliases:
-  - Arch
 context:
   - "[[Linux Distribution]]"
 ---
 
-# Arch Linux
+# Arch
 
-Lightweight [[Linux Distribution]] known for its simplicity and minimalism.
+Lightweight linux distribution known for its simplicity and minimalism.
 
 ---
 
 **Wiki**: The [Arch Wiki](https://archlinux.org) is an extensive community-built documentation.
 
-**Elitism**: Aimed at advanced users wanting to reach full control and extreme performance.
+**Control**: Aimed at advanced users wanting to reach full control and extreme performance.
 
 **Customization**: The minimalistic DIY approach enables the user to configure from the ground up, customizing everything along the way.
 

@@ -11,7 +11,7 @@ Personal workflow stack.
 
 ## Major
 
-[[Arch Linux]]
+[[Arch]]
 
 [[Sway]]
 

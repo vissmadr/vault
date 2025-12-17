@@ -320,3 +320,15 @@ The only downside, even though I cannot really call a solid argument against it,
 # Sectors
 
 `2025 12 12`
+
+# Pathfinding
+
+`2025 12 13`
+
+Implemented A\* pathfinding from enemy to player.
+
+Was waaay more difficult with Zig.
+
+Now I'm thinking to remove A\* and instead use a single BFS from the player which every enemy can re-use.
+
+Chris gave me the idea to pre-bake the entire map this way.

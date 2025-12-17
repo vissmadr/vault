@@ -69,7 +69,7 @@ Personal list of technology expertise.
 
 - [[Linux]]
 - [[Ubuntu]]
-- [[Arch Linux]]
+- [[Arch]]
 
 ## CLI
 

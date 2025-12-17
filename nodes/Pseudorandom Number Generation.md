@@ -5,8 +5,8 @@ context:
   - "[[Random Generation]]"
 ---
 
-# Random Number Generation
+# Pseudorandom Number Generation
 
-(RNG)
+(PRNG)
 
 The procedural random generation of numbers.

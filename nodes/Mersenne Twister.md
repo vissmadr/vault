@@ -1,6 +1,6 @@
 ---
 context:
-  - "[[Random Number Generation]]"
+  - "[[Pseudorandom Number Generation]]"
   - "[[Algorithm]]"
 ---
 

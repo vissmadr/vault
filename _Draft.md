@@ -207,6 +207,7 @@ TODO: `Ctrl a` in insert?
 
 **Mixamo - Blender - Raylib - GLTF**: https://www.youtube.com/watch?v=MYaIodlxHrk
 
+Learn from Galactic Assault Squad [GAS](https://gasgame.net/)
 Learn from ISOCORE
 Learn from 9kings
 Learn from Stoneshard

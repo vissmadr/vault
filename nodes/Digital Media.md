@@ -1,6 +1,7 @@
 ---
 context:
   - "[[Means of Communication]]"
+  - "[[Digital Technology]]"
 ---
 
 # Digital Media

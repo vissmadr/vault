@@ -1,10 +1,10 @@
 ---
 context:
-  - "[[Programming]]"
+  - "[[Digital Art]]"
 ---
 
 # Creative Coding
 
-The creation of art through [[Programming]].
+The creation of digital art through [[Programming]].
 
 Blends coding with design and expression.

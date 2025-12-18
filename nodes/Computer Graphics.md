@@ -7,4 +7,4 @@ context:
 
 # Computer Graphics
 
-Mathematical generation of visual arts using a [[Computer]].
+Mathematical generation of [[Digital Art]] using a [[Computer]].

@@ -13,6 +13,24 @@ ad
 
 ---
 
+Child to escape the world.
+
+One fraction wants to preserve the world.
+
+The others are close, they want to escape.
+
+Fight them.
+
+But they start to make sense too.
+
+In the end, make a choice between the two. Be the final guardian preserving the world, or be the chosen one transcending as the system was designed.
+
+Hide the story.
+
+Have characters, like the previous guardian, be glorified. Sage too.
+
+---
+
 The goal is to exit/escape/return.
 
 The world, like a function, to return the complete self.

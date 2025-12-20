@@ -29,7 +29,6 @@ Personal list of great movies.
 | Crouching Tiger, Hidden Dragon | 9     |
 | Choke (Documentary)            | 9     |
 | Apocalypse Now                 | 9     |
-| The Departed                   | 9     |
 | Unforgiven                     | 9     |
 | City of God                    | 8     |
 | Bladerunner                    | 8     |
@@ -38,6 +37,7 @@ Personal list of great movies.
 | The Shawshank Redemption       | 8     |
 | Uncut Gems                     | 8     |
 | Inglorious Basterds            | 8     |
+| The Departed                   | 8     |
 | Whiplash                       | 8     |
 | The Matrix                     | 8     |
 | The Usual Suspects             | 8     |
@@ -55,13 +55,16 @@ Personal list of great movies.
 | Casino                         | 8     |
 | Heat                           | 8     |
 | A.I. Artificial Intelligence   | 8     |
+| Into the Wild                  | 8     |
 | Kill Bill                      | 8     |
 | Drive                          | 8     |
 | A Clockwork Orange             | 8     |
+| The Hateful Eight              | 8     |
 | Taxi Driver                    | 8     |
 | The Wolf of Wall Street        | 7     |
 | Requiem for a Dream            | 7     |
 | Scarface                       | 7     |
+| Ex Machina                     | 7     |
 | Lord of War                    | 7     |
 | A Beautiful Mind               | 7     |
 | Interstellar                   | 7     |
@@ -71,6 +74,7 @@ Personal list of great movies.
 | Monty Python                   | 7     |
 | Snatch                         | 7     |
 | Inception                      | 7     |
+| True Romance                   | 7     |
 | The Hurt Locker                | 7     |
 | Silence of the Lambs           | 7     |
 | Interview With a Vampire       | 7     |

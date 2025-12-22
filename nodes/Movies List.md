@@ -19,9 +19,9 @@ Personal list of great movies.
 | 2001: A Space Odyssey          | 10    |
 | The Great Beauty               | 10    |
 | Lawrence of Arabia             | 10    |
+| Pulp Fiction                   | 10    |
 | Memento                        | 9     |
 | Sicario                        | 9     |
-| Pulp Fiction                   | 9     |
 | No Country for Old Men         | 9     |
 | The Thing                      | 9     |
 | Moneyball                      | 9     |
@@ -30,14 +30,15 @@ Personal list of great movies.
 | Crouching Tiger, Hidden Dragon | 9     |
 | Choke (Documentary)            | 9     |
 | Apocalypse Now                 | 9     |
+| City of God                    | 9     |
 | Unforgiven                     | 9     |
-| City of God                    | 8     |
 | Bladerunner                    | 8     |
 | Apocalypto                     | 8     |
 | The Lion King                  | 8     |
 | The Shawshank Redemption       | 8     |
 | Uncut Gems                     | 8     |
 | Inglorious Basterds            | 8     |
+| Black Cat, White Cat           | 8     |
 | The Departed                   | 8     |
 | Whiplash                       | 8     |
 | The Matrix                     | 8     |
@@ -48,6 +49,7 @@ Personal list of great movies.
 | Fight Club                     | 8     |
 | Seven Samurai                  | 8     |
 | Ran                            | 8     |
+| 12 Monkeys                     | 8     |
 | Mr. Nobody                     | 8     |
 | Good Will Hunting              | 8     |
 | Reservoir Dogs                 | 8     |
@@ -58,22 +60,23 @@ Personal list of great movies.
 | A.I. Artificial Intelligence   | 8     |
 | Into the Wild                  | 8     |
 | Kill Bill                      | 8     |
+| Lord of War                    | 8     |
+| Snatch                         | 8     |
 | Drive                          | 8     |
 | A Clockwork Orange             | 8     |
-| The Hateful Eight              | 8     |
 | Taxi Driver                    | 8     |
-| The Wolf of Wall Street        | 7     |
+| The Silence of the Lambs       | 8     |
+| The Hateful Eight              | 8     |
+| The Wolf of Wall Street        | 8     |
 | Requiem for a Dream            | 7     |
 | Scarface                       | 7     |
 | Ex Machina                     | 7     |
-| Lord of War                    | 7     |
 | A Beautiful Mind               | 7     |
 | Interstellar                   | 7     |
 | Se7en                          | 7     |
 | Ghost in the Shell             | 7     |
 | Fury                           | 7     |
 | Monty Python                   | 7     |
-| Snatch                         | 7     |
 | Inception                      | 7     |
 | True Romance                   | 7     |
 | The Hurt Locker                | 7     |
@@ -81,3 +84,20 @@ Personal list of great movies.
 | Interview With a Vampire       | 7     |
 | American Gangster              | 7     |
 | War Dogs                       | 7     |
+| Jarhead                        | 7     |
+
+# To Watch
+
+Raging Bull
+Irreversible
+Birdman
+Locke
+
+# To Watch (Desi)
+
+Moneyball
+12 Monkeys
+Once Upon a Time in America
+Choke (Documentary)
+The Usual Suspects
+Ghost in the Shell

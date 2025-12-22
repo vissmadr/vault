@@ -18,6 +18,7 @@ Personal list of great movies.
 | Once Upon a Time in America    | 10    |
 | 2001: A Space Odyssey          | 10    |
 | The Great Beauty               | 10    |
+| Lawrence of Arabia             | 10    |
 | Memento                        | 9     |
 | Sicario                        | 9     |
 | Pulp Fiction                   | 9     |

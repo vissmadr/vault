@@ -12,26 +12,26 @@ Personal list of great movies.
 
 | Name                           | Score |
 | ------------------------------ | ----- |
-| The Godfather                  | 10    |
 | 12 Angry Men                   | 10    |
+| The Godfather                  | 10    |
 | The Great Dictator             | 10    |
 | Once Upon a Time in America    | 10    |
 | 2001: A Space Odyssey          | 10    |
-| The Great Beauty               | 10    |
 | Lawrence of Arabia             | 10    |
-| Pulp Fiction                   | 10    |
 | Memento                        | 9     |
 | Sicario                        | 9     |
+| Choke (Documentary)            | 9     |
 | No Country for Old Men         | 9     |
+| Pulp Fiction                   | 9     |
 | The Thing                      | 9     |
 | Moneyball                      | 9     |
 | Life is Beautiful              | 9     |
 | Full Metal Jacket              | 9     |
 | Crouching Tiger, Hidden Dragon | 9     |
-| Choke (Documentary)            | 9     |
+| The Great Beauty               | 9     |
 | Apocalypse Now                 | 9     |
 | City of God                    | 9     |
-| Unforgiven                     | 9     |
+| Unforgiven                     | 8     |
 | Bladerunner                    | 8     |
 | Apocalypto                     | 8     |
 | The Lion King                  | 8     |
@@ -68,7 +68,7 @@ Personal list of great movies.
 | The Silence of the Lambs       | 8     |
 | The Hateful Eight              | 8     |
 | The Wolf of Wall Street        | 8     |
-| Requiem for a Dream            | 7     |
+| Requiem for a Dream            | 8     |
 | Scarface                       | 7     |
 | Ex Machina                     | 7     |
 | A Beautiful Mind               | 7     |
@@ -77,6 +77,7 @@ Personal list of great movies.
 | Ghost in the Shell             | 7     |
 | Fury                           | 7     |
 | Monty Python                   | 7     |
+| Life of Pi                     | 7     |
 | Inception                      | 7     |
 | True Romance                   | 7     |
 | The Hurt Locker                | 7     |
@@ -96,8 +97,6 @@ Locke
 # To Watch (Desi)
 
 Moneyball
-12 Monkeys
 Once Upon a Time in America
 Choke (Documentary)
 The Usual Suspects
-Ghost in the Shell

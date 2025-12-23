@@ -7,20 +7,14 @@ context:
 
 # Utility-first Development
 
-[[Software Development]] paradigm where you build utilities (debugging tools, helper systems) first, and only then implement core features.
+Software development paradigm focused on building good utilities (debugging tools, helper systems) along with the software itself.
 
 ---
 
-Battle-tested approach to high-quality, maintainable software development.
+Proper utilities can be a great benefit to development, design, and clarity.
 
-## Motivation
-
-Why Do It?
-
-**The Problem**: Software development often involves roadblocks - some small, some catastrophic. When a project becomes large/complex enough, so do the issues. Without the right tools, development slows to a crawl.
-
-**The Solution**: Build the tools first. They ensure smoother development, remain useful long-term, and can be reused.
+**Complexity**: Some systems are complex enough that developing them without the right tools can be a nightmare.
 
 **Time**: The time it takes to build a utility can often be less than the time it takes to build (and debug) something without the utility.
 
-**Clarity**: Good tools preempt bugs by exposing hidden issues early. Many bugs stem from poor visibility—utilities fix that.
+**Clarity**: Good tools can preempt many bugs by exposing hidden issues early.

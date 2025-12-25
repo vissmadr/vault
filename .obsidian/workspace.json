@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "c72fe4381908adca",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "75f225d9d06153ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/Artificial Intelligence.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Artificial Intelligence"
-            }
-          }
-        ]
-      },
-      {
         "id": "fb25607fca21c128",
         "type": "tabs",
         "children": [
@@ -33,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "nodes/Artificial Intelligence.md",
+                "file": "nodes/Selfish Honesty.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -61,10 +41,25 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Artificial Intelligence"
+              "title": "Graph of Selfish Honesty"
+            }
+          },
+          {
+            "id": "e6ffdc93ff3c42c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodes/Selfish Honesty.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Selfish Honesty"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,8 +189,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c12470b34ff32f0b",
+  "active": "e6ffdc93ff3c42c6",
   "lastOpenFiles": [
+    "nodes/Selfish Honesty.md",
     "_System.md~",
     "nodes/Remote Procedure Call (RPC).md~",
     "nodes/Remote Procedure Call (RPC).md",
@@ -218,7 +214,6 @@
     "nodes/MermaidJS.md~",
     "_Draft.md",
     "nodes/Game Feel.md",
-    "nodes/Game Feel.md~",
     "nodes/Programming.md",
     "nodes/A Daggerheart Story.md",
     "nodes/Tech Stack.md",

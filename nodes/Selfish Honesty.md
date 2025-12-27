@@ -10,6 +10,8 @@ Honesty might actually be selfish behavior.
 
 ---
 
+(ridiculous take just for fun)
+
 1. People generally don't want to hear the truth. They prefer hearing what suits them.
 2. Being honest is mostly a personal benefit, as it makes a person feel better about himself.
 3. Honesty is the easy and lazy way out, because unlike lying, you don't have to remember stuff.

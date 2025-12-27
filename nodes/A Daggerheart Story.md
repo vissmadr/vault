@@ -62,7 +62,7 @@ Story about a learner in a mysterious land.
   "experience": {
     "scholar": 2,
     "tactician": 2,
-    "loyal": 2
+    "truthseeker": 2
   },
 
   "defense": {

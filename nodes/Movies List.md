@@ -15,13 +15,13 @@ Personal list of great movies.
 | 12 Angry Men                   | 10    |
 | The Godfather                  | 10    |
 | The Great Dictator             | 10    |
-| Once Upon a Time in America    | 10    |
 | 2001: A Space Odyssey          | 10    |
-| Lawrence of Arabia             | 10    |
+| Once Upon a Time in America    | 10    |
 | Memento                        | 9     |
 | Sicario                        | 9     |
 | Choke (Documentary)            | 9     |
 | No Country for Old Men         | 9     |
+| Lawrence of Arabia             | 9     |
 | Pulp Fiction                   | 9     |
 | The Thing                      | 9     |
 | Moneyball                      | 9     |
@@ -63,6 +63,7 @@ Personal list of great movies.
 | Lord of War                    | 8     |
 | Snatch                         | 8     |
 | Drive                          | 8     |
+| Killers of the Flower Moon     | 8     |
 | A Clockwork Orange             | 8     |
 | Taxi Driver                    | 8     |
 | The Silence of the Lambs       | 8     |

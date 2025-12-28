@@ -66,6 +66,8 @@ Personal list of great movies.
 | Killers of the Flower Moon     | 8     |
 | A Clockwork Orange             | 8     |
 | Taxi Driver                    | 8     |
+| Monty Python                   | 8     |
+| Silence of the Lambs           | 8     |
 | The Silence of the Lambs       | 8     |
 | The Hateful Eight              | 8     |
 | The Wolf of Wall Street        | 8     |
@@ -75,18 +77,16 @@ Personal list of great movies.
 | A Beautiful Mind               | 7     |
 | Interstellar                   | 7     |
 | Se7en                          | 7     |
-| Ghost in the Shell             | 7     |
 | Fury                           | 7     |
-| Monty Python                   | 7     |
+| Jarhead                        | 7     |
 | Life of Pi                     | 7     |
 | Inception                      | 7     |
 | True Romance                   | 7     |
 | The Hurt Locker                | 7     |
-| Silence of the Lambs           | 7     |
 | Interview With a Vampire       | 7     |
+| Ghost in the Shell             | 7     |
 | American Gangster              | 7     |
 | War Dogs                       | 7     |
-| Jarhead                        | 7     |
 
 # To Watch
 

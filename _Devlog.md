@@ -332,3 +332,13 @@ Was waaay more difficult with Zig.
 Now I'm thinking to remove A\* and instead use a single BFS flood-fill from the player which every enemy can re-use.
 
 Chris gave me the idea to pre-bake the entire map this way.
+
+# Sense
+
+`2025 12 22`
+
+# Precompute Flow Field
+
+`2025-12-27`
+
+Will try to precompute the whole flow field.

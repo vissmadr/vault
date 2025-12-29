@@ -48,6 +48,7 @@ Personal list of great movies.
 | Django Unchained               | 8     |
 | Fight Club                     | 8     |
 | Seven Samurai                  | 8     |
+| A Clockwork Orange             | 8     |
 | Ran                            | 8     |
 | 12 Monkeys                     | 8     |
 | Mr. Nobody                     | 8     |
@@ -64,7 +65,6 @@ Personal list of great movies.
 | Snatch                         | 8     |
 | Drive                          | 8     |
 | Killers of the Flower Moon     | 8     |
-| A Clockwork Orange             | 8     |
 | Taxi Driver                    | 8     |
 | Monty Python                   | 8     |
 | Silence of the Lambs           | 8     |

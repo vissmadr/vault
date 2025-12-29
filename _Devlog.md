@@ -342,3 +342,25 @@ Chris gave me the idea to pre-bake the entire map this way.
 `2025-12-27`
 
 Will try to precompute the whole flow field.
+
+Turns out it's not a good solution for this case, as precomputing the grid is at least `O(n⁴)` in terms of memory.
+
+The data structure is something like `pathResults[yFrom][xFrom][yTo][xTo]`.
+
+Depending on the grid size, it can easily cost over `100MB` for every single map.
+
+Computing throttled pathfinding at runtime is way faster than having to access and cache huge 4D arrays. Plus it costs no build memory.
+
+Throttled to `0.1` - `0.2` seconds makes its cost trivial.
+
+# Profiling
+
+`2025-12-29`
+
+Ran a profiler for the first time to see the actual bottlenecks.
+
+Long story short it's all rendering basically.
+
+The game logic (for now) is optimized well enough that it's about `5%` of the total CPU work.
+
+Turns out that throttling the pathfinding was an extreme performance booster.

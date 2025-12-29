@@ -364,3 +364,27 @@ Long story short it's all rendering basically.
 The game logic (for now) is optimized well enough that it's about `5%` of the total CPU work.
 
 Turns out that throttling the pathfinding was an extreme performance booster.
+
+# Enemy Movement
+
+`2025-12-29`
+
+Merged both sense and pathfinding movement into a single system.
+
+Now it's sense-based, where the pathfinding direction is just another weight for the sense.
+
+Looks surprisingly good out of the box.
+
+Added directional smoothing by lerping from the previous direction to the desired new one.
+
+Now I must test it with many enemies at once.
+
+# Debug Rendering
+
+`2025-12-29`
+
+Pleasently surprised to find that I could code debug stuff relatively easily due to systems already being built and working.
+
+Created some otherwise difficult to make debug visuals in minutes.
+
+Code reuse can be great.

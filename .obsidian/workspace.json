@@ -4,16 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fb25607fca21c128",
+        "id": "6b76c146450f7432",
         "type": "tabs",
         "children": [
           {
-            "id": "c12470b34ff32f0b",
+            "id": "bf5c0585263a0c14",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "nodes/Selfish Honesty.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -37,25 +36,14 @@
                   "linkStrength": 1,
                   "linkDistance": 250,
                   "scale": 1,
-                  "close": true
+                  "close": false
                 }
               },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Selfish Honesty"
-            }
-          },
-          {
-            "id": "e6ffdc93ff3c42c6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,8 +173,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6ffdc93ff3c42c6",
+  "active": "bf5c0585263a0c14",
   "lastOpenFiles": [
+    "nodes/Gambler's Fallacy.md",
+    "nodes/Cognitive Bias.md",
+    "nodes/WebGL2 Texture Formats.md~",
+    "nodes/ASdasdasd.md~",
+    "nodes/Skeletal Animation.md~",
+    "nodes/ASdasdasd.md",
     "nodes/Selfish Honesty.md",
     "_System.md~",
     "nodes/Remote Procedure Call (RPC).md~",
@@ -198,16 +192,13 @@
     "nodes/Proximal Policy Optimization (PPO).md~",
     "nodes/Proximal Policy Optimization (PPO).md",
     "nodes/Proximal Policy Optimization.md~",
-    "nodes/Model Context Protocol (MCP).md~",
     "nodes/Deep Q-Network.md",
     "nodes/Proximal Policy Optimization.md",
-    "nodes/Reinforcement Learning.md~",
     "nodes/Reinforcement Learning.md",
     "nodes/Large Language Model (LLM).md",
     "nodes/Model Context Protocol (MCP).md",
     "nodes/King's Indian.md",
     "nodes/MermaidJS.md",
-    "nodes/MermaidJS.md~",
     "_Draft.md",
     "nodes/Game Feel.md",
     "nodes/Programming.md",
@@ -220,9 +211,6 @@
     "nodes/Computer Graphics.md",
     "nodes/RTS.md",
     "nodes/RTS ASDKLASDKLAJSD.md",
-    "nodes/Lessons From Nic Barker.md",
-    "nodes/Lessons From Casey Muratori.md",
-    "_Ideas.md",
     "Untitled.canvas",
     "las.png",
     "Argus.canvas",

@@ -388,3 +388,22 @@ Pleasently surprised to find that I could code debug stuff relatively easily due
 Created some otherwise difficult to make debug visuals in minutes.
 
 Code reuse can be great.
+
+# Going Strong
+
+`2025-12-30`
+
+These 3-4 days have been an insane progress.
+
+Made tons of improvementds, especially for the movement logic:
+
+- sense system
+- movement inertia
+- analog axis speed
+- facing direction
+- smooth move rotation
+- smooth face rotation
+- debug rendering
+- performance boosts
+
+Will try to make a good video just before new year.

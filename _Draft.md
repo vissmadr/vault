@@ -1,3 +1,7 @@
+# Terminal
+
+Ctrl+T
+
 # Overhaul
 
 ## Abilities

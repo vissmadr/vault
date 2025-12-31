@@ -1,3 +1,5 @@
+**mel0ndev**: ECS is great; I would recommend not making any UI part of the ECS if you can help it
+
 # Terminal
 
 Ctrl+T

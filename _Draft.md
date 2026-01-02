@@ -1,5 +1,9 @@
 **mel0ndev**: ECS is great; I would recommend not making any UI part of the ECS if you can help it
 
+# Throttling
+
+What a great performance booster wow.
+
 # Terminal
 
 Ctrl+T

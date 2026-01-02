@@ -274,6 +274,8 @@ _Default writing mode._
 `Ctrl w`: Delete the word before the cursor.
 `Ctrl u`: Delete to line start.
 
+`Ctrl j`: Next line.
+
 `Ctrl t`: Indent (shift right) the current line.
 `Ctrl d`: Dedent (shift left) the current line.
 
@@ -282,6 +284,10 @@ _Default writing mode._
 `Ctrl r <register>`: Paste the contents of a register.
 
 `Ctrl r =`: Evaluate an expression and insert the result.
+
+`Ctrl a`: Insert last inserted.
+
+`Ctrl y`: Insert same character as above column.
 
 ## Registers
 

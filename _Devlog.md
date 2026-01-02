@@ -407,3 +407,14 @@ Made tons of improvementds, especially for the movement logic:
 - performance boosts
 
 Will try to make a good video just before new year.
+
+# Data-oriented Refactor
+
+`2025-12-31`
+
+Making a huge refactor into ECS-ish architecture.
+
+Data-oriented has many benefits it seems. The more I use it the more I like it.
+
+- The performance gain is absolutely insane. Without rendering, my game logic currently runs at about `7000` FPS lol.
+- Surprisingly using DOD actually made the code better and more readable. Separating state from logic is good.

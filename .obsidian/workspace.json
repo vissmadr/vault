@@ -42,8 +42,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "dbd52dd71f544226",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,7 +184,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf5c0585263a0c14",
+  "active": "dbd52dd71f544226",
   "lastOpenFiles": [
     "nodes/Gambler's Fallacy.md",
     "nodes/Cognitive Bias.md",

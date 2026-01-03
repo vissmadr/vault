@@ -468,3 +468,15 @@ Component values can be derived on each update, where:
 ```
 component = (stats + variety) + modifiers
 ```
+
+# 3D to 2D
+
+`2026-01-03`
+
+Luben managed to create a basic 3D to 2D workflow.
+
+He exports images for a total of `16` angles with `16` frames per animation each.
+
+This could be it.
+
+Now I need to work and find out what to do about the shadows before I invest him further.

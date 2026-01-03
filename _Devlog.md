@@ -86,6 +86,12 @@ Found out that it's not necessarily an all-in architecture. Things can be refact
 
 Going back and completing the `zig-raylib` examples.
 
+# Creation
+
+`2025 11 04`
+
+Created the project repository around this time.
+
 # Isometric Tilemap
 
 `2025 11 06`

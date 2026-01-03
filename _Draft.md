@@ -38,13 +38,14 @@ TODO: https://www.method.gg/fellowship/heroes/meiko/playstyle-and-rotation
 
 # Development
 
-**Mixamo - Blender - Raylib - GLTF**: https://www.youtube.com/watch?v=MYaIodlxHrk
+3D to 2.5D: https://www.youtube.com/watch?v=l1Io7fLYV4o
 
 Learn from Galactic Assault Squad [GAS](https://gasgame.net/)
 Learn from ISOCORE
 Learn from 9kings
 Learn from Stoneshard
 Learn from Death Must Die (!)
+Learn from Hyper Light Drifter
 Check out Drova: Forsaken Kin
 
 Amit Patel RPG probability

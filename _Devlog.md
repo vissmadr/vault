@@ -440,3 +440,25 @@ Created neighbor avoidance logic as part of the sense system with the help of my
 It turned out great.
 
 Had some problems with the performance, but did the good'ol throttle and suddenly the sense evaluation dissapeared from the profiler charts.
+
+# Enemy Restructure
+
+`2026-01-03`
+
+Completely restructured the enemies architecture:
+
+- **Stats**: Authorative, persistent, and immutable.
+- **Variety**: Slight variations to the stats.
+- **Presets**: Preset stats and variations per enemy type.
+- **Components**: Mutable state data.
+- **Modifiers**: Mutable modifiers to be applied to the components.
+- **Logic**: Pure logic that operates on enemy data.
+- **Store**: Data-oriented storage for all enemy data.
+
+Enables clean and performant code.
+
+Component values can be derived on each update, where:
+
+```
+component = (stats + variety) + modifiers
+```

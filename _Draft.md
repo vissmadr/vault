@@ -1,3 +1,7 @@
+Damage to both health and max health. Imagine `10` and `5`.
+
+Permanent negative effects (or for X turns/runs).
+
 # UI not ECS
 
 **mel0ndev**: ECS is great; I would recommend not making any UI part of the ECS if you can help it

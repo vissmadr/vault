@@ -480,3 +480,22 @@ He exports images for a total of `16` angles with `16` frames per animation each
 This could be it.
 
 Now I need to work and find out what to do about the shadows before I invest him further.
+
+# Lighting
+
+`2026-01-04`
+
+Researching shadows and light.
+
+Wanted to see if I can make dynamic shadows. Technically I can, but it seems too much of a hassle without that great of a result.
+
+Consistency is better than realism.
+
+Thinking I'll do static shadows, which can look good, and also have quite a few engineering benefits:
+
+- Can be pre-rendered.
+- No additional logic; just draw them before the sprites.
+
+Need to decide one light angle and stick to it.
+
+**Torches**: Local lights wont create new shadows. They affect color only. Can change color, brightness, and add glow.

@@ -1,3 +1,5 @@
+# Design
+
 Damage to both health and max health. Imagine `10` and `5`.
 
 Permanent negative effects (or for X turns/runs).

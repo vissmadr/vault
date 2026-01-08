@@ -499,3 +499,29 @@ Thinking I'll do static shadows, which can look good, and also have quite a few 
 Need to decide one light angle and stick to it.
 
 **Torches**: Local lights wont create new shadows. They affect color only. Can change color, brightness, and add glow.
+
+# Windows Build
+
+`2026-01-04`
+
+Bruh.
+
+- Problems with high-DPI.
+- Problems with Alt+Tab.
+- Problems with resolution.
+- Problems with VSync.
+- Problems with provider trust.
+
+Fuck this platform.
+
+# Social
+
+`2026-01-06`
+
+Doing some social work, such as setting up Discord and also getting other people to join on the project.
+
+# Sectors
+
+`2026-01-08`
+
+Reworking the sectors logic to follow data-oriented principles.

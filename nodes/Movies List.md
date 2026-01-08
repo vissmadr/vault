@@ -29,6 +29,7 @@ Personal list of great movies.
 | Full Metal Jacket              | 9     |
 | Crouching Tiger, Hidden Dragon | 9     |
 | The Great Beauty               | 9     |
+| A Clockwork Orange             | 9     |
 | Apocalypse Now                 | 9     |
 | City of God                    | 9     |
 | Unforgiven                     | 8     |
@@ -48,7 +49,6 @@ Personal list of great movies.
 | Django Unchained               | 8     |
 | Fight Club                     | 8     |
 | Seven Samurai                  | 8     |
-| A Clockwork Orange             | 8     |
 | Ran                            | 8     |
 | 12 Monkeys                     | 8     |
 | Mr. Nobody                     | 8     |

@@ -11,6 +11,14 @@ Designing a hack & slash melee mage game.
 
 ---
 
+J: at
+K: da
+L: sp
+
+LJ: sp at
+LK: sp da
+LL: sp sp (projectile)
+
 Attacks interact with the effects of spells.
 
 #wip experiment with move/noMove mechanics. Move JKL one thing, noMove another.

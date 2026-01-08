@@ -8,6 +8,15 @@ LJ: sp at
 LK: sp da
 LL: sp sp (projectile)
 
+---
+
+UIO
+JKL
+
+3 to activate elements, 3 for melee, dash, special.
+
+---
+
 Damage to both health and max health. Imagine `10` and `5`.
 
 Permanent negative effects (or for X turns/runs).

@@ -2,7 +2,7 @@
 
 Spent months of prerequisite learning to get ready for this project.
 
-Technically years, considering the whole road before that.
+Technically years, if one considers the whole gaming & software & design experience before that.
 
 # Sprite Drawing
 
@@ -504,7 +504,7 @@ Need to decide one light angle and stick to it.
 
 `2026-01-04`
 
-Bruh.
+Horror.
 
 - Problems with high-DPI.
 - Problems with Alt+Tab.
@@ -512,7 +512,7 @@ Bruh.
 - Problems with VSync.
 - Problems with provider trust.
 
-Fuck this platform.
+Fuck Windows.
 
 # Social
 
@@ -524,4 +524,18 @@ Doing some social work, such as setting up Discord and also getting other people
 
 `2026-01-08`
 
-Reworking the sectors logic to follow data-oriented principles.
+Begin Reworking the sectors logic again to follow data-oriented principles.
+
+# Time
+
+`2026-01-09`
+
+Trying to prevent `deltaTime` errors when switching windows and in general.
+
+Need to do:
+
+- Global clamped `deltaTime`.
+- Pause updates when unfocused.
+- Create a timestep accumulator.
+
+Actually decided not to pause anything when unfocused. The pause should come manually from the game, not from OS-level systems.

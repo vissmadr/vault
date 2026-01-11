@@ -11,13 +11,9 @@ Designing a hack & slash melee mage game.
 
 ---
 
-J: at
-K: da
-L: sp
+WoL/Had-like.
 
-LJ: sp at
-LK: sp da
-LL: sp sp (projectile)
+Attack, Dash, Special, Cast, where Special and Cast are pretty free for interpretation. Special and Cast both cost mana/cooldown (to be able to "force" melee combat, and to also differentiate melee Special between attacks, unlike Had).
 
 Attacks interact with the effects of spells.
 

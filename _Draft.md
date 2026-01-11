@@ -1,4 +1,70 @@
+# Ideas
+
+## Invoker Permutations
+
+J: Attack
+K: Dash
+L: Special
+I: Enter Invoker Mode
+
+while in invoker mode:
+    - JJ: Spell 1
+    - KK: Spell 2
+    - LL: Spell 3
+    - JK: Spell 4
+    - KL: Spell 5
+    - JL: Spell 6
+
+to exit invoker mode:
+    - successful cast
+    - pressing I again
+
+## Spellsteal
+
+J: Attack
+K: Dash
+L: Special
+I: Spellsteal
+
+Can spellsteal (melee range) from both enemies and environment, enabling buffs for a duration, changing the default abilities for a duration.
+
+## Spell Toggle
+
+J: Attack
+K: Dash
+L: Special
+I: Enter spell mode
+
+While spell mode is active:
+
+J: Spell 1
+K: Spell 2
+L: Spell 3
+I: Exit spell mode
+
+## Hades-like
+
+J: Attack
+K: Dash
+L: Special 1
+I: Special 2
+
+
+
+
+
+
 # Design
+
+JKL actions
+I spellsteal
+
+---
+
+JKL actions
+I invoker mode
+
+---
 
 I'm playing and rating all "Hades-like" games; simple list to help you, from 1. best to N. good
 Hades II

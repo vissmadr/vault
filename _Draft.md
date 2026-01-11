@@ -1,5 +1,29 @@
 # Design
 
+I'm playing and rating all "Hades-like" games; simple list to help you, from 1. best to N. good
+Hades II
+Realm of Ink
+Hades
+Splintered Fate
+BeatSlayer
+Reignbreaker
+The Eternal Die
+SWORN
+Curse of The Dead Gods
+FELLCHASER
+Will update above list when played:
+Cinderia
+Life Core
+Grim Trials
+Aksun
+Rise Again
+Lone Soul
+Lethal Honor
+Heretical
+Shape of Dreams
+Warm Snow
+If I'm missing any, please tell me! And sorry for the claim "Hades-like", but we need something for a mutual understanding.
+
 J: at
 K: da
 L: sp

@@ -1,4 +1,33 @@
+Invoker Permutations - too slow and manual
+Spellsteal - Too external
+Spell Toggle -
+Modes -
+
+Trying to decide between Modes vs single Spells.
+
+I seem to like Modes more, as they are a unique mechanic and give more creative freedom.
+Modes also advocate for faster pace.
+Imagine timed buffs that are given once upon Mode entry, and slowly diminish/expire.
+Player would be suggested to switch modes relatively frequently to keep the buffs active.
+Also modes provide for situational consistent play.
+
+Think also about Warrior stances and Druid forms.
+
 # Ideas
+
+## Modes
+
+I: Shift
+J: Attack
+K: Dash
+L: Cast
+
+if(shift) {
+I: Free (can be Mode 0 or a spell; use wisely)
+J: Mode 1 (Offense) (Fire?)
+K: Mode 2 (Offense/Speed/AOE)
+L: Mode 3 (Defense/Utility)
+}
 
 ## Invoker Permutations
 
@@ -7,17 +36,9 @@ K: Dash
 L: Special
 I: Enter Invoker Mode
 
-while in invoker mode:
-    - JJ: Spell 1
-    - KK: Spell 2
-    - LL: Spell 3
-    - JK: Spell 4
-    - KL: Spell 5
-    - JL: Spell 6
+while in invoker mode: - JJ: Spell 1 - KK: Spell 2 - LL: Spell 3 - JK: Spell 4 - KL: Spell 5 - JL: Spell 6
 
-to exit invoker mode:
-    - successful cast
-    - pressing I again
+to exit invoker mode: - successful cast - pressing I again
 
 ## Spellsteal
 
@@ -48,11 +69,6 @@ J: Attack
 K: Dash
 L: Special 1
 I: Special 2
-
-
-
-
-
 
 # Design
 

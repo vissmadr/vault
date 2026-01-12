@@ -1,7 +1,126 @@
-Invoker Permutations - too slow and manual
-Spellsteal - Too external
-Spell Toggle -
-Modes -
+# Action Input Design
+
+Goals and Constraints:
+
+- Consistency!
+- Physical speed & ergonomics.
+- No more than `3`-`4` action keys.
+- Potential to enable player flow state.
+
+## 5 Keys 5 Abilities
+
+`J`: Attack
+`K`: Dash
+`L`: Special
+`I`: Spell 1
+`O`: Spell 2
+
+**Pros**:
+Dumb-simple.
+Single tap for everything.
+Fits roguelike progression.
+
+**Cons**:
+Only `5` abilities.
+Literally a Hades clone.
+Increased physical keys count.
+
+## 3 Keys 5 Abilities
+
+`J`: Attack
+`K`: Dash
+
+`LJ`: Spell 1
+`LK`: Spell 2
+`LL`: Spell 3
+
+**Pros**:
+Simple.
+Least amount of keys.
+Fits roguelike progression.
+
+**Cons**:
+Only `5` abilities.
+Requires frequent double-taps.
+Almost not worth compared to just `5` keys.
+
+## 4 Keys 7 Abilities
+
+`J`: Attack
+`K`: Dash
+`L`: Special
+
+`IJ`: Spell 1
+`IK`: Spell 2
+`IL`: Spell 3
+`II`: Spell 4
+
+**Pros**:
+Unique.
+More abilities.
+Spammable special.
+Fits roguelike progression.
+Matches joystick key count.
+
+**Cons**:
+Requires frequent double-taps.
+
+## 4 Keys 4 Modes
+
+`J`: Attack
+`K`: Dash
+`L`: Special
+
+`IJ`: Mode 1
+`IK`: Mode 2
+`IL`: Mode 3
+`II`: Mode 4
+
+Modes are persistent and change the Attack, Dash, and Special while active.
+Modes can activate possible buffs and persistent effects upon mode entry.
+
+**Pros**:
+Unique.
+Consistent.
+Spammable abilities.
+Matches joystick key count.
+
+**Cons**:
+Requires frequent double-taps.
+Dependent on good art direction.
+Doesn not fit roguelike progression.
+
+## Spellsteal
+
+`J`: Attack
+`K`: Dash
+`L`: Spellsteal
+
+Consumes magic from enemies/environment.
+
+**Pros**:
+Game-maker.
+Unique mechanic.
+
+**Cons**:
+Consumes all other design.
+Relies mainly on external factors.
+Can be a nightmare for the artists.
+
+## Invoker Permutations
+
+**Cons**:
+Too slow.
+Too complex.
+Difficult to learn.
+Requires triple taps.
+
+---
+
+Spell Toggle
+
+**Modes**:
+Cons:
 
 Trying to decide between Modes vs single Spells.
 
@@ -15,6 +134,18 @@ Think also about Warrior stances and Druid forms.
 
 # Ideas
 
+## Triple
+
+J: Attack
+K: Dash
+L: Shift
+
+if(shift) {
+J: Spell 1 (Frontal, close/mid range)
+K: Spell 2 (any, could be dash-like to match key)
+L: Spell 3 (AOE)
+}
+
 ## Modes
 
 I: Shift
@@ -22,12 +153,11 @@ J: Attack
 K: Dash
 L: Cast
 
-if(shift) {
+if(shift):
 I: Free (can be Mode 0 or a spell; use wisely)
 J: Mode 1 (Offense) (Fire?)
 K: Mode 2 (Offense/Speed/AOE)
 L: Mode 3 (Defense/Utility)
-}
 
 ## Invoker Permutations
 

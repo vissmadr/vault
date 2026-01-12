@@ -47,14 +47,61 @@
             "id": "dbd52dd71f544226",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "nodes/Linear Transformation.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Linear Transformation"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "228d464fcf4b31b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bebe99077fb2e26b",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "nodes/Linear Transformation.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Linear Transformation"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,6 +233,12 @@
   },
   "active": "dbd52dd71f544226",
   "lastOpenFiles": [
+    "nodes/Determinant.md",
+    "nodes/Scalar.md",
+    "nodes/Matrix.md",
+    "nodes/Linear Algebra.md",
+    "nodes/Vector.md",
+    "_System.md~",
     "nodes/Gambler's Fallacy.md",
     "nodes/Cognitive Bias.md",
     "nodes/WebGL2 Texture Formats.md~",
@@ -193,7 +246,6 @@
     "nodes/Skeletal Animation.md~",
     "nodes/ASdasdasd.md",
     "nodes/Selfish Honesty.md",
-    "_System.md~",
     "nodes/Remote Procedure Call (RPC).md~",
     "nodes/Remote Procedure Call (RPC).md",
     "nodes/Deep Q-Network (DQN).md~",
@@ -217,11 +269,6 @@
     "nodes/Tech Stack.md",
     "nodes/Untitled.md",
     "nodes/Adaptive Volatility.md",
-    "nodes/Block Cellular Automaton.md",
-    "nodes/GPU.md",
-    "nodes/Computer Graphics.md",
-    "nodes/RTS.md",
-    "nodes/RTS ASDKLASDKLAJSD.md",
     "Untitled.canvas",
     "las.png",
     "Argus.canvas",

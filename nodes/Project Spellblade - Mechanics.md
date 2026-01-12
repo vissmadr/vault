@@ -11,7 +11,22 @@ The fundamental gameplay mechanics.
 
 ---
 
-Latest design:
+
+# Latest Design
+
+## Synergies
+
+Earth shield from earth mode
+
+Earth shield can be used offensively in fire mode (explode or something)
+
+Passive effects (non-persistent; only in form)
+
+Wind attackspeed increase attackspeed persistently during and after mode
+
+Wind consider pull/push special
+
+## Design
 
 ```
 # Action Input Design
@@ -19,11 +34,12 @@ Latest design:
 Goals and Constraints:
 
 - Consistency!
+- Emergent gameplay.
 - Physical speed & ergonomics.
-- No more than `3`-`4` action keys.
+- No more than `3`-`5` action keys.
 - Potential to enable player flow state.
 
-## 5 Keys 5 Abilities
+## :hammer~1: 5 Keys 5 Abilities
 
 `J`: Attack
 `K`: Dash
@@ -41,7 +57,7 @@ Only `5` abilities.
 Literally a Hades clone.
 Increased physical keys count.
 
-## 3 Keys 5 Abilities
+## :bloodlust: 3 Keys 5 Abilities
 
 `J`: Attack
 `K`: Dash
@@ -60,7 +76,7 @@ Only `5` abilities.
 Requires frequent double-taps.
 Almost not worth compared to just `5` keys.
 
-## 4 Keys 7 Abilities
+## :starfall: 4 Keys 7 Abilities
 
 `J`: Attack
 `K`: Dash
@@ -81,7 +97,7 @@ Matches joystick key count.
 **Cons**:
 Requires frequent double-taps.
 
-## 4 Keys 4 Modes
+## :immolation: 4 Keys 4 Modes
 
 `J`: Attack
 `K`: Dash
@@ -92,8 +108,15 @@ Requires frequent double-taps.
 `IL`: Mode 3
 `II`: Mode 4
 
-Modes are persistent and change the Attack, Dash, and Special while active.
-Modes can activate possible buffs and persistent effects upon mode entry.
+Modes augment the _Attack_, _Dash_, and _Special_ abilities while active.
+
+Abilities sum up to `4 (modes) x 3 (abilities) = 12` possible augmentations.
+
+Modes enable passive buffs and effects while active.
+
+Augmented abilities can activate persistent effects (self-buffs and offensive-debuffs) for a duration or until consumption, even after the mode has been changed.
+
+Persistent effects enable synergies between mode abilities.
 
 **Pros**:
 Unique.
@@ -106,11 +129,11 @@ Requires frequent double-taps.
 Dependent on good art direction.
 Doesn not fit roguelike progression.
 
-## Spellsteal
+## :stun: Consumption
 
 `J`: Attack
 `K`: Dash
-`L`: Spellsteal
+`L`: Consume
 
 Consumes magic from enemies/environment.
 
@@ -119,18 +142,20 @@ Game-maker.
 Unique mechanic.
 
 **Cons**:
-Consumes all other design.
+Replaces all other design.
 Relies mainly on external factors.
-Can be a nightmare for the artists.
+Can become a nightmare for the artists.
 
-## Invoker Permutations
-```
+## :arcane: Invoker Permutations
 
 **Cons**:
 Too slow.
 Too complex.
 Difficult to learn.
 Requires triple taps.
+```
+
+---
 
 ## Actions
 

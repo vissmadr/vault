@@ -539,3 +539,9 @@ Need to do:
 - Create a timestep accumulator.
 
 Actually decided not to pause anything when unfocused. The pause should come manually from the game, not from OS-level systems.
+
+# Mechanics Overhaul
+
+`2026-01-11`
+
+Complete mechanics/actions overhaul.

@@ -357,6 +357,7 @@ Examples:
 | ·         | `.M`    | Dot (Middle).       |
 | ×         | `*X`    | Multiplication.     |
 | ∞         | `00`    | Infinity.           |
+| ™         | `TM`    | Trademark.          |
 
 Grids:
 

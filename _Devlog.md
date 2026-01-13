@@ -545,3 +545,15 @@ Actually decided not to pause anything when unfocused. The pause should come man
 `2026-01-11`
 
 Complete mechanics/actions overhaul.
+
+# Desi
+
+`2026-01-12`
+
+Found an artist.
+
+Self-taught, free time, and is serious about the craft.
+
+Fingers crossed, she seems like the perfect fit right now.
+
+Hope this works out. If it does - thank the Scramble King™.

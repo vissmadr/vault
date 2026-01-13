@@ -1,3 +1,21 @@
+# Desi
+
+**Her License**: About sharing images. Fucked up and forgot to ask.
+
+**Player Items Problem**: Talk about the Player items problem.
+
+- Should we go without this? Or should we try?
+- Show her the artwork in `#engineering` lol.
+- Dependent on her because of the modes art. If the character changes enough with mode switching then it's probably overkill to go for items.
+
+**Pixel Composer**: Show her Pixel Composer if she's interested.
+
+**Name**: Tell her about the name struggle. Now that we have an art direction we should begin searching.
+
+**Hades Animations**: Talk about the post-fact animation style.
+
+# Misc
+
 I'm playing and rating all "Hades-like" games; simple list to help you, from 1. best to N. good
 Hades II
 Realm of Ink
@@ -42,6 +60,24 @@ JKL
 Damage to both health and max health. Imagine `10` and `5`.
 
 Permanent negative effects (or for X turns/runs).
+
+# Uncle Fast and Slow
+
+"You're slow, so that's why you might reach further."
+
+Him at 21:
+
+- Finished highschool with excellency.
+- Completed millitary training.
+- Read over 1000 books.
+- Studying medicine at the university.
+- Training and competing in martial arts.
+- Working one job related to medicine.
+- Working another night job as a bouncer.
+- Married.
+- Has a child.
+
+Bruh.
 
 # UI not ECS
 

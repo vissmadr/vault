@@ -1,3 +1,101 @@
+# LLM Code Interpretation
+
+Syntax matters a lot.
+
+## Consistency
+
+Extremely important factor.
+
+**Conventions and idioms matter more than originality.**
+
+It's better to have a consistent way of doing things than having multiple different ways of doing thins, even if they seem better in theory.
+
+**LLMs are trained on conventional code, not clever code.**
+
+Strongly preferred:
+
+- Standard library patterns
+- Idiomatic language constructs
+- Widely used frameworks in canonical form
+
+## Comments
+
+**Comments help when they explain why, not what.**
+
+LLMs already know what code does syntactically.
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
+---
+
 # Desi
 
 **Her License**: About sharing images. Fucked up and forgot to ask.
@@ -7,8 +105,6 @@
 - Should we go without this? Or should we try?
 - Show her the artwork in `#engineering` lol.
 - Dependent on her because of the modes art. If the character changes enough with mode switching then it's probably overkill to go for items.
-
-**Pixel Composer**: Show her Pixel Composer if she's interested.
 
 **Name**: Tell her about the name struggle. Now that we have an art direction we should begin searching.
 

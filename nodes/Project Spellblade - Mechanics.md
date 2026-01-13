@@ -11,8 +11,13 @@ The fundamental gameplay mechanics.
 
 ---
 
-
 # Latest Design
+
+**Potential Mechanic**: Figure out what to do if player activates the same mode, like `Fire → Fire`. This can be cool.
+
+- The most basic thing is to re-activate any (if any) mode activation effects, but I think this is dumb.
+- Make something cool out of activating the same mode multiple times.
+- One idea is to 'hard commit' to the mode, which locks the mode change button and puts you in a dark-aggressive version of the mode itself for a duration. But idk about that, plus it kiiinda fucks with the consistency a bit (for a price), plus it kidna forces the player to double-spam the same modes.
 
 ## Synergies
 

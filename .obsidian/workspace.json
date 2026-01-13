@@ -49,12 +49,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Linear Transformation.md",
+                "file": "nodes/LLM Code Optimization.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Linear Transformation"
+              "title": "LLM Code Optimization"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "nodes/Linear Transformation.md",
+                "file": "nodes/LLM Code Optimization.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -98,7 +98,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Linear Transformation"
+              "title": "Graph of LLM Code Optimization"
             }
           }
         ]
@@ -233,6 +233,8 @@
   },
   "active": "dbd52dd71f544226",
   "lastOpenFiles": [
+    "nodes/LLM Code Optimization.md~",
+    "nodes/Linear Transformation.md",
     "nodes/Determinant.md",
     "nodes/Scalar.md",
     "nodes/Matrix.md",
@@ -267,8 +269,6 @@
     "nodes/Programming.md",
     "nodes/A Daggerheart Story.md",
     "nodes/Tech Stack.md",
-    "nodes/Untitled.md",
-    "nodes/Adaptive Volatility.md",
     "Untitled.canvas",
     "las.png",
     "Argus.canvas",

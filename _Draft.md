@@ -1,102 +1,16 @@
-# LLM Code Interpretation
+# The Art Controls
 
-Syntax matters a lot.
+The first authority is always:
 
-## Consistency
+1. Make a good game.
 
-Extremely important factor.
+Every decision must revolve around that.
 
-**Conventions and idioms matter more than originality.**
-
-It's better to have a consistent way of doing things than having multiple different ways of doing thins, even if they seem better in theory.
-
-**LLMs are trained on conventional code, not clever code.**
-
-Strongly preferred:
-
-- Standard library patterns
-- Idiomatic language constructs
-- Widely used frameworks in canonical form
-
-## Comments
-
-**Comments help when they explain why, not what.**
-
-LLMs already know what code does syntactically.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
+Everything else is secondary.
 
 # Desi
+
+**Discord**: Test if the roles are working properly & if she sees channels.
 
 **Her License**: About sharing images. Fucked up and forgot to ask.
 
@@ -230,3 +144,13 @@ Amit Patel RPG probability
 **rTexPacker**: https://raylibtech.itch.io/rtexpacker
 
 **3D Animation Pack**: https://quaternius.itch.io/universal-animation-library
+
+# Formatting
+
+Consistent and popular formatters are optimal.
+
+Think about what the LLM has mostly been trained on.
+
+# Flat Control Flow
+
+Deep nesting harms reasoning.

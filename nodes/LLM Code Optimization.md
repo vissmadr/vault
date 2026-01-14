@@ -6,17 +6,13 @@ context:
 
 # LLM Code Optimization
 
-ad
+Tips and guidelines to optimize AI LLM for software development purposes.
 
 ---
 
-Syntax matters a lot.
-
-Prefer explicit code over implicit code.
+_Optimizing code for AI is largely the same as optimizing code for humans - except the penalties for ambiguity are higher._
 
 **Optimal Style**: Idiomatic, conventional, explicit, boring, and internally consistent.
-
-Optimizing code for AI is largely the same as optimizing code for humans—except the penalties for ambiguity are higher.
 
 See: [[Cognitive Load Article]]
 
@@ -24,15 +20,15 @@ See: [[Cognitive Load Article]]
 
 Provide desire and intent explicitly.
 
+Prefer explicit code over implicit code.
+
 ## Consistency
 
-Extremely important factor.
-
-**_Conventions and idioms matter more than originality._**
+_Conventions and idioms matter more than originality._
 
 It's better to have a consistent way of doing things than having multiple different ways of doing thins, even if they seem better in theory.
 
-**_LLMs are trained on conventional code, not clever code._**
+_LLMs are trained on conventional code, not clever code._
 
 Strongly preferred:
 
@@ -42,6 +38,6 @@ Strongly preferred:
 
 ## Comments
 
-**_Comments help when they explain why, not what._**
+_Comments help when they explain why, not what._
 
 LLMs already know what code does syntactically.

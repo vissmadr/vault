@@ -1,3 +1,9 @@
+TODO:
+
+- [ ] Dash
+- [ ] Icons GUI
+- [ ] SECTOOOOOOOOOORS!
+
 # The Art Controls
 
 The first authority is always:
@@ -7,22 +13,6 @@ The first authority is always:
 Every decision must revolve around that.
 
 Everything else is secondary.
-
-# Desi
-
-**Discord**: Test if the roles are working properly & if she sees channels.
-
-**Her License**: About sharing images. Fucked up and forgot to ask.
-
-**Player Items Problem**: Talk about the Player items problem.
-
-- Should we go without this? Or should we try?
-- Show her the artwork in `#engineering` lol.
-- Dependent on her because of the modes art. If the character changes enough with mode switching then it's probably overkill to go for items.
-
-**Name**: Tell her about the name struggle. Now that we have an art direction we should begin searching.
-
-**Hades Animations**: Talk about the post-fact animation style.
 
 # Misc
 

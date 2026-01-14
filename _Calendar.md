@@ -1,7 +1,3 @@
-# `2026-01-13` Tuesday
-
-`19+` Night training.
-
 # `2026-01-14` Wednesday
 
 Talk with Desi.

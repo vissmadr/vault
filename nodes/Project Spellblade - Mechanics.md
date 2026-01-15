@@ -11,6 +11,74 @@ The fundamental gameplay mechanics.
 
 ---
 
+## New Idea
+
+```
+Physical Keys:
+
+    J: Attack
+    K: Dash
+
+    U: Fire
+    I: Storm
+    O: Earth
+    P: Chaos
+
+
+
+Behavior While In Mode:
+
+    Fire:
+        J: Attack(Fire)
+        K: Dash(Fire)
+
+        U: Special(Fire)
+        I: Mode(Storm)
+        O: Mode(Earth)
+        P: Mode(Chaos)
+
+    Storm:
+        J: Attack(Fire)
+        K: Dash(Fire)
+
+        U: Mode(Fire)
+        I: Special(Storm)
+        O: Mode(Earth)
+        P: Mode(Chaos)
+
+    Earth:
+        J: Attack(Fire)
+        K: Dash(Fire)
+
+        U: Mode(Fire)
+        I: Mode(Storm)
+        O: Special(Earth)
+        P: Mode(Chaos)
+
+    Chaos:
+        J: Attack(Fire)
+        K: Dash(Fire)
+
+        U: Mode(Fire)
+        I: Mode(Storm)
+        O: Mode(Earth)
+        P: Special(Chaos)
+
+
+
+Details:
+
+    Uses 6 keys in total.
+
+    Has a key for every mode.
+
+    Pressing the mode key while in the same mode (Fire → Fire) uses the mode's Special.
+
+    Solves the problem of re-activating the same mode.
+
+    Solves the constant need for double-tap for mode switch.
+```
+
 WASD: movement
 
 J: attack

@@ -565,3 +565,29 @@ Agreed to work together.
 Hoping for the best.
 
 She seems great.
+
+# Data Oriented Restructure & YouTube
+
+`2026-01-15`
+
+Something like this:
+
+`all`: Authoritative owner of all lifecycles and state.
+
+`stats-baseline`: Immutable Enemy baseline data.
+`stats-variety`: Unique spawn-time per-entity random mutation.
+`stats-presets`: Pre-designed `baseline  variety` combinations.
+
+`mods-persistent`: Immutable static pre-game modifiers.
+`mods-dynamic`: Mutable dynamic in-game modifiers.
+
+`derived`: Combines all data for a final derived sum.
+
+`components`: Runtime state modules specific to systems.
+`systems`: Pure stateless logic.
+
+Needs to scale well.
+
+Figuring it out.
+
+Also, thinking about a YouTube idea.

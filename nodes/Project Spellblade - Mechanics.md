@@ -11,6 +11,21 @@ The fundamental gameplay mechanics.
 
 ---
 
+WASD: movement
+
+J: attack
+K: dash
+
+U: Fire
+I: Storm
+O: Earth
+P: Chaos
+
+U (in fire): Special
+I (in Storm): Special
+O (in Earth): Special
+P (in Chaos): Special
+
 # Latest Design
 
 **Potential Mechanic**: Figure out what to do if player activates the same mode, like `Fire → Fire`. This can be cool.

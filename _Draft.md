@@ -1,3 +1,18 @@
+# Design
+
+MUTATIONS!!
+
+- The WORLD can mutate, while the player remains the same.
+- Cool idea: If the run has say 5 floors, each floor has its own mutation. They can be progressively more volatile. And then final boss room mutation.
+- This way you can choose your own speed. The faster you are (skipping stuff) - the harder it is.
+- Instead of enemies slain %, it can also be Elite NPC's that need to be defeated, like mini-bosses that change the effects.
+- Global modifiers, like wet air, or something.
+
+Short runs: Can go without in-run scaling.
+Long runs: Probably good to have _something_.
+
+---
+
 https://chatgpt.com/c/69696ca9-df98-8327-a0df-a2e42add4619
 
 ---

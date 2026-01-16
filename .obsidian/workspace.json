@@ -11,14 +11,10 @@
             "id": "ae88fcc72a411370",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/Iterative Game Development and Design.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Iterative Game Development and Design"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -153,6 +149,7 @@
   },
   "active": "ae88fcc72a411370",
   "lastOpenFiles": [
+    "nodes/Iterative Game Development and Design.md",
     "nodes/Game Mechanics Ideas.md",
     "nodes/Vector.md",
     "nodes/LLM Code Optimization.md",
@@ -188,7 +185,6 @@
     "_Draft.md",
     "nodes/Game Feel.md",
     "nodes/Programming.md",
-    "nodes/A Daggerheart Story.md",
     "Untitled.canvas",
     "las.png",
     "Argus.canvas",

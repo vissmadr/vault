@@ -599,3 +599,23 @@ Researching the different types of scaling:
 - Flat Additive
 - Percent Additive
 - Percent Multiplicative
+
+# People
+
+`2026-01-16`
+
+Talked to Veselin, who would like to join as a designer.
+
+He's great for deep brainstorm sessions, especially about game design.
+
+Talked to Nikola, who came up with some great design ideas.
+
+I came up with a new game loop mechanic that solves the 'speedrun' problem.
+
+Talked to Stela about art, game development, and stuff.
+
+She would also like to join the team as an artist.
+
+This is going great so far.
+
+Hope that continues.

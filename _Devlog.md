@@ -10,9 +10,11 @@ Technically years, if one considers the whole gaming & software & design experie
 
 Learned how to draw sprites and use a drawing tablet.
 
-Chose isometric 2.5D art for now.
+Choosing isometric 2D art for now.
 
-Looks like even simple art can look very good when polished well.
+Looks like even simple art can look very very good when polished well in the end.
+
+Too many great examples prove this right.
 
 # Account
 
@@ -566,7 +568,7 @@ Hoping for the best.
 
 She seems great.
 
-# Data Oriented Restructure & YouTube
+# Stats
 
 `2026-01-15`
 
@@ -591,3 +593,9 @@ Needs to scale well.
 Figuring it out.
 
 Also, thinking about a YouTube idea.
+
+Researching the different types of scaling:
+
+- Flat Additive
+- Percent Additive
+- Percent Multiplicative

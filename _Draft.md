@@ -1,7 +1,9 @@
+https://chatgpt.com/c/69696ca9-df98-8327-a0df-a2e42add4619
+
+---
+
 TODO:
 
-- [ ] Dash
-- [ ] Icons GUI
 - [ ] SECTOOOOOOOOOORS!
 
 # The Art Controls

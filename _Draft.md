@@ -1,6 +1,6 @@
 # Design
 
-MUTATIONS!!
+## Mutations
 
 - The WORLD can mutate, while the player remains the same.
 - Cool idea: If the run has say 5 floors, each floor has its own mutation. They can be progressively more volatile. And then final boss room mutation.
@@ -12,6 +12,18 @@ MUTATIONS!!
 
 Short runs: Can go without in-run scaling.
 Long runs: Probably good to have _something_.
+
+## Biomes
+
+Biomes that affect the whole run, meaning both player and enemies.
+
+Examples:
+
+- Cold Biome: -10% movespeed, -10% attackspeed, +10% fire resistance.
+
+## Stance Environment Effects
+
+Fire stance removes slows due to cold environment.
 
 # SECTOOOOOOOOOORS
 

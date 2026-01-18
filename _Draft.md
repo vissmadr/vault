@@ -1,3 +1,9 @@
+| Concept               | Mutability | Components                    | Lifetime   | Purpose                        |
+| --------------------- | ---------- | ----------------------------- | ---------- | ------------------------------ |
+| **`baseStats`**       | immutable  | `stats` + `variety`           | per entity | design baseline                |
+| **`persistentStats`** | immutable  | `baseStats` + `modifiers`     | per run    | talents, items, environment    |
+| **`dynamicStats`**    | mutable    | `persistentStats` + `effects` | per update | effects, stuns, buffs, debuffs |
+
 # Design
 
 ## Mutations

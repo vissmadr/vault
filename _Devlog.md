@@ -619,3 +619,15 @@ She would also like to join the team as an artist.
 This is going great so far.
 
 Hope that continues.
+
+# Stats
+
+`2026-01-17`
+
+Continuing with the `stats`, `variety`, `presets`, `modifiers`, `statEffects`, `statusEffects`, `components`, `derived`, `all`...
+
+This is getting longer than I want, or maybe I'm just slower due to the burnout.
+
+Either way gotta complete that and move on.
+
+Hopefully the time spent on this will be worth in terms of quality.

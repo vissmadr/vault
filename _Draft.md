@@ -1,3 +1,35 @@
+Generate `Persistent Stats` first.
+
+Then before gameplay generate `Game Stats`.
+
+All part of the entity store:
+
+- `Dynamic Stats`
+- `Dynamic State`
+- `Dynamic Modifiers`
+- `Logic Cache`
+
+`Dynamic Stats`: What the entity can currently do and how well it does it.
+`Dynamic State`: The current state of the entity.
+`Dynamic Modifiers`: Any timed effects affecting the entity. Can change both `Dynamic Stats` and `Dynamic State`.
+`Logic Cache`: Systems-related cache for the entity that isn't used otherwise.
+
+Examples:
+
+- Health: state
+- MaxHealth: STAT
+- isBurning: state
+- isStunned: state
+- burnDps: state
+- playerStance: state
+- isStanceSwitchPending: logic cache
+- chargeCooldown: state
+- maxCharges: stats
+- animatorStuff: logic cache
+
+
+---
+
 | Concept               | Mutability | Components                    | Lifetime   | Purpose                        |
 | --------------------- | ---------- | ----------------------------- | ---------- | ------------------------------ |
 | **`baseStats`**       | immutable  | `stats` + `variety`           | per entity | design baseline                |

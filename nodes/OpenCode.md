@@ -31,6 +31,10 @@ For simpler changes, you can ask OpenCode to directly build without having to re
 
 Use the `/undo` command to undo previous changes, and OpenCode will revert them.
 
+You can `/undo` multiple times to undo multiple changes.
+
+Use `/redo` to redo the changes back.
+
 ## Share
 
 Use `/share` to get a URL of the session copied to your clipboard.

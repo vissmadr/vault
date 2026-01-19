@@ -19,14 +19,52 @@ Heavily reliant on secrets & indirection. To find the story instead of being tol
 - Dark one. Like training grounds that breed toughness, although the citizens have adapted to it and even found comfort. _Something like the fremen._
 - The purpose of the world, like a function, is to return a complete self - one that is fit to carry on to the next world.
 - Environmentally, the world has different biomes, each of which posing different challenges to the living.
+- The world provides challenges/tests that one could complete. Test of Might, Agility, Spirit, Strength, Wisdom, Courage...
+- Completing challenges/tests is how creatures usually advance in the world.
+
+**City**:
+
+- The place where heroes survive together.
+- Evolved enough to have small-scale trade.
+- Hideout against the Lord.
+
+**Guardians**:
+
+- Sentinels that face heroes as the last challenge before completing a Test.
+- Wise, not vicious, aware of their role in the world.
+
+**Champions**:
+
+- Sentinels that face heroes as the last challenge before completing a Test.
+- Mostly vicious and power-hungry.
+- Given power by the Lord.
+- Obedient to the Lord.
+
+**Lord**:
+
+- Tyrant that dominates over the world.
+- Powerful and wise.
+- Was once a hero himself.
+- Tries to prevent, or make it very difficult, for heroes to complete the world challenges/tests.
+- Wants to permanently destroy all Guardians and control the challenges/tests so that none may challenge his rule.
+- Aware of the function of the world
+- (rumor) Has failed the final Test of Purity, deciding to stay and rule over the world instead of leaving it.
 
 **Sage**:
 
+- Legendary status of the one who is wisest.
+- The teacher of the Lord himself.
+- The first worthy who could exit the world.
+- Decided to be the last to exit, so that he may shepherd all of the others first.
+- Betrayed by his pupil. The pupil was supposed to exit, but he chose to Lord over the world instead.
+
 **Beggar**:
+
 - Beggar that can be found in the city or in the world.
 - Hooded, old, beard, old robes/rags.
 - Something about him that suggests more than meets the eye.
 - The player can interact with him, giving him a small amount of currency for a wise quote or piece of advice.
+- The beggar is Sage himself.
 
 ---
 

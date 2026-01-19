@@ -1,7 +1,7 @@
 ---
 context:
   - "[[Large Language Model (LLM)]]"
-  - "[[CLI Application]]"
+  - "[[TUI Application]]"
 ---
 
 #empty

@@ -1,6 +1,6 @@
 ---
 context:
-  - "[[CLI Application]]"
+  - "[[TUI Application]]"
 ---
 
 #empty

@@ -5,7 +5,7 @@ context:
 
 # btop
 
-Interactive system monitor [[CLI Application]].
+Interactive system monitor [[TUI Application]].
 
 ---
 

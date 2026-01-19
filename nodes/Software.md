@@ -17,6 +17,7 @@ Main categories of software include:
 Categories by [[Interface]]:
 
 - [[CLI Application]]
+- [[TUI Application]]
 - [[GUI Application]]
 
 Additional categories:

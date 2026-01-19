@@ -1,6 +1,6 @@
 ---
 context:
-  - "[[System Software]]
+  - "[[System Software]]"
 ---
 
 # btop

@@ -18,20 +18,26 @@ Heavily reliant on secrets & indirection. To find the story instead of being tol
 - The world is a transient one.
 - Dark one. Like training grounds that breed toughness, although the citizens have adapted to it and even found comfort. _Something like the fremen._
 - The purpose of the world, like a function, is to return a complete self - one that is fit to carry on to the next world.
+- Public Belief: The world exists to forge a "complete self", granting virtues.
+- Hidden Truth: The world is a filter, not a forge. It does not create completeness. Only provides test that might prove completeness.
 - Environmentally, the world has different biomes, each of which posing different challenges to the living.
 - The world provides challenges/tests that one could complete. Test of Might, Agility, Spirit, Strength, Wisdom, Courage...
 - Completing challenges/tests is how creatures usually advance in the world.
+- The one who successfully leaves the World causes it to reset.
 
 **City**:
 
 - The place where heroes survive together.
 - Evolved enough to have small-scale trade.
 - Hideout against the Lord.
+- (secret) The City survives because the Lord allows it - it keeps heroes contained.
 
 **Guardians**:
 
 - Sentinels that face heroes as the last challenge before completing a Test.
 - Wise, not vicious, aware of their role in the world.
+- Guardians ask questions.
+- (secret) A Guardian has never struck first in recorded history.
 
 **Champions**:
 
@@ -39,24 +45,35 @@ Heavily reliant on secrets & indirection. To find the story instead of being tol
 - Mostly vicious and power-hungry.
 - Given power by the Lord.
 - Obedient to the Lord.
+- CHampions make declarations.
 
 **Lord**:
 
 - Tyrant that dominates over the world.
-- Powerful and wise.
+- Intelligent and extremely powerful.
 - Was once a hero himself.
 - Tries to prevent, or make it very difficult, for heroes to complete the world challenges/tests.
 - Wants to permanently destroy all Guardians and control the challenges/tests so that none may challenge his rule.
-- Aware of the function of the world
-- (rumor) Has failed the final Test of Purity, deciding to stay and rule over the world instead of leaving it.
+- (rumor) Has failed the final Test of Purity/Death, deciding to stay and rule over the world instead of leaving it.
+- Did not want to exit. Does not want a reset. Wants to save/preserve his World, and all the people within it. Wants to be remembered.
+- (secret) Is not evil, but on the different side of the dilemma.
+- (secret) He cares more about the people and his legacy than he cares about the nature of the World.
+- (secret) Does not accept letting go of the world.
+
+**Sin**:
+
+- By controlling Tests, the Lord freezes the World in a perpetual almost-ready state.
+- The World itself is decaying because it was never meant to persist this long.
 
 **Sage**:
 
 - Legendary status of the one who is wisest.
-- The teacher of the Lord himself.
-- The first worthy who could exit the world.
-- Decided to be the last to exit, so that he may shepherd all of the others first.
-- Betrayed by his pupil. The pupil was supposed to exit, but he chose to Lord over the world instead.
+- (rumor) Is dead or hiding.
+- (rumor) The teacher of the Lord himself.
+- (rumor) The first worthy who could exit the world.
+- (rumor) Decided to be the last to exit, so that he may shepherd all of the others first.
+- (rumor) Betrayed by his pupil. The pupil was supposed to exit, but he chose to Lord over the world instead.
+- (hidden truth) Sage has already exited the world. Accepted being forgotten. Knows that staying broke the rules.
 
 **Beggar**:
 
@@ -66,50 +83,17 @@ Heavily reliant on secrets & indirection. To find the story instead of being tol
 - The player can interact with him, giving him a small amount of currency for a wise quote or piece of advice.
 - The beggar is Sage himself.
 
----
+**True Sage**:
 
----
+- Never gives direct answers.
+- The Sage is not truly hiding. He is testing recognition without authority.
+- The World itself recognizes the sage, but the Heroes/citisenz don't remember him. Only the legend remains.
+- Animals behave differently near him.
+- Has powers that don't even make sense, but doesn't use them.
+- He is not waiting for the Lord to fall - he is waiting for someone to surpass him.
 
----
+**Choice**:
 
-Child to escape the world.
-
-One fraction wants to preserve the world.
-
-The others are close, they want to escape.
-
-Fight them.
-
-But they start to make sense too.
-
-In the end, make a choice between the two. Be the final guardian preserving the world, or be the chosen one transcending as the system was designed.
-
-Hide the story.
-
-Have characters, like the previous guardian, be glorified. Sage too.
-
----
-
-The goal is to exit/escape/return.
-
-The world, like a function, to return the complete self.
-
-Some know this, and split into factions.
-
-One faction wants to complete the world as the main purpose of it.
-
-The other faction does not. It wants to preserve the world and the immortality it provides.
-
-Sage knows the answers.
-
-He knows that even the factions are by design.
-
-To complete the world, one must be ready.
-
-To be ready, he must complete all challenges.
-
-Many have tried, many have failed, many have abandoned.
-
-Another stands in the end, to defend the last gate.
-
-He who defeats him can either choose to complete the world, or reset all gates and defend them himself.
+- Finally, the Player can dethrone the Lord and become him.
+- (Ng+ mechanic) The player can leave - and the world continues without ever acknowledging it.
+- Will you stay and rule, or will you transcend?

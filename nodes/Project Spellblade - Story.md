@@ -5,11 +5,32 @@ context:
   - "[[Project Spellblade]]"
 ---
 
-#wip
-
 # Project Spellblade - Story
 
-ad
+The story of the game.
+
+---
+
+Heavily reliant on secrets & indirection. To find the story instead of being told the story.
+
+**World**:
+
+- The world is a transient one.
+- Dark one. Like training grounds that breed toughness, although the citizens have adapted to it and even found comfort. _Something like the fremen._
+- The purpose of the world, like a function, is to return a complete self - one that is fit to carry on to the next world.
+- Environmentally, the world has different biomes, each of which posing different challenges to the living.
+
+**Sage**:
+
+**Beggar**:
+- Beggar that can be found in the city or in the world.
+- Hooded, old, beard, old robes/rags.
+- Something about him that suggests more than meets the eye.
+- The player can interact with him, giving him a small amount of currency for a wise quote or piece of advice.
+
+---
+
+---
 
 ---
 

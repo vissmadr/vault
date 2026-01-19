@@ -23,6 +23,7 @@ Heavily reliant on secrets & indirection. To find the story instead of being tol
 - Environmentally, the world has different biomes, each of which posing different challenges to the living.
 - The world provides challenges/tests that one could complete. Test of Might, Agility, Spirit, Strength, Wisdom, Courage...
 - Completing challenges/tests is how creatures usually advance in the world.
+- The World does not exist to be saved. It exists to be left behind.
 
 **Reset**:
 
@@ -41,6 +42,7 @@ Heavily reliant on secrets & indirection. To find the story instead of being tol
 - Sentinels that face heroes as the last challenge before completing a Test.
 - Wise, not vicious, aware of their role in the world.
 - Guardians ask questions.
+- Guardians speak of wisdom and letting go.
 - (secret) A Guardian has never struck first in recorded history.
 
 **Champions**:
@@ -49,7 +51,8 @@ Heavily reliant on secrets & indirection. To find the story instead of being tol
 - Mostly vicious and power-hungry.
 - Given power by the Lord.
 - Obedient to the Lord.
-- CHampions make declarations.
+- Champions make declarations.
+- Champions speak of glory and eternity.
 
 **Lord**:
 
@@ -64,6 +67,7 @@ Heavily reliant on secrets & indirection. To find the story instead of being tol
 - (secret) He cares more about the people and his legacy than he cares about the nature of the World.
 - (secret) Does not accept letting go of the world.
 - (draft #2) Completed the world, and upon Reset lost a loved one. She was also Reset and did not remember him. Swore to never again.
+- Reached the exit, but chose not to pass.
 
 **Sin**:
 
@@ -96,6 +100,7 @@ Heavily reliant on secrets & indirection. To find the story instead of being tol
 - Animals behave differently near him.
 - Has powers that don't even make sense, but doesn't use them.
 - He is not waiting for the Lord to fall - he is waiting for someone to surpass him.
+- Knows the dilemma of the World, and knows about the Sin. But even though he understands, is wise enough to see the nature of the World, and that the World is only an illusion. Only a process to get one ready for the real world. Lord could not make that sacrifice.
 
 **Choice**:
 

@@ -631,3 +631,17 @@ This is getting longer than I want, or maybe I'm just slower due to the burnout.
 Either way gotta complete that and move on.
 
 Hopefully the time spent on this will be worth in terms of quality.
+
+`2026-01-19`
+
+This shit is difficult.
+
+# Story & Marketing
+
+`2026-01-19`
+
+Continued the old story.
+
+Redesigned it in order to fit the current (imaginary) gameplay and aesthetic.
+
+Talked to Viki - marketing.

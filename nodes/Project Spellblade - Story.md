@@ -23,7 +23,11 @@ Heavily reliant on secrets & indirection. To find the story instead of being tol
 - Environmentally, the world has different biomes, each of which posing different challenges to the living.
 - The world provides challenges/tests that one could complete. Test of Might, Agility, Spirit, Strength, Wisdom, Courage...
 - Completing challenges/tests is how creatures usually advance in the world.
+
+**Reset**:
+
 - The one who successfully leaves the World causes it to reset.
+- Leave without taking anything with you. No legacy. No memory perserved. No proof you existed.
 
 **City**:
 
@@ -59,6 +63,7 @@ Heavily reliant on secrets & indirection. To find the story instead of being tol
 - (secret) Is not evil, but on the different side of the dilemma.
 - (secret) He cares more about the people and his legacy than he cares about the nature of the World.
 - (secret) Does not accept letting go of the world.
+- (draft #2) Completed the world, and upon Reset lost a loved one. She was also Reset and did not remember him. Swore to never again.
 
 **Sin**:
 

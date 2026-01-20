@@ -645,3 +645,7 @@ Continued the old story.
 Redesigned it in order to fit the current (imaginary) gameplay and aesthetic.
 
 Talked to Viki - marketing.
+
+She seems interested and up for it.
+
+Hope this works out.

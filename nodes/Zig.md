@@ -31,3 +31,7 @@ Designed for optimality, robustness, maintainability, and clarity.
 - Resource allocation may fail; resource deallocation must succeed.
 - Memory is a resource.
 - Together we serve the users.
+
+---
+
+#wip new file

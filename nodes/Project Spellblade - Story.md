@@ -11,6 +11,12 @@ The story of the game.
 
 ---
 
+All to train the Player.
+
+To do the impossible.
+
+---
+
 Heavily reliant on secrets & indirection. To find the story instead of being told the story.
 
 **World**:
@@ -77,11 +83,11 @@ Heavily reliant on secrets & indirection. To find the story instead of being tol
 **Sage**:
 
 - Legendary status of the one who is wisest.
-- (rumor) Is dead or hiding.
-- (rumor) The teacher of the Lord himself.
-- (rumor) The first worthy who could exit the world.
-- (rumor) Decided to be the last to exit, so that he may shepherd all of the others first.
-- (rumor) Betrayed by his pupil. The pupil was supposed to exit, but he chose to Lord over the world instead.
+- (1 rumor) Is dead or hiding.
+- (2 rumor) The teacher of the Lord himself.
+- (3 rumor) The first worthy who could exit the world.
+- (4 rumor) Decided to be the last to exit, so that he may shepherd all of the others first.
+- (5 rumor) Betrayed by his pupil. The pupil was supposed to exit, but he chose to Lord over the world instead.
 - (hidden truth) Sage has already exited the world. Accepted being forgotten. Knows that staying broke the rules.
 
 **Beggar**:
@@ -90,7 +96,7 @@ Heavily reliant on secrets & indirection. To find the story instead of being tol
 - Hooded, old, beard, old robes/rags.
 - Something about him that suggests more than meets the eye.
 - The player can interact with him, giving him a small amount of currency for a wise quote or piece of advice.
-- The beggar is Sage himself.
+- (secret) The beggar is Sage himself.
 
 **True Sage**:
 
@@ -99,11 +105,10 @@ Heavily reliant on secrets & indirection. To find the story instead of being tol
 - The World itself recognizes the sage, but the Heroes/citisenz don't remember him. Only the legend remains.
 - Animals behave differently near him.
 - Has powers that don't even make sense, but doesn't use them.
-- He is not waiting for the Lord to fall - he is waiting for someone to surpass him.
+- (secret) He is not waiting for the Lord to fall - he is waiting for someone to surpass him.
 - Knows the dilemma of the World, and knows about the Sin. But even though he understands, is wise enough to see the nature of the World, and that the World is only an illusion. Only a process to get one ready for the real world. Lord could not make that sacrifice.
 
 **Choice**:
 
 - Finally, the Player can dethrone the Lord and become him.
 - (Ng+ mechanic) The player can leave - and the world continues without ever acknowledging it.
-- Will you stay and rule, or will you transcend?

@@ -1,3 +1,11 @@
+Research:
+
+https://x.com/startracker/status/2013322805354606898
+
+https://x.com/the77bit
+
+---
+
 Generate `Persistent Stats` first.
 
 Then before gameplay generate `Game Stats`.

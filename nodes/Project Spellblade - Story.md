@@ -19,11 +19,27 @@ Lord has a reason to stay - a child maybe? Like last 10 years was growing. Look 
 - Choice 2: Dethrone - keep preserving the world.
 - Choice 3: Let Lord's child ascend, while you and the dying Lord (now grateful) remain and watch the world end.
 
-Sage is the World personification.
+(Optionally) When the Lord first reached the End, he was with a party (his friends/clan/brotherhood).
+
+- He just found out about his child.
+- He/they just found out about the nature of the World.
+
+Suddenly he wanted to abort the mission.
+But the party refused.
+So he slayed/burned them all.
+
+- Still feels the guilt of that day.
+
+Sage:
+
+A: Sage is the World personification.
 
 - The world talks to you, as this is Sage.
 - He understands the purpose, as well as the Sin.
 - Morpheus: I can show you the way, but cannot walk it for you.
+- Was the teacher of the Lord, too.
+
+B: Sage was one of the Lord's first party.
 
 ---
 

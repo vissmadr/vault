@@ -1,3 +1,11 @@
+Talk points:
+
+1. The Demo/Playtest is the truth. Then we see if there is interest for the game. If not, we can always totally change it.
+2. Simple is good. Less is more.
+3. The pixel art and post-processing effects is what's gonna add feeling to the game, not fancy characters and stuff. Simple, but with quality and effects to it.
+
+---
+
 Research:
 
 https://x.com/startracker/status/2013322805354606898

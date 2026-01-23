@@ -21,16 +21,17 @@ Personal list of great movies.
 | Sicario                        | 9     |
 | Choke (Documentary)            | 9     |
 | No Country for Old Men         | 9     |
+| Full Metal Jacket              | 9     |
 | Lawrence of Arabia             | 9     |
 | Pulp Fiction                   | 9     |
 | The Thing                      | 9     |
 | Moneyball                      | 9     |
 | Life is Beautiful              | 9     |
-| Full Metal Jacket              | 9     |
 | Crouching Tiger, Hidden Dragon | 9     |
 | The Great Beauty               | 9     |
 | A Clockwork Orange             | 9     |
 | Apocalypse Now                 | 9     |
+| Schindler's List               | 9     |
 | City of God                    | 9     |
 | Unforgiven                     | 8     |
 | Bladerunner                    | 8     |
@@ -45,7 +46,6 @@ Personal list of great movies.
 | The Matrix                     | 8     |
 | The Usual Suspects             | 8     |
 | The Prestige                   | 8     |
-| Schindler's List               | 8     |
 | Django Unchained               | 8     |
 | Fight Club                     | 8     |
 | Seven Samurai                  | 8     |
@@ -87,17 +87,3 @@ Personal list of great movies.
 | Ghost in the Shell             | 7     |
 | American Gangster              | 7     |
 | War Dogs                       | 7     |
-
-# To Watch
-
-Raging Bull
-Irreversible
-Birdman
-Locke
-
-# To Watch (Desi)
-
-Moneyball
-Once Upon a Time in America
-Choke (Documentary)
-The Usual Suspects

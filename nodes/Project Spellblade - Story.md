@@ -11,6 +11,22 @@ The story of the game.
 
 ---
 
+In the end world kinda tells you, or at least lets you deduce about the ending/hard reset.
+
+Lord has a reason to stay - a child maybe? Like last 10 years was growing. Look at the guardian from Furi and his child.
+
+- Choice 1: Ascend.
+- Choice 2: Dethrone - keep preserving the world.
+- Choice 3: Let Lord's child ascend, while you and the dying Lord (now grateful) remain and watch the world end.
+
+Sage is the World personification.
+
+- The world talks to you, as this is Sage.
+- He understands the purpose, as well as the Sin.
+- Morpheus: I can show you the way, but cannot walk it for you.
+
+---
+
 All to train the Player.
 
 To do the impossible.

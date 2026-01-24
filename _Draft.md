@@ -1,4 +1,22 @@
-Talk points:
+# Design
+
+Attack, Dash, 4 **SPELLS**.
+
+The Spells are arcanas like in WoL.
+
+SPELLS ENTER STANCES.
+
+Off-game choose different spells.
+
+4 slots, where the player chooses (maybe 1 of each, or maybe 2-1-1).
+
+**Cooldowns** for the spells, which also has stance switch implications.
+
+- Stronger spells bigger cooldowns, but that means less stance switch.
+- Weaker spells shorter cooldowns so better stance switch.
+- But cooldown for strong spells is in of itself a cost.
+
+# Talk points
 
 1. The Demo/Playtest is the truth. Then we see if there is interest for the game. If not, we can always totally change it.
 2. Simple is good. Less is more.
@@ -6,13 +24,13 @@ Talk points:
 
 ---
 
-Research:
+# Research X
 
 https://x.com/startracker/status/2013322805354606898
 
 https://x.com/the77bit
 
----
+# Stats
 
 Generate `Persistent Stats` first.
 

@@ -10,6 +10,15 @@ context:
 ad
 
 ---
+
+Always have something moving.
+
+Be kinematic.
+
+There should never be a fully static scene.
+
+---
+
 Progression is cool.
 Easter eggs are cool.
 Sharp controls are cool.

@@ -649,3 +649,19 @@ Talked to Viki - marketing.
 She seems interested and up for it.
 
 Hope this works out.
+
+# Stats & OpenCode
+
+`2026-01-22`
+
+Finally finishing the stats and attributes.
+
+This took a while.
+
+Setup some great stuff with OpenCode, which can really help for some things.
+
+# Design
+
+`2026-01-24`
+
+Long sessions with Vesko to brainstorm design.

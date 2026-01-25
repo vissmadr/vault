@@ -11,6 +11,10 @@ The story of the game.
 
 ---
 
+Death: Could wake up (respawn) every time near the beggar (Sage), who comments on the way you died and possibly makes fun of you.
+
+---
+
 In the end world kinda tells you, or at least lets you deduce about the ending/hard reset.
 
 Lord has a reason to stay - a child maybe? Like last 10 years was growing. Look at the guardian from Furi and his child.

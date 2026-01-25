@@ -1,6 +1,46 @@
 # Design
 
-Attack, Dash, 4 **SPELLS**.
+_WoL-inspired_
+
+**Attack Lock**: Attacks lock the character for the duration of the swing.
+
+**Cast Lock**: Casts lock the character for the duration of the cast.
+
+**Attack Step**: The attack lock can step in a direction just like the Dash.
+
+**Pushback**: Attacks/Casts push the target away.
+
+**Ministun**: Attacks/Casts ministun the target.
+
+**Health**: Limited and expensive resource.
+
+
+ACTUALLY: https://wiki.leagueoflegends.com/en-us/Udyr
+
+## Cast-first
+
+**Pros**:
+Single tap to cast any spell.
+Solves the stance switch spam problem.
+
+**Cons**:
+Cannot stance switch while spell is in cooldown.
+Dilemma between casting a spell versus remaining in a stance.
+
+**Timed Stance Idea**: The cast-first approach makes it possible for stances to remain for a duration only.
+
+## Stance-first
+
+**Pros**:
+Can always easily switch to wanted stance.
+
+**Cons**:
+Requires a double-tap to cast most spells.
+Allows for stance switch spam.
+
+---
+
+Attack, Dash, 3-4 **SPELLS**.
 
 The Spells are arcanas like in WoL.
 

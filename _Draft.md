@@ -14,7 +14,6 @@ _WoL-inspired_
 
 **Health**: Limited and expensive resource.
 
-
 ACTUALLY: https://wiki.leagueoflegends.com/en-us/Udyr
 
 ## Cast-first
@@ -29,46 +28,7 @@ Dilemma between casting a spell versus remaining in a stance.
 
 **Timed Stance Idea**: The cast-first approach makes it possible for stances to remain for a duration only.
 
-## Stance-first
-
-**Pros**:
-Can always easily switch to wanted stance.
-
-**Cons**:
-Requires a double-tap to cast most spells.
-Allows for stance switch spam.
-
----
-
-Attack, Dash, 3-4 **SPELLS**.
-
-The Spells are arcanas like in WoL.
-
-SPELLS ENTER STANCES.
-
-Off-game choose different spells.
-
-4 slots, where the player chooses (maybe 1 of each, or maybe 2-1-1).
-
-**Cooldowns** for the spells, which also has stance switch implications.
-
-- Stronger spells bigger cooldowns, but that means less stance switch.
-- Weaker spells shorter cooldowns so better stance switch.
-- But cooldown for strong spells is in of itself a cost.
-
-# Talk points
-
-1. The Demo/Playtest is the truth. Then we see if there is interest for the game. If not, we can always totally change it.
-2. Simple is good. Less is more.
-3. The pixel art and post-processing effects is what's gonna add feeling to the game, not fancy characters and stuff. Simple, but with quality and effects to it.
-
----
-
 # Research X
-
-https://x.com/startracker/status/2013322805354606898
-
-https://x.com/the77bit
 
 # Stats
 
@@ -146,60 +106,7 @@ Examples:
 
 Fire stance removes slows due to cold environment.
 
-# SECTOOOOOOOOOORS
-
-# The Art Controls
-
-The first authority is always:
-
-1. Make a good game.
-
-Every decision must revolve around that.
-
-Everything else is secondary.
-
 # Misc
-
-I'm playing and rating all "Hades-like" games; simple list to help you, from 1. best to N. good
-Hades II
-Realm of Ink
-Hades
-Splintered Fate
-BeatSlayer
-Reignbreaker
-The Eternal Die
-SWORN
-Curse of The Dead Gods
-FELLCHASER
-Will update above list when played:
-Cinderia
-Life Core
-Grim Trials
-Aksun
-Rise Again
-Lone Soul
-Lethal Honor
-Heretical
-Shape of Dreams
-Warm Snow
-If I'm missing any, please tell me! And sorry for the claim "Hades-like", but we need something for a mutual understanding.
-
-J: at
-K: da
-L: sp
-
-LJ: sp at
-LK: sp da
-LL: sp sp (projectile)
-
----
-
-UIO
-JKL
-
-3 to activate elements, 3 for melee, dash, special.
-
----
 
 Damage to both health and max health. Imagine `10` and `5`.
 

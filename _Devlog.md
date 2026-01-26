@@ -665,3 +665,11 @@ Setup some great stuff with OpenCode, which can really help for some things.
 `2026-01-24`
 
 Long sessions with Vesko to brainstorm design.
+
+# Meetup
+
+`2026-01-25`
+
+Had a board games meeting with Luben and Vesko. Good times.
+
+Live brainstorm session with Vesko which progressed both the gameplay mechanics and story.

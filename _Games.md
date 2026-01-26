@@ -1,3 +1,11 @@
+Learn from Galactic Assault Squad [GAS](https://gasgame.net/)
+Learn from ISOCORE
+Learn from 9kings
+Learn from Stoneshard
+Learn from Death Must Die (!)
+Learn from Hyper Light Drifter
+Check out Drova: Forsaken Kin
+
 **Moonscars**
 **Cursemark**
 **Diablo 1 & 2**

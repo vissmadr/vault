@@ -1,20 +1,16 @@
-# Design
+# Chris, interesting
 
-_WoL-inspired_
-
-**Attack Lock**: Attacks lock the character for the duration of the swing.
-
-**Cast Lock**: Casts lock the character for the duration of the cast.
-
-**Attack Step**: The attack lock can step in a direction just like the Dash.
-
-**Pushback**: Attacks/Casts push the target away.
-
-**Ministun**: Attacks/Casts ministun the target.
-
-**Health**: Limited and expensive resource.
-
-ACTUALLY: https://wiki.leagueoflegends.com/en-us/Udyr
+```
+% WebFetch https://www.codeandweb.com/texturepacker
+% WebFetch https://www.codeandweb.com/texturepacker/buy
+Error: Request failed with status code: 404
+Let me search for more specific information about TexturePacker's licensing terms.
+% WebFetch https://www.codeandweb.com/store/texturepacker-single
+% WebFetch https://www.codeandweb.com/texturepacker/documentation/license
+Error: Request failed with status code: 404
+% WebFetch https://www.codeandweb.com/texturepacker/documentation
+% WebFetch https://www.codeandweb.com/texturepacker/documentation/eula
+```
 
 ## Cast-first
 
@@ -111,21 +107,6 @@ TODO: https://www.method.gg/fellowship/heroes/meiko/playstyle-and-rotation
 
 # Development
 
-3D to 2.5D: https://www.youtube.com/watch?v=l1Io7fLYV4o
-
-Learn from Galactic Assault Squad [GAS](https://gasgame.net/)
-Learn from ISOCORE
-Learn from 9kings
-Learn from Stoneshard
-Learn from Death Must Die (!)
-Learn from Hyper Light Drifter
-Check out Drova: Forsaken Kin
-
-Amit Patel RPG probability
-
-**rTexPacker**: https://raylibtech.itch.io/rtexpacker
-
-**3D Animation Pack**: https://quaternius.itch.io/universal-animation-library
 
 # Formatting
 

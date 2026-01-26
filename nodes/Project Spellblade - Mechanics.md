@@ -11,6 +11,22 @@ The fundamental gameplay mechanics.
 
 ---
 
+_Some parts are inspired by WoL._
+
+**Attack Lock**: Attacks lock the character for the duration of the swing.
+
+**Cast Lock**: Casts lock the character for the duration of the cast.
+
+**Attack Step**: The attack lock can step in a direction just like the Dash.
+
+**Pushback**: Attacks/Casts push the target away.
+
+**Ministun**: Attacks/Casts ministun the target.
+
+**Health**: Limited and expensive resource.
+
+[Ideas From Udyr](https://wiki.leagueoflegends.com/en-us/Udyr)
+
 ## New Idea
 
 ```

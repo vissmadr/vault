@@ -8,7 +8,11 @@ context:
 
 Spritesheet packer.
 
+[Website](https://www.codeandweb.com/texturepacker)
+
 ---
+
+**License**: Proprietary
 
 ## Features
 

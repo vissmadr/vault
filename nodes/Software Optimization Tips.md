@@ -20,3 +20,5 @@ Ideas, guidelines, and techniques for software optimization.
 **Culling**: Render only what is visible.
 
 **Pack Resources Together**: See [[Texture Packing]] for example.
+
+**Throttling**: See [[Throttling]]. Generally one of the most powerful optimization techniques when it comes to continuous updates and loops.

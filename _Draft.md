@@ -79,65 +79,6 @@ Examples:
 | **`persistentStats`** | immutable  | `baseStats` + `modifiers`     | per run    | talents, items, environment    |
 | **`dynamicStats`**    | mutable    | `persistentStats` + `effects` | per update | effects, stuns, buffs, debuffs |
 
-# Design
-
-## Mutations
-
-- The WORLD can mutate, while the player remains the same.
-- Cool idea: If the run has say 5 floors, each floor has its own mutation. They can be progressively more volatile. And then final boss room mutation.
-- Mutations can have pros/cons, or only cons, where if you defeat the elite that 'owns' the mutation - it stops.
-- Or multiple elites per floor, each contributing to the mutation, so that it's not an assassination hit-and-run gameplay from floor to floor.
-- This way you can choose your own speed. The faster you are (skipping stuff) - the harder it is.
-- Instead of enemies slain %, it can also be Elite NPC's that need to be defeated, like mini-bosses that change the effects.
-- Global modifiers, like wet air, or something.
-
-Short runs: Can go without in-run scaling.
-Long runs: Probably good to have _something_.
-
-## Biomes
-
-Biomes that affect the whole run, meaning both player and enemies.
-
-Examples:
-
-- Cold Biome: -10% movespeed, -10% attackspeed, +10% fire resistance.
-
-## Stance Environment Effects
-
-Fire stance removes slows due to cold environment.
-
-# Misc
-
-Damage to both health and max health. Imagine `10` and `5`.
-
-Permanent negative effects (or for X turns/runs).
-
-# Uncle Fast and Slow
-
-"You're slow, so that's why you might reach further."
-
-Him at 21:
-
-- Finished highschool with excellency.
-- Completed millitary training.
-- Read over 1000 books.
-- Studying medicine at the university.
-- Training and competing in martial arts.
-- Working one job related to medicine.
-- Working another night job as a bouncer.
-- Married.
-- Has a child.
-
-Bruh.
-
-# UI not ECS
-
-**mel0ndev**: ECS is great; I would recommend not making any UI part of the ECS if you can help it
-
-# Throttling
-
-What a great performance booster wow.
-
 # Terminal
 
 Ctrl+T

@@ -1,23 +1,22 @@
 ---
-aliases:
 context:
   - "[[Board Game]]"
 ---
 
-#empty
-
 # Board Games List
 
-ad
+Personal list of board games.
 
 ---
 
 **Played**:
 
 - [[Monolith Arena]]
+- [[Boss Monster]]
 - [[Roll Player]]
 
 **Wishlist**:
 
 - Mage Knight
 - Frosthaven
+- Aeon's End

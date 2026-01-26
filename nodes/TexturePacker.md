@@ -1,7 +1,7 @@
 ---
 context:
   - "[[Development Software]]"
-  - "[[Texture]]"
+  - "[[Texture Packing]]"
 ---
 
 # TexturePacker

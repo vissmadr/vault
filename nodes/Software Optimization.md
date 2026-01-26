@@ -6,16 +6,8 @@ context:
 
 # Software Optimization
 
-Ideas, guidelines, and techniques for software optimization.
+The process of optimizing software to make it faster, cost less resources, and overall better.
 
 ---
 
-**Data Oriented Design**: Think about [[Data Oriented Design]].
-
-**Simple Data**: Prefer using simple data types and data structures. Booleans, integers, floats, arrays, and structs.
-
-**Create Once**: Create all the data once in the beginning, and then only reuse it. See [[Object Pooling]].
-
-**Local Cache**: Store frequently used data in cache instead of fetching it repeatedly.
-
-**Culling**: Render only what is visible.
+See [[Software Optimization Tips]]

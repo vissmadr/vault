@@ -58,72 +58,49 @@ Spells have no cooldown.
 - Block & Regeneration: Successful blocks increase Regeneration duration.
 - Block & Enchant: Successful blocks increase Enchant duration.
 
-## Spells
+## Spells List
 
 ### Bash
-
 Single target melee spell.
-
 **CP**: +power, +stun
 
 ### Stomp
-
 AOE spell around the player.
-
 **CP**: +power, +area
-
 - Gains CP per target hit.
 
 ### Bolt
-
 Projectile spell.
-
 **CP**: +power, +area
-
 - Gains CP per target hit.
 
 ### Enchant
-
 Attack buff.
-
 **CP**: +duration
-
 - Attacks can extend duration slightly.
 
 ### Block
-
 Quick damage block.
-
 - Gains CP on successful block.
 
 ### Regeneration
-
 Heal over time.
-
 **CP**: +duration
-
 - Getting hit reduces duration!
 
 ### Dash
-
 Short dash.
-
 - (?) Decaying sprint after dash.
 
 ### Orbs
-
 Creates `x` orbs around the player.
 The player's melee attacks now shoot the orbs instead.
-
 **Design Pros**: Gameplay variety & possible synergies.
-
 **Design Cons**: Forces the player into a melee-only vs ranged-only state at a time.
 If he chooses to play ranged-only, then this becomes just another aura bot.
 
 ### Mana Burn/Steal
-
 Melee attack that burns/steals CP from the target.
 
 ### Life Tap
-
 Sacrifices health to gain CP.

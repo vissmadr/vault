@@ -5,11 +5,7 @@
 % WebFetch https://www.codeandweb.com/texturepacker/buy
 Error: Request failed with status code: 404
 Let me search for more specific information about TexturePacker's licensing terms.
-% WebFetch https://www.codeandweb.com/store/texturepacker-single
-% WebFetch https://www.codeandweb.com/texturepacker/documentation/license
 Error: Request failed with status code: 404
-% WebFetch https://www.codeandweb.com/texturepacker/documentation
-% WebFetch https://www.codeandweb.com/texturepacker/documentation/eula
 ```
 
 ## Cast-first
@@ -105,15 +101,96 @@ TODO: https://www.method.gg/fellowship/heroes/meiko/playstyle-and-rotation
 
 **Raylib Performance**: https://youtu.be/aRTi7D4V0Yg
 
-# Development
+| Concept               | Mutability | Components                    | Lifetime   | Purpose                        |
+| --------------------- | ---------- | ----------------------------- | ---------- | ------------------------------ |
+| **`baseStats`**       | immutable  | `stats` + `variety`           | per entity | design baseline                |
+| **`persistentStats`** | immutable  | `baseStats` + `modifiers`     | per run    | talents, items, environment    |
+| **`dynamicStats`**    | mutable    | `persistentStats` + `effects` | per update | effects, stuns, buffs, debuffs |
 
+# 1
 
-# Formatting
+| Concept               | Mutability | Components                    | Lifetime   | Purpose                        |
+| --------------------- | ---------- | ----------------------------- | ---------- | ------------------------------ |
+| **`baseStats`**       | immutable  | `stats` + `variety`           | per entity | design baseline                |
+| **`persistentStats`** | immutable  | `baseStats` + `modifiers`     | per run    | talents, items, environment    |
+| **`dynamicStats`**    | mutable    | `persistentStats` + `effects` | per update | effects, stuns, buffs, debuffs |
 
-Consistent and popular formatters are optimal.
+# 2
 
-Think about what the LLM has mostly been trained on.
+| Concept               | Mutability | Components                    | Lifetime   | Purpose                        |
+| --------------------- | ---------- | ----------------------------- | ---------- | ------------------------------ |
+| **`baseStats`**       | immutable  | `stats` + `variety`           | per entity | design baseline                |
+| **`persistentStats`** | immutable  | `baseStats` + `modifiers`     | per run    | talents, items, environment    |
+| **`dynamicStats`**    | mutable    | `persistentStats` + `effects` | per update | effects, stuns, buffs, debuffs |
 
-# Flat Control Flow
+# 3
 
-Deep nesting harms reasoning.
+| Concept               | Mutability | Components                    | Lifetime   | Purpose                        |
+| --------------------- | ---------- | ----------------------------- | ---------- | ------------------------------ |
+| **`baseStats`**       | immutable  | `stats` + `variety`           | per entity | design baseline                |
+| **`persistentStats`** | immutable  | `baseStats` + `modifiers`     | per run    | talents, items, environment    |
+| **`dynamicStats`**    | mutable    | `persistentStats` + `effects` | per update | effects, stuns, buffs, debuffs |
+
+# 4
+
+| Concept               | Mutability | Components                    | Lifetime   | Purpose                        |
+| --------------------- | ---------- | ----------------------------- | ---------- | ------------------------------ |
+| **`baseStats`**       | immutable  | `stats` + `variety`           | per entity | design baseline                |
+| **`persistentStats`** | immutable  | `baseStats` + `modifiers`     | per run    | talents, items, environment    |
+| **`dynamicStats`**    | mutable    | `persistentStats` + `effects` | per update | effects, stuns, buffs, debuffs |
+
+# 5
+
+| Concept               | Mutability | Components                    | Lifetime   | Purpose                        |
+| --------------------- | ---------- | ----------------------------- | ---------- | ------------------------------ |
+| **`baseStats`**       | immutable  | `stats` + `variety`           | per entity | design baseline                |
+| **`persistentStats`** | immutable  | `baseStats` + `modifiers`     | per run    | talents, items, environment    |
+| **`dynamicStats`**    | mutable    | `persistentStats` + `effects` | per update | effects, stuns, buffs, debuffs |
+
+# 6
+
+| Concept               | Mutability | Components                    | Lifetime   | Purpose                        |
+| --------------------- | ---------- | ----------------------------- | ---------- | ------------------------------ |
+| **`baseStats`**       | immutable  | `stats` + `variety`           | per entity | design baseline                |
+| **`persistentStats`** | immutable  | `baseStats` + `modifiers`     | per run    | talents, items, environment    |
+| **`dynamicStats`**    | mutable    | `persistentStats` + `effects` | per update | effects, stuns, buffs, debuffs |
+
+# 7
+
+| Concept               | Mutability | Components                    | Lifetime   | Purpose                        |
+| --------------------- | ---------- | ----------------------------- | ---------- | ------------------------------ |
+| **`baseStats`**       | immutable  | `stats` + `variety`           | per entity | design baseline                |
+| **`persistentStats`** | immutable  | `baseStats` + `modifiers`     | per run    | talents, items, environment    |
+| **`dynamicStats`**    | mutable    | `persistentStats` + `effects` | per update | effects, stuns, buffs, debuffs |
+
+# 8
+
+| Concept               | Mutability | Components                    | Lifetime   | Purpose                        |
+| --------------------- | ---------- | ----------------------------- | ---------- | ------------------------------ |
+| **`baseStats`**       | immutable  | `stats` + `variety`           | per entity | design baseline                |
+| **`persistentStats`** | immutable  | `baseStats` + `modifiers`     | per run    | talents, items, environment    |
+| **`dynamicStats`**    | mutable    | `persistentStats` + `effects` | per update | effects, stuns, buffs, debuffs |
+
+# 9
+
+| Concept               | Mutability | Components                    | Lifetime   | Purpose                        |
+| --------------------- | ---------- | ----------------------------- | ---------- | ------------------------------ |
+| **`baseStats`**       | immutable  | `stats` + `variety`           | per entity | design baseline                |
+| **`persistentStats`** | immutable  | `baseStats` + `modifiers`     | per run    | talents, items, environment    |
+| **`dynamicStats`**    | mutable    | `persistentStats` + `effects` | per update | effects, stuns, buffs, debuffs |
+
+# 10
+
+| Concept               | Mutability | Components                    | Lifetime   | Purpose                        |
+| --------------------- | ---------- | ----------------------------- | ---------- | ------------------------------ |
+| **`baseStats`**       | immutable  | `stats` + `variety`           | per entity | design baseline                |
+| **`persistentStats`** | immutable  | `baseStats` + `modifiers`     | per run    | talents, items, environment    |
+| **`dynamicStats`**    | mutable    | `persistentStats` + `effects` | per update | effects, stuns, buffs, debuffs |
+
+# 11
+
+| Concept               | Mutability | Components                    | Lifetime   | Purpose                        |
+| --------------------- | ---------- | ----------------------------- | ---------- | ------------------------------ |
+| **`baseStats`**       | immutable  | `stats` + `variety`           | per entity | design baseline                |
+| **`persistentStats`** | immutable  | `baseStats` + `modifiers`     | per run    | talents, items, environment    |
+| **`dynamicStats`**    | mutable    | `persistentStats` + `effects` | per update | effects, stuns, buffs, debuffs |

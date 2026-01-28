@@ -1,13 +1,3 @@
-# Chris, interesting
-
-```
-% WebFetch https://www.codeandweb.com/texturepacker
-% WebFetch https://www.codeandweb.com/texturepacker/buy
-Error: Request failed with status code: 404
-Let me search for more specific information about TexturePacker's licensing terms.
-Error: Request failed with status code: 404
-```
-
 ## Cast-first
 
 **Pros**:

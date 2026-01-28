@@ -1,3 +1,12 @@
+# Ideas
+
+Fire: Burn
+Storm: Hades 2 jolt (stack damage to discharge)
+
+Invisible (transparent) enemies.
+
+Get ALL the relics from WoL.
+
 # Duelist
 
 This aesthetic, closer to WoL?

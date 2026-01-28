@@ -673,3 +673,11 @@ Long sessions with Vesko to brainstorm design.
 Had a board games meeting with Luben and Vesko. Good times.
 
 Live brainstorm session with Vesko which progressed both the gameplay mechanics and story.
+
+# Design & Story Issues
+
+`2026-01-27`
+
+We're lost with the overall story and design.
+
+Figured out we should make a playable game loop first, and only then think about design, story, and aesthetics.

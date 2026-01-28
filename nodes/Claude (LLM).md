@@ -1,6 +1,7 @@
 ---
 context:
   - "[[Large Language Model (LLM)]]"
+  - "[[AI Model]]"
 ---
 
 # Claude (LLM)

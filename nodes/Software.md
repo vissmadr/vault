@@ -23,4 +23,5 @@ Categories by [[Interface]]:
 Additional categories:
 
 - [[Embedded Software]]
+- [[AI Model]]
 - [[Daemon]]

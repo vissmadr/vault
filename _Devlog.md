@@ -681,3 +681,13 @@ Live brainstorm session with Vesko which progressed both the gameplay mechanics 
 We're lost with the overall story and design.
 
 Figured out we should make a playable game loop first, and only then think about design, story, and aesthetics.
+
+# Huge Refactor
+
+`2026-01-29`
+
+Huge fucking refactor.
+
+Code seems to be cleaner than ever. Hope so at least.
+
+Now it's time to rush a few features because I am behind from all the social stuff, community building, and game design.

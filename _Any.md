@@ -1,7 +1,3 @@
-# Nikola
-
-Ask about Roll Player + DLC's and Monolith Arena + DLC's
-
 # Ideas
 
 Fire: Burn

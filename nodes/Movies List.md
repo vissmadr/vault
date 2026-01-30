@@ -33,6 +33,7 @@ Personal list of great movies.
 | Apocalypse Now                 | 9     |
 | Schindler's List               | 9     |
 | City of God                    | 9     |
+| Whiplash                       | 9     |
 | Unforgiven                     | 8     |
 | Bladerunner                    | 8     |
 | Apocalypto                     | 8     |
@@ -42,7 +43,6 @@ Personal list of great movies.
 | Inglorious Basterds            | 8     |
 | Black Cat, White Cat           | 8     |
 | The Departed                   | 8     |
-| Whiplash                       | 8     |
 | The Matrix                     | 8     |
 | The Usual Suspects             | 8     |
 | The Prestige                   | 8     |

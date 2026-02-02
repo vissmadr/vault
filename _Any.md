@@ -1,3 +1,18 @@
+| Name       | Purpose             | Verdict                |
+| ---------- | ------------------- | ---------------------- |
+| Attributes | Core entity stats   | ✅ Keep                |
+| State      | Runtime state       | ✅ Keep                |
+| Presets    | Base values         | ✅ Keep (or Defaults?) |
+| Effects    | Timed buffs/debuffs | ✅ Keep                |
+| Modifiers  | Permanent bonuses   | ⚠️ Needs clarity       |
+
+| Layer        | System         | Duration    | Example                       |
+| ------------ | -------------- | ----------- | ----------------------------- |
+| 1. Base      | Presets        | Permanent   | Starting movespeed = 128      |
+| 2. Modifiers | Hero.Modifiers | Run-long    | Item: "+10 health"            |
+| 3. ???       | Missing        | Conditional | Stance: "+20% speed in Storm" |
+| 4. Effects   | Hero.Effects   | Timed       | Debuff: "Slowed for 3s"       |
+
 # Ideas
 
 Fire: Burn

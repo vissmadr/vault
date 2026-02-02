@@ -16,6 +16,7 @@ Challenge run effects.
 Before run effects.
 During run effects (modifiers).
 
+[Wizard of Legend Relics](https://wizardoflegend.fandom.com/wiki/Relics)
 [Dead Cells Mutations](https://deadcells.wiki.gg/wiki/Mutations)
 [Risk of Rain Items](https://riskofrain2.fandom.com/wiki/Items)
 [Ember Knights Relics](https://emberknights.wiki.gg/wiki/Relics)

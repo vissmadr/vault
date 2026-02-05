@@ -11,10 +11,44 @@ Collection of names for talents, items, and abilities.
 
 ---
 
+#wip
+
+Lotus
+Endurance
+Discord
+Battle Fury
+Diffusal
+Cleave
+Flicker
+Vulnerability
+Warlord
+Assassin
+Berserker
+Rend
+Bash
+Cleave
+War Cry
+Feral Spirit
+Evasion
+Cripple
+Transfusion
+Brand
+Boon
+Flurry
+Ferocity
+Bloodthirst
+Expansion
+Blood Rage
+Rageblade
+Vengeance
+
+---
+
 Punishment
 Shell
 Elemental Weakness
 Haste
+Overcharge
 Empower
 Orchid
 Avatar
@@ -26,40 +60,60 @@ Burst
 
 # Fire
 
+Ignite
+Inferno
+Immolation
 Flamestrike
 Scorch
 Phoenix
-Ignite
+Burning Rage
+Burning Touch
+In Flames
 Cauterize
 Pyroblast
 Fireball
 Living Bomb
+Rain of Fire
 Combustion
 Incinerate
+Firestorm
 Disintegrate
 
 # Earth
 
 Shockwave
+Seismic
+Shatter
+Thorns
+Entangle
+Roots
+Carrion
 Earthquake
 
 # Storm
 
-Conductivity
-Cyclone
-Spark
 Maelstrom
+Cyclone
+Stormbringer
 Storm Caller
 Gathering Storm
 Chain Lightning
+Conductivity
+Spark
+Shock
 
 # Chaos
 
 Metamorphosis
+Doom
+Fateless
+Spectre
+Spectral
 
 # Frost
 
 Rime
+Cold Steel
 
 # Body
 
@@ -128,9 +182,12 @@ Curiosity
 Freedom
 Sacrifice
 Recklessness
+Far Sight
 Wrath
-Spectre
+Fury
 Enraged
+Insanity
+Berserk
 Anger
 Intimidate
 Vengeance
@@ -142,6 +199,7 @@ Determination
 Discipline
 Battle Rage
 Last Stand
+Tranquility
 Berserker Rage
 
 # Item

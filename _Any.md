@@ -1,3 +1,17 @@
+| Category              | Duration            | Removed when...   | Example                     |
+| --------------------- | ------------------- | ----------------- | --------------------------- |
+| Effects               | Timed (clock)       | Clock expires     | Burn, Stun, temp speed buff |
+| Passives              | Permanent           | Manually or never | FireBurnChanceOnAttack      |
+| Stance-bound Passives | While stance active | Stance changes    | EarthStance_KnockbackBoost  |
+
+| System    | When Applied   | Duration      | Storage          |
+| --------- | -------------- | ------------- | ---------------- |
+| Modifiers | Pre-run (once) | Permanent     | Static values    |
+| Effects   | Runtime        | Timed (clock) | Array with clock |
+| Passives  | Runtime        | Untimed       | Levels (u8)      |
+
+---
+
 | Name       | Purpose             | Verdict                |
 | ---------- | ------------------- | ---------------------- |
 | Attributes | Core entity stats   | ✅ Keep                |

@@ -16,6 +16,14 @@ context:
 
 _The guy is big on creating demos._
 
+## Play Many Games
+
+## Genre
+
+"A game has to be 30% new."
+
+"I'm a big believer in game genres."
+
 ## Steam Page Up Early
 
 > Nice and early.

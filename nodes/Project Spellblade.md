@@ -11,6 +11,8 @@ Designing a hack & slash melee mage game.
 
 ---
 
+#wip Invisible (transparent) enemies.s
+
 Attack, Dash, Special, Cast, where Special and Cast are pretty free for interpretation. Special and Cast both cost mana/cooldown (to be able to "force" melee combat, and to also differentiate melee Special between attacks, unlike Had).
 
 Attacks interact with the effects of spells.

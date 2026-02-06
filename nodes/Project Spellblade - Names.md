@@ -13,6 +13,7 @@ Collection of names for talents, items, and abilities.
 
 #wip
 
+Eternal
 Lotus
 Endurance
 Discord
@@ -58,7 +59,7 @@ Shock
 Wake of X
 Burst
 
-# Fire
+## Fire
 
 Ignite
 Inferno
@@ -79,7 +80,7 @@ Incinerate
 Firestorm
 Disintegrate
 
-# Earth
+## Earth
 
 Shockwave
 Seismic
@@ -91,8 +92,9 @@ Carrion
 Earthquake
 Pressure
 
-# Storm
+## Storm
 
+Tailwind
 Maelstrom
 Cyclone
 Stormbringer
@@ -103,7 +105,7 @@ Conductivity
 Spark
 Shock
 
-# Chaos
+## Chaos
 
 Metamorphosis
 Doom
@@ -111,12 +113,12 @@ Fateless
 Spectre
 Spectral
 
-# Frost
+## Frost
 
 Rime
 Cold Steel
 
-# Body
+## Body
 
 Reaver
 Reave
@@ -176,13 +178,14 @@ Impale
 Condemn
 Strafe
 
-# Spirit
+## Spirit
 
 Tactician
 Curiosity
 Freedom
 Sacrifice
 Recklessness
+Disposition
 Far Sight
 Wrath
 Fury
@@ -203,7 +206,7 @@ Last Stand
 Tranquility
 Berserker Rage
 
-# Item
+## Item
 
 Daedalus
 Thunderfury
@@ -216,7 +219,7 @@ Satanic
 Aegis
 Desolator
 
-# Misc
+## Misc
 
 Reflection
 Surge
@@ -227,3 +230,4 @@ Shimmer
 Counterspell
 Spellsteal
 Evocation
+Dilation

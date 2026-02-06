@@ -13,6 +13,13 @@ Collection of names for talents, items, and abilities.
 
 #wip
 
+Phase
+Shift
+Dimension
+Lock
+Unlock
+Balance
+Disbalance
 Eternal
 Lotus
 Endurance

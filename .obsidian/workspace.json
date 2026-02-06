@@ -13,12 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Draft.md",
+                "file": "_Any.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "_Draft"
+              "title": "_Any"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6e0d46e2e8a6fb2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b99b82cb0306f931",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -53,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#wip",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,8 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae88fcc72a411370",
+  "active": "b99b82cb0306f931",
   "lastOpenFiles": [
+    "_Any.md",
+    "_Draft.md",
     "_Draft.md~",
     "nodes/Iterative Game Development and Design.md",
     "nodes/Game Mechanics Ideas.md",
@@ -178,7 +196,6 @@
     "nodes/Quadratic Equation.md~",
     "nodes/Deep Q-Network (DQN).md",
     "nodes/Deep Q-Network.md~",
-    "nodes/Proximal Policy Optimization (PPO).md~",
     "nodes/Proximal Policy Optimization (PPO).md",
     "nodes/Deep Q-Network.md",
     "nodes/Proximal Policy Optimization.md",
@@ -187,7 +204,6 @@
     "nodes/Model Context Protocol (MCP).md",
     "nodes/King's Indian.md",
     "nodes/MermaidJS.md",
-    "_Draft.md",
     "nodes/Game Feel.md",
     "Untitled.canvas",
     "las.png",

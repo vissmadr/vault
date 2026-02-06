@@ -84,11 +84,12 @@ Disintegrate
 Shockwave
 Seismic
 Shatter
-Thorns
 Entangle
 Roots
+Thorns
 Carrion
 Earthquake
+Pressure
 
 # Storm
 

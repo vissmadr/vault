@@ -13,6 +13,44 @@ Collection of names for talents, items, and abilities.
 
 #wip
 
+Dispersion
+Purge
+Unstable
+Essence
+Multicast
+Pneuma
+Unleash
+Eclipse
+Duelist
+Blast
+Alacrity
+Embrace
+Midnight
+Opposition
+Untouchable
+Impetus
+Scatter
+Barrage
+Strafe
+Double Edge
+Retaliation
+Frenzy
+Warpath
+Warcry
+Enfeeble
+Flux
+Fracture
+Distortion
+Volatile
+Volatility
+Infusion
+Diffusion
+Overwhelm
+Fragment
+Resist
+Focus
+Bane
+Blur
 Phase
 Shift
 Dimension
@@ -45,6 +83,7 @@ Boon
 Flurry
 Ferocity
 Bloodthirst
+Bloodlust
 Expansion
 Blood Rage
 Rageblade
@@ -68,8 +107,14 @@ Burst
 
 ## Fire
 
+Pyre
+Macropyre
+Inner Fire
+Flare
+Searing
 Ignite
 Inferno
+Infernal
 Immolation
 Flamestrike
 Scorch
@@ -89,6 +134,8 @@ Disintegrate
 
 ## Earth
 
+Carapace
+Natural Order
 Shockwave
 Seismic
 Shatter
@@ -98,9 +145,12 @@ Thorns
 Carrion
 Earthquake
 Pressure
+Fissure
 
 ## Storm
 
+Gust
+Tempest
 Tailwind
 Maelstrom
 Cyclone
@@ -111,6 +161,10 @@ Chain Lightning
 Conductivity
 Spark
 Shock
+Static
+Thunder
+Current
+Eye Of The Storm
 
 ## Chaos
 
@@ -144,6 +198,8 @@ Cleave
 Rampage
 Shatter
 Bladestorm
+Bladeform
+Blade Dance
 Bloodsurge
 Decay
 Apocalypse
@@ -187,7 +243,9 @@ Strafe
 
 ## Spirit
 
+Wip
 Tactician
+Strategist
 Curiosity
 Freedom
 Sacrifice
@@ -201,8 +259,12 @@ Insanity
 Berserk
 Anger
 Intimidate
+Bravery
+Courage
 Vengeance
+Resist Pain
 Ignore Pain
+Embrace Pain
 Hatred
 Grace
 Clarity
@@ -215,6 +277,7 @@ Berserker Rage
 
 ## Item
 
+Totem
 Daedalus
 Thunderfury
 Rageblade
@@ -228,6 +291,10 @@ Desolator
 
 ## Misc
 
+Glimpse
+Projection
+Shade
+Replica
 Reflection
 Surge
 Presence

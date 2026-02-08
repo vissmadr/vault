@@ -15,19 +15,14 @@ Collection of names for talents, items, and abilities.
 
 Sunder
 Disruption
-Dispersion
 Purge
 Unstable
 Essence
 Multicast
-Pneuma
 Unleash
-Eclipse
 Duelist
 Blast
-Alacrity
 Embrace
-Midnight
 Opposition
 Untouchable
 Impetus
@@ -42,17 +37,12 @@ Warcry
 Enfeeble
 Flux
 Fracture
-Distortion
-Volatile
-Volatility
 Infusion
-Diffusion
 Overwhelm
 Fragment
 Resist
 Focus
 Bane
-Blur
 Phase
 Shift
 Dimension
@@ -65,7 +55,6 @@ Lotus
 Endurance
 Discord
 Battle Fury
-Diffusal
 Cleave
 Flicker
 Vulnerability
@@ -90,9 +79,6 @@ Expansion
 Blood Rage
 Rageblade
 Vengeance
-
----
-
 Punishment
 Shell
 Elemental Weakness
@@ -102,46 +88,39 @@ Orchid
 Avatar
 Rush
 Revenge
-Shock
 Wake of X
 Burst
 
 ## Fire
 
-Firecloak
-Fireborne
-Pyre
-Macropyre
-Inner Fire
-Flare
-Overclock
-Searing
-Ignite
-Inferno
-Infernal
-Immolation
-Flamestrike
-Scorch
-Phoenix
 Burning Rage
 Burning Touch
+Searing Heat
+Dragonkin
+Dragonfire
+Dragon Blood
+Dragon Heart
+Inferno
+Infernal
+Firecloak
+Fireborne
+Flare
+Flamestrike
+Heat
+Overheat
+Overclock
 In Flames
 Cauterize
 Pyroblast
 Fireball
 Living Bomb
 Rain of Fire
-Combustion
-Incinerate
-Firestorm
 Disintegrate
-Molten
-Firestarter
-Pyromaniac
 Wildfire
 
 ## Earth
 
+Wisps
 Monolith
 Overgrowth
 Barkskin
@@ -161,6 +140,7 @@ Fissure
 Tremor
 Quake
 Immovable
+Tranquility
 
 ## Storm
 
@@ -193,11 +173,7 @@ Doom
 Fateless
 Schism
 Disorder
-
-## Frost
-
-Rime
-Cold Steel
+Pneuma
 
 ## Body
 

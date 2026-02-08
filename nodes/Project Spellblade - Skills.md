@@ -88,9 +88,11 @@ Skills:
 
 **Crucible**: While in Fire stance, half of all damage taken is taken as Fire damage.
 
+WIP: don't like the name as much?
 **Pyromaniac**: Gain bonus movespeed for each nearby **Burning** enemy.
 `scalar: 2%`
 
+WIP: don't like the name as much?
 **Arsony**: Gain bonus damage for each nearby **Burning** enemy.
 `scalar: 2%`
 
@@ -127,9 +129,10 @@ Skills:
 **Conflagrate**: **Explosion** applies **Burn** to all targets.
 
 **To Ashes**: Increases **Burn** damage against low health targets.
-`threshold: 20%`
-`damage: 20%`
+`threshold: 15%`
+`damage: 15%`
 
+WIP: "Living" feels wrong here
 **Living Bomb**: **Burning** enemies explode when they die.
 `damage: 20`
 `radius: 80`
@@ -137,6 +140,10 @@ Skills:
 **Attrition**: Each stack of **Burn** reduces the damage the target deals.
 `scalar: 3%`
 `maxStacks: 6`
+
+WIP:
+**\_\_\_**: Burning Enemies leave **Scorch** when they die.
+**\_\_\_**: Moving enemies Combust/something more easily.
 
 ## Storm
 

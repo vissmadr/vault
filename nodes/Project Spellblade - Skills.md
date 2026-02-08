@@ -9,12 +9,44 @@ context:
 
 ---
 
+taking Fire damage outside Fire stance: Can burn you
+taking Fire damage in Fire stance: Burning is kinda fine
+
+taking Storm damage outside Storm stance: Can also cause your Charges to Discharge
+taking Storm damage in Storm stance: Can gain you Charge (like you control the Storm)
+
+taking Chaos damage outside Chaos stance: Chaos reduces your Order
+taking Chaos damage in Chaos stance: something
+
+| Aspect           | Draft 1                      | Draft 2                         |
+| ---------------- | ---------------------------- | ------------------------------- |
+| Feel             | Empowering (more = better)   | Risky (manage your limits)      |
+| Positioning      | Encouraged (stay near fires) | Neutral                         |
+| Stance switching | Return to reapply burns      | Forced by Overheat management   |
+| Skill ceiling    | Optimizing Heat uptime       | Pushing limits before switching |
+
 ## Fire
 
-Gameplay:
+#wip Draft 1: Gain Heat and use it to cast Fire spells.
+#wip Draft 2: Cast Fire spells, but don't Overheat.
+
+Resource:
+
+- (draft 1) **Heat**: Gain Heat constantly. Use Heat to cast Fire abilities. Gain more Heat when nearby burning enemies & environment.
+- (draft 2) **Overheat**: Casting Fire spells gains Heat. Heat can Overheat, causing negative effects (like burning the player, weaker Fire spells, etc).
+
+(draft 1) **Heat** Gameplay:
 
 - Apply as much **Burn** as possible to as many targets as possible.
-- Entering Fire stance activates **Immolation** for a duration.
+- Entering Fire stance activates **Immolation**, using **Heat** and constantly **Burning** nearby enemies.
+- Position yourself near burning enemies/environment to gain more **Heat**.
+- Return to Fire stance to reapply **Burn** durations.
+
+(draft 2) **Overheat** Gameplay:
+
+- Apply as much **Burn** as possible to as many targets as possible.
+- Entering Fire stance activates **Immolation**, gaining **Heat** and constantly **Burning** nearby enemies.
+- When close to **Overheating**, switch to another stance to cool down.
 - Return to Fire stance to reapply **Burn** durations.
 
 Skills:
@@ -22,6 +54,8 @@ Skills:
 - **Burn**: Debuff that causes Fire damage over time.
 - **Scorch**: Continuous Fire AOE on the ground.
 - **Explosion**: Instant Fire AOE damage blast.
+
+#wip If (draft 1) Heat: Immolation can be something that follows a spell/stance switch automatically? Like casting Fireball also immolates for 2 seconds?
 
 **Immolation**: Engulfed in flames, you constantly damage nearby enemies.
 `duration: 3s`
@@ -106,6 +140,10 @@ Skills:
 
 ## Storm
 
+Resource:
+
+- **Charge**: Gained mostly from moving/dashing/attacking.
+
 Gameplay:
 
 - Move, dash, and attack to gain **Charge**, even in other stances.
@@ -186,22 +224,6 @@ Skills:
 
 ## Earth
 
-WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER
-WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER
-WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER
-WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER
-WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER
-WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER
-WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER
-WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER
-WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER
-WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER
-WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER
-WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER
-WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER
-WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER
-WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER WATER
-
 Gameplay:
 
 - wip
@@ -236,12 +258,20 @@ Skills:
 
 ## Chaos
 
+Resource:
+
+- **Order**: Gained constantly, but randomly (noise function).
+
 Gameplay:
 
 - Generate **Order** over time while in other stances.
 - Entering Chaos stance triggers **Entropy**, which burns **Order**.
 - While **Entropy** is burning, Chaos proc chances are increased.
 - When **Order** is depleted, **Entropy** ends.
+
+Abilities:
+
+- **Attack**:
 
 Skills:
 

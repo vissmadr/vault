@@ -14,6 +14,7 @@ Collection of names for talents, items, and abilities.
 #wip
 
 Sunder
+Disruption
 Dispersion
 Purge
 Unstable
@@ -163,26 +164,16 @@ Immovable
 
 ## Storm
 
-Overcharge
-Stormcloak
 Windborne
 Wind Walk
-Surge
 Gale
-Zephyr
-Slipstream
 Gust
-Tempest
-Tailwind
 Maelstrom
 Cyclone
-Stormbringer
 Storm Caller
 Gathering Storm
 Chain Lightning
 Conductivity
-Spark
-Shock
 Static
 Thunder
 Current
@@ -192,24 +183,16 @@ Stormfury
 ## Chaos
 
 Ruin
-Disruption
 Duality
-Anomaly
-Recursion
 Singularity
-Paradox
 Instability
+Omen
 Chaos Theory
 Mimic
-Entropy
-Metamorphosis
 Doom
 Fateless
-Spectre
-Spectral
 Schism
 Disorder
-Havoc
 
 ## Frost
 

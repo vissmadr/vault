@@ -11,7 +11,25 @@ context:
 
 ---
 
-(!!!!) #wip: Figure out which effects are stance-only, which are not, which can be both (tripled), and so on!
+Stance switching:
+
+| Approach                | Feel                 | Risk                                                      |
+| ----------------------- | -------------------- | --------------------------------------------------------- |
+| 0.5-1s anti-spam        | Fluid, reactive      | Might feel "twitchy", stance identity blurs               |
+| 2-3s cooldown           | Deliberate, tactical | Middle ground, might still feel restrictive               |
+| No cooldown BUT cost    | Fluid with weight    | Switching costs some resource (lose 10% Heat, Order, etc) |
+| No cooldown BUT ramp-up | Rewards staying      | First 2s in stance = weaker effects, then full power      |
+
+Input:
+
+| Stance | Button | Switch Effect                           | Cast (same button while in stance) |
+| ------ | ------ | --------------------------------------- | ---------------------------------- |
+| Fire   | I      | Enter Fire, start Immolation?           | Fireball / Flame stream            |
+| Storm  | O      | Enter Storm                             | Discharge (obvious fit)            |
+| Chaos  | P      | Enter Chaos, start Entropy burn         | ??? (Force Havoc? Random burst?)   |
+| Earth  | L      | Enter Earth, start Clarity regen boost? | Summon Wisp(s)                     |
+
+(!!!) #wip: Figure out which effects are stance-only, which are not, which can be both (tripled), and so on!
 
 ---
 
@@ -275,18 +293,21 @@ Gameplay:
 
 Skills:
 
+- **Wisp**: Summon a **Wisp** that orbits around you and regenerates you. This has
+  a short cast time.
+
 - wip
 
 ---
-
-Wisp Replicate: Random chance to spawn a wisp for every current wisp.
 
 Clarity Return: Chance to re-gain the Clarity cost of a Wisp when it dies.
 Clarity Return: Or no RNG and a percent of the portion.
 Clarity Return: Or both?
 
+**Wisp Replicate**: Random chance to spawn a wisp for every current wisp.
+
 **Tranquility**: Bonus when having max Wisps.
-Over Tranquility: Bonus for every Wisp after the max.
+**(wip name Over Tranquility)**: Bonus for every Wisp after the max.
 
 ---
 
@@ -305,6 +326,9 @@ Over Tranquility: Bonus for every Wisp after the max.
 
 **Thorns**: Getting hit in melee range inflicts damage to the attacker.
 `damage: 5`
+
+**Vines**: Damaging enemies with **Thorns** has a chance to root them.
+`chance: 30%`
 
 **Magma**: Stuns also apply **Burn**.
 
@@ -413,5 +437,7 @@ Skills:
 
 **Paradox**: Allows **Anomaly** to also proc for attacks that have been evaded.
 
-**Unforseen Consequences**: Chance to proc **Havoc** on the attacker when taking damage.
-`chance: 20%`
+**\_\_\_**: Completely evade every `n`-th attack.
+
+**Unforseen Consequences**: Evading attacks can redirect them to a random nearby target.
+`chance: 0% - 100%`

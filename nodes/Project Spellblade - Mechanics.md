@@ -11,6 +11,10 @@ The fundamental gameplay mechanics.
 
 ---
 
+Return old design for Stance button to use Special.
+
+---
+
 _Some parts are inspired by WoL._
 
 **Attack Lock**: Attacks lock the character for the duration of the swing.

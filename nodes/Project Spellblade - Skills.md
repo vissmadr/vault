@@ -13,17 +13,15 @@ context:
 
 Gameplay:
 
-- Attrition damage that builds up.
 - Apply as much **Burn** as possible to as many targets as possible.
 - Entering Fire stance activates **Immolation** for a duration.
+- Return to Fire stance to reapply **Burn** durations.
 
 Skills:
 
 - **Burn**: Debuff that causes Fire damage over time.
 - **Scorch**: Continuous Fire AOE on the ground.
 - **Explosion**: Instant Fire AOE damage blast.
-
----
 
 **Immolation**: Engulfed in flames, you constantly damage nearby enemies.
 `duration: 3s`
@@ -106,17 +104,22 @@ Skills:
 `scalar: 3%`
 `maxStacks: 6`
 
----
-
 ## Storm
 
-> Gameplay: Gather
+Gameplay:
 
-> Skills:
-> **Charge**: Stacks of **Charge** can be gathered by the player to be released on Storm attacks and abilities.
-> **Discharge**: Discharge current **Charge** stacks to release a chain lightning that jumps from target to target.
+- Move, dash, and attack to gain **Charge**, even in other stances.
+- Enter Storm stance to **Discharge** any gained **Charges**.
+
+Skills:
+
+- **Charge**: Stacks of **Charge** can be gathered by the player to be released on Storm attacks and abilities.
+- **Discharge**: Discharge current **Charge** stacks to release a chain lightning that jumps from target to target.
 
 ---
+
+#wip: Heavy redesign to follow the new move/dash/attack Charge gain gameplay.
+#wip: Maybe max charges per Discharge, to not dump everything into one Discharge?
 
 **Tailwind**: Bonus movespeed.
 `movespeed: 10%`
@@ -128,7 +131,7 @@ Skills:
 **Stormbringer**: Moving for `x` seconds gains **Charge**.
 `minDuration: 2s`
 
-**GatheringStorm**: Gains **Charge** every `n` seconds.
+**Gathering Storm**: Gains **Charge** every `n` seconds.
 `time: 6s`
 
 **Spark**: Chance to gain **Charge** on melee attack.
@@ -162,7 +165,7 @@ Skills:
 **Capacitor**: Store more max charges.
 `count: 2`
 
-**EyeOfTheStorm**: Chance to re-gain **Charge** when discharged.
+**Eye Of The Storm**: Chance to re-gain **Charge** when **Discharging**.
 `chance: 10%`
 
 **Alacritty**: Each **Charge** stack increases attackspeed.
@@ -183,11 +186,21 @@ Skills:
 
 ## Earth
 
+Gameplay:
+
+- wip
+
+Skills:
+
+- wip
+
+---
+
 **Bash**: Chance to stun on melee attack.
 `chance: 10%`
 `duration: 1s`
 
-**EarthShield**: Shield.
+**Earth Shield**: Shield.
 `amount: 20`
 
 **Barkskin**: Damage reduction.
@@ -207,12 +220,35 @@ Skills:
 
 ## Chaos
 
-> **DOOM**: Causes a massive amount of damage.
+Gameplay:
+
+- Generate **Order** over time while in other stances.
+- Entering Chaos stance triggers **Entropy**, which burns **Order**.
+- While **Entropy** is burning, Chaos proc chances are increased.
+- When **Order** is depleted, **Entropy** ends.
+
+Skills:
+
+- **Order**: Resource that accumulates over time outside of Chaos stance.
+- **Entropy**: Burns **Order** while in Chaos stance, boosting Chaos procs.
+- **DOOM**: Causes a massive amount of damage.
+
+---
+
+#wip: Adapt for the new Entropy & Order mechanics.
+#wip: Almost every (or every) Chaos effect should be Entropy-based.
+#wip: All proc chances should be min & max.
+#wip: Add skills that affect Entropy itself, causing it to burn faster/slower.
+#wip: Renames, renames, renames... Potential for good stuff.
+
+**@ WIP @** (Schism? Singularity?): Overflowing **Order** in causes effect in other stances?
+
+---
 
 **Havoc**: Chance on melee attack to trigger a random effect.
 `chance: 10%`
 
-**ButterflyEffect**: Consecutive **Havoc** procs on a target increase the chance of more **Havoc** procs on the same target.
+**Butterfly Effect**: Consecutive **Havoc** procs on a target increase the chance of more **Havoc** procs on the same target.
 `scalar: 2%`
 `maxStacks: 5`
 
@@ -223,11 +259,11 @@ Skills:
 
 **Omen**: Adds **DOOM** to the list of possible **Havoc** effects.
 
-**ChaosTheory**: The first two hits on a new target always proc **Havoc**.
+**Chaos Theory**: The first two hits on a new target always proc **Havoc**.
 
 **Mutation**: Chance to gain a random temporary buff.
 `chancePerSecond: 20%`
-`duration: 4s`
+`duration: 5s`
 
 **Metamorphosis**: At least one **Mutation** will always remain active.
 
@@ -260,5 +296,5 @@ Skills:
 
 **Paradox**: **Anomaly** can also proc on attacks that have been evaded.
 
-**UnforseenConsequences**: Chance to proc **Havoc** on the attacker when taking damage.
+**Unforseen Consequences**: Chance to proc **Havoc** on the attacker when taking damage.
 `chance: 20%`

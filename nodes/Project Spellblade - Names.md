@@ -53,7 +53,6 @@ Disbalance
 Eternal
 Lotus
 Endurance
-Discord
 Battle Fury
 Cleave
 Flicker
@@ -162,6 +161,7 @@ Stormfury
 
 ## Chaos
 
+Discord
 Ruin
 Duality
 Singularity

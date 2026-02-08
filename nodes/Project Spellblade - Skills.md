@@ -7,6 +7,12 @@ context:
 
 # Project Spellblade - Skills
 
+#wip
+
+---
+
+(!!!!) #wip: Figure out which effects are stance-only, which are not, which can be both (tripled), and so on!
+
 ---
 
 taking Fire damage outside Fire stance: Can burn you
@@ -17,6 +23,8 @@ taking Storm damage in Storm stance: Can gain you Charge (like you control the S
 
 taking Chaos damage outside Chaos stance: Chaos reduces your Order
 taking Chaos damage in Chaos stance: something
+
+---
 
 | Aspect           | Draft 1                      | Draft 2                         |
 | ---------------- | ---------------------------- | ------------------------------- |
@@ -56,6 +64,9 @@ Skills:
 - **Explosion**: Instant Fire AOE damage blast.
 
 #wip If (draft 1) Heat: Immolation can be something that follows a spell/stance switch automatically? Like casting Fireball also immolates for 2 seconds?
+
+#wip (draft 1) Overheat: Can use fire even if no heat, but at what cost?
+#wip (draft 2) Insanity: Can continue to use Fire if overheated, but at WHAT COST?
 
 **Immolation**: Engulfed in flames, you constantly damage nearby enemies.
 `duration: 3s`
@@ -230,15 +241,52 @@ Skills:
 
 ---
 
-## Earth
+## Earth/Nature
+
+Mechanics:
+
+- Generate **Clarity** constantly, reduced when taking damage.
+- Spend **Clarity** to create **Wisps** that regenerate you.
+- When hit, **Wisps** sacrifice themselves, tanking attacks.
+
+(#wip) Problems:
+
+- The **Wisps** are the Cast of Earth stance. **Clarity** is
+  currently used to generate more **Wisps**. So, what are the
+  other uses of **Clarity**?
+- What bonuses does the normal get in Earth stance? And does
+  it interact with **Clarity**?
+
+(#wip) Ideas:
+
+- (draft 1): high **Clarity** gives passive bonus, meaning you
+  want to have maximum **Clarity** without wasting it. But if
+  needed you have to use your **Clarity** to summon **Wisps**
+  when damaged, otherwise you can die and stuff.
+- (draft 2): **Clarity** is also spent elsewhere, like when Attacking
+  for example. This way you choose between offensive **Clarity** for
+  Attacks and stuns/roots/whatever, and defensive **Clarity** to
+  summon **Wisps** with.
 
 Gameplay:
 
-- wip
+- Generate **Clarity** constantly, trying to minimize damage taken by default.
+- Enter Earth stance to generate **Wisps** that will heal, protect, and synergize.
 
 Skills:
 
 - wip
+
+---
+
+Wisp Replicate: Random chance to spawn a wisp for every current wisp.
+
+Clarity Return: Chance to re-gain the Clarity cost of a Wisp when it dies.
+Clarity Return: Or no RNG and a percent of the portion.
+Clarity Return: Or both?
+
+**Tranquility**: Bonus when having max Wisps.
+Over Tranquility: Bonus for every Wisp after the max.
 
 ---
 
@@ -261,6 +309,8 @@ Skills:
 **Magma**: Stuns also apply **Burn**.
 
 **Grounded**: Gain **Charge** when hit.
+
+**\_\_\_**: Gain **Order** faster while in Earth stance.
 
 ---
 
@@ -320,6 +370,8 @@ Skills:
 **Inevitability**: During high **Entropy**, Every `6`-th potential **Havoc** is guaranteed.
 
 **Chaos Theory**: The first hit on a new target always procs **Havoc**.
+
+**Equilibrium**: (#wip) Debuff hitting with differing elements is stronger or procs stronger.
 
 **Mutation**: Burning **Entropy** has a chance to grant you a random temporary buff.
 `duration: 5s`

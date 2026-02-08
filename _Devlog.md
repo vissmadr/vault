@@ -691,3 +691,16 @@ Huge fucking refactor.
 Code seems to be cleaner than ever. Hope so at least.
 
 Now it's time to rush a few features because I am behind from all the social stuff, community building, and game design.
+
+# #wip
+
+Missing a whole week.
+Not that I didn't work, just didn't write here.
+
+# Skills Design
+
+`2026-02-07`
+
+Brainstormed all day.
+
+Came up with many skills. Especially the ones for Fire, Storm, and Chaos.

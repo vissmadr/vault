@@ -13,6 +13,7 @@ Collection of names for talents, items, and abilities.
 
 #wip
 
+Sunder
 Dispersion
 Purge
 Unstable
@@ -95,7 +96,6 @@ Punishment
 Shell
 Elemental Weakness
 Haste
-Overcharge
 Empower
 Orchid
 Avatar
@@ -107,10 +107,13 @@ Burst
 
 ## Fire
 
+Firecloak
+Fireborne
 Pyre
 Macropyre
 Inner Fire
 Flare
+Overclock
 Searing
 Ignite
 Inferno
@@ -131,9 +134,17 @@ Combustion
 Incinerate
 Firestorm
 Disintegrate
+Molten
+Firestarter
+Pyromaniac
+Wildfire
 
 ## Earth
 
+Monolith
+Overgrowth
+Barkskin
+Living Armor
 Carapace
 Natural Order
 Shockwave
@@ -146,9 +157,20 @@ Carrion
 Earthquake
 Pressure
 Fissure
+Tremor
+Quake
+Immovable
 
 ## Storm
 
+Overcharge
+Stormcloak
+Windborne
+Wind Walk
+Surge
+Gale
+Zephyr
+Slipstream
 Gust
 Tempest
 Tailwind
@@ -165,14 +187,29 @@ Static
 Thunder
 Current
 Eye Of The Storm
+Stormfury
 
 ## Chaos
 
+Ruin
+Disruption
+Duality
+Anomaly
+Recursion
+Singularity
+Paradox
+Instability
+Chaos Theory
+Mimic
+Entropy
 Metamorphosis
 Doom
 Fateless
 Spectre
 Spectral
+Schism
+Disorder
+Havoc
 
 ## Frost
 
@@ -243,7 +280,6 @@ Strafe
 
 ## Spirit
 
-Wip
 Tactician
 Strategist
 Curiosity
@@ -296,7 +332,6 @@ Projection
 Shade
 Replica
 Reflection
-Surge
 Presence
 Echo
 Mirror

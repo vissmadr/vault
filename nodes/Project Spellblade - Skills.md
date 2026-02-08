@@ -343,59 +343,45 @@ Clarity Return: Or both?
 Mechanics:
 
 - Generate **Order** over time while in other stances.
-- Entering Chaos stance triggers **Entropy**, which burns **Order**.
+- Entering Chaos stance triggers **Entropy**, burning **Order** quickly.
 - While **Entropy** is burning, Chaos abilities have increased proc chances.
-- Entropy burns strongest at high **Order**, and weakest at low **Order**.
+- **Entropy** burns strongest at high **Order**, and weakest at low **Order**.
 
 Gameplay:
 
-- Generate **Order** in other stances first.
+- Generate **Order** while in other stances.
 - Enter Chaos stance to unleash maximum **Entropy**.
 - Switch away from Chaos stance when **Order** depletes.
 
-Notes:
-
-- **_"High Entropy"_**: When **Order** is over `66%`.
-
-Skills:
+Terminology:
 
 - **Order**: Resource that accumulates over time outside of Chaos stance.
 - **Entropy**: Burns **Order** while in Chaos stance, boosting Chaos procs.
-<!-- - **DOOM**: Causes a massive amount of damage. -->
+- **DOOM**: Causes a massive amount of damage.
 
----
+- **_"High Entropy"_**: When **Order** is burning above two-thirds.
+- **_"Low Entropy"_**: When **Order** is burning below two-thirds.
 
-#wip: Adapt for the new Entropy & Order mechanics.
-#wip: Almost every (or every) Chaos effect should be Entropy-based.
-#wip: All proc chances should be min & max.
-#wip: Add skills that affect Entropy itself, causing it to burn faster/slower.
-#wip: Renames, renames, renames... Potential for good stuff.
+Skills:
 
-**@ WIP @**: Overflowing **Order** causes effect in other stances?
+**Havoc**: Chance on melee attack to trigger a random damaging effect.
+`chance: 0% - 20%`
 
-<!-- **Omen**: Adds **DOOM** to the list of possible **Havoc** effects. -->
-<!-- **Disorder**: Small chance to trigger **DOOM** on any chaos crit. -->
-<!-- `chance: 2%` -->
-<!-- **Ruin**: **DOOM** also stuns. -->
-<!-- `duration: 1s` -->
-
----
-
-**Havoc**: Chance on melee attack to trigger a random effect.
-`chance: 0% - 15%`
-
-**Butterfly Effect**: Consecutive **Havoc** procs on a target increase the chance of more **Havoc** procs on the same target.
+**Chaos Theory**: Consecutive **Havoc** procs against a target increase the chance of more **Havoc** procs on the same target.
 `scalar: 0% - 3%`
 `maxStacks: 5`
 
-**Recursion**: Chance to trigger another **Havoc** on any **Havoc** procs.
+**Recursion**: Chance to trigger another **Havoc** on ANY **Havoc** proc.
 `chance: 0% - 20%`
 
 **Inevitability**: During high **Entropy**, Every `6`-th potential **Havoc** is guaranteed.
 
-**Chaos Theory**: The first hit on a new target always procs **Havoc**.
+**Doombringer**: Adds **DOOM** to the list of possible **Havoc** effects.
 
-**Equilibrium**: (#wip) Debuff hitting with differing elements is stronger or procs stronger.
+**Butterfly Effect**: The first hit against a new target always procs **Havoc**.
+
+**Equilibrium**: Enemies take bonus damage when hit by an element different from the last one that hit them.
+`bonus: 5%`
 
 **Mutation**: Burning **Entropy** has a chance to grant you a random temporary buff.
 `duration: 5s`
@@ -418,26 +404,37 @@ Skills:
 `rotation: 18s`
 `duration: 2s`
 
-**Blur**: Chance to completely evade any attack when moving.
+**Unreasonable**: Enables **DOOM** to also proc **Havoc**.
+
+**Unacceptable**: Enables **DOOM** to also stun.
+
+**Unfortunate**: Enables **DOOM** to also critically hit.
+
+**Diffusion**: Reduces all damage taken.
+`amount: 0% - 20%`
+
+**Dispersion**: Reduces the probability of critical attacks against you.
+`scale: 0% - 30%`
+
+**Blur**: Chance to completely evade any melee attack.
+`chance: 0% - 20%`
+
+**Mirage**: Chance to completely evade any ranged attack.
 `chance: 0% - 20%`
 
 **Spectre**: Chance to completely evade any attack.
 `chance: 0% - 20%`
 
-**Dispersion**: Reduces all damage taken.
-`amount: 0% - 20%`
+**Anomaly**: Small chance that enemy attacks will heal you instead.
+`chance: 0% - 3%`
 
-**Diffusion**: Reduces the probability of critical hits against you.
-`scale: 0% - 30%`
+**Paradox**: Allows **Anomaly** chance to also proc for attacks that have been evaded.
 
-**\_\_\_**: Completely evade every `n`-th attack.
-
-**Anomaly**: Chance that incoming damage will heal you instead.
+**Reflection**: Chance to reflect projectiles back to the attacker.
 `chance: 0% - 10%`
 
-**Paradox**: Allows **Anomaly** to also proc for attacks that have been evaded.
+**Mimic**: When a nearby enemy gains a positive effect, there is a chance to copy it.
+`chance: 0% - 10%`
 
-**\_\_\_**: Completely evade every `n`-th attack.
-
-**Unforseen Consequences**: Evading attacks can redirect them to a random nearby target.
-`chance: 0% - 100%`
+**Schism**: Chance on attack to convert a random positive effect of the target into a random negative one.
+`chance: 0% - 5%`

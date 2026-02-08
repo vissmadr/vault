@@ -161,17 +161,19 @@ Stormfury
 
 ## Chaos
 
-Discord
+<!-- Doom -->
+<!-- Omen -->
+<!-- Chaos Theory -->
+<!-- Schism -->
+<!-- Mimic -->
+<!-- Unforseen Consequences -->
+
 Ruin
-Duality
 Singularity
+Discord
+Duality
 Instability
-Omen
-Chaos Theory
-Mimic
-Doom
 Fateless
-Schism
 Disorder
 Pneuma
 

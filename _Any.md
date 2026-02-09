@@ -1,3 +1,9 @@
+# Mac Throttle
+
+Mac could throttle the FPS.
+
+---
+
 # Shader Guide for Raylib/Zig Games
 
 Since you have WebGL experience, I'll focus on **what's different** in a game context vs full-canvas WebGL.

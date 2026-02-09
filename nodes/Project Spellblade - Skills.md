@@ -7,4 +7,6 @@ context:
 
 # Project Spellblade - Skills
 
+Game design concerning the unlockable skills in the game.
+
 ---

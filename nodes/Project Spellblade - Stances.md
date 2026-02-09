@@ -11,37 +11,6 @@ Game design concerning the stances in the game.
 
 ---
 
-| Stance | Resource | Type     | Use              | Feel      |
-| ------ | -------- | -------- | ---------------- | --------- |
-| Fire   | Heat     | analog   | passive & manual | ignite    |
-| Storm  | Charge   | discrete | manual           | discharge |
-| Earth  | Wisps    | discrete | passive & manual | release   |
-| Chaos  | Entropy  | analog   | passive          | unleash   |
-
-## Cast
-
-### Chaos
-
-"Distortion"
-
-Upon stance activation:
-
-- **Entry**: Ability that gets activated upon stance entry.
-- **Effects**: Duration-based buffs that begin on stance entry and can expire.
-- **Passives**: Persistent buffs that are active while the stance is active.
-
-There can be slots that you put abilities/effects/passives in for each stance, or it can all be unlocked by talents/items. Or both?
-
----
-
----
-
----
-
----
-
----
-
 ## Fire
 
 **Resource**: Heat
@@ -52,18 +21,22 @@ There can be slots that you put abilities/effects/passives in for each stance, o
 
 **Cast**: Ignite
 
+_Aesthetic: Continuous flames out of the caster._
+
 - Medium range in a cone.
 - Channeling in the facing direction of the caster.
 - Rapidly spend Heat to inflict damage and apply/refresh Burn.
 
 ### Problems
 
-**Immolation**:
+**Immolation**
 
-I like the Immolation aesthetic, but how does it work? Main ideas:
+_Engulfing yourself in fire to continuously damage nearby enemies._
 
-- A: Constant immolation while in Fire stance, explaining why the Heat gets drained constantly.
-- B: Immolate yourself for a short duration as a result after using Ignite.
+I like the Immolation aesthetic/mechanic, but how can it be implemented? Main ideas:
+
+- A: Permanent (weaker) immolation while in Fire stance, explaining why the Heat gets drained constantly.
+- B: Immolation activates for a short duration as a result after using Ignite.
 
 ---
 
@@ -76,6 +49,8 @@ I like the Immolation aesthetic, but how does it work? Main ideas:
 - Spent manually in Storm stance by using Discharge.
 
 **Cast**: Discharge
+
+_Aesthetic: Chain lightning._
 
 - Close range attack ability.
 - Instant cast and hit.
@@ -96,6 +71,8 @@ One idea is to activate a buff (Overload) after Discharge, with strength dependi
 
 **Resource**: Wisps
 
+_Aesthetic: Small lights that orbit around you._
+
 - Discrete resource.
 - Gained passively (ticks) while in Earth stance, up to a maximum.
 - Each Wisp provides health regen and protection.
@@ -105,7 +82,7 @@ One idea is to activate a buff (Overload) after Discharge, with strength dependi
 
 ### Problems
 
-**Release**:
+**Undecided Release**:
 
 Figure out what the Release mechanic is.
 
@@ -125,6 +102,8 @@ Figure out what the Release mechanic is.
 
 **Cast**: Unleash
 
+_Aesthetic: Swarm of seeker missile projectiles. Similar to the visuals of Icathian Rain (LoL) and Prismatic Bolt (Torchlight 2)._
+
 - Long range but random.
-- Channeling to release bolts at random directions/targets. (KaiSa)
-- Strength based on current Entropy level.
+- Channeling to release bolts at random directions/targets.
+- Power based on current Entropy level.

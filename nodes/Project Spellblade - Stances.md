@@ -119,7 +119,12 @@ Figure out what the Release mechanic is.
 **Resource**: Order & Entropy
 
 - Analog resource and based on current state.
+- Gained passively (continuous) while in other stances.
+- Drained automatically while in Chaos stance.
+- Entropy level depends on how much Order is left.
 
 **Cast**: Unleash
 
-### Problems
+- Long range but random.
+- Channeling to release bolts at random directions/targets. (KaiSa)
+- Strength based on current Entropy level.

@@ -263,40 +263,19 @@ Skills:
 
 Mechanics:
 
-- Generate **Clarity** constantly, reduced when taking damage.
-- Spend **Clarity** to create **Wisps** that regenerate you.
-- When hit, **Wisps** sacrifice themselves, tanking attacks.
-
-(#wip) Problems:
-
-- The **Wisps** are the Cast of Earth stance. **Clarity** is
-  currently used to generate more **Wisps**. So, what are the
-  other uses of **Clarity**?
-- What bonuses does the normal get in Earth stance? And does
-  it interact with **Clarity**?
-
-(#wip) Ideas:
-
-- (draft 1): high **Clarity** gives passive bonus, meaning you
-  want to have maximum **Clarity** without wasting it. But if
-  needed you have to use your **Clarity** to summon **Wisps**
-  when damaged, otherwise you can die and stuff.
-- (draft 2): **Clarity** is also spent elsewhere, like when Attacking
-  for example. This way you choose between offensive **Clarity** for
-  Attacks and stuns/roots/whatever, and defensive **Clarity** to
-  summon **Wisps** with.
-
-Gameplay:
-
-- Generate **Clarity** constantly, trying to minimize damage taken by default.
-- Enter Earth stance to generate **Wisps** that will heal, protect, and synergize.
+- Enter Earth stance to summon **Wisps** that can will heal, protect, and synergize.
+- Summoned **Wisps** last until killed, even in other stances.
 
 Skills:
 
-- **Wisp**: Summon a **Wisp** that orbits around you and regenerates you. This has
-  a short cast time.
-
-- wip
+**Wisp**: While in Earth stance, constantly summons new **Wisps** every `s` seconds
+up to a maximum of `n` active **Wisps** at a time. **Wisps** have health equal to a
+fraction of your own health. Each **Wisp** will continuously heal you for `h` health
+per second. When you take damage, **Wisps** will sacrifice themselves to intercept
+the attack.
+`summon (s): 1.0s`
+`maxCount (n): 5`
+`heal (h): 2`
 
 ---
 
@@ -339,6 +318,8 @@ Clarity Return: Or both?
 ---
 
 ## Chaos
+
+_draft_
 
 Mechanics:
 
@@ -425,6 +406,8 @@ Skills:
 **Spectre**: Chance to completely evade any attack.
 `chance: 0% - 20%`
 
+WIP: the healing part is weird. The name could be reused to be a Wisp synergy instead?
+Or something else? And then Paradox to target something else?
 **Anomaly**: Small chance that enemy attacks will heal you instead.
 `chance: 0% - 3%`
 

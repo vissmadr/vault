@@ -704,3 +704,11 @@ Not that I didn't work, just didn't write here.
 Brainstormed all day.
 
 Came up with many skills. Especially the ones for Fire, Storm, and Chaos.
+
+# Projectiles and Healthbars
+
+`2026-02-10`
+
+# Render Queue
+
+`2026-02-11`

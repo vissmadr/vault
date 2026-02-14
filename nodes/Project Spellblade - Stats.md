@@ -22,6 +22,23 @@ Examples: `sprint`, `immolationAura`, `shockOnHit`, `secondChance`, `enrageWhenD
 **State**: Storage for runtime state that needs to be constantly updated or queried.
 Examples: `currentHealth`, `position`, `isMoving`, `animatorState`, `isBurning`, `isStunned`.
 
+**Effects**: Temporary runtime effects with duration, meant to temporarily affect the other components.
+Examples: `movespeed_flat`, `movespeed_scale`, `burn_time` `burn_flat`, `immolationAura_unlock`.
+
+**Session**: Single game run from start to finish.
+
+**Session Entry**: All the prerequisite data the Session has started with.
+Examples: `playerAttributesAccumulator`, `playerUnlocks`, `worldMods`.
+
+**Session Data**: Stores data for the current session.
+Examples: `timeElapsed`, `totalDamageTaken`, `totalKills`, `goldCollected`, `abilitiesUsed`.
+
+**Storage**: 
+
+**Map**: 
+
+
+
 ## Components
 
 The game's stats concerning characters is separated into different components.

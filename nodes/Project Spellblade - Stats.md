@@ -16,8 +16,12 @@ The stats system of the game.
 **Attributes**: Values that describe the overall quantity/power/balance of the character.
 Examples: `maxHealth`, `attackDamage`, `modelSize`, `hitboxRadius`, `dashCooldown`, `movespeed`.
 
+**Base Attributes**: Default preset _Attributes_ for each character.
+
 **Unlocks**: Decides whether certain conditional gameplay capabilities are enabled or disabled.
 Examples: `sprint`, `immolationAura`, `shockOnHit`, `secondChance`, `enrageWhenDamaged`.
+
+**Base Unlocks**: Default preset _Unlocks_ for each character.
 
 **State**: Storage for runtime state that needs to be constantly updated or queried.
 Examples: `currentHealth`, `position`, `isMoving`, `animatorState`, `isBurning`, `isStunned`.
@@ -27,47 +31,23 @@ Examples: `movespeed_flat`, `movespeed_scale`, `burn_time` `burn_flat`, `immolat
 
 **Session**: Single game run from start to finish.
 
-**Session Entry**: All the prerequisite data the Session has started with.
+**Session Entry**: The prerequisite data the current _Session_ has started with.
 Examples: `playerAttributesAccumulator`, `playerUnlocks`, `worldMods`.
 
-**Session Data**: Stores data for the current session.
+**Session Data**: Stores runtime data for the current session.
 Examples: `timeElapsed`, `totalDamageTaken`, `totalKills`, `goldCollected`, `abilitiesUsed`.
 
-**Storage**: 
+**Storage**: Persistent storage for off-session data and player progression, such as _Items_ and _Talents_.
 
-**Map**: 
+**Items**: Table of items unlocked by the player.
 
+**Talents**: Table of talents unlocked by the player.
 
+**Map**: Stores the data of different maps.
 
-## Components
+## Connections
 
-The game's stats concerning characters is separated into different components.
+Values that are already set before the _Session_ has even started:
 
-## Layers
-
-The components can broadly be organized into three layers.
-
-### Data Layer
-
-Preset data coming from the game design balancing as well as persistent storage.
-
-**Base Attributes**: The default _Attributes_ of the character.
-**Storage**:
-**Map**:
-**Base Unlocks**:
-
-### Session Layer
-
-**Items**:
-**Talents**:
-**World Mods**:
-
-**Session**:
-
-### Dynamic Layer
-
-**Attributes**:
-**Session Data**:
-**Unlocks**:
-**State**:
-**Effects**:
+- The player's _Base Attributes_ and _Base Unlocks_.
+- The _Session Entry_, consisting of the _Map_ data, as well as the player's equipped _Items_ and unlocked _Talents_, both coming from the _Storage_.

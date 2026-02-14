@@ -1,4 +1,30 @@
+**Attributes**: 
+
+```
+┌─────────────────────────────────────────────────────────┐
+│ SPAWN (once)                                            │
+│                                                         │
+│   sessionAccumulator = Items + Talents + World          │
+│   (cached, immutable)                                   │
+└─────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────┐
+│ RUNTIME (per-frame)                                     │
+│                                                         │
+│   dynamicAccumulator = Effects + Skills                 │
+│                                                         │
+│   frameAttributes = apply(                              │
+│       presetAttributes,                                 │
+│       sessionAccumulator,                               │
+│       dynamicAccumulator                                │
+│   )                                                     │
+└─────────────────────────────────────────────────────────┘
+```
+
 # Design
+
+Think about roguelike progression still, with the skills just as in-run stuff.
+
+---
 
 **Stances**:
 

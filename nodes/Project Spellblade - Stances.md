@@ -11,6 +11,16 @@ Game design concerning the stances in the game, and their overall gameplay.
 
 ---
 
+## Ideas
+
+**Entry**: Effects/Spells on entry
+
+**First Hit**: After Stance entry → first attack hit
+
+**Last Combo Hit**: The last (4th?) combo hit to cast a spell
+
+---
+
 ## Fire
 
 **Resource**: Heat

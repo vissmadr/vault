@@ -709,6 +709,6 @@ Came up with many skills. Especially the ones for Fire, Storm, and Chaos.
 
 `2026-02-10`
 
-# Render Queue
+# Render Queue, Attack Combos, Hazards
 
 `2026-02-11`

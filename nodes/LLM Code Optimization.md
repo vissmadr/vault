@@ -41,3 +41,8 @@ Strongly preferred:
 _Comments help when they explain why, not what._
 
 LLMs already know what code does syntactically.
+
+
+
+
+

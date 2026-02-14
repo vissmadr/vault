@@ -13,12 +13,12 @@ The stats system of the game.
 
 ## Concepts
 
-**Attributes**: Values that describe the overall quantity/power/balance of the character.
+**Attributes**: Values that describe the overall parameters of the character.
 Examples: `maxHealth`, `attackDamage`, `modelSize`, `hitboxRadius`, `dashCooldown`, `movespeed`.
 
 **Base Attributes**: Default preset _Attributes_ for each character.
 
-**Unlocks**: Decides whether certain conditional gameplay capabilities are enabled or disabled.
+**Unlocks**: Gated conditional gameplay capabilities flags.
 Examples: `sprint`, `immolationAura`, `shockOnHit`, `secondChance`, `enrageWhenDamaged`.
 
 **Base Unlocks**: Default preset _Unlocks_ for each character.
@@ -29,15 +29,15 @@ Examples: `currentHealth`, `position`, `isMoving`, `animatorState`, `isBurning`,
 **Effects**: Temporary runtime effects with duration, meant to temporarily affect the other components.
 Examples: `movespeed_flat`, `movespeed_scale`, `burn_time` `burn_flat`, `immolationAura_unlock`.
 
-**Session**: Single game run from start to finish.
+**Run**: Single game run from start to finish.
 
-**Session Entry**: The prerequisite data the current _Session_ has started with.
+**Run Entry**: The prerequisite data the current _Run_ has started with.
 Examples: `playerAttributesAccumulator`, `playerUnlocks`, `worldMods`.
 
-**Session Data**: Stores runtime data for the current session.
+**Run State**: Stores runtime state data for the current _Run_.
 Examples: `timeElapsed`, `totalDamageTaken`, `totalKills`, `goldCollected`, `abilitiesUsed`.
 
-**Storage**: Persistent storage for off-session data and player progression, such as _Items_ and _Talents_.
+**Storage**: Persistent storage for off-_Run_ data and player progression, such as _Items_ and _Talents_.
 
 **Items**: Table of items unlocked by the player.
 
@@ -52,6 +52,6 @@ Values that are already set before the _Session_ has even started:
 - The player's _Base Attributes_ and _Base Unlocks_.
 - The _Session Entry_, consisting of the _Map_ data, as well as the player's equipped _Items_ and unlocked _Talents_, both coming from the _Storage_.
 
-When the session begins, the _Session Entry_ needs to be calculated. It accumulates all of the stats coming from _Items_, _Talents_, _Map_, 
+When the session begins, the _Session Entry_ needs to be calculated. It accumulates all of the stats coming from _Items_, _Talents_, _Map_, #wip
 
 The _Session Entry_ accumulates all of its player _Attributes_ into an accumulator, as well as all of the _Unlocks_.

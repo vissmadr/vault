@@ -1,3 +1,9 @@
+Modifiers Skills patch.
+
+Not using flags and stuff, instead getting them from one place.
+
+---
+
 **Attributes**: 
 
 ```

@@ -51,3 +51,7 @@ Values that are already set before the _Session_ has even started:
 
 - The player's _Base Attributes_ and _Base Unlocks_.
 - The _Session Entry_, consisting of the _Map_ data, as well as the player's equipped _Items_ and unlocked _Talents_, both coming from the _Storage_.
+
+When the session begins, the _Session Entry_ needs to be calculated. It accumulates all of the stats coming from _Items_, _Talents_, _Map_, 
+
+The _Session Entry_ accumulates all of its player _Attributes_ into an accumulator, as well as all of the _Unlocks_.

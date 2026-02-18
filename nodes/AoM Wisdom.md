@@ -23,9 +23,9 @@ context:
 
 **Water Maps**: Either play dock vs dock, or scout to see if there are docks early and try to deny them with army. Whoever controls the water usually wins.
 
-**Gold Deny**: Gold seems like the most important resource in the late game. Deny the gold of the opponent. Other resources cannot be denied.
+**Gold Deny**: Gold seems like the most important resource in the late game. Deny the gold of the opponent. Other resources cannot really be denied.
 
-**Resource Patrol**: Use patrolling units on enemy resources.
+**Resource Patrol**: Use cheap/fast patrolling units on enemy resources.
 
 ## Macro
 

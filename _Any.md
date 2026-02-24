@@ -1,3 +1,9 @@
+# Auto Aim
+
+Idea: `onPress` start the cast and WASD are for rotation in place. `onRelease` the projectile is released towards the facing direction.
+
+---
+
 # Design
 
 Think about roguelike progression still, with the skills just as in-run stuff.

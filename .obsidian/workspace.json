@@ -6,6 +6,7 @@
       {
         "id": "6b76c146450f7432",
         "type": "tabs",
+        "dimension": 50.047528517110266,
         "children": [
           {
             "id": "ae88fcc72a411370",
@@ -13,12 +14,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Project Spellblade - Skills.md",
+                "file": "nodes/Eric's Diamond.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Project Spellblade - Skills"
+              "title": "Eric's Diamond"
+            }
+          }
+        ]
+      },
+      {
+        "id": "fe4f12d0d406e964",
+        "type": "tabs",
+        "dimension": 49.952471482889734,
+        "children": [
+          {
+            "id": "0db0741727672ea3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodes/Self-defense.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Self-defense"
             }
           }
         ]
@@ -151,8 +173,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ae88fcc72a411370",
+  "active": "0db0741727672ea3",
   "lastOpenFiles": [
+    "nodes/Eric's Diamond.md",
+    "nodes/Eric's Diamond.md~",
+    "nodes/Stoicism and Religion are Incompatible.md",
+    "nodes/Vector.md",
+    "nodes/Adaptive Volatility.md",
+    "nodes/Project Spellblade - Skills.md",
     "nodes/Project Spellblade - Skills.md~",
     "nodes/Project Spellblade - Names.md~",
     "nodes/4913",
@@ -161,7 +189,6 @@
     "_Draft.md~",
     "nodes/Iterative Game Development and Design.md",
     "nodes/Game Mechanics Ideas.md",
-    "nodes/Vector.md",
     "nodes/LLM Code Optimization.md",
     "nodes/LLM Code Optimization.md~",
     "nodes/Linear Transformation.md",
@@ -177,18 +204,12 @@
     "nodes/Skeletal Animation.md~",
     "nodes/ASdasdasd.md",
     "nodes/Selfish Honesty.md",
-    "nodes/Remote Procedure Call (RPC).md~",
     "nodes/Remote Procedure Call (RPC).md",
-    "nodes/Deep Q-Network (DQN).md~",
     "nodes/Deep Q-Network (DQN).md",
     "nodes/Proximal Policy Optimization (PPO).md",
     "nodes/Deep Q-Network.md",
     "nodes/Proximal Policy Optimization.md",
     "nodes/Reinforcement Learning.md",
-    "nodes/Large Language Model (LLM).md",
-    "nodes/Model Context Protocol (MCP).md",
-    "nodes/King's Indian.md",
-    "nodes/MermaidJS.md",
     "Untitled.canvas",
     "las.png",
     "Argus.canvas",

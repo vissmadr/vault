@@ -1,3 +1,23 @@
+| scale | width | height |
+| ----- | ----- | ------ |
+| x1    | 640   | 360    |
+| x2    | 1280  | 720    |
+| x3    | 1920  | 1080   |
+| x4    | 2560  | 1440   |
+| x5    | 3200  | 1800   |
+| x6    | 3840  | 2160   |
+
+| Monitor | Scale | Result    |
+| ------- | ----- | --------- |
+| 720p    | x2    | 1280×720  |
+| 1080p   | x3    | 1920×1080 |
+| 1440p   | x4    | 2560×1440 |
+| 4K      | x6    | 3840×2160 |
+
+---
+
+11:30 - 12:00 camera
+
 # Auto Aim
 
 Idea: `onPress` start the cast and WASD are for rotation in place. `onRelease` the projectile is released towards the facing direction.

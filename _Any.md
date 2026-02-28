@@ -1,3 +1,18 @@
+# Resolution & Scale
+
+
+| Monitor | Scale | Result    |
+| ------- | ----- | --------- |
+| 720p    | x2    | 1280×720  |
+| 1080p   | x3    | 1920×1080 |
+| 1440p   | x4    | 2560×1440 |
+| 4K      | x6    | 3840×2160 |
+
+| 720p | 1280×720 |
+| 1080p | 1920×1080 |
+| 1440p | 2560×1440 |
+| 4K | 3840×2160 |
+
 # 3D to 2D Pipeline
 
 ## Context
@@ -52,31 +67,6 @@ Equipment swapping is just changing which spritesheet is active for a given slot
 3. Add remaining slots. Connect equipment selection to spritesheet indices.
 4. Animate all animations, batch-render all spritesheets.
 5. Remove old monolithic spritesheets.
-
-# Resolution & Scale
-
-| scale | width | height |
-| ----- | ----- | ------ |
-| x1    | 640   | 360    |
-| x2    | 1280  | 720    |
-| x3    | 1920  | 1080   |
-| x4    | 2560  | 1440   |
-| x5    | 3200  | 1800   |
-| x6    | 3840  | 2160   |
-
-| Monitor | Scale | Result    |
-| ------- | ----- | --------- |
-| 720p    | x2    | 1280×720  |
-| 1080p   | x3    | 1920×1080 |
-| 1440p   | x4    | 2560×1440 |
-| 4K      | x6    | 3840×2160 |
-
-| 720p | 1280×720 |
-| 1080p | 1920×1080 |
-| 1440p | 2560×1440 |
-| 4K | 3840×2160 |
-
----
 
 11:30 - 12:00 camera
 

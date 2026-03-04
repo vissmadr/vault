@@ -29,6 +29,8 @@ Distributed version control system.
 - `git diff`: Show unstaged changes.
 - `git diff --staged`: Show staged changes.
 
+- `git show <commit>`: Show commit changes.
+
 - `git branch -a`: Show all branches.
 - `git checkout branchName`: Checkout to a branch.
 

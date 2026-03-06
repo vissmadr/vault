@@ -1,3 +1,68 @@
+# Plan
+
+Just learn some Blender basics.
+
+The character pipeline will work.
+
+# Lights and Shadows
+
+Why This Works Psychologically
+
+The player reads:
+
+**Shadows**: = structure (sun)
+**Glows**: = light sources (fire, magic)
+**Color**: = mood
+
+# Light Torches
+
+Implementation: Torch Lighting Stack
+Layer 1: Additive Glow (Primary)
+
+Draw a soft radial sprite at torch position
+
+Additive blend
+
+Warm color (orange/yellow)
+
+This sells “light” instantly.
+
+Layer 2: Local Color Tint (Optional)
+
+For entities near the torch:
+
+Slight warm tint
+
+Slight brightness boost
+
+Example:
+
+final_color = lerp(base_color, warm_color, intensity)
+
+Distance-based falloff.
+
+Layer 3: Shadow Softening (Optional)
+
+Near a torch:
+
+Slightly reduce floor shadow alpha
+
+Never reverse direction
+
+This suggests ambient fill light.
+
+# HLD
+
+HYPERLIGHT DRIFTER STUDY
+
+Study the game feel, aesthetics, and character animations.
+
+People say the combat feels heavier and clunkier then it should be.
+
+# t3ssel8r
+
+https://www.youtube.com/watch?v=1FrIBkuq0ZI
+
 # Resolution & Scale
 
 

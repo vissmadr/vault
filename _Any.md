@@ -1,3 +1,18 @@
+# 3D
+
+Plan:
+1. Concept art
+2. Generate 3D from the concept art. Doesn't have to be perfect. Ton of tools that claim to do this well.
+3. Create 3D animations. Try the mocap thing.
+4. Animate the generated 3D models with the new animations.
+5. Pipeline to output as 2D.
+
+Research this: `auteddy.itch.io/`
+
+OpenSource 3D animation: https://www.youtube.com/watch?v=a9t8Wg3UQ6U
+
+(good) Full process from image to 3D animated model: https://www.youtube.com/watch?v=mXlD8jKSa7s
+
 # Plan
 
 Just learn some Blender basics.

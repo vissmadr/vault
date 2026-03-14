@@ -1,4 +1,20 @@
-bruh
+# Mechanics
+
+J: Attack
+K: Dash
+I: Quas
+O: Wex
+P: Exort
+
+Power resource maybe? Generated mostly from melee.
+
+Double tap to cast orbs into spells.
+
+Dash can reset the first orb.
+
+Orbs can also activate the Attack.
+
+Figure out if cooldowns vs free.
 
 # 3D
 

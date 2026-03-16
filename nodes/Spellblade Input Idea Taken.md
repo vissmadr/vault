@@ -54,8 +54,9 @@ So I started optimizing for that system.
 
 ## Optimization Process
 
-
 ## SUDDENLY, MERLIN!
+
+_On two different planets without contact, intelligent species would both eventually figure out what PI is._
 
 #wip
 

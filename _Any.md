@@ -1,3 +1,5 @@
+What is GPT AI "Patch" vs "Edit"
+
 # Mechanics
 
 J: Attack

@@ -11,6 +11,20 @@ Player spells and abilities.
 
 ---
 
+| Keys | Stance1   | Stance2 |
+| ---- | --------- | ------- |
+| `QQ` | Fireballs | -       |
+| `QW` | Meteors   | -       |
+| `QE` | Bombs     | -       |
+| `WQ` | Slash     | -       |
+| `WW` | Shield    | -       |
+| `WE` | -         | -       |
+| `EQ` | Haunt     | -       |
+| `EW` | Empower   | -       |
+| `EE` | Stance2   | Stance1 |
+
+---
+
 | Keys | Normal             | Empowered               |
 | ---- | ------------------ | ----------------------- |
 | `QQ` | Spread Projectiles | Single Projectile       |

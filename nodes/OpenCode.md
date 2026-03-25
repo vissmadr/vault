@@ -13,6 +13,9 @@ OpenCode is an [[Open Source]] [[Artificial Intelligence|AI]] coding agent.
 
 ---
 
+#wip
+TODO: check all the flags
+
 ## Modes
 
 - **Plan**: Use for reasoning and asking questions.

@@ -1,3 +1,5 @@
+NEOVIM boolean toggle
+
 ## The problem
 
 Your game runs on monitors of different sizes (720p, 1080p, 1440p, 4K) and different aspect ratios (16:9, 4:3, 21:9). You need every player to have a consistent gameplay experience, sharp visuals, and you want to apply screen-wide shader effects (bloom, vignette, etc.).

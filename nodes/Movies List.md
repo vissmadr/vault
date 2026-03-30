@@ -79,6 +79,7 @@ Personal list of great movies.
 | Se7en                          | 7     |
 | Fury                           | 7     |
 | Jarhead                        | 7     |
+| It Was Just an Accident        | 7     |
 | Life of Pi                     | 7     |
 | Inception                      | 7     |
 | True Romance                   | 7     |

@@ -4,30 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "6b76c146450f7432",
-        "type": "tabs",
-        "dimension": 50.047528517110266,
-        "children": [
-          {
-            "id": "ae88fcc72a411370",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/Eric's Diamond.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Eric's Diamond"
-            }
-          }
-        ]
-      },
-      {
         "id": "fe4f12d0d406e964",
         "type": "tabs",
-        "dimension": 49.952471482889734,
         "children": [
           {
             "id": "0db0741727672ea3",
@@ -35,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Self-defense.md",
+                "file": "nodes/Screen Resolutions.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Self-defense"
+              "title": "Screen Resolutions"
+            }
+          },
+          {
+            "id": "a57e4b3d31217344",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
             }
           }
         ]
@@ -176,6 +166,7 @@
   "active": "0db0741727672ea3",
   "lastOpenFiles": [
     "nodes/Eric's Diamond.md",
+    "nodes/Screen Resolutions.md",
     "nodes/Eric's Diamond.md~",
     "nodes/Stoicism and Religion are Incompatible.md",
     "nodes/Vector.md",

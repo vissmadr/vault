@@ -1,3 +1,8 @@
+---
+aliases:
+context:
+---
+
 # Recursion
 
 #empty

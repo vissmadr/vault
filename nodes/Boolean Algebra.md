@@ -1,1 +1,6 @@
+---
+aliases:
+context:
+---
+
 # Boolean Algebra

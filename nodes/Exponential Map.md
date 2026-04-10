@@ -1,3 +1,8 @@
+---
+aliases:
+context:
+---
+
 # Exponential Map
 #empty
 

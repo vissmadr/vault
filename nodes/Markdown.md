@@ -1,2 +1,7 @@
+---
+aliases:
+context:
+---
+
 # Markdown
 #empty

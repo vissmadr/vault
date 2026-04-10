@@ -1,3 +1,8 @@
+---
+aliases:
+context:
+---
+
 # Particles
 
 #empty

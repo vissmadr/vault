@@ -58,6 +58,7 @@ Personal list of great movies.
 | Goodfellas                     | 8     |
 | Casino                         | 8     |
 | Heat                           | 8     |
+| The Town                       | 8     |
 | A.I. Artificial Intelligence   | 8     |
 | Into the Wild                  | 8     |
 | Kill Bill                      | 8     |

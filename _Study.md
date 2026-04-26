@@ -23,6 +23,9 @@ Will be able to:
 
 [Tutorial](https://www.youtube.com/watch?v=z-Xl9tGqH14)
 
+- [x] Part 1
+- [ ] Part 2
+
 # Important
 
 _**THE DREAM**_

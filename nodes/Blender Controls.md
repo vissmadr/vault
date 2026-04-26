@@ -9,6 +9,9 @@ context:
 
 `~`: view-related radial menu.
 
+`w`: selection mode
+`a`: select all
+
 `x`: delete
 `shift A`: add
 
@@ -23,9 +26,11 @@ context:
 
 `tab`: toggle edit mode
 
-`shift n`: recalculate normals
-
 `z`: viewport
+
+`shift d`: duplicate objects
+
+`o`: proportional editing
 
 ## Edit Mode
 
@@ -41,3 +46,6 @@ context:
 `g g`: edge slide
 
 `f`: face
+
+`m`: merge
+`shift n`: recalculate normals

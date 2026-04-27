@@ -35,8 +35,6 @@ context:
 `ctrl 1 2 3`: subdivision surface
 `ctrl a`: apply modifier
 
-`k`: knife
-
 `ctrl j`: join objects
 
 ## Edit Mode
@@ -45,10 +43,16 @@ context:
 `2`: select mode: edge
 `3`: select mode: face
 
-`ctrl r`: loop cut
-
 `e`: extrude
 `i`: inset
+
+`v`: rip
+
+`ctrl r`: loop cut
+
+`ctrl b`: bevel
+
+`k`: knife
 
 `g g`: edge slide
 

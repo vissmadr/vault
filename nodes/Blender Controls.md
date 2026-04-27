@@ -32,6 +32,13 @@ context:
 
 `o`: proportional editing
 
+`ctrl 1 2 3`: subdivision surface
+`ctrl a`: apply modifier
+
+`k`: knife
+
+`ctrl j`: join objects
+
 ## Edit Mode
 
 `1`: select mode: vertex
@@ -46,6 +53,15 @@ context:
 `g g`: edge slide
 
 `f`: face
+`j`: join
 
 `m`: merge
 `shift n`: recalculate normals
+
+`h`: hide selected
+`shift h`: hide unselected
+`alt h`: unhide everything
+
+## Inset
+
+`b`: boundary

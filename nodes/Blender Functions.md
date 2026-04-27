@@ -21,6 +21,7 @@ Modifiers go from top to bottom.
 
 ### Useful Modifiers
 
-Solidify
-
-Subdivision Surface
+- Solidify
+- Subdivision Surface
+- Boolean
+- Wireframe

@@ -1,5 +1,3 @@
-# Links
-
 [t3ssel8r](https://www.youtube.com/watch?v=1FrIBkuq0ZI)
 . Study this man.
 
@@ -9,10 +7,12 @@
 
 [Open Source 3D Animation](https://www.youtube.com/watch?v=a9t8Wg3UQ6U)
 
-## Blender Links
-
-[Thomas Low-poly Character](https://www.youtube.com/watch?v=XcDzDk0YjNo)
-[Thomas Rigging](https://www.youtube.com/watch?v=vYacTJQ2_BE)
+# Blender Guides
 
 [Low-poly Character and Decimate](https://www.youtube.com/watch?v=7QiewPqkG80)
 
+[Thomas Low-poly Character](https://www.youtube.com/watch?v=XcDzDk0YjNo)
+
+[Thomas Rigging](https://www.youtube.com/watch?v=vYacTJQ2_BE)
+[Rigging Beginner 45min](https://www.youtube.com/watch?v=MhQMLMQMZJ0)
+[Easy Rigging Using Rigify](https://www.youtube.com/watch?v=RdTuAY23vzk)

@@ -24,7 +24,9 @@ Will be able to:
 [Tutorial](https://www.youtube.com/watch?v=z-Xl9tGqH14)
 
 - [x] Part 1
-- [ ] Part 2
+- [x] Part 2
+- [x] Part 3
+- [x] Part 4
 
 # Important
 

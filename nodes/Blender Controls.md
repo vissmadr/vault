@@ -3,8 +3,6 @@ context:
   - "[[Blender]]"
 ---
 
-#wip
-
 # Blender Controls
 
 `~`: view-related radial menu.
@@ -51,6 +49,8 @@ context:
 `ctrl r`: loop cut
 
 `ctrl b`: bevel
+
+`ctrl p`: parent
 
 `k`: knife
 

@@ -9,10 +9,10 @@
 
 # Blender Guides
 
-[Low-poly Character and Decimate](https://www.youtube.com/watch?v=7QiewPqkG80)
+- [x] [Low-poly Character and Decimate](https://www.youtube.com/watch?v=7QiewPqkG80)
 
-[Thomas Low-poly Character](https://www.youtube.com/watch?v=XcDzDk0YjNo)
+- [x] [Thomas Low-poly Character](https://www.youtube.com/watch?v=XcDzDk0YjNo)
+- [x] [Thomas Rigging](https://www.youtube.com/watch?v=vYacTJQ2_BE)
 
-[Thomas Rigging](https://www.youtube.com/watch?v=vYacTJQ2_BE)
 [Rigging Beginner 45min](https://www.youtube.com/watch?v=MhQMLMQMZJ0)
 [Easy Rigging Using Rigify](https://www.youtube.com/watch?v=RdTuAY23vzk)

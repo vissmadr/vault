@@ -19,6 +19,26 @@
 
 # 3D Pixel Art
 
-[Recreating t3ssel8r style 3D pixel art in Godot](https://www.youtube.com/watch?v=g1vH3HeePco)
+[Theory & Tutorial](https://youtu.be/7wwE5FLZceY)
 
+[Pixel Perfect Outlines](https://www.youtube.com/watch?v=LRDpEnpWohM)
+
+[How I solved my biggest pixel art problem | Pixel Perfect](https://youtu.be/Ua2EXkOmrpA)
 [How my 3D PIXEL ART Camera Works](https://www.youtube.com/watch?v=LQfAGAj9oNQ)
+
+## Dylearn
+
+[MAIN](https://youtu.be/g1vH3HeePco)
+
+## David Holland
+
+[Showcase](https://youtu.be/dXvvVOVH50w)
+[Article](https://www.davidhol.land/articles/3d-pixel-art-rendering/)
+
+## t3ssel8r
+
+[Making an Animation for my 3D Pixel Art Game](https://youtu.be/1FrIBkuq0ZI)
+[Creating a Scene for my 3D Pixel Art Game](https://youtu.be/ERA7-I5nPAU)
+[Giving Personality to Procedural Animations using Math](https://www.youtube.com/watch?v=KPoeNZZ6H4s)
+[Dynamic 3D Pixel Art Particle Lighting](https://youtu.be/0xJqzUHJ2fI)
+[Crafting a Better Shader for Pixel Art Upscaling](https://youtu.be/d6tp43wZqps)

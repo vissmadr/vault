@@ -13,13 +13,19 @@ The story of the game.
 
 ## NEW
 
-Bleeding stone.
+Peaceful yet mysterious world.
 
-Explore a mysterious world.
+Serenity after a long time.
 
-There were the gods that left.
+Well-mannered tests.
 
-They were made by humans.
+The one to (?) activate the world must complete the challenges.
+
+The sentinels are there to test the trial.
+
+No hard feelings.
+
+Martial arts respect.
 
 ---
 

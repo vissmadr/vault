@@ -35,6 +35,8 @@ context:
 
 `ctrl j`: join objects
 
+`ctrl l`: link (multiple selected)
+
 ## Edit Mode
 
 `1`: select mode: vertex

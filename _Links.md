@@ -16,3 +16,9 @@
 
 [Rigging Beginner 45min](https://www.youtube.com/watch?v=MhQMLMQMZJ0)
 [Easy Rigging Using Rigify](https://www.youtube.com/watch?v=RdTuAY23vzk)
+
+# 3D Pixel Art
+
+[Recreating t3ssel8r style 3D pixel art in Godot](https://www.youtube.com/watch?v=g1vH3HeePco)
+
+[How my 3D PIXEL ART Camera Works](https://www.youtube.com/watch?v=LQfAGAj9oNQ)

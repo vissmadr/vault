@@ -11,6 +11,19 @@ The story of the game.
 
 ---
 
+## NEW
+
+Bleeding stone.
+
+Explore a mysterious world.
+
+There were the gods that left.
+
+They were made by humans.
+
+---
+
+
 Death: Could wake up (respawn) every time near the beggar (Sage), who comments on the way you died and possibly makes fun of you.
 
 ---

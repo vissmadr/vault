@@ -47,17 +47,10 @@ The pixel is considered an edge if the difference in depth between it and its ne
 Surface normal vector angles are compared by dot product. The dot product tells us about their alignment relative to eachother.
 This alignment is then checked against a threshold to determine if the pixel qualifies as an edge or not.
 
---- #wip
-
-## Edge Highlights
-
-**Outer Highlights**: The shader looks for the depth information for a particular pixel on the screen and compares it to its surrounding points.
-If the difference in depth between the original and each of its neighbors hits a certain threshold, it sets that pixel as an edge, mixing the original pixel color of that pixel with your highlight color.
-
-**Inner Highlights**: For each pixel, the shader checks the surface direction (otherwise known as the 'normal'), again comparing it to surrounding points. This time however, it's looking for changes in the angle between normals, like you would see at an edge or a corner.
-Calculating the dot product of the original point and each of its neighbors tells us about their alignment relative to eachother.
-This is then checked against a threshold to determine if the pixel qualifies as an edge or not.
-
-**Bonus**: To elevate this even further, we can use the attenuation of the light shader to lighten or darken edges based on their lighting information.
+#wip **Bonus**: To elevate this even further, we can use the attenuation of the light shader to lighten or darken edges based on their lighting information.
 
 ## Models
+
+#wip
+
+Probably stones NOT triangulated?

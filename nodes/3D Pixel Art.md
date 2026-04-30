@@ -14,7 +14,11 @@ Digital art style that attempts to combine the qualities of [[Pixel Art]] and [[
 
 _Heavily inspired by the art of t3ssel8r._
 
-#wip "Flexible Toon Shader"
+## Pixel Effect
+
+The pixel effect mostly comes from rendering the 3D scene into a small internal resolution, and then scaling that image up without smoothing.
+The key part is using [[Nearest-neighbor Interpolation|nearest-neighbor]] texture filtering. This is to prevent blurry upscaling.
+Example: scaling up a `640x360` render texture `3.0` times using `TEXTURE_FILTER_POINT` for a `1920x1080` output.
 
 ## Debug Views
 
@@ -23,6 +27,7 @@ Each axis is mapped to RGB color.
 
 **Depth**: Grayscale distance map. Shows how far each visible pixel is from the camera.
 Darker usually means closer, lighter usually means farther.
+See [[Depth Shader]]
 
 ## Stepped Lighting
 
@@ -30,6 +35,8 @@ Pixel art often defines color palettes with multiple shades per color.
 
 The idea is to take the initial lighting and define threshold values.
 The lighting then clamps to the nearest threshold, giving it a step-like appearance.
+
+See [[Stepped Lighting]].
 
 ## Edge Highlights
 

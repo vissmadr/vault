@@ -4,11 +4,9 @@ context:
   - "[[Computer Graphics]]"
 ---
 
-#empty
-
 # 3D Pixel Art
 
-Digital art style that attempts to combine the qualities of [[Pixel Art]] and [[3D Graphics]] together.
+Digital art style that blends [[Pixel Art]] aesthetics and [[3D Graphics]] together.
 
 ---
 
@@ -40,6 +38,19 @@ See [[Stepped Lighting]].
 
 ## Edge Highlights
 
+Edge pixels are visualized by mixing the original pixel color with an edge highlight color.
+
+**Outer Highlights**: Visualizes differences in depth, where each pixel is compared against its surrounding neighbors.
+The pixel is considered an edge if the difference in depth between it and its neighbors passes a certain threshold.
+
+**Inner Highlights**: Visualizes differences in surface normal direction, where each pixel is compared against its surrounding neighbors.
+Surface normal vector angles are compared by dot product. The dot product tells us about their alignment relative to eachother.
+This alignment is then checked against a threshold to determine if the pixel qualifies as an edge or not.
+
+--- #wip
+
+## Edge Highlights
+
 **Outer Highlights**: The shader looks for the depth information for a particular pixel on the screen and compares it to its surrounding points.
 If the difference in depth between the original and each of its neighbors hits a certain threshold, it sets that pixel as an edge, mixing the original pixel color of that pixel with your highlight color.
 
@@ -50,5 +61,3 @@ This is then checked against a threshold to determine if the pixel qualifies as 
 **Bonus**: To elevate this even further, we can use the attenuation of the light shader to lighten or darken edges based on their lighting information.
 
 ## Models
-
-#wip

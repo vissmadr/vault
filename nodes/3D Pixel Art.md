@@ -14,7 +14,15 @@ Digital art style that attempts to combine the qualities of [[Pixel Art]] and [[
 
 _Heavily inspired by the art of t3ssel8r._
 
-See: [Dylearn](https://www.youtube.com/watch?v=g1vH3HeePco)
+#wip "Flexible Toon Shader"
+
+## Debug Views
+
+**Normals**: Displays the directions of [[Normal Map|normals]] by encoding them as colors.
+Each axis is mapped to RGB color.
+
+**Depth**: Grayscale distance map. Shows how far each visible pixel is from the camera.
+Darker usually means closer, lighter usually means farther.
 
 ## Stepped Lighting
 
@@ -22,8 +30,6 @@ Pixel art often defines color palettes with multiple shades per color.
 
 The idea is to take the initial lighting and define threshold values.
 The lighting then clamps to the nearest threshold, giving it a step-like appearance.
-
-#wip "Flexible Toon Shader"
 
 ## Edge Highlights
 

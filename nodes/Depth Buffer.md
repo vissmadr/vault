@@ -18,3 +18,7 @@ Manages occlusion of objects - that is, which objects should be visible and whic
 Stores memory for the depth of every pixel on the screen.
 
 Without a Z-buffer, distant objects might incorrectly appear in front of closer objects.
+
+If multiple fragments try to draw to the same pixel, the depth buffer keeps the closest one.
+
+With the usual depth convention, smaller values are closer to the camera.

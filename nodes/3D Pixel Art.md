@@ -51,6 +51,7 @@ This alignment is then checked against a threshold to determine if the pixel qua
 
 ## Models
 
-#wip
+#wip small bevels break stuff - prefer no bevels
 
-Probably stones NOT triangulated?
+#wip Probably stones NOT triangulated?
+

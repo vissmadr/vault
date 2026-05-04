@@ -713,11 +713,109 @@ Came up with many skills. Especially the ones for Fire, Storm, and Chaos.
 
 `2026-02-11`
 
----
+Worked on combat feel and basic visual structure.
 
-CONTINUE 2026-05-04
+Added healthbars, render queue work, attack combos, melee knockback, hit/debug collision rendering, and started turning stationary projectiles into hazards.
 
----
+# Player Systems
+
+`2026-02-16`
+
+Large player/run/loadout refactor.
+
+Worked on effects, talents, skills, attributes, and cleaner data-backed player state.
+
+# Enemy Combat & Config
+
+`2026-02-20`
+
+Built more enemy combat loop pieces.
+
+Corpses, stagger slow, body collisions, enemy attacks, damage numbers, aim assist, and moving game data into external config/TOML.
+
+# Firebombs, Saves, Ranged Enemies
+
+`2026-02-25`
+
+Iterated on firebombs, Backstab, hit flash, combat tuning, grid/camera/window/map logic, save defaults, and ranged enemies with enemy projectiles.
+
+# Tilemaps & Combat VFX
+
+`2026-03-01`
+
+Reorganized docs and worked on world/tilemap support.
+
+Added screen shake, forest/world tilemaps, tinting, larger spritesheets, hitstop improvements, outline/vignette shaders, and slash arc rendering.
+
+# Particles & Enemy Effects
+
+`2026-03-06`
+
+Worked on particles, afterimages, slash arc particles, aura logic, armor, and effect/state/skill cleanup.
+
+Also started broader technique/combo/stance work.
+
+# UI, Items, Summons
+
+`2026-03-11`
+
+First big UI and item pass.
+
+Moved items toward data config, added inventory-ish UI/assets/icons, crash log, pause fixes, summon work, and more technique/VFX cleanup.
+
+# Chrono & Charges
+
+`2026-03-19`
+
+Heavy technique iteration.
+
+Added enemy kiting, charges and charge indicators, environment particles, chrono/time mechanics, and removed the old combo system.
+
+# Spirit Orbs, Bombs, Shield
+
+`2026-03-28`
+
+Iterated on stances, charge, chrono marks, spirit orbs, channeled fireball, beam/meteor/bomb/black hole variants, shield, dash sprint, waves, and control experiments.
+
+# Combat Redesign
+
+`2026-04-05`
+
+Prototyped a different combat direction.
+
+Removed old parry ideas, added projectile deflect, aim assist updates, style meter, statistics, visual-height rendering, hitbox updates, and autoattack.
+
+# Ability System
+
+`2026-04-14`
+
+Overhauled player actions into abilities/classes/slots.
+
+Added a lot of engineer-ish kit: Execute, Cannon Shot, Rocket, Turret, Hitscan, Flamethrower, Rocket Volley, Burn, Drones, Spider Mines, Overclock, Minigun.
+
+# Run Loop, Economy, Audio
+
+`2026-04-21`
+
+Pushed toward actual run structure.
+
+Added run docs/implementation work, enemy spawn circles, currency pickups, warning telegraphs, ground attacks, audio, and a small forest map.
+
+# 3D Pixel-Art Renderer Migration
+
+`2026-04-28`
+
+Started the 3D migration and renderer experiments.
+
+Added a `pixels` prototype path in the game repo, then started the separate `pixels-gpt` project for Zig/OpenGL toon/depth/normal/outline rendering.
+
+# Grass, Fog, Shadows
+
+`2026-05-01`
+
+Worked in `pixels-gpt` on the renderer foundation, grass, clouds, debug UI, lighting research, atmospheric fog, and dynamic shadow mapping.
+
+This connected back to the game through 3D map/character/render plans and model resources.
 
 # Fixing 3D Meshes
 

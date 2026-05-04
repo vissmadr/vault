@@ -1,7 +1,7 @@
 ---
 context:
   - "[[Computer Graphics]]"
-  - "[[3D Graphics]]"
+  - "[[Lighting (Computer Graphics)]]"
 ---
 
 # Shadow Map
@@ -10,7 +10,7 @@ context:
 
 ---
 
-Used to approximate dynamic shadows.
+Used to approximate and render dynamic shadows.
 
 1. Pretend the sun is a camera.
 2. Render the scene from that sun camera.

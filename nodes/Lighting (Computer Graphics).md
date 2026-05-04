@@ -38,7 +38,6 @@ Specular reflection is like a mirror, reflecting light in a direction.
 
 Diffuse
 
-
 ---
 
 Specular light wants to know the location of the viewer, to see how close the eye is to the direction of the perfect mirror bounce.

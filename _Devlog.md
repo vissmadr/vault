@@ -712,3 +712,24 @@ Came up with many skills. Especially the ones for Fire, Storm, and Chaos.
 # Render Queue, Attack Combos, Hazards
 
 `2026-02-11`
+
+---
+
+CONTINUE 2026-05-04
+
+---
+
+# Fixing 3D Meshes
+
+`2026-05-03`
+
+The meshes were all decimated with the planar setting, which produces shit and inefficient geometry.
+But if they are decimated with collapse instead, while they produce way better geometry, the triangles start to be obvious and it looks bad.
+Played with that all day, Vesko helped, and we found out the perfect workflow:
+
+1. Generate semi-procedurally with Subdivide, Remesh, Displace (with a cell texture linked to an empty object).
+2. Decimate with collapse and triangulation active.
+3. Convert triangle faces to rectangles at 180 degrees.
+4. HardOps addon cleanup.
+
+Doing all of this also gave me some amazing Blender practice as well.

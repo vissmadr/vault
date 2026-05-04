@@ -733,3 +733,9 @@ Played with that all day, Vesko helped, and we found out the perfect workflow:
 4. HardOps addon cleanup.
 
 Doing all of this also gave me some amazing Blender practice as well.
+
+# Lighting, Shadows, Fog
+
+`2026-05-04`
+
+Implementing dynamic shadows, better lighting, and fog.

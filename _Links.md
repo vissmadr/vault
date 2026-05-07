@@ -47,6 +47,7 @@
 ## Nimble Fox
 
 [Pixel Art 3D Examples](https://youtu.be/Ic_zLGKVUKM)
+[God Rays & Volumetri Lighting](https://www.youtube.com/watch?v=4IUp1iJBqGw)
 
 ## David Holland
 

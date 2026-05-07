@@ -26,6 +26,16 @@
 [How I solved my biggest pixel art problem | Pixel Perfect](https://youtu.be/Ua2EXkOmrpA)
 [How my 3D PIXEL ART Camera Works](https://www.youtube.com/watch?v=LQfAGAj9oNQ)
 
+## Eduardo
+
+#wip
+#wip [GRASS AND TREES](https://youtu.be/iPbYzFWECz4)
+#wip
+
+## Dylearn
+
+[MAIN](https://youtu.be/g1vH3HeePco)
+
 ## Red Giraffe
 
 [The Secret to Crisp 3D Pixel Art Rendering | Pixel Perfect](https://youtu.be/Mp7eQsiZ_wA)
@@ -34,9 +44,9 @@
 [Volumetric Lighting in Pixel Art?! | Pixel Perfect](https://youtu.be/fKp-Lg7vAn4)
 [How I Created Pixel Art Oceans | Pixel Perfect](https://youtu.be/RU3EReALbEU)
 
-## Dylearn
+## Nimble Fox
 
-[MAIN](https://youtu.be/g1vH3HeePco)
+[Pixel Art 3D Examples](https://youtu.be/Ic_zLGKVUKM)
 
 ## David Holland
 

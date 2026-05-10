@@ -1,5 +1,5 @@
+Revisit this and see where we're at:
+
 [MAIN](https://www.youtube.com/watch?v=g1vH3HeePco)
 
-Maybe this is really it.
-
-Should be able to do good just from this alone.
+With the whole transcript and all.

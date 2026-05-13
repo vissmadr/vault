@@ -20,8 +20,6 @@ Blender trees plugin
 good fix
 good fix
 good fix
-good fix
-good fix
 
 ---
 

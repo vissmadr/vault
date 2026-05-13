@@ -15,11 +15,7 @@ Blender trees plugin
 
 # Revolut eSim
 
-# asd
-
-good fix
-
----
+# Misc
 
 Performance is good enough. No optimization pass needed right now.
 Rough frame time:

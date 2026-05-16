@@ -204,3 +204,6 @@ Every experience carries a lesson.
 
 The most important skill for mastery is persistence.
 \- null
+
+Discipline is not enough. You have to sacrifice.
+\- Khabib Nurmagomedov

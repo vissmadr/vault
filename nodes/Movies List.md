@@ -12,8 +12,8 @@ Personal list of great movies.
 
 | Name                           | Score |
 | ------------------------------ | ----- |
-| 12 Angry Men                   | 10    |
 | The Godfather                  | 10    |
+| 12 Angry Men                   | 10    |
 | The Great Dictator             | 10    |
 | 2001: A Space Odyssey          | 10    |
 | Once Upon a Time in America    | 10    |

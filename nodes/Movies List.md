@@ -69,10 +69,10 @@ Personal list of great movies.
 | Taxi Driver                    | 8     |
 | Monty Python                   | 8     |
 | Silence of the Lambs           | 8     |
-| The Silence of the Lambs       | 8     |
 | The Hateful Eight              | 8     |
 | The Wolf of Wall Street        | 8     |
 | Requiem for a Dream            | 8     |
+| Collateral                     | 8     |
 | Scarface                       | 7     |
 | Ex Machina                     | 7     |
 | A Beautiful Mind               | 7     |

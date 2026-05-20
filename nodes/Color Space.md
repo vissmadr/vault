@@ -14,10 +14,10 @@ A color space defines how color values map to visible colors.
 Examples:
 
 - `RGB`: Represents colors through red, green, and blue components. See [[RGB]].
-- `HSL`: Represents colors through hue, saturation, and lightness.
+- `HSL`: Represents colors through hue, saturation, and lightness. See [[HSL]].
 - `Oklab`: Perceptual color space using lightness and opponent color axes.
 - `Oklch`: Polar form of [[Oklab]] using lightness, chroma, and hue.
 
 Color spaces are used for storing, displaying, comparing, converting, and manipulating colors.
 
-See [[RGB]], [[Oklab]], and [[Oklch]].
+See [[RGB]], [[HSL]], [[Oklab]], and [[Oklch]].

@@ -11,7 +11,7 @@ Polar form of [[Oklab]] using lightness, chroma, and hue.
 
 ---
 
-Oklch represents the same color space as Oklab, but expresses the two color axes as chroma and hue instead of `a` and `b`.
+Oklch represents the same [[Color Space|color space]] as Oklab, but expresses the two color axes as chroma and hue instead of `a` and `b`.
 
 - `L`: Perceived lightness.
 - `C`: Chroma, or color intensity.

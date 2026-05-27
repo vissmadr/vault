@@ -5,10 +5,12 @@ context:
 
 # Render Target
 
-Refers to a [[Data Buffer]] that receives the output of rendering operations.
+Destination surface for rendering.
 
 ---
 
-Destination surface for rendering.
+Refers to a [[Data Buffer]] that receives the output of rendering operations.
 
-Can be a [[Texture]], [[Framebuffer]], or other.
+The renderer can draw to the render target instead of drawing directly to the window.
+
+The render target can be a [[Texture]], [[Framebuffer]], or other,

@@ -16,16 +16,8 @@ _Heavily inspired by the art of t3ssel8r._
 
 The pixel effect mostly comes from rendering the 3D scene into a small internal resolution, and then scaling that image up without smoothing.
 The key part is using [[Nearest-neighbor Interpolation|nearest-neighbor]] texture filtering. This is to prevent blurry upscaling.
+
 Example: scaling up a `640x360` render texture `3.0` times using `TEXTURE_FILTER_POINT` for a `1920x1080` output.
-
-## Debug Views
-
-**Normals**: Displays the directions of [[Normal Map|normals]] by encoding them as colors.
-Each axis is mapped to RGB color.
-
-**Depth**: Grayscale distance map. Shows how far each visible pixel is from the camera.
-Darker usually means closer, lighter usually means farther.
-See [[Depth Shader]]
 
 ## Stepped Lighting
 
@@ -35,6 +27,15 @@ The idea is to take the initial lighting and define threshold values.
 The lighting then clamps to the nearest threshold, giving it a step-like appearance.
 
 See [[Stepped Lighting]].
+
+## Debug Views
+
+**Normals**: Displays the directions of [[Normal Map|normals]] by encoding them as colors.
+Each axis is mapped to RGB color.
+
+**Depth**: Grayscale distance map. Shows how far each visible pixel is from the camera.
+Darker usually means closer, lighter usually means farther.
+See [[Depth Shader]]
 
 ## Edge Highlights
 
@@ -49,9 +50,14 @@ This alignment is then checked against a threshold to determine if the pixel qua
 
 #wip **Bonus**: To elevate this even further, we can use the attenuation of the light shader to lighten or darken edges based on their lighting information.
 
+## Camera Snapping
+
+When a 3D camera moves smoothly, tiny sub-pixel movement can make the upscaled image shimmer.
+
+#wip How do we do it?
+
 ## Models
 
-#wip small bevels break stuff - prefer no bevels
+#wip small bevels can be bad
 
 #wip Probably stones NOT triangulated?
-

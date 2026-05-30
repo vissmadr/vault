@@ -8,12 +8,10 @@ context:
 
 # Shader
 
-Type of program used in computer graphics to perform rendering calculations.
+Computer program that runs on the [[GPU]], often used for graphics rendering.
 
 ---
 
 Shaders are used to process vertices and pixels in order to produce visual output.
-
-Shader programs run on the GPU.
 
 Think of a shader as code running on your GPU.

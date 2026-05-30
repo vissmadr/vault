@@ -1,3 +1,7 @@
+# Zig
+
+https://www.youtube.com/watch?v=iqddnwKF8HQ
+
 # Sensei
 
 Gives you advice/training.

@@ -1,3 +1,12 @@
+# Design
+
+WoL/Furi/Hades
+
+Thronefall
+
+Thronefall, but go out to farm
+Defense but like Hero Siege elements
+
 # Zig
 
 https://www.youtube.com/watch?v=iqddnwKF8HQ

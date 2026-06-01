@@ -1,3 +1,7 @@
+# Colors
+
+Color pyramid.
+
 # Design
 
 WoL/Furi/Hades

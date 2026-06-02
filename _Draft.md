@@ -1,6 +1,36 @@
+# Design
+
+```
+The first inspirations were classic roguelites such as Hades and Wizard of Legend.
+My current idea however is something like having a single player-controlled character, but instead of Hades-like gameplay where you go room to room battling enemies, we have something more tower-defense-ish. Both Thronefall and Dome Keeper are somewhat close to that I think. Even AirMech in a way I guess.
+
+Lets brainstorm about possibilities, roughly.
+
+I imagine controlling a single player character, and having something like a "base" that you might want to defend.
+There can be waves of enemies that attack the base and the player too.
+Something like the minions/creeps of a MOBA game and the way they attack the towers and eventually the Nexus/Throne.
+And some automation annd buildings close to the base.
+For example you can build towers that shoot enemies.
+Also you can build buildings that spawn allied NPCs.
+Also buildings that farm resources over time, etc.
+Should be kinda simple however, more like Thronefall, meaning that you don't have tons of complexity involving the buildings and resources, more basic clean design.
+And also thinking about some level of exploration.
+For example the problem in Thronefall is that you only spend your resource building buildings and stuff, and when you're ready, you begin the night where you only defend from the waves, and this process repeats for the gameplay loop. This is good, but I want to have some sort of greedy exploration mechanic where you could risk going away from your base (letting it be defended only by the automated towers and friendly NPCs) while you as the player scout the map for challenges and resources. Or even the win condition can be somewhere on the map.
+This actually reminds me a lot about 'Hero Siege' maps from Warcraft 3, where it's something like tower defense at first, where creep waves are incoming and you defend them with your hero, leveling him up in the process. And when you and your towers get strong enough you are then able to explore the map and challenge bosses on the maps, etc. Something like expanding out of your base.
+
+I would like to aim in this direction.
+```
+
+- **HERO SIEGE?**
+- Map that constantly shifts?
+
 # Colors
 
 Color pyramid.
+
+Illuminati style with the eye on top of the pyramid.
+
+The 60/30/10 rule.
 
 # Design
 

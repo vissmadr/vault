@@ -33,6 +33,12 @@ Arcane building for the player's spells.
 Training grounds for the player's melee.
 Blcksmith for the player's armor.
 
+(!) Main map.
+(!) Build buildings and defend it.
+(!) Portal that you can go for 1-2-3 room fast challenges.
+(!) But main game is around the base (Thronefall), the portal is just a bonus.
+(!) Main challenge are the waves that come for you. Portal is just for greed.
+
 Go out of the base and into the map, but what is the "map" exactly?
 Could be big one, could be rooms, could be portals into random maps.
 

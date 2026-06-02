@@ -21,8 +21,32 @@ This actually reminds me a lot about 'Hero Siege' maps from Warcraft 3, where it
 I would like to aim in this direction.
 ```
 
-- **HERO SIEGE?**
-- Map that constantly shifts?
+Simpler.
+
+Base that you build and upgrade.
+
+Farms for economy.
+Towers for defense, walls.
+Barracks for friendly NPCs.
+Buildings that provide upgrades/talents for the player.
+Arcane building for the player's spells.
+Training grounds for the player's melee.
+Blcksmith for the player's armor.
+
+Go out of the base and into the map, but what is the "map" exactly?
+Could be big one, could be rooms, could be portals into random maps.
+
+Right now I'm thinking portals into random maps that can be RNG and unloaded.
+Or aesthetic for dunnels into the dungeons below, something like Dome Keeper.
+
+## References
+
+- AirMech
+- Thronefall
+- Orcs Must Die
+- Warcraft 3: Hero Siege
+- Dome Keeper
+- They Are Billions
 
 # Colors
 

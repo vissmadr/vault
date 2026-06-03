@@ -23,6 +23,9 @@ I would like to aim in this direction.
 
 Simpler.
 
+Build switch? Between Hero and Building?
+Would solve the problem of Thronefall maybe?
+
 Base that you build and upgrade.
 
 Farms for economy.

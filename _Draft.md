@@ -4,6 +4,22 @@ Story Sense: Expanding the maps one by one.
 Much like the way you have the big map in TAB.
 
 Gameplay: TF, OMD
+Shift is good idea I think - solves a lot of problems.
+Solves the problem of clumsy building - you have time.
+Also in "night" phase there's a good use for the hero, instead being only a builder and being awkward during nights.
+
+Graphics: Either pixel3d or old pre-render.
+Try both 
+
+---
+
+The solo dev message.
+About sacrifice.
+
+---
+
+CrownWarden are doing the exact same thing LMAO.
+No matter.
 
 ---
 

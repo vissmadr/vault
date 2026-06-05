@@ -20,6 +20,9 @@ About sacrifice.
 
 CrownWarden are doing the exact same thing LMAO.
 No matter.
+Continue the work.
+EVEN if we both finish, then I guess we'll just be creating a new genre.
+Plus learn from eachother's projects.
 
 ---
 

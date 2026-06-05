@@ -19,9 +19,8 @@ About sacrifice.
 ---
 
 CrownWarden are doing the exact same thing LMAO.
-No matter.
-Continue the work.
-EVEN if we both finish, then I guess we'll just be creating a new genre.
+Oh lol, no matter, continue the work.
+EVEN if we both finish, and both are good, which is saying something, then I guess we'll just be creating a new genre lol.
 Plus learn from eachother's projects.
 
 ---

@@ -1,5 +1,12 @@
 # Design
 
+Story Sense: Expanding the maps one by one.
+Much like the way you have the big map in TAB.
+
+Gameplay: TF, OMD
+
+---
+
 ```
 The first inspirations were classic roguelites such as Hades and Wizard of Legend.
 My current idea however is something like having a single player-controlled character, but instead of Hades-like gameplay where you go room to room battling enemies, we have something more tower-defense-ish. Both Thronefall and Dome Keeper are somewhat close to that I think. Even AirMech in a way I guess.

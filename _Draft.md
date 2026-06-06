@@ -13,6 +13,12 @@ Try both
 
 ---
 
+Build the map and progress building maps and "taking" them.
+
+Also, have a "main" place that you also build, meta progress there.
+
+---
+
 The solo dev message.
 About sacrifice.
 

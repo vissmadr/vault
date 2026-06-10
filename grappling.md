@@ -16,6 +16,7 @@ lockdown half
 mad dog
 half butterfly
 false guard
+reverse z
 turtle
 ghost
 

@@ -19,9 +19,10 @@ Sciences develop exponentially, but human biology doesn't. Humans have both hard
 
 Sometimes it is necessary to fully grasp a subject in order to contribute to it. But this becomes increasingly challenging. If someone is at the forefront of a field and adds new knowledge, others may need to learn everything so far, including this new knowledge, just to be able to contribute further. As a result, the bar keeps getting raised higher, potentially creating an almost unreachable limit.
 
-One way to solve this is to split fields into sub-fields, just like mathematics has been split into sub-fields such as geometry, algebra, analysis, topology, and so on.
+We can try to split fields into sub-fields, the same way mathematics for example has been split into sub-fields such as geometry, algebra, topology, and so on.
 The sub-fields can then be studied and researched to a deeper degree.
 But this is only a half solution as zooming in on a subject too much can stray you away from the bigger picture.
+And then we need a way to somehow merge the wisdom (not only knowledge) from the pieces back into the bigger puzzle to see what it truly means.
 
 ## Possible Solutions
 

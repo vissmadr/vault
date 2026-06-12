@@ -17,6 +17,13 @@ https://www.youtube.com/watch?v=MxfctMsd0Ck
 Story Sense: Expanding the maps one by one.
 Much like the way you have the big map in TAB.
 
+What about, the world that once was?
+World asleep, frozen, forgotten.
+But the enemies are also asleep.
+Wake up the world, but you wake up the enemies too.
+Build and bring back to life.
+Bring back to life nature too.
+
 Gameplay: TF, OMD
 Shift is good idea I think - solves a lot of problems.
 Solves the problem of clumsy building - you have time.

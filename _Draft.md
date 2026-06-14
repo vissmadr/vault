@@ -14,6 +14,20 @@ https://www.youtube.com/watch?v=MxfctMsd0Ck
 
 # Design
 
+!!! Maybe instead of building try more automated, where the map does its thing, and you can just interact and "invest" in preset buildings and stuff.
+Like airmech somewhat, or wc3 hero siege.
+Like interact with a building to upgrade it.
+Or to first create it at preset location.
+Also have stuff such as blacksmith and what not, also interactible.
+
+This can actually make the gameplay simpler and more accessible.
+Having to build stuff on a grid is probably too much, especially for this aesthetic.
+Imagine wc3 Hero Siege, but if you had to build...
+More like DotA style.
+Do have interactions, just not placement?
+
+---
+
 Story Sense: Expanding the maps one by one.
 Much like the way you have the big map in TAB.
 

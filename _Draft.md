@@ -17,6 +17,14 @@ https://www.youtube.com/watch?v=MxfctMsd0Ck
 
 # Design
 
+Single wave, time-based?
+With workers repairing like Trolls vs Elves?
+With economy buildings for resource.
+Farm enemies, go to spend gold at buildings, go back to farm?
+Waves vs constant pressure vs both?
+
+---
+
 !!! Maybe instead of building try more automated, where the map does its thing, and you can just interact and "invest" in preset buildings and stuff.
 Like airmech somewhat, or wc3 hero siege.
 Like interact with a building to upgrade it.
@@ -31,6 +39,10 @@ Do have interactions, just not placement?
 
 Buildings that give hero upgrades.
 Buildings that produce collectible/buff over time.
+
+---
+
+What about RTS stuff such as supply/upkeep?
 
 ---
 

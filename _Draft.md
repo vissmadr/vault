@@ -1,4 +1,7 @@
-check out Axiom Conquest
+- [ ] Blur character shadows maybe (?).
+- [ ] No difference in shadow map resolution on characters.
+
+- [ ] Check out Axiom Conquest.
 
 # another one
 

@@ -29,6 +29,9 @@ Imagine wc3 Hero Siege, but if you had to build...
 More like DotA style.
 Do have interactions, just not placement?
 
+Buildings that give hero upgrades.
+Buildings that produce collectible/buff over time.
+
 ---
 
 Story Sense: Expanding the maps one by one.

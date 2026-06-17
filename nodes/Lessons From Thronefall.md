@@ -10,6 +10,14 @@ Lessons learned from watching the Thronefall development videos.
 
 ---
 
+- [ ] Better documentation.
+- [ ] Block out!
+
+#wip
+https://www.youtube.com/watch?v=-eAwyH3DPnQ&list=PLgsD7taGtaBhNaErAOaiEiTzt6-lOpVp0&index=6
+
+---
+
 ## Prototype Hard
 
 They had no idea what the game was going to be.

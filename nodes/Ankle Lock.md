@@ -42,3 +42,15 @@ Failure comes from daylight.
 Failure comes from elbow away from center.
 Failure come from opponent foot too deep.
 Failure comes from opponent foot slip.
+
+Oldschool Irimi is easy to escape from.
+
+When the opponent knee points outside, our inside leg dominates the control. 
+When the opponent knee points inside, our outside reap leg dominates the control. 
+
+Bellydown offers extreme breaking pressure.
+Even imperfect grips can break from bellydown.
+The ground stops the opponents leg when you crash down on it.
+Get bellydown and sprawl.
+When we go with one-handed grip, we can post with the other hand and lift our head up as we arch into a sprawl.
+When we go with two-handed grip, we can post on our forehead and sprawn down.

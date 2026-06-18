@@ -1,7 +1,7 @@
 # Learning
 
 Master the Move: Ankle Lock
-Part 1: `27:15`
+Part 1: `41:30`
 
 # Positions
 

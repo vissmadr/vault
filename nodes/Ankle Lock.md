@@ -34,4 +34,11 @@ Two problems at all times:
 - Can he kick through?
 - Can he limp out?
 
+No matter the grip.
+The elbow has to be close to the center line.
+Grips that allow you to have your elbow close to the center are better than the ones that don't.
 
+Failure comes from daylight.
+Failure comes from elbow away from center.
+Failure come from opponent foot too deep.
+Failure comes from opponent foot slip.

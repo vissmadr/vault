@@ -17,6 +17,15 @@ https://www.youtube.com/watch?v=MxfctMsd0Ck
 
 # Design
 
+Study `EverSiege: Untold Ages`, even though it was not a big success.
+Interesting gameplay loop, good visuals.
+
+---
+
+Play around with Kingdom Rush (was it?) upgrade design.
+
+---
+
 Single wave, time-based?
 With workers repairing like Trolls vs Elves?
 With economy buildings for resource.

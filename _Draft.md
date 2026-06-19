@@ -17,6 +17,13 @@ https://www.youtube.com/watch?v=MxfctMsd0Ck
 
 # Design
 
+Towers and farms and stuff can have padding buildings.
+Basically the same way you defend a human tower in wc3 with farms around it.
+So instead of mazing, just have that as an upgrade.
+Can be good visually, too.
+
+---
+
 Study `EverSiege: Untold Ages`, even though it was not a big success.
 Interesting gameplay loop, good visuals.
 

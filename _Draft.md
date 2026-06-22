@@ -1,3 +1,17 @@
+# Game Design Ideas
+
+- [ ] Modifiers during run
+- [ ] Study HOMM 3
+
+Pathways on the map.
+
+- [ ] Experiment with screen space reflections.
+
+Rotation skip?
+Must see hero through walls.
+
+---
+
 - [ ] Blur character shadows maybe (?).
 - [ ] No difference in shadow map resolution on characters.
 

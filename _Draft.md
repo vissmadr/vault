@@ -1,3 +1,5 @@
+See t3ssel8r again.
+
 # Game Design Ideas
 
 - [ ] Modifiers during run
@@ -30,6 +32,13 @@ https://www.youtube.com/watch?v=Q-D2YyyfPlM
 https://www.youtube.com/watch?v=MxfctMsd0Ck
 
 # Design
+
+Think back to WoL/Hades style.
+
+For buildings/cities maybe back to ones at home? Just maybe.
+Or none at all?
+
+---
 
 Towers and farms and stuff can have padding buildings.
 Basically the same way you defend a human tower in wc3 with farms around it.

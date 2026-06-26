@@ -207,3 +207,6 @@ The most important skill for mastery is persistence.
 
 Discipline is not enough. You have to sacrifice.
 \- Khabib Nurmagomedov
+
+Art is never finished, only abandoned.
+\- Leonardo Da Vinci

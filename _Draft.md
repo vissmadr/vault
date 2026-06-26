@@ -1,3 +1,5 @@
+(!) [Tunic](https://www.youtube.com/watch?v=A5A7uoJAOvY)
+
 See t3ssel8r again.
 
 # Game Design Ideas
@@ -31,7 +33,33 @@ https://www.youtube.com/watch?v=3m0JkeK4m8E
 https://www.youtube.com/watch?v=Q-D2YyyfPlM
 https://www.youtube.com/watch?v=MxfctMsd0Ck
 
+# Places
+
+The torchlight water bridge.
+
+Room of torches you have to light all of them (while combat).
+
+Temple door in mountain rocks.
+
+Martial Arts training tatami.
+
+Isometric high bridge.
+
 # Design
+
+Fear boss - the spider?
+
+---
+
+Consider vertical space?
+Or stairs only?
+
+---
+
+The inner journey.
+To become a child?
+
+---
 
 Think back to WoL/Hades style.
 

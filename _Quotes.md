@@ -210,3 +210,6 @@ Discipline is not enough. You have to sacrifice.
 
 Art is never finished, only abandoned.
 \- Leonardo Da Vinci
+
+A man who procrastinates in his choosing will inevitably have his choice made for him by circumstance.
+\- Hunter S. Thompson

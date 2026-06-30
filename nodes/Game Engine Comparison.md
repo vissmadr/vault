@@ -9,7 +9,7 @@ Comparing the current state of some game engines and libraries of interest.
 
 ---
 
-**Current Opinion**: Raylib > Godot > SDL3 > Raw C > unusable software
+**Current Opinion**: Raylib > Godot > SDL3 > Raw Zig > Raw C > unusable software
 
 ## Unity
 

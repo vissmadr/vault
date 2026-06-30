@@ -1,8 +1,17 @@
+Philosophy as a hobby.
+That's the thing to spend time on.
+
+---
+
 (!) [Tunic](https://www.youtube.com/watch?v=A5A7uoJAOvY)
 
 See t3ssel8r again.
 
 # Game Design Ideas
+
+Singed NPC/Boss
+
+---
 
 - [ ] Modifiers during run
 - [ ] Study HOMM 3

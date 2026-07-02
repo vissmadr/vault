@@ -17,4 +17,6 @@ Has a dose of space realism, where vast distances combined with limited resource
 
 The hidden information paired with unexpected danger fits the survival exploration.
 
+The console adds to the immersion, too.
+
 See [[Decaying Lore (Game Design)]]

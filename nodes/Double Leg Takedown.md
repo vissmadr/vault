@@ -60,6 +60,21 @@ Also, when finishing the double leg, if you look down you will often finish with
 When doing the double leg you should have good posture.
 Your head should be moving towards the oponnent's far leg.
 
+If the opponent moves back, you chase him down, standing up with the double leg grip and running him down.
+If you run forward, he can keep running backwards, and eventually sprawl your double leg.
+This is why you have to run at an angle towards his far leg.
+
+When running towards the far leg, the hand that has it grabbed must pull laterally sideways.
+As if you're trying to send him vertical by the hips.
+The hand on his far leg has a limited time before it loses the grip due to a sprawl.
+So in that limited time it has to pull the leg to the other side.
+
+If you spiral with the opponent and he spirals with you, it means you're not pulling hard enough with the arm on his far leg.
+
+If you shoot and he sprawls on you, if you still have the deep grip, you can still run to his far leg angle and possibly finish.
+If you don't have the grip, then you need to pull away.
+Handfight his hands if he has you in a front headlock, tripod, and back away.
+
 ## Pratice
 
 > "A thousand times."

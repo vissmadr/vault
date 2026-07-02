@@ -19,6 +19,13 @@ While shooting, the upper body must be horizontal, head and shoulders travelling
 If the body is vertical, there is a lot of area to be stopped.
 If the body is horizontal, parallel to the ground, it's a small area to be stopped, only the shoulders.
 
+Step in, front leg drops on the knee, front leg toes on the mat, body sitting on the front leg heel.
+Back leg comes again, ready to lift.
+
+The moment your shoulder hits the opponent, this is the time to look up.
+The back must be straight.
+Shooting is horizontal, but once it hits, then you go vertical again.
+
 Visual:
 
 ```
@@ -26,13 +33,6 @@ Visual:
   /X
   |X
 ```
-
-Step in, front leg drops on the knee, front leg toes on the mat, body sitting on the front leg heel.
-Back leg comes again, ready to lift.
-
-The moment your shoulder hits the opponent, this is the time to look up.
-The back must be straight.
-Shooting is horizontal, but once it hits, then you go vertical again.
 
 Shooting through the opponent is unnecessary it seems.
 The connection is just an indication when it is time to posture and lift.
@@ -73,7 +73,7 @@ If you spiral with the opponent and he spirals with you, it means you're not pul
 
 If you shoot and he sprawls on you, if you still have the deep grip, you can still run to his far leg angle and possibly finish.
 If you don't have the grip, then you need to pull away.
-Handfight his hands if he has you in a front headlock, tripod, and back away.
+Handfight his hands if he has you in a front headlock, tripod, and back away into your stance again.
 
 ## Pratice
 

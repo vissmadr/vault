@@ -10,6 +10,16 @@ Lessons learned from Tim Ruswick.
 
 ---
 
+The main takeaway is that he spent a lot of time and effort into creating a Youtube channel that teaches about game development and game marketing.
+But he failed his game.
+Does not seem to have the backing behind all the advice that he gives.
+
+Doesn't mean he is wrong, though.
+
+He could be correct about the majority of the things he's preaching, and still have the reality of **selling a game is difficult**.
+
+---
+
 Prototype hard. Not only one thing, but many, and keep them fast and simple.
 
 Don't chase trends. Make the game you want to play.

@@ -5,8 +5,6 @@ context:
   - "[[Grappling]]"
 ---
 
-#wip
-
 # Ghost System (Grappling)
 
 Escape system in grappling.

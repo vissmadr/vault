@@ -13,13 +13,15 @@ Any strength training.
 
 Moving in wrestling stance.
 
-Squats.
-
 Bridges.
 
 Around the world.
 
 [23 Wrestling Drills](https://www.youtube.com/watch?v=UhfCQlQzF1g)
+
+Bulgarian bag.
+
+Towel pull-ups.
 
 ## Animal Walks
 
@@ -31,5 +33,8 @@ Crocodile walk.
 
 Jump lunge.
 Kneeled jump lunge.
+
+Squats.
+Pistol squats.
 
 Uphill sprints.

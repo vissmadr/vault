@@ -23,4 +23,6 @@ Strategy of maintaining continuous, overwhelming offense.
 
 **Momentum**: Attacks can create positive feedback loops, leading to more chains of attacks.
 
-**Fear Reduction**: The act of attacking is psychologically empowering. See [[Aggression Over Fear]]
+**Empower**: The act of attacking is psychologically empowering. See [[Aggression Over Fear]]
+
+**Demoralize**: Conversely, the act of defending is psychologically demoralizing.

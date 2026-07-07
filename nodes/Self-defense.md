@@ -15,3 +15,5 @@ Go from 0 to 100 as soon as possible.
 Despite taking damage, win at all costs.
 
 There are no rules - gouge eyes if you have to.
+
+If you're a martial artist, assume that the clock is on your side.

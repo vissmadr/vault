@@ -410,3 +410,4 @@ rolling stones - time waits for no one
 george thorogood - one bourbon, one scotch, one beer
 laith al saadi
 muzzy - new age
+tinlicker - less than a minute

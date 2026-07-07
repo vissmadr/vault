@@ -23,3 +23,7 @@ Both a logical fallacy and a cognitive bias.
 **Answer (Correct)**: The probability of the 21st coin landing on heads remains `50%`, independent of previous tosses.
 
 The outcomes in different tosses are statistically independent, and yet people tend to incorrectly assume that the probability is related to the history of tosses.
+
+## Gambler's Hope
+
+The incorrect assumption that a series of bad luck will always result in a series of good luck afterwards, as if the amount of luck needs to be balanced over time.

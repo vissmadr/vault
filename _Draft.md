@@ -1,3 +1,10 @@
+- [ ] NLA tracks
+
+- [ ] Always baking animations when exporting.
+
+
+---
+
 Philosophy as a hobby.
 That's the thing to spend time on.
 

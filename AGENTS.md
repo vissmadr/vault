@@ -19,6 +19,8 @@ This file tells AI how to work in this vault.
 
 ## Default AI Behavior
 
+Don't write before the user asks you to.
+
 - Search `nodes/` before creating a new note.
 - If the concept already exists, update the existing note instead of creating a duplicate.
 - Prefer the smallest useful edit.

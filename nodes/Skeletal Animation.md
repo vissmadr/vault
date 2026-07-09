@@ -4,16 +4,24 @@ context:
   - "[[Animation]]"
 ---
 
-#wip
-
 # Skeletal Animation
 
-ad
+Animating 3D models using a skeleton armature.
 
 ---
 
-**Skinning**: The process of specifying which bones influence which vertices.
+There is a visible mesh, and an invisible skeleton, called an armature.
+The visible mesh is bound to the armature.
+The armature is made of bones.
+Each vertex of the mesh is assigned weights saying how strongly each bone affects it.
+When the bones move, the mesh deforms.
 
-**Rigging**: #wip
+**Armature**: Skeleton object used to deform or animate an attached mesh.
 
-**Binding Pose**: The orientation of the bones in some default position.
+**Bone**: One part of an armature. Bones usually represent body parts or mechanical joints.
+
+**Skinning**: The process of connecting a mesh to armature bones so the mesh follows the skeleton. Skinning answers: "Which bones move which vertices, and by how much?"
+
+**Rest Pose**: The default bone arrangement of an armature.
+
+**Bind Pose**: The pose used when the mesh was bound/skinned to the skeleton.

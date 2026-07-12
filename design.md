@@ -1,3 +1,8 @@
+**FURI** **FURI** **FURI**
+
+- With Attack, Dash, Fire (spell chain), Parry!
+So that still 4 buttons, and we have the interactions from the Fire-Fire, Fire-Attack, etc
+
 The importnce of water.
 
 ## Design direction

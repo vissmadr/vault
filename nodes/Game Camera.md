@@ -17,4 +17,4 @@ A game camera controls what is visible and how the scene is framed.
 
 **3D**: Also controls orientation, projection, and field of view.
 
-See [[Game Camera Movement]].
+See [[Game Camera Feel]].

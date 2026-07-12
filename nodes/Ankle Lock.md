@@ -66,8 +66,14 @@ Get bellydown and sprawl.
 When we go with one-handed grip, we can post with the other hand and lift our head up as we arch into a sprawl.
 When we go with two-handed grip, we can post on our forehead and sprawn down.
 
-Short lock can be strong as fuck.
-Attacking the outside, get a butterfly hook with the outside leg, and go over and below his knee with the inside leg.
+Short-lock can be really strong for adding more breaking pressure and control time.
+Attacking the outside, get a butterfly hook with the outside leg, start turning, and go over his leg and below his knee with the inside leg.
+Attacking a standing opponent, go for the short-lock again, but this time get a triangle, and hide your leg below his hips.
+The problem of the short-lock is that skilled opponents will pull our leg back above their knee-line to stop it.
+Short-lock is used in addition to the other locks.
+
+Have to be able to finish the ankle lock on different rotations.
+#wip Part 1 at `~01:21:00`
 
 ## Drills
 
@@ -78,3 +84,5 @@ Attacking the outside, get a butterfly hook with the outside leg, and go over an
 **Finish Both Sides**: Finish on the side when the opponent rotates his knee to the outside, and finish with the reap when he rotates it inside.
 
 **Belly Down Finish**: Bellydown from both sides. Finish with both one arm post or on the head with no arms posting.
+
+**Short-lock**: Attack to the outside with an open short-lock. Attack a standing opponent with a closed triangle short-lock.

@@ -19,7 +19,11 @@ This file tells AI how to work in this vault.
 
 ## Default AI Behavior
 
-Don't write before the user asks you to.
+Do not create, edit, move, rename, or delete any file unless the user explicitly asks for a filesystem change.
+
+- Requests for an example, draft, explanation, review, or suggestion do not authorize writing; respond in chat only.
+- If a request is ambiguous about whether content should be written to the vault, do not write. Ask first.
+- Reading and searching the vault are allowed when needed to answer the user.
 
 - Search `nodes/` before creating a new note.
 - If the concept already exists, update the existing note instead of creating a duplicate.

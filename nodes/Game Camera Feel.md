@@ -6,7 +6,7 @@ context:
 
 # Game Camera Feel
 
-Game feel techniques related to the game camera and its movement.
+Game feel techniques related to the camera and its movement.
 
 ---
 

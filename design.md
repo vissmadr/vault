@@ -5,6 +5,16 @@ So that still 4 buttons, and we have the interactions from the Fire-Fire, Fire-A
 
 The importnce of water.
 
+## Day/Night
+
+Maybe start with day, so we get the light environment, and slowly progress to night between the "run rooms".
+
+Or just random day/night per run/map?
+
+## The Teacher
+
+"Speak to the learned one. He teaches all of us."
+
 ## Design direction
 
 Your idea is strongest when the **hero and the buildings solve different problems**.

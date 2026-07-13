@@ -3,14 +3,14 @@ context:
     - "[[Grappling]]"
 ---
 
+# Ankle Lock
+
 #empty
 #wip
 
-# Ankle Lock
-
-ad
-
 ---
+
+## Volume 1
 
 Modern ankle locks have evolved greatly.
 The target of attack is different.
@@ -57,6 +57,8 @@ When the opponent knee points outside, our inside leg dominates the control.
 When the opponent knee points inside, our outside reap leg dominates the control.
 
 When attacking to the outside, the outside leg butterfly hook is powerful.
+
+Before reaping, you can grab behind his knee to help turn the leg.
 When reaping, you can lock the triangle.
 
 Bellydown offers extreme breaking pressure.
@@ -75,7 +77,26 @@ Short-lock is used in addition to the other locks.
 Have to be able to finish the ankle lock on different rotations.
 #wip Part 1 at `~01:21:00`
 
-## Drills
+One of the main defenses to the ankle lock is the opponent turning his leg towards the inside, and even inverting it.
+When he is inverted, we cannot finish the submission.
+So when the opponent turns, we throw the outside leg over his attacked leg, and turn ourselves, following the rotation.
+May take 3-4 rotations (at most, hopefully), but throwing the leg over should secure it at some point along the way.
+Finish bellydown most of the time.
+
+Belly-up we usually have to pin the hips of the opponent.
+Belly-down, however, the ground pins the knee of the opponent.
+
+Belly-up we need to keep our lock hand up.
+When the lock hand falls down, we lose the breaking pressure.
+So belly-up we need both hands so that we have our grip high and keep it high.
+Belly-down, however, since we pin the knee down and can use our body, this time we can finish with only one hand, too.
+
+Belly-down the opponent cannot handfight us.
+We can use a one-handed grip while we handfight with the other hand, while trying to force belly-down.
+When finishing belly-down with a one-handed grip, keep it on your stomach and don't let it fall down further.
+Belly-down we can finish one-handed even with imperfect grips.
+
+### Drills
 
 **Control**: Get the control and have the opponent try to kick in and kick out with the attacked leg.
 
@@ -86,3 +107,20 @@ Have to be able to finish the ankle lock on different rotations.
 **Belly Down Finish**: Bellydown from both sides. Finish with both one arm post or on the head with no arms posting.
 
 **Short-lock**: Attack to the outside with an open short-lock. Attack a standing opponent with a closed triangle short-lock.
+
+## Volume 2
+
+Generally, if you are able to choose, it's better to fall to the outside.
+
+Most of the time the choice depends on where the knee of the opponent is facing.
+
+If you cannot get the half-foot position, you can always try turning belly-down.
+
+Belly-down in general is really powerful, so you can often try going to it.
+
+Any time the opponent goes to push into you and stand up, get your outside leg butterfly hook, and with the other leg step on his calf.
+We can join our legs for better structure, foot to the knee.
+This will keep him at a distance, prevent him from stepping his leg on the mat, and prevent him from standing up further.
+This is actually a finishing position. Have your back on the mat and rotate to the side.
+
+#wip continue Part 2 at `0:10:00`

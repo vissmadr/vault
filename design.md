@@ -11,6 +11,14 @@ Maybe start with day, so we get the light environment, and slowly progress to ni
 
 Or just random day/night per run/map?
 
+## Effects Story
+
+Could possibly link effects such as the afterimages to the story somehow, only if find something nice.
+
+### Afterimages
+
+Constant fade/decay/entropy?
+
 ## The Teacher
 
 "Speak to the learned one. He teaches all of us."

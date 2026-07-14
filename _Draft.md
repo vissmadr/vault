@@ -17,6 +17,14 @@ That's the thing to spend time on.
 
 See t3ssel8r again.
 
+# Post about Musashi-inspired design
+
+The "intercept" and how it came to be.
+
+Inspired by Musashi teachings.
+Inspired by hating unnecessary buttons.
+Minimalism.
+
 # Game Design Ideas
 
 Singed NPC/Boss

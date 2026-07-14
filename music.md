@@ -316,6 +316,7 @@ demons running - this is my kingdom come
 booka shade - i go, i go
 hybrid - choke
 hybrid - long time coming
+hybrid - original sin
 parra for cuva - cupa cupa
 lunatic soul - walking on a flashlight beam
 lunatic soul - cold

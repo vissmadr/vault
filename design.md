@@ -5,6 +5,11 @@ So that still 4 buttons, and we have the interactions from the Fire-Fire, Fire-A
 
 The importnce of water.
 
+## IMPORTANT FOR STORY
+
+https://www.youtube.com/watch?v=GMx8OsTDHfM
+15:00
+
 ## Day/Night
 
 Maybe start with day, so we get the light environment, and slowly progress to night between the "run rooms".

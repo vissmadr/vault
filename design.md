@@ -1,9 +1,21 @@
+## Design
+
+Maybe have 3 core ones - Attack, Dash, Parry
+And then fill with 2-3 more variable ones?
+
+And/or just have everything be mechanically deep.
+Ultrakill-inspired maybe? Where the mechanics of every single thing are deep and interconnected.
+
+Could also play with weapons/stances (same thing)
+
+Like if 3 cores are `j k l`, have stances in which different `j k l`?
+
+## Design
+
 **FURI** **FURI** **FURI**
 
 - With Attack, Dash, Fire (spell chain), Parry!
 So that still 4 buttons, and we have the interactions from the Fire-Fire, Fire-Attack, etc
-
-The importnce of water.
 
 ## IMPORTANT FOR STORY
 

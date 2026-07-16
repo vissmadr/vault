@@ -11,6 +11,44 @@ Player spells and abilities.
 
 ---
 
+## Ability Ideas
+
+**Deflect**: Parry, basically.
+
+**Absorb**: Absorbs all damage for `x` seconds and explodes upon expiration, dealing AOE damage based on how much was absorbed.
+
+**TimeLapse**: Snapshots the current position and health (percent) of the player. After `x` seconds, returns the player (if alive) back to the same position with the same health.
+
+**Projectile**: Self-explanatory.
+
+**ForwardCone**: Self-explanatory.
+
+**RingDamage**: Rings/Orbs around the player that deal damage.
+
+## Stance Ideas
+
+Passive stats while in the stance.
+For example damage increase in offense, armor increase in defense.
+
+Stance activation buffs/effects/spells.
+. For sure have explosions on stance switch variants.
+. The first attack after a stance switch is special.
+
+Maybe holding the stance button for another thing?
+Maybe some ULTIMATE ability? Like a big cooldown or something?
+
+Imagine `keydown`, which just activates the stance.
+But you hold it down for some time, and the player progressively slows down to a halt.
+Animation could be crouching, as if focusing internally.
+And then the awakening. Or chrono, or something.
+. Maybe to fix the problem of which stance you got the bonus from, just have it while ultimate to have both stances effects or something? Or to be able to freely switch them with low cooldown?
+
+---
+---
+---
+
+## OLD
+
 | Keys | Stance1   | Stance2 |
 | ---- | --------- | ------- |
 | `QQ` | Fireballs | -       |

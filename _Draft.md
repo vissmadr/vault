@@ -17,6 +17,14 @@ That's the thing to spend time on.
 
 See t3ssel8r again.
 
+# Smart Steam Profiler Maybe?
+
+> ibrown39 [PCSX],  — 2:39 AM
+> What do you guys like to profile your raylib made applications with? Particularly games?
+>
+> tarmo888 [GFN],  — 4:33 PM
+> add it as non-Steam game and turn full details ON for Steam Performance Monitor overlay
+
 # Post about Musashi-inspired design
 
 The "intercept" and how it came to be.

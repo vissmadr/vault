@@ -3,8 +3,9 @@ aliases:
 context:
 ---
 
-# {{title}}
+# Lessons from Khabib Nurmagomedov
 
 #empty
 
 ---
+

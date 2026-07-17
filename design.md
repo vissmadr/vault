@@ -1,3 +1,27 @@
+## Movement Test
+
+```
+Ravenswatch: ~4.5 horizontal, ~3.15 vertical
+Hades: ~3.7 horizontal, ~2.05 vertical
+```
+
+Shorter dash!
+
+## Darker!
+
+Right now the colors are too bright and toony I think.
+When making scenes, darker atmosphere.
+
+## Ability Quality
+
+Every single ability in the game should be quality.
+It should have mechanical depth, meaning, and synergies.
+Don't create abilities just for the count.
+Make every single one offer mastery.
+
+Ultrakill-inspired mechanical depth.
+The mechanics of every single thing there are deep and interconnected.
+
 ## Design
 
 Maybe have 3 core ones - Attack, Dash, Parry
@@ -7,15 +31,6 @@ And/or just have everything be mechanically deep.
 Ultrakill-inspired maybe? Where the mechanics of every single thing are deep and interconnected.
 
 Could also play with weapons/stances (same thing)
-
-Like if 3 cores are `j k l`, have stances in which different `j k l`?
-
-## Design
-
-**FURI** **FURI** **FURI**
-
-- With Attack, Dash, Fire (spell chain), Parry!
-So that still 4 buttons, and we have the interactions from the Fire-Fire, Fire-Attack, etc
 
 ## IMPORTANT FOR STORY
 

@@ -1,11 +1,13 @@
+## Fire slash + explode
+
+Twin Moon Knight
+
 ## Movement Test
 
 ```
 Ravenswatch: ~4.5 horizontal, ~3.15 vertical
 Hades: ~3.7 horizontal, ~2.05 vertical
 ```
-
-Shorter dash!
 
 ## Darker!
 

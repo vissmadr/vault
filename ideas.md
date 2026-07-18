@@ -1,3 +1,5 @@
+Sekiro-inspired combat seems great for this.
+
 # Driving to Sea
 
 *This is already good enough for a game. Plus everything that will emerge. So just lock in!*

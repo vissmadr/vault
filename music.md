@@ -318,6 +318,7 @@ hybrid - choke
 hybrid - long time coming
 hybrid - original sin
 hybrid - disappear here
+hybrid - can you hear me
 parra for cuva - cupa cupa
 lunatic soul - walking on a flashlight beam
 lunatic soul - cold

@@ -8,6 +8,34 @@ Now it just needs better tuning and animations.
 
 TLDR lock the keydown normal and the charge on second.
 
+---
+
+Combo points can come through the orbs.
+Just like D2 visuals.
+"Charges" basically.
+
+---
+
+Going for a Guard mechanic, we shouldn't have Wukong-style (Offense & DEFENSE) stances.
+The Guard combined with a Defense stance will make this hard to balance well.
+
+Instead, the Fire & Lightning stance makes more sense.
+
+And about the Hades-style AOE special, this can come from the stance switch.
+Meaning a Nova AOE every time you stance switch.
+
+---
+
+Try the flame attack maybe as a dash forward and punch with the other hand for AOE?
+
+And/or change the heavy followup.
+
+---
+
+Fire and Lightning.
+
+Gaining charge through motion?
+
 # Driving to Sea
 
 *This is already good enough for a game. Plus everything that will emerge. So just lock in!*

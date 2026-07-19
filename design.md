@@ -1,3 +1,7 @@
+## Sekiro
+
+> Sekiro's parry window is `0.2` seconds.
+
 ## Fire slash + explode
 
 Twin Moon Knight

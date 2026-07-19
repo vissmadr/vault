@@ -1,4 +1,12 @@
-Sekiro-inspired combat seems great for this.
+After testing, figured out Hades/HLD style charged attack instead of the Sekiro one.
+This is more suited to the top-down gameplay. Sekiro one is too unresponsive for this.
+
+Feels good already. This is it, close it.
+Now it just needs better tuning and animations.
+
+[ ] For the normal attack itself, can still think about combos though.
+
+TLDR lock the keydown normal and the charge on second.
 
 # Driving to Sea
 

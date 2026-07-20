@@ -1,3 +1,12 @@
+# `2026-07-21`
+
+**Gainer & Spender**: Need this type of core mechanic.
+Could do Attack-based gainer and Special-based spender for example.
+
+**Posture**: Think about which abilities deal more posture vs health damage.
+
+# Misc
+
 After testing, figured out Hades/HLD style charged attack instead of the Sekiro one.
 This is more suited to the top-down gameplay. Sekiro one is too unresponsive for this.
 

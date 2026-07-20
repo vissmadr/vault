@@ -314,11 +314,13 @@ peturbator - future club
 blackmill, veela - let it be
 demons running - this is my kingdom come
 booka shade - i go, i go
-hybrid - choke
-hybrid - long time coming
 hybrid - original sin
 hybrid - disappear here
+hybrid - long time coming
 hybrid - can you hear me
+hybrid - formula of fear
+hybrid - true to form
+hybrid - choke
 parra for cuva - cupa cupa
 lunatic soul - walking on a flashlight beam
 lunatic soul - cold

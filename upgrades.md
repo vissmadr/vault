@@ -13,9 +13,15 @@
 
 #wip Stance-based bonuses.
 
+#wip Chrono with the Shield somehow maybe?
+
+#wip Can we Attack during Shield?
+
 [ ] **Pulse**: The Shield pulses for light AOE damage when struck.
 
 [ ] **Burst**: Bursts at the end of the duration, dealing damage based on strikes absorbed.
+
+[ ] **Absorb**: Successful absorbs slightly extend the duration of the active shield.
 
 [ ] **Thorns**: Melee enemies take damage when they strike the Shield.
 

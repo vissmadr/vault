@@ -1,3 +1,5 @@
+[ ] Tremor (ground outward up) ability. Like the Beo Special build fire, or Nautilus
+
 ## Attack
 
 #wip Think about gainer and spender mechanics.

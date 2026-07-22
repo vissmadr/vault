@@ -1,3 +1,27 @@
+## Animations
+
+9CG is great as always.
+
+Out of the RPG ones:
+
+Okay: `animations_all_RPGAnimations_TwoHandBase.blend`.
+. Has some alright basic attacks at the start.
+. Has some good special attacks after `~48580`.
+
+Okay: `animations_all_RPGAnimations_Hit.blend`.
+. Has a bunch to play around with hit/death stuff.
+
+Okay: `animations_all_RPGAnimations_EnemyAttack.blend`.
+. Has some alright basic attacks.
+
+Okay: `animations_all_RPGAnimations_Bow.blend`.
+. If we need archers.
+
+Okay: `animations_all_RPGAnimations_BaseMove.blend`
+. Good for unarmed movement.
+
+## Misc
+
 https://www.youtube.com/watch?v=V9iYpjbnkSg
 
 - [ ] Delete root keyframes to prevent animation moving

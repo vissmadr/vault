@@ -1,3 +1,7 @@
+# `2026-07-22`
+
+Enemy/Bossfight where they can friendly-fire eachother.
+
 # `2026-07-21`
 
 **Gainer & Spender**: Need this type of core mechanic.

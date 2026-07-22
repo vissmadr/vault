@@ -1,6 +1,25 @@
 # `2026-07-22`
 
+[ ] Phantom Lancer: Your (Lightning-only?) attacks have a chance to spawn a clone.
+. Clones are short-lived and attack an enemy.
+. Juxtapose: Makes clones also have this passive chance (limit this to a cap).
+. Talent: Increases chance for clone spawn when hitting burning enemies (so that Fire is synergy).
+
+[ ] What if Special is a continuous flame/lightning?
+. You hold it down for continuous stream of damage.
+. For Fire maybe hold down to stream Rumble flames while slowly(?) moving.
+. For Lightning could do something else, like charge and release for lightning?
+. Could be the consumer of (visible orbs) lightning charges?
+. Carmilla Orb?
+. Chidori?
+
 Enemy/Bossfight where they can friendly-fire eachother.
+
+Adding a 6th action button like 'Power' is fine for ergonomics.
+. Consider if it's needed for more player gameplay complexity.
+. If you REALLY want complexity, it could be an 'Empower' lol.
+. Or a 'Power' that does some form of buff or AOE around you?
+. Or it could be a mark and mark consume? Lee Sin?
 
 # `2026-07-21`
 

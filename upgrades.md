@@ -2,6 +2,8 @@
 
 ## Attack
 
+[ ] Final attack sword wave?
+
 #wip Think about gainer and spender mechanics.
 . For example combo points with lightning charge or something.
 

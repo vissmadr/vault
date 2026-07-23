@@ -1,3 +1,10 @@
+# `2026-07-23`
+
+[ ] [Yomi no Kuni](https://store.steampowered.com/app/4103600/Yomi_no_Kuni/)
+. This needs to be studied.
+
+[ ] Dash-attack.
+
 # `2026-07-22`
 
 [ ] Phantom Lancer: Your (Lightning-only?) attacks have a chance to spawn a clone.

@@ -1,9 +1,25 @@
 # `2026-07-23`
 
+[ ] IT HAS TO BE PARRY!
+. Figure out what form exactly, but it feels good!
+. Maybe use the bubble visual for something else? Or for this, but think about it.
+. No need for cooldown reset I think.
+. Feels good in Divin, also in Cinderia.
+
+Lightning stance is more RNG.
+. "Chance on hit to strike nearby enemies with lightning."
+
+Study Divinum.
+[Divinum](https://store.steampowered.com/app/1148130/Divinum/)
+
 [ ] [Yomi no Kuni](https://store.steampowered.com/app/4103600/Yomi_no_Kuni/)
 . This needs to be studied.
 
-[ ] Dash-attack.
+[ ] Sword Slash Arc + Trail + Impact VFX
+. Maybe all of them, both trail and arc would be best.
+. `codex resume, then select sword-slash-arc-trail (019f9052-5379-7481-95aa-67aefff7ed94)`
+
+[k] Dash-attack.
 
 # `2026-07-22`
 

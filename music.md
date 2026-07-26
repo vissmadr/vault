@@ -1,120 +1,63 @@
 # Metallica
-
 # Tool
-
 you lied
-
 # Nightwish
-
 # Arch Enemy
-
 # Infected Mushroom
-
 monster - astrix remix
 muse breaks rmx
-
 # Black Sabbath
-
 # Rainbow
-
 # Slipknot
-
 # Feint
-
 # Russian Circles
-
 # Judas Priest
-
 # CCR
-
 run through the jungle (LeSale's Satanic Edit)
-
 # Marilyn Manson
-
 # Megadeth
-
 # Slayer
-
 # Pendulum
-
 # NERO
-
 # Static X
-
 # Disturbed
-
 # System of a Down
-
 # Deep Purple
-
 # Gary Moore
-
 # Led Zeppelin
-
 # AC/DC
-
 # Dope
-
 # The Prodigy
-
 # Avenged Sevenfold
-
 # Trivium
-
 # Rage Against the Machine
-
 # Audioslave
-
 # Brutus
-
 # Linkin Park
-
 # Pantera
-
 # Pink Floyd
-
 # Dream Theather
-
 # Gorillaz
-
 # Joe Cocker
-
 # Rammstein
-
 # Porcupine Tree
-
 # Soundgarden
-
 # Scorpions
-
 # Hooverphonic
-
 # Eminem
-
 # Karnivool
-
 # Alice in Chains
-
 # Soen
-
 # Joe Satriani
-
 # Testament
-
 # Deftones
-
 tempest
 hearts/wires
 digital bath
-
 # Whitesnake
-
 # Ghost
-
 # Wardruna
-
 # misc
-
 vhs dreams - nightdrive
 sung - zodiac
 rob zombie - living dead girl
@@ -203,7 +146,6 @@ bagriders - shooting stars
 lvther - some kind of magic
 protiac - haze
 dua lipa - be the one
-dua lipa - physical
 lady gaga - bad romance
 lady gaga - marry the night
 etta james - at last

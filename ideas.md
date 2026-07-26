@@ -1,4 +1,29 @@
+# `2026-07-25`
+
+[ ] EmpowerCharges
+. Empower button that affects the next ability.
+. Have player charges, like combo points, that can be used for the Empower.
+
+Stance could also become Empower, same level of complexity almost.
+. Think about the visuals and feel between Fire & Lightning.
+
+Try both, both can be great.
+. Maybe literally implement both?
+. Playtest with people until decision?
+
+# `2026-07-24`
+
+[ ] Just copy the mechanics from Divinum, it feels so great!
+. What an amazing game feel it has.
+. The Runes, the Masteries, the Skills.
+. The way Attacks work.
+. The iframes on Parry, Dash, and Attack-Intercept.
+. How fast-paced, controllable, and forgiving it is.
+
 # `2026-07-23`
+
+[ ] Use the Body Mantle effect.
+. Already implemented and waiting.
 
 [ ] IT HAS TO BE PARRY!
 . Figure out what form exactly, but it feels good!
@@ -9,10 +34,10 @@
 Lightning stance is more RNG.
 . "Chance on hit to strike nearby enemies with lightning."
 
-Study Divinum.
-[Divinum](https://store.steampowered.com/app/1148130/Divinum/)
+[k] Study Divinum.
+. [Divinum](https://store.steampowered.com/app/1148130/Divinum/)
 
-[ ] [Yomi no Kuni](https://store.steampowered.com/app/4103600/Yomi_no_Kuni/)
+[k] [Yomi no Kuni](https://store.steampowered.com/app/4103600/Yomi_no_Kuni/)
 . This needs to be studied.
 
 [ ] Sword Slash Arc + Trail + Impact VFX
@@ -59,7 +84,7 @@ This is more suited to the top-down gameplay. Sekiro one is too unresponsive for
 Feels good already. This is it, close it.
 Now it just needs better tuning and animations.
 
-[ ] For the normal attack itself, can still think about combos though.
+[k] For the normal attack itself, can still think about combos though.
 
 TLDR lock the keydown normal and the charge on second.
 

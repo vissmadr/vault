@@ -1,0 +1,11 @@
+---
+context:
+  - "[[Game]]"
+---
+
+# Divinum
+
+#empty
+
+---
+

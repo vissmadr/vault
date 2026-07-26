@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "right": {
     "id": "a8b21f525f867907",
@@ -171,9 +170,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fff6e51c9b18d058",
+  "active": "75f945fb4ccdba64",
   "lastOpenFiles": [
+    "nodes/Exchange When Ahead.md",
     "nodes/Adaptive Volatility.md",
+    "nodes/Adaptive Volatility.md~",
+    "nodes/Markdown.md~",
+    "nodes/King's Indian.md",
     "nodes/Chess.md",
     "nodes/King's Indian Attack.md",
     "nodes/Game Engine Comparison.md",
@@ -203,12 +206,8 @@
     "_System.md~",
     "nodes/Gambler's Fallacy.md",
     "nodes/WebGL2 Texture Formats.md~",
-    "nodes/ASdasdasd.md~",
-    "nodes/Skeletal Animation.md~",
     "nodes/ASdasdasd.md",
     "nodes/Selfish Honesty.md",
-    "nodes/Remote Procedure Call (RPC).md",
-    "nodes/Deep Q-Network (DQN).md",
     "Untitled.canvas",
     "las.png",
     "Argus.canvas",

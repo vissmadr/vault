@@ -179,6 +179,9 @@ White, Blue, Purple, Brown, Black, and last only one row Red.
 **Arc Warden**: Really fits the Lightning part.
 . Both aesthetically and philosophically.
 
+"Animal or machine?"
+"- Does it matter?"
+
 ## Characters
 
 **Player**: Robot, some clothing, belt, sword, maybe orbs? Idk about the orbs.

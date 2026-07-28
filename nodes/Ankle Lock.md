@@ -123,4 +123,9 @@ We can join our legs for better structure, foot to the knee.
 This will keep him at a distance, prevent him from stepping his leg on the mat, and prevent him from standing up further.
 This is actually a finishing position. Have your back on the mat and rotate to the side.
 
+Hand on the knee often in order to easily get the half-foot position.
+
+Combine CaioTerra lock with the other ankle locks.
+It's really strong.
+
 #wip continue Part 2 at `0:10:00`

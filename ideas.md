@@ -4,15 +4,21 @@
 . Maybe speed up the Fireball greatly after dash?
 . Could be made to be faster and therefore travel more distance.
 
+[k] Projectile Eater Fireball.
+
 [ ] Luck waves.
 . Doesn't get more creative/special than that lol.
 . See vault.
 
-[ ] Fireball leaves Scorch.
-. Melee detonation leaves bigger Scorch.
-. Maybe FireOrbs too?
+[k] Fireball explosion leaves Scorch.
+. "Scorch" is fire on the ground. Just ground AOE that stays there and damages enemies that walk on it.
+. Multiple Scorch should not stack. I mean they can cover more area no problem, but the damage doesn't overlap. Like a boolean, an enemy is either on Scorch ground or not, thus either taking damage from (a single) Scorch or not.
+. Maybe FireOrbs explosions too?
+. Scorch area radius is based on the explosion radius that spawned it. Therefore small explosions spawn small Scorch area, big explosions spawn big Scorch area. Therefore for example the normal Fireball explosion will spawn a Scorch, and the bigger melee-detonated Fireball with bigger explosion AOE will spawn bigger scorch.
 
-[ ] Spawns? Fire elementals?
+[ ] (!) Spawns! Fire elementals?
+. No action button for it, somewhat "passive", meaning activated by skills/upgrades/synergies.
+. Enigma DotA 2 Eidolons.
 . Instead of an ability, this could be a passive, or chained to abilities.
 . Like the TL2 where it spawns the shadow creatures on kill or something.
 . Or spawns them when hitting/burning enemies with some condition.

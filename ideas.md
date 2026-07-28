@@ -1,4 +1,26 @@
+# `2026-07-27`
+
+[ ] Dash+Fireball synergy.
+. Maybe speed up the Fireball greatly after dash?
+. Could be made to be faster and therefore travel more distance.
+
+[ ] Luck waves.
+. Doesn't get more creative/special than that lol.
+. See vault.
+
+[ ] Fireball leaves Scorch.
+. Melee detonation leaves bigger Scorch.
+. Maybe FireOrbs too?
+
+[ ] Spawns? Fire elementals?
+. Instead of an ability, this could be a passive, or chained to abilities.
+. Like the TL2 where it spawns the shadow creatures on kill or something.
+. Or spawns them when hitting/burning enemies with some condition.
+. And then we can use it for the Juxtapose, like more elementals leads to more elementals.
+
 # `2026-07-25`
+
+Thinking stances better maybe...
 
 [ ] EmpowerCharges
 . Empower button that affects the next ability.
@@ -13,7 +35,7 @@ Try both, both can be great.
 
 # `2026-07-24`
 
-[ ] Just copy the mechanics from Divinum, it feels so great!
+[ ] Just copy some mechanics from Divinum, it feels so great!
 . What an amazing game feel it has.
 . The Runes, the Masteries, the Skills.
 . The way Attacks work.

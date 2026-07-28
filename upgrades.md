@@ -13,6 +13,8 @@
 
 [ ] **Dash Special**: Empowers next Special after Dash.
 
+[ ] **FireOrbs**: Dash creates a single fire orb after dashing.
+
 ## Shield
 
 #wip Stance-based bonuses.
@@ -37,7 +39,10 @@
 
 [ ] **Haunt**: Successful absorbs summon a short-lived Clone to attack the enemy.
 
-## Special
+## FireOrbs
+
+[ ] Launch towards facing direction only.
+. Or only towards orb current direction?
 
 ## Stance
 

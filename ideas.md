@@ -1,6 +1,6 @@
 # `2026-07-29`
 
-[ ] Add to docs that Burning and Scorch durations should be short by default.
+Burning and Scorch durations should be short by default.
 . Exception to this would be upgrades, like augments and stuff.
 . Like short burns for only a few seconds.
 . This improves the dynamics of the game.
@@ -13,14 +13,9 @@
 . Like DotA 2 Zeus W/R.
 . Can synergize to proc when hitting with Attack or Fireball explosion.
 . Direct Fireball hit spawns it. And then the Cascade augment naturally.
+. Can be used for random nearby enemy lightning passive.
 
 [k] Brand/Lich ultimate?
-[k] Task: Want to make it so that there is a direction angle for the chain.
-Like, a fireball travelling towards an enemy can then jump only if it's roughly a similar angle.
-So like lets say we config it to 120 degrees, that means the fireball is flying and hits an enemy, and then for the next enemy it checks if it's within that 120 degree cone from the fireball's flight direction.
-This will make it look more natural chain cascade, as if it preserves some velocity roughly in a direction.
-Currently right now the fireball can bounce between two enemies and back, which feels unnatural.
-[k] Task: Potency on the Fireball, and reducing it on each jump.
 
 [ ] Omnislash?
 

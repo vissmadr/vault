@@ -1,8 +1,30 @@
 [ ] Tremor (ground outward up) ability. Like the Beo Special build fire, or Nautilus
 
+## Fire Elementals
+
+- "Spawns a FireElemental when a Burning enemy dies."
+- "Fireball explosion criticals spawn two FireElementals."
+- "Every Burning tick has a small chance to spawn a FireElemental."
+
+- "FireElementals are `x%` stronger when standing on Scorch ground."
+- "FireElementals move faster on Scorch ground."
+- "On death, FireElementals explode dealing AOE damage."
+- "FireElemental attacks apply Burning." (which synergizes with the spawn on burning)
+- "When a (player) Fireball or its explosion hit a FireElemental, it becomes `x%` (alot) stronger for a short duration".
+- "After `n` attacks, a FireElemental multiplies" (meaning it spawns another one, but with the same lifetime duration, avoiding extremities)
+
+## Fireball
+
+[ ] Grow in size while flying?
+
+## FireOrbs
+
+[ ] Launch towards facing direction only.
+. Or only towards orb current direction?
+
 ## Attack
 
-[ ] Final attack sword wave?
+[ ] Final attack of basic attack combo something special?
 
 #wip Think about gainer and spender mechanics.
 . For example combo points with lightning charge or something.
@@ -38,24 +60,6 @@
 [ ] **Retaliate Special**: Empowers next Special after the Shield.
 
 [ ] **Haunt**: Successful absorbs summon a short-lived Clone to attack the enemy.
-
-## Fire Elementals
-
-- "Spawns a FireElemental when a Burning enemy dies."
-- "Fireball explosion criticals spawn two FireElementals."
-- "Every Burning tick has a small chance to spawn a FireElemental."
-
-- "FireElementals are `x%` stronger when standing on Scorch ground."
-- "FireElementals move faster on Scorch ground."
-- "On death, FireElementals explode dealing AOE damage."
-- "FireElemental attacks apply Burning." (which synergizes with the spawn on burning)
-- "When a (player) Fireball or its explosion hit a FireElemental, it becomes `x%` (alot) stronger for a short duration".
-- "After `n` attacks, a FireElemental multiplies" (meaning it spawns another one, but with the same lifetime duration, avoiding extremities)
-
-## FireOrbs
-
-[ ] Launch towards facing direction only.
-. Or only towards orb current direction?
 
 ## Stance
 

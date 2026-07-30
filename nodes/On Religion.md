@@ -7,12 +7,6 @@ context:
 
 # On Religion
 
-ad
-
----
-
-#wip Belief systems cause more conflict than rational systems.
-Belief is often fanatic and does not allow for rational argument.
-Science on the other hand is based on rational argument and the need of proof.
-
-[[Stoicism and Religion are Incompatible]]
+#wip
+Religion is mostly "all or nothing" and does not allow/approve of any rational challenge.
+Science on the other hand is based on rational argument and the requirement of replicatable validation.

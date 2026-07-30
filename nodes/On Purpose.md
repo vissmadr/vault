@@ -19,7 +19,7 @@ My thoughs about purpose, [[Ikigai]], and meaning in life.
 
 ## Singular Purpose
 
-Why only one? Why not many?
+Why singular? Why only one? Why not many?
 
 When talking about the concept of purpose, people generally tend to think of it as a singular objective:
 
@@ -30,7 +30,7 @@ Beware of the [[Nerd]] mindset.
 
 If purpose is defined as a specific goal in life, then I don't see a reason why it should be only one.
 
-A person can (and probably should) have many goals in life.
+An individual can, and in my opinion probably should, have many goals in life.
 
 Besides, what if you have a single purpose/goal in life and you manage to complete it?
 Would that mean that you have achieved everything that you were meant to achieve?
@@ -41,11 +41,15 @@ Again, who's to say?
 
 In any case, both win or lose, finding another purpose, or many more, is probably the right thing to do.
 
-## Unknown
+## The Unknown
 
-You really don't know.
+#wip
 
-And I think that's fine.
+We really don't know.
+Personally I believe that we may never kno.
+
+And maybe that's fine, who knows?
+Not me.
 
 ## Types of Purpose
 
@@ -61,22 +65,26 @@ If you're selfish enough, you stop here.
 
 ## Finding Purpose
 
-A grind. As usual.
+#wip
+
+It's a grind.
+
+Much like everything else that is worthwhile doing it seems.
 
 ## My Own
 
-**Personal**: Self-development.
+**Personal**: Self-development, understanding, experience.
 
-Self-development is my primary goal.
+Those are my primary goals.
 
-I want to learn. As much as I can.
-I want to gain and develop all the virtues I'm able to: _clarity_, _enlightenment_, _spirit_, _wisdom_, _discipline_, _knowledge_, _insight_, _honor_, _skill_, _honesty_, _strength_, _will_...
-I want to remain _adaptive_, being able to change any of this if I learn that I need to.
+- Want to learn and understand. As much as I can.
+- Want to gain and develop the virtues I'm able to: _clarity_, _enlightenment_, _spirit_, _wisdom_, _discipline_, _knowledge_, _insight_, _honor_, _skill_, _honesty_, _strength_, _will_...
+- Want to remain _adaptive_, child-like, being able to change any of this if I need to.
 
 I wish for [[Eudaimonia]].
 
 And if I could reach for more than that, then I probably would.
 
-**Shared**: Science. Ethics. Preservation. Enlightenment.
+**Shared**: Science. Preservation. Ethics. Enlightenment.
 
 **Universal**: The advancement of consciousness in both quality and quantity.

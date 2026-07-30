@@ -6,8 +6,3 @@ context:
 #empty
 
 # Nerd
-
-ad
-
----
-

@@ -50,7 +50,7 @@ Take an average purist in development, and the process goes something like this:
 - The forum answer he finds after copying an error message into a search engine? Written by someone else.
 - The search engine that found it? Made by someone else.
 
-Eventually, his creation is ready. The Holy CODE!
+Eventually, his creation, the holy code, is ready.
 
 ...But it needs to be compiled.
 
@@ -132,7 +132,7 @@ The real questions are:
 - whether you deliberately shaped it
 - whether you can take responsibility
 
-Asking AI to produce something that you don't understand, cannot explain, cannot evaluate, and cannot contribute to, then yes: claiming you created it is questionable.
+Asking AI to produce something that you don't understand, cannot explain, cannot evaluate, and cannot contribute to, then yes: claiming you developed it is questionable.
 
 Shaping the design, directing the process, evaluating the output, rejecting bad decisions, refining good ones, integrating the result, fixing the issues, taking responsibility...
 

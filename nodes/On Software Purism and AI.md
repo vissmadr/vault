@@ -65,7 +65,6 @@ Eventually, his creation is ready. The Holy CODE!
 
 Now he needs to make sure his creation actually works.
 
-- A formatter rewrites his code into the accepted style. Made by someone else.
 - A debugger lets him pause the program and inspect its state. Made by someone else.
 - A profiler tells him why it is slow. Made by someone else.
 - A memory checker tells him why it crashes. Made by someone else.

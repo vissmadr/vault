@@ -15,8 +15,7 @@ When it comes to software development, this doesn't make much sense.
 Some of that is true, I guess.
 But as a software engineer, I would argue that we never really created that much entirely by ourselves before AI either.
 We already had plenty of automation before AI, which people with such strong opinions seem to forget about.
-Now with AI the automation is just better than before.
-Ridiculously better than before.
+Now with AI the automation just happens to be ridiculously better than before.
 
 ## Purists
 

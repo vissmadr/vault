@@ -1,3 +1,6 @@
+`2026-08-01`: Focusing only Guillotine, Darce, Anaconda, and Wrestling.
+. Oh and the Ryan Hall hold into backtake roll.
+
 # Learning
 
 Master the Move: Ankle Lock

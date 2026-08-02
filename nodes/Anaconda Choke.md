@@ -5,7 +5,7 @@ context:
 
 # Anaconda Choke
 
-#wip
+The Anaconda is a control and a choking attack in grappling.
 
 ---
 
@@ -52,6 +52,7 @@ context:
 **3 Grips Tightening**: Do not directly go with your support arm, which risks exposing it to being caught by the opponent.
 . From a Gable grip, transition to palm-to-palm grip, and then to figure-four grip.
 . There is also a way to do only 2 grips, if you didn't start with a Gable grip, but something like a palm-to-palm.
+. Always good to pull your grip up before final figure-four close.
 
 **Hip Forward Tightening**: When getting the final figure-four grip from T-position, shoot your hips forward in the direction of your arms for an even tighter grip.
 

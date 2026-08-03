@@ -2,6 +2,8 @@
 
 Badass fire quotes.
 
+Originally a 'Fire Destroyer' program, but redemption arc or something?
+
 # `2026-07-29`
 
 Burning and Scorch durations should be short by default.

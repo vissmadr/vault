@@ -9,6 +9,9 @@ The Anaconda is a control and a choking attack in grappling.
 
 ---
 
+[Mendes Sparring](https://www.youtube.com/watch?v=-uAz3SvQ42c)
+[Mendes Explanation](https://www.youtube.com/watch?v=Nw2xfELw4wc)
+
 **Breakdown**: You don't get to strangle people in Anaconda until you break them down to a hip.
 . In particular, breaking them down to the opposite hip of their trapped arm.
 

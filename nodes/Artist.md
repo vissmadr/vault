@@ -1,0 +1,11 @@
+---
+context:
+  - "[[Art]]"
+---
+
+# Artist
+
+#empty
+
+---
+

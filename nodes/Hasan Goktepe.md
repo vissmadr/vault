@@ -2,12 +2,13 @@
 aliases:
   - Hasan Göktepe
 context:
-  - "[[Digital Art]]"
+  - "[[Artist]]"
+  - "[[Voxel Art]]"
 ---
 
 # Hasan Goktepe
 
-Probably my favorite visual artist.
+Voxel environment artist.
 
 https://hasangoktepe.art/
 https://x.com/hasangoktepe3d

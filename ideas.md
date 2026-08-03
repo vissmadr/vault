@@ -1,3 +1,7 @@
+# `2026-08-03`
+
+Badass fire quotes.
+
 # `2026-07-29`
 
 Burning and Scorch durations should be short by default.

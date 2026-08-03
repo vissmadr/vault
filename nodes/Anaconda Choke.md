@@ -20,6 +20,7 @@ The Anaconda is a control and a choking attack in grappling.
 . Put your shoulder and head low so that your upper-body supports the structure.
 . On your feet, start to lean to the side. This will already apply a very strong choke.
 . If he is going to roll, your head should naturally be below him for an olympic-roll.
+. You can take his elbow across to the other side before you do the roll.
 
 **Left-Right Olympic Roll**: When about to do the Olympic Roll and the opponent posts on their hand, and it's hard to get his elbow closer to the centerline.
 . You can to to the direction of his elbow, and then on the way back do the roll.
@@ -29,6 +30,7 @@ The Anaconda is a control and a choking attack in grappling.
 . The idea is to trap his head underneath our stomach, and when we roll it's going to be like a Nelson mechanic.
 
 **T-position**: By far the single most successful position to finish and control an Anaconda.
+. Prevents the opponent from rolling onto his knees.
 
 **Head Trap**: Need to be able to bend the head of the opponent into an unnatural position.
 . Trap his head in the pit of your stomach, bending it sideways.
@@ -54,7 +56,7 @@ The Anaconda is a control and a choking attack in grappling.
 . There is also a way to do only 2 grips, if you didn't start with a Gable grip, but something like a palm-to-palm.
 . Always good to pull your grip up before final figure-four close.
 
-**Hip Forward Tightening**: When getting the final figure-four grip from T-position, shoot your hips forward in the direction of your arms for an even tighter grip.
+**T-step Tightening**: When getting the final figure-four grip from T-position, do a T-step to shoot your hips forward in the direction of your arms for an even tighter grip.
 
 **Multiple Tightenings**: Can pull the grip a few times, like 1-2-3, and then lock it.
 . Can do this from the Leg-to-elbow hook.
@@ -63,6 +65,12 @@ The Anaconda is a control and a choking attack in grappling.
 
 **T-position Big Step**: The first thing to do when getting the T-position is to do a big step towards the opponent.
 . After the big step we can proceed to all the other optimizations and finish.
+
+**One-step Front-headlock Catch**: The supporting arm goes through as deep as possible. The idea is to avoid your figure-four grip being next to the opponent's elbow.
+. When the figure-four grip is next to the opponent's elbow, it can be broken. This is why you go deep and grip it somewhere below his chest.
+. The support arm cannot post on his lats on the outside, so it posts on his stomach.
+
+**When to Outside Roll**: When the opponent has his knee on the ground, it's the perfect time to outside roll. The knee on the side of your supporting arm.
 
 ## John Danaher Instructional
 

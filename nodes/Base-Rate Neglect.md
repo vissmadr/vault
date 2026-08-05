@@ -1,7 +1,4 @@
 ---
-aliases:
-  - Base Rate Neglect
-  - Base Rate Fallacy
 context:
   - "[[Cognitive Bias]]"
 ---

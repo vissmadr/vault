@@ -78,6 +78,10 @@ The Anaconda is a control and a choking attack in grappling.
 
 **Step-over Method**: From front-headlock, connect the circle, and go with the knee through his ribs as if standard crucifix step. The other leg steps over his head, as if going for a peruvian, and then pull him down to the T-position anaconda.
 
+**Leg Hook Method**: From front-headlock when the opponent posts on his arms and tries to posture up, hook his arm from the outside. Then continue to T-position Anaconda with his arm already trapped.
+
+**Standing Anaconda Trip**: Lock the Anaconda, the opponent stands up, stand up with him, step to an angle in the direction of your support arm, step in front of his far leg while falling down for the trip, finish in T-position Anaconda.
+
 ## John Danaher Instructional
 
 **Volume 1**: Preaching for the Anaconda and focusing on the Olympic roll.

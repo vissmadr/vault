@@ -82,6 +82,9 @@ The Anaconda is a control and a choking attack in grappling.
 
 **Standing Anaconda Trip**: Lock the Anaconda, the opponent stands up, stand up with him, step to an angle in the direction of your support arm, step in front of his far leg while falling down for the trip, finish in T-position Anaconda.
 
+**Inverted North-south Anaconda**: From an inverted North-south with an Anaconda, squeeze the grip to prevent opponent from moving easily. Bridge while controlling.
+. To get to the T-position Anaconda with a trap, don't go directly leg-to-elbow, but instead go both legs up, as if towards mount, and then scissor them and whole body falls down towards the elow, still with the leg on top. This detail creates a better angle, pushing the opponent onto his shoulder more, rather than him flat on his back.
+
 ## John Danaher Instructional
 
 **Volume 1**: Preaching for the Anaconda and focusing on the Olympic roll.

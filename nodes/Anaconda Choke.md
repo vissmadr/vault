@@ -69,11 +69,14 @@ The Anaconda is a control and a choking attack in grappling.
 **T-position Big Step**: The first thing to do when getting the T-position is to do a big step towards the opponent.
 . After the big step we can proceed to all the other optimizations and finish.
 
-**One-step Front-headlock Catch**: The supporting arm goes through as deep as possible. The idea is to avoid your figure-four grip being next to the opponent's elbow.
+**When to Outside Roll**: When the opponent has his knee on the ground, it's the perfect time to outside roll. The knee on the side of your supporting arm.
+
+**One-step Front-headlock Catch**: With direct figure four from front-headlock, the supporting arm goes through as deep as possible.
+. The idea is to avoid your figure-four grip being next to the opponent's elbow.
 . When the figure-four grip is next to the opponent's elbow, it can be broken. This is why you go deep and grip it somewhere below his chest.
 . The support arm cannot post on his lats on the outside, so it posts on his stomach.
 
-**When to Outside Roll**: When the opponent has his knee on the ground, it's the perfect time to outside roll. The knee on the side of your supporting arm.
+**Step-over Method**: From front-headlock, connect the circle, and go with the knee through his ribs as if standard crucifix step. The other leg steps over his head, as if going for a peruvian, and then pull him down to the T-position anaconda.
 
 ## John Danaher Instructional
 

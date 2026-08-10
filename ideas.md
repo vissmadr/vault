@@ -1,5 +1,14 @@
 # `2026-08-10`
 
+**TUNE EVERYTHING DOWN!**
+. Chaos right now, but should be tuned down for the actual game.
+
+[ ] While Meditating for the Fireball to be FireNova AOE?
+
+Could still go for stances, but less changing the abilities?
+
+[k] Yamamoto Bankai ultimate.
+
 Balance Fire vs Melee.
 Melee should have bonuses against burning, but not apply that much burning itself.
 Idea is that you try to burn enemies, and then attack them, but not just attack and they auto-burn.
@@ -12,14 +21,12 @@ Or to avoid the problem of melee burn spam, consume FireOrbs or whatever resourc
 
 # `2026-08-05`
 
-ULTRAKILL-inspired Fire.
-
+ULTRAKILL-inspired Fire lore.
 To ashes.
 
 # `2026-08-03`
 
 Badass fire quotes.
-
 Originally a 'Fire Destroyer' program, but redemption arc or something?
 
 # `2026-07-29`
@@ -33,7 +40,7 @@ Burning and Scorch durations should be short by default.
 [ ] (?) Buffs/Debuffs indicators.
 . Hmm, maybe, not sure.
 
-[ ] Lightning from the sky?
+[k] Lightning from the sky?
 . Like DotA 2 Zeus W/R.
 . Can synergize to proc when hitting with Attack or Fireball explosion.
 . Direct Fireball hit spawns it. And then the Cascade augment naturally.

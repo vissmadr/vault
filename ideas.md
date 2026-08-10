@@ -1,3 +1,15 @@
+# `2026-08-10`
+
+Balance Fire vs Melee.
+Melee should have bonuses against burning, but not apply that much burning itself.
+Idea is that you try to burn enemies, and then attack them, but not just attack and they auto-burn.
+Like the focus of the player should be to *spread the fire* and then *abuse burning enemies*.
+
+Held attack to be like dash-spin-attack?
+Some variety, not just "normal attack but with fire".
+The normal combo can have a wave?
+Or to avoid the problem of melee burn spam, consume FireOrbs or whatever resource for the wave?
+
 # `2026-08-05`
 
 ULTRAKILL-inspired Fire.

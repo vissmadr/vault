@@ -1,5 +1,7 @@
 # `2026-08-12`
 
+[ ] huglet visual ideas from the reference.
+
 Now that the design is heavy on the Meditate as a stance, I should play Melusine.
 Want to feel how the gameplay feels there, see if I can learn anything from her.
 

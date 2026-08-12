@@ -1,3 +1,15 @@
+# `2026-08-12`
+
+Now that the design is heavy on the Meditate as a stance, I should play Melusine.
+Want to feel how the gameplay feels there, see if I can learn anything from her.
+
+# `2026-08-11`
+
+The machine doesn't agree with the philosophy of it's nature.
+And yet it's all it is and all it can do.
+
+"Imagine fixing something for once."
+
 # `2026-08-10`
 
 **TUNE EVERYTHING DOWN!**

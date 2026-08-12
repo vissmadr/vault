@@ -1,3 +1,6 @@
+[Nurmagomedov Parenting](https://youtu.be/l6USUAIKJls?t=3028)
+`50:25+`
+
 Fire Force anime
 
 [ ] [VFX](https://youtu.be/zicdjq3g4gk)

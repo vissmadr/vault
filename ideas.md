@@ -1,6 +1,24 @@
 # `2026-08-12`
 
 [ ] huglet visual ideas from the reference.
+```
+vissmadr — 9:55 PM
+Amazing, as usual
+I like how it's not simply fire orange-ish but it fades into this purple-magenta color
+looks awesome
+huglet [LUE!],  — 10:07 PM
+heh that's actually my secret sauce to nice looking VFX
+hue shifting everywhere
+almost every effect in my game has hue shifting over lifetime
+vissmadr — 10:10 PM
+I should play around with that, seems like a ton of value from a relatively simple concept
+embedFile("sietse") [FART],  — 10:11 PM
+Lue shifting
+huglet [LUE!],  — 10:16 PM
+it makes a world of a difference
+its especially potent when you spawn a cluster of particles with differing lifetimes, some will hue shift faster than others
+gives it chonk
+```
 
 Now that the design is heavy on the Meditate as a stance, I should play Melusine.
 Want to feel how the gameplay feels there, see if I can learn anything from her.

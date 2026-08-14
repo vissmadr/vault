@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "612f5fbebefc659e",
+        "id": "e57e17f0e973fb26",
         "type": "tabs",
         "children": [
           {
-            "id": "75f945fb4ccdba64",
+            "id": "f30a7a2a1099c9dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/Adaptive Volatility.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Adaptive Volatility"
-            }
-          }
-        ]
-      },
-      {
-        "id": "61bec74adc10a69f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fff6e51c9b18d058",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/King's Indian.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "King's Indian"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -61,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -104,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Guides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +91,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for _Guides"
+              "title": "Backlinks"
             }
           },
           {
@@ -170,44 +147,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75f945fb4ccdba64",
+  "active": "f30a7a2a1099c9dd",
   "lastOpenFiles": [
-    "nodes/Exchange When Ahead.md",
+    "nodes/Zero-sum Game.md",
+    "nodes/Chess.md",
     "nodes/Adaptive Volatility.md",
+    "nodes/Exchange When Ahead.md",
+    "nodes/Strategy.md",
+    "nodes/Algorithm.md",
+    "nodes/A-Star Algorithm.md",
+    "nodes/Abstract Machine.md",
+    "nodes/Informal Fallacy.md",
+    "nodes/Fallacy.md",
+    "nodes/Formal Fallacy.md",
+    "nodes/Gambler's Fallacy.md",
+    "nodes/Cognitive Bias.md",
+    "nodes/Dunning-Kruger Effect.md",
+    "nodes/Confirmation Bias.md",
+    "nodes/Halo Effect.md",
+    "nodes/Affinity Bias.md",
+    "nodes/Abstraction.md",
+    "nodes/Mathematics.md",
+    "nodes/Geometry.md",
+    "nodes/Circle.md",
+    "nodes/Salience Bias.md",
+    "nodes/Base-Rate Neglect.md",
+    "nodes/Bias.md",
+    "nodes/Clipping.md",
+    "nodes/Command Language.md",
     "nodes/Adaptive Volatility.md~",
     "nodes/Markdown.md~",
-    "nodes/King's Indian.md",
-    "nodes/Chess.md",
-    "nodes/King's Indian Attack.md",
-    "nodes/Game Engine Comparison.md",
-    "nodes/Vector.md",
-    "nodes/Cognitive Bias.md",
-    "nodes/Fallacy.md",
-    "nodes/Screen Resolutions.md",
-    "nodes/Eric's Diamond.md",
     "nodes/Eric's Diamond.md~",
-    "nodes/Stoicism and Religion are Incompatible.md",
-    "nodes/Project Spellblade - Skills.md",
     "nodes/Project Spellblade - Skills.md~",
     "nodes/Project Spellblade - Names.md~",
     "nodes/4913",
-    "_Any.md",
-    "_Draft.md",
     "_Draft.md~",
-    "nodes/Iterative Game Development and Design.md",
-    "nodes/Game Mechanics Ideas.md",
-    "nodes/LLM Code Optimization.md",
     "nodes/LLM Code Optimization.md~",
-    "nodes/Linear Transformation.md",
-    "nodes/Determinant.md",
-    "nodes/Scalar.md",
-    "nodes/Matrix.md",
-    "nodes/Linear Algebra.md",
     "_System.md~",
-    "nodes/Gambler's Fallacy.md",
     "nodes/WebGL2 Texture Formats.md~",
-    "nodes/ASdasdasd.md",
-    "nodes/Selfish Honesty.md",
     "Untitled.canvas",
     "las.png",
     "Argus.canvas",

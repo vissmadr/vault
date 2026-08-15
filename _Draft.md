@@ -1,8 +1,6 @@
 [Nurmagomedov Parenting](https://youtu.be/l6USUAIKJls?t=3028)
 `50:25+`
 
-Fire Force anime
-
 [ ] [VFX](https://youtu.be/zicdjq3g4gk)
 
 ## Animations
@@ -282,15 +280,6 @@ The 60/30/10 rule.
 # Design
 
 WoL/Furi/Hades
-
-Thronefall
-
-Thronefall, but go out to farm
-Defense but like Hero Siege elements
-
-# Zig
-
-https://www.youtube.com/watch?v=iqddnwKF8HQ
 
 # Sensei
 

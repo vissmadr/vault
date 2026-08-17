@@ -1,3 +1,27 @@
+# `2026-08-17`
+
+[ ] Think about abilities/input redesign again, with Empower & LightningEmpower maybe.
+
+[ ] (!) Think about removing shield for a LightningStance or LightningCharge/Empower or Mark again.
+. Shield can sometimes fight the design, an example of this being the Chrono, and Hades being without a shield.
+. The button can then be used for something Lightning or Mark.
+. Can experiment for cool lightning visuals and stuff with the sword Enchant vfx and the huglet hue shift idea and lightnign particles vfx.
+
+[ ] (!) FireExplosions give FireEnchant automatically.
+. Reconsider having an active ability for FireEnchant then?
+. Can be freed up for other things if so.
+. Gameplay becomes close orb Detonating to keep FireEnchant up, hitting MeleeFireball, etc.
+. Can be rebalanced for both time and number-of-attacks, too.
+
+[ ] Chrono visual effect.
+. Some full-screen post-process thing maybe? Like the shader debug views?
+
+[ ] Analog fire orbs experiment.
+. Having a bar that fills by acting/meditating.
+. The bar has visual separators for how many orbs.
+
+[ ] (!) Style-related Heat generation.
+
 # `2026-08-12`
 
 [ ] huglet visual ideas from the reference.

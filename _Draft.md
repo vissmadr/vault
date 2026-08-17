@@ -30,9 +30,7 @@ Okay: `animations_all_RPGAnimations_BaseMove.blend`
 https://www.youtube.com/watch?v=V9iYpjbnkSg
 
 - [ ] Delete root keyframes to prevent animation moving
-
 - [ ] NLA tracks
-
 - [ ] Always baking animations when exporting.
 
 ---

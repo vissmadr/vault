@@ -1,3 +1,11 @@
+# `2026-08-19`
+
+Zakk and marketing:
+
+- Start with a big reveal trailer first.
+- After that can do the devlogs, but as a secondary thing.
+- Talk to people and research how Steam works.
+
 # `2026-08-18`
 
 What if you build up Heat as a resource.

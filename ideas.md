@@ -1,5 +1,8 @@
 # `2026-08-19`
 
+Lightning stance to have Meditate, but this time it's truly powerful Carmilla orb or something?
+With cool visuals, with the particles of the trail, and many of the GroundArcs to the ground and stuff.
+
 Zakk and marketing:
 
 - Start with a big reveal trailer first.
@@ -15,6 +18,9 @@ You can then discharge Heat into Lightning at a very fast rate.
 Meaning that Lightning is stronger and as a burst, but limited by Heat resource.
 
 Potential also for Overheat mechanic.
+
+What if the Lightning stance's overall strength is determined on the level of the bar?
+So that you're always free to change stances, but if the bar is depleted it's just going to be weaker.
 
 # `2026-08-17`
 

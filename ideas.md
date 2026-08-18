@@ -1,3 +1,47 @@
+# `2026-08-18`
+
+What if you build up Heat as a resource.
+The more Heat, the easier to gain FireOrbs and such.
+
+You can then discharge Heat into Lightning at a very fast rate.
+Meaning that Lightning is stronger and as a burst, but limited by Heat resource.
+
+Potential also for Overheat mechanic.
+
+# `2026-08-17`
+
+Normal:
+    (j) Attack
+    (k) Dash
+    (l) Shield
+    (u) Detonate
+    (i) Meditate
+    (o) Spell
+
+Meditate:
+    (j) Enchant
+    (k) Exit
+    (l) Shield
+    (u) Detonate
+    (i) Exit
+    (o) Vortex
+
+Lightning-Normal:
+    (j) Attack
+    (k) Dash
+    (l) Shield
+    (u) Detonate
+    (i) Meditate
+    (o) Spell
+
+Lightning-Meditate:
+    (j) Enchant
+    (k) Exit
+    (l) Shield
+    (u) Detonate
+    (i) Exit
+    (o) Vortex
+
 # `2026-08-17`
 
 [ ] Think about abilities/input redesign again, with Empower & LightningEmpower maybe.

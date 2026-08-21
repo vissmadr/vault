@@ -1,5 +1,9 @@
 # `2026-08-19`
 
+The lightning can consume all the fire, like orbs and FireEnchant and convert into lightning stuff, like LightningEnchant.
+
+Can add the Mantle effect to buffs that happen on stance switch maybe?
+
 Lightning stance to have Meditate, but this time it's truly powerful Carmilla orb or something?
 With cool visuals, with the particles of the trail, and many of the GroundArcs to the ground and stuff.
 

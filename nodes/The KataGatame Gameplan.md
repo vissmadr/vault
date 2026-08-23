@@ -42,3 +42,12 @@ From the leg fold, you can even go over and into the mount finish.
 . If his frame is below your armpit, you can instead pull his elbow with your crossface hand and go for the Darce from there.
 . All of this needs to be timed well with a push-pull mechanic without any telegraphing.
 . From the KataGatame grip you can then go to 3/4 mount directly.
+
+**From Closed Guard**: When you can push his arm to the inside and catch the Circle.
+. Keep the Circle tight.
+. Move your hips side to side until you make enough space.
+. Once you have space, get your Butterfly hook and play as if it's a Shoulder Crunch.
+
+**Countering the Phone**: Usually just choke through it, but sometimes it's strong enough to hold.
+. Choking arm goes to cup his shoulder, support arm grabs his wrist and pulls for an Americana.
+. Pulling the Americana and letting it go can make the opponent snatch his arm back to the good KataGatame position.

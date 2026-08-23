@@ -51,3 +51,11 @@ From the leg fold, you can even go over and into the mount finish.
 **Countering the Phone**: Usually just choke through it, but sometimes it's strong enough to hold.
 . Choking arm goes to cup his shoulder, support arm grabs his wrist and pulls for an Americana.
 . Pulling the Americana and letting it go can make the opponent snatch his arm back to the good KataGatame position.
+
+**Countering Benchpress**: When you're trying to finish from Mount and the opponent pushes you with both hands like a bench press.
+. Use your knee to step on his bicep from the inside, then push his arm towards his body.
+
+**Defense**: When you're caught in a KataGatame with the opponent to your side.
+. Posture up on your elbow, pushing his head with your other elbow as hard as possible.
+. Scoot back until you can get your outside leg first inside as a Butterfly hook, and then the other leg.
+. With both legs inside, you can continue to offense, such as the Shoulder Crunch.

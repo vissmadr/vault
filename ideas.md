@@ -1,3 +1,9 @@
+# `2026-08-24`
+
+Denis:
+. Rigged plane.
+. Noise displacement.
+
 # `2026-08-19`
 
 The lightning can consume all the fire, like orbs and FireEnchant and convert into lightning stuff, like LightningEnchant.

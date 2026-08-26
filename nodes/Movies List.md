@@ -33,7 +33,7 @@ Personal list of great movies.
 | Apocalypse Now                 | 9     |
 | Schindler's List               | 9     |
 | City of God                    | 9     |
-| Life of Pi                     | 9     |
+| Life of Pi                     | 8     |
 | Whiplash                       | 8     |
 | Unforgiven                     | 8     |
 | Bladerunner                    | 8     |
@@ -91,7 +91,3 @@ Personal list of great movies.
 | War Dogs                       | 7     |
 
 [ ] Three Body Problem
-
-~~[ ] Broen~~
-~~[ ] Silo: `https://www.imdb.com/title/tt14688458/`~~
-~~[ ] `https://www.imdb.com/title/tt7772588/`~~

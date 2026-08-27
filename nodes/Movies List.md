@@ -33,8 +33,9 @@ Personal list of great movies.
 | Apocalypse Now                 | 9     |
 | Schindler's List               | 9     |
 | City of God                    | 9     |
-| Life of Pi                     | 8     |
+| Zodiac                         | 9     |
 | Whiplash                       | 8     |
+| Life of Pi                     | 8     |
 | Unforgiven                     | 8     |
 | Bladerunner                    | 8     |
 | Apocalypto                     | 8     |

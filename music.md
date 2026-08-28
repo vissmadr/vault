@@ -168,7 +168,7 @@ anathema - leave no trace
 st. vincent - los ageless
 radiohead - creep
 tityo - come along
-serge devant, hadley - addicted
+serge devant, hadley - addicted (radio edit)
 gojira - flying whales
 gojira - born in winter
 thirty seconds to mars - from yesterday

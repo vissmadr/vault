@@ -1,7 +1,27 @@
 # `2026-08-28`
 
+**Mark**: On an enemy that received many attacks?
+
 Multi color flames.
 Like purple, etc.
+
+```
+J: Attack
+K: Dash
+L: Parry
+
+QQ:
+QW:
+QE:
+
+WQ: Fire1
+WW: Fire2
+WE: Fire3
+
+EQ: Spark1
+EW: Spark2
+EE: Spark3
+```
 
 # `2026-08-24`
 

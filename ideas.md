@@ -1,3 +1,8 @@
+# `2026-08-28`
+
+Multi color flames.
+Like purple, etc.
+
 # `2026-08-24`
 
 Denis:

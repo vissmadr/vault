@@ -83,7 +83,7 @@ toto - africa
 rory gallagher - moonchild
 jimi hendrix - all along the watchtower
 jimi hendrix - voodoo chile
-born under a bad sign
+jimi hendrix - born under a bad sign
 zz top - sharp dressed man
 iron maiden - wasted years
 iron maiden - hallowed be thy name

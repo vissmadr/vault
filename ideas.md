@@ -1,5 +1,12 @@
 # `2026-08-28`
 
+**Stagger and Parry**: Can be stagger-based combat like WoL.
+. Stagger-based makes it good when you hit first, gives the certainty you will continue the combo, like WoL.
+. Sometimes enemies can break out of stagger, and that's when you have to react with Parry/Dash. Otherwise spam attack for stagger chain.
+
+**(?) No Meditate**: Think about removing Meditate.
+. Think about automatic FireOrbs.
+
 **Mark**: On an enemy that received many attacks?
 
 Multi color flames.
@@ -10,9 +17,9 @@ J: Attack
 K: Dash
 L: Parry
 
-QQ:
-QW:
-QE:
+QQ: Something1
+QW: Something2
+QE: Something3
 
 WQ: Fire1
 WW: Fire2

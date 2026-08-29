@@ -1,15 +1,18 @@
 ---
 context:
+  - "[[Discipline]]"
   - "[[Game]]"
 ---
 
-#empty
-
 # Game Design
 
-ad
+Discipline that studies games and the player experience they create.
+
+The process of creating and shaping the mechanics, systems, rules, and gameplay of a game.
 
 ---
+
+#wip
 
 Always have something moving.
 

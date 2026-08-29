@@ -12,25 +12,8 @@ The process of creating and shaping the mechanics, systems, rules, and gameplay 
 
 ---
 
-#wip
+**Game Mechanics**: The systems, rules, and objects in the game.
 
-Always have something moving.
+**Gameplay**: The interaction between the player and the mechanics.
 
-Be kinematic.
-
-There should never be a fully static scene.
-
----
-
-Progression is cool.
-Easter eggs are cool.
-Sharp controls are cool.
-[[Game Balance]]
-
-#wip Visual cues
-
-#wip LAST EPOCH SKILL SYSTEM
-
-#wip TitanQuest: Enemies drop only items they wield!
-
-#wip One thing for replayability is having different classes so that the player can experience the same game differently.
+**Player Experience**: How the player feels when they play the game.

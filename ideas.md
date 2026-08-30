@@ -1,5 +1,9 @@
 # `2026-08-30`
 
+Maybe no STATES?
+. Don't know, it seems slow kinda.
+. Feels better if everything is action-based I think.
+
 Two weapons suck!
 . Played Divinum and didn't feel the need to swap weapons at any point.
 . Ended up only playing with the sword.

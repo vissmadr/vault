@@ -1,3 +1,24 @@
+# `2026-08-31`
+
+**Gameplay Redesign**
+
+```
+J: Attack
+K: Dash
+L: Parry
+U: Fire
+I: Lightning
+O: ?
+```
+
+The Attack, Dash, and Parry need to be excellent.
+
+Then, the premutations should do a good work of additional abilities.
+Important to have good visuals when first clicking the permutation button.
+
+Choice between `2` vs `3` permutation buttons.
+Can be Fire & Lightning as permutations, with the `O` button free for something else.
+
 # `2026-08-30`
 
 Maybe no STATES?

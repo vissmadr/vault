@@ -246,6 +246,7 @@ jasper de ceuster - elements
 james blunt - 1973
 ceca - trepni
 slavi trifonov - iovano, iovanke
+gothart - jovano, jovanke
 juno reactor, don davis - navras
 el huervo - daisuke
 moon - paris

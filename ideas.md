@@ -1,3 +1,9 @@
+# `2026-08-30`
+
+Two weapons suck!
+. Played Divinum and didn't feel the need to swap weapons at any point.
+. Ended up only playing with the sword.
+
 # `2026-08-28`
 
 **Stagger and Parry**: Can be stagger-based combat like WoL.

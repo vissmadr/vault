@@ -1,5 +1,11 @@
 # `2026-08-31`
 
+**Automatic FireOrbs**: 
+. Maybe we can try with FireOrbs having automatic behavior.
+. Instead of having to manually use them, to use them through Convergence, or like the finisher to detonate FireOrbs on the enemy instead of Detonate button.
+
+# `2026-08-31`
+
 **Gameplay Redesign**
 
 ```

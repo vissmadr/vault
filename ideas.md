@@ -1,3 +1,8 @@
+# `2026-09-01`
+
+**Held Permutations**: New Fire & Lightning permutations allow us to hold them for something special?
+. Because the first press doesn't do anything on its own anyways.
+
 # `2026-08-31`
 
 **Automatic FireOrbs**: 

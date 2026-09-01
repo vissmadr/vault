@@ -18,38 +18,48 @@ wall wrestling
 striking gapclose
 standing back control
 
-reverse dlr
-shin to shin
-situp guard
+seated guard (bot)
+situp guard (bot)
+shin to shin (bot)
+turtle (bot)
 
-dogfight
-half guard
-knee shield
-deep half
-lockdown half
-mad dog
-half butterfly
-false guard
-reverse z
-turtle
-ghost
+ashi (bot)
+dogfight (bot)
+lockdown (bot)
+mad dog (bot)
+knee shield (bot)
+half guard (bot)
+false guard (bot)
 
-headquarters
-weave half
-smash pass
-half pass
-bodylock
-knee on belly
-turtle breakdown
-three quarters mount
+headquarters (top)
+split squat (top)
+shield smash (top)
+flat half (top)
+bodylock (top)
+knee on belly (top)
 
-triangle
-kimura
-clam
-ashi
+front headlock (top)
+turtle control (top)
 
-mount
-technical mount
-giftwrap
-crucifix
+mount (top)
+technical mount (top)
+giftwrap (top)
+
 back
+backmount
+straitjacket
+crucifix
+
+# Submissions
+
+rear-naked choke
+one arm rear-naked choke
+arm triangle
+leg triangle
+kimura
+darce
+anaconda
+peruvian necktie
+japanese necktie
+guillotine
+ankle lock

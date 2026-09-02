@@ -1,3 +1,7 @@
+# `2026-09-02`
+
+Could go for 3x3 permutations too, or 2x4 / 2x5, because there are lots of good ideas and abilities.
+
 # `2026-09-01`
 
 **Held Permutations**: New Fire & Lightning permutations allow us to hold them for something special?

@@ -1,3 +1,12 @@
+# `2026-09-04`
+
+[ ] Meteor Mode?
+. Have it as a mode, where different keys do different things.
+. Still have the Fire permutation thing.
+. Could be the Meditate again? With Meteor-like Detonations.
+. Maybe more direct than the old Meditate, meaning FireOrbs are just Ammo, not that much control?
+. Have them maybe like Detonate (one by one), Fireball (all Convergence), Enchant (go to sword), Vortex, Shield, experiment.
+
 # `2026-09-03`
 
 **Fire Tristana Bomb Plant**:

@@ -1,3 +1,9 @@
+# `2026-09-03`
+
+**Fire Tristana Bomb Plant**:
+. Basically the Tristana bomb on a target.
+. Hitting the target in melee adds to the explosion.
+
 # `2026-09-02`
 
 Could go for 3x3 permutations too, or 2x4 / 2x5, because there are lots of good ideas and abilities.
@@ -9,7 +15,7 @@ Could go for 3x3 permutations too, or 2x4 / 2x5, because there are lots of good 
 
 # `2026-08-31`
 
-**Automatic FireOrbs**: 
+**Automatic FireOrbs**:
 . Maybe we can try with FireOrbs having automatic behavior.
 . Instead of having to manually use them, to use them through Convergence, or like the finisher to detonate FireOrbs on the enemy instead of Detonate button.
 

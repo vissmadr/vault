@@ -24,8 +24,8 @@ shin to shin (bot)
 turtle (bot)
 
 ashi (bot)
-dogfight (bot)
 lockdown (bot)
+dogfight (bot)
 mad dog (bot)
 knee shield (bot)
 half guard (bot)
@@ -52,8 +52,8 @@ crucifix
 
 # Submissions
 
+base choke
 rear-naked choke
-one arm rear-naked choke
 arm triangle
 leg triangle
 kimura

@@ -1,4 +1,5 @@
 `2026-09-05`: Would be cool if there is a way to make deep half work for nogi.
+. That would solve the consistency problem, so I can always hug the leg and play for it.
 
 `2026-09-04`: Inside position is good, shinXshin saves the day.
 . Watch 'Just stand up' by Craig, seems to have some of the answers I seek.

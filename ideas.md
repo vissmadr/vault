@@ -1,5 +1,9 @@
 # `2026-09-04`
 
+**FINDINGS**:
+- Don't really like the old Meditate orbs movement.
+- Like Orbs as ammo more I think.
+
 [ ] Meteor Mode?
 . Have it as a mode, where different keys do different things.
 . Still have the Fire permutation thing.

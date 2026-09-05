@@ -1,3 +1,5 @@
+`2026-09-05`: Would be cool if there is a way to make deep half work for nogi.
+
 `2026-09-04`: Inside position is good, shinXshin saves the day.
 . Watch 'Just stand up' by Craig, seems to have some of the answers I seek.
 . Need to find a way to counter the underhook when it's near.

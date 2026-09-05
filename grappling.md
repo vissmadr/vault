@@ -8,6 +8,10 @@
 
 `2026-09-02`: Play seated guard and wrestle up!
 
+# Unsolved Problems
+
+My whole fucking bottom game when someone gets an underhook.
+
 # Positions
 
 single leg
@@ -43,6 +47,8 @@ turtle control (top)
 mount (top)
 technical mount (top)
 giftwrap (top)
+
+kimura trap
 
 back
 backmount

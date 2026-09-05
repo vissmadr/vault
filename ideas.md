@@ -1,3 +1,17 @@
+# `2026-09-06`
+
+What if Lightning is the Fury (style) thing?
+Where you automatically enter Lightning mode.
+And everything is converted to Lightning for some time, like FireEnchant into LightningEnchant, the spells, etc.
+
+**Attack**:
+**Dash**:
+**Parry**:
+**Special**: Core spell, thinking Firebombs.
+**Permutations**: Permutation mode of spells. Could be Fireball and FireOrbs and stuff.
+
+Also combos!
+
 # `2026-09-04`
 
 **FINDINGS**:

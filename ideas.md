@@ -1,5 +1,8 @@
 # `2026-09-06`
 
+Different behavior of Fireball when it's melee.
+Only if Focus remains as-is.
+
 What if Lightning is the Fury (style) thing?
 Where you automatically enter Lightning mode.
 And everything is converted to Lightning for some time, like FireEnchant into LightningEnchant, the spells, etc.

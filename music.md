@@ -263,6 +263,7 @@ hybrid - long time coming
 hybrid - can you hear me
 hybrid - formula of fear
 hybrid - true to form
+hybrid - dogstar
 hybrid - choke
 hybrid - salt
 parra for cuva - cupa cupa
@@ -285,6 +286,7 @@ kings of leon - revelry
 alcest - kodama
 in flames - the chosen pessimist
 in flames - the jester's dance
+in flames - alias
 magna - divide
 the beatles - come together
 phantogram - black out days (future islands remix)

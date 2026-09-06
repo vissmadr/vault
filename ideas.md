@@ -1,7 +1,17 @@
 # `2026-09-06`
 
-Different behavior of Fireball when it's melee.
-Only if Focus remains as-is.
+Core 4 abilities gameplay is good.
+Now not sure about the Permutations abilities.
+
+Don't know if I like the automatic FireOrbs launch ability.
+Maybe more like ammo?
+Like fuck the meditate maybe.
+
+Could make it non-Focus?
+
+**NEED SOME LIGHTNING SOMEHOW**
+
+(if Focus) Different behavior of Fireball when it's melee.
 
 What if Lightning is the Fury (style) thing?
 Where you automatically enter Lightning mode.

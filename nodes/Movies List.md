@@ -33,7 +33,6 @@ Personal list of great movies.
 | Apocalypse Now                 | 9     |
 | Schindler's List               | 9     |
 | City of God                    | 9     |
-| Zodiac                         | 9     |
 | Whiplash                       | 8     |
 | Life of Pi                     | 8     |
 | Unforgiven                     | 8     |
@@ -61,6 +60,7 @@ Personal list of great movies.
 | Casino                         | 8     |
 | Heat                           | 8     |
 | The Town                       | 8     |
+| Zodiac                         | 8     |
 | A.I. Artificial Intelligence   | 8     |
 | Into the Wild                  | 8     |
 | Kill Bill                      | 8     |
@@ -74,7 +74,7 @@ Personal list of great movies.
 | The Hateful Eight              | 8     |
 | The Wolf of Wall Street        | 8     |
 | Requiem for a Dream            | 8     |
-| Collateral                     | 8     |
+| Collateral                     | 7     |
 | Scarface                       | 7     |
 | Ex Machina                     | 7     |
 | A Beautiful Mind               | 7     |

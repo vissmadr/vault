@@ -11,14 +11,10 @@
             "id": "f30a7a2a1099c9dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/Gambler's Fallacy.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Gambler's Fallacy"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -70,8 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "right": {
     "id": "a8b21f525f867907",
@@ -154,9 +149,10 @@
   },
   "active": "f30a7a2a1099c9dd",
   "lastOpenFiles": [
+    "nodes/Adaptive Volatility.md",
+    "nodes/Gambler's Fallacy.md",
     "nodes/Zero-sum Game.md",
     "nodes/Chess.md",
-    "nodes/Adaptive Volatility.md",
     "nodes/Exchange When Ahead.md",
     "nodes/Strategy.md",
     "nodes/Algorithm.md",
@@ -165,7 +161,6 @@
     "nodes/Informal Fallacy.md",
     "nodes/Fallacy.md",
     "nodes/Formal Fallacy.md",
-    "nodes/Gambler's Fallacy.md",
     "nodes/Cognitive Bias.md",
     "nodes/Dunning-Kruger Effect.md",
     "nodes/Confirmation Bias.md",

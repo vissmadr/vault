@@ -64,3 +64,7 @@ Intentionally without much detail, instead focusing on having a large list of dr
 **Crucifix Arm Trap**: From Turtle Control with a knee inside and a Dagestan grip.
 . Push his elbow out with your knee, catch with the other leg.
 . Stay on top of the Turtle Control and forcefully choke with one hand against no defense.
+
+## Butterfly
+
+**Sumi Gaeshi**: #wip

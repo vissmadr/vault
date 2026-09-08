@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Clock Theory
 context:
   - "[[Grappling]]"
 ---

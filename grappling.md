@@ -1,3 +1,5 @@
+`2026-09-08` Watch this: [How to defend everything](https://www.youtube.com/watch?v=BWitv9AKoNU)
+
 `2026-09-06`: INSIDE POSITION INSIDE POSITION INSIDE POSITION INSIDE POSITION...
 . Just use it because it's intuitive for you and because it works in practice.
 . Doesn't hurt that DDS guys also prefer it.
@@ -16,58 +18,62 @@
 
 # Positions
 
-single leg
-double leg
-wall wrestling
-striking gapclose
-standing back control
+#F90 single leg
+#F90 double leg
+#F90 wall wrestling
+#F90 striking gapclose
+#F90 standing back control
 
-seated guard (bot)
-shin to shin (bot)
-turtle (bot)
+#F90 turtle
 
-ashi (bot)
-butterfly (bot)
-butterfly half (bot)
-knee shield (bot)
-half guard (bot)
-dogfight (bot)
-lockdown (bot)
-mad dog (bot)
-false guard (bot)
+#00A shin to shin
+#00A x guard
+#00A k guard
+#00A ashi
 
-headquarters (top)
-split squat (top)
-shield smash (top)
-flat half (top)
-leg drag (top)
-bodylock (top)
+#00A butterfly
+#00A half butterfly
+#00A knee shield
+#00A tricep ride
 
-front headlock (top)
-turtle control (top)
+#00F coyote
+#00F dogfight
+#00F mad dog
 
-mount (top)
-technical mount (top)
-knee on belly (top)
+#0A0 headquarters
+#0A0 split squat
+#0A0 shield smash
+#0A0 leg drag
+#0A0 bodylock
 
-giftwrap
-kimura trap
+#0F0 flat half
+#0F0 knee on belly
 
-back
-backmount
-straitjacket
-crucifix
+#0F9 front headlock
+#0F9 turtle control
+
+#0F0 kimura ride
+#0F9 kimura trap
+
+#0F9 mount
+#0F9 technical mount
+#0F9 giftwrap
+
+#0F9 back
+#0FF backmount
+#0FF straitjacket
+#0FF crucifix
 
 # Submissions
 
-base choke
-rear-naked choke
-arm triangle
-leg triangle
-kimura
-darce
-anaconda
-peruvian necktie
-japanese necktie
-guillotine
-ankle lock
+#0FF base choke
+#0FF rear-naked choke
+#0FA arm triangle
+#0FF leg triangle
+#0F0 kimura
+#0F0 darce
+#0FA anaconda
+#0FA peruvian necktie
+#0FA japanese necktie
+#0F0 guillotine
+#0F0 ankle lock

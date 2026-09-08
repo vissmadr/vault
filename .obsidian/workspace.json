@@ -11,10 +11,14 @@
             "id": "f30a7a2a1099c9dd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "nodes/A-Star Algorithm.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "A-Star Algorithm"
             }
           }
         ]
@@ -149,6 +153,13 @@
   },
   "active": "f30a7a2a1099c9dd",
   "lastOpenFiles": [
+    "nodes/Affine Transformation.md",
+    "nodes/AlphaStar.md",
+    "nodes/Animals.md",
+    "nodes/Analytic Geometry.md",
+    "nodes/Algebraic Notation (Chess).md",
+    "nodes/Alastair Reynolds.md",
+    "nodes/AI as Storage.md",
     "nodes/Adaptive Volatility.md",
     "nodes/Gambler's Fallacy.md",
     "nodes/Zero-sum Game.md",
@@ -168,13 +179,6 @@
     "nodes/Affinity Bias.md",
     "nodes/Abstraction.md",
     "nodes/Mathematics.md",
-    "nodes/Geometry.md",
-    "nodes/Circle.md",
-    "nodes/Salience Bias.md",
-    "nodes/Base-Rate Neglect.md",
-    "nodes/Bias.md",
-    "nodes/Clipping.md",
-    "nodes/Command Language.md",
     "nodes/Adaptive Volatility.md~",
     "nodes/Markdown.md~",
     "nodes/Eric's Diamond.md~",

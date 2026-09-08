@@ -28,7 +28,6 @@
 
 #00A shin to shin
 #00A x guard
-#00A k guard
 #00A ashi
 
 #00A butterfly
@@ -68,8 +67,8 @@
 
 #0FF base choke
 #0FF rear-naked choke
-#0FA arm triangle
 #0FF leg triangle
+#0FA arm triangle
 #0F0 kimura
 #0F0 darce
 #0FA anaconda

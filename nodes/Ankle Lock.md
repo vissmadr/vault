@@ -1,6 +1,6 @@
 ---
 context:
-    - "[[Grappling]]"
+  - "[[Grappling]]"
 ---
 
 # Ankle Lock

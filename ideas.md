@@ -1,3 +1,7 @@
+# `2026-09-08`
+
+Both Mana and Heat bars.
+
 # `2026-09-06`
 
 Core 4 abilities gameplay is good.

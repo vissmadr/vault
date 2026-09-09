@@ -59,4 +59,7 @@ Forced mechanics:
 
 Can be very difficult to get the traditional over-under chest-to-chest tie against a resisting opponent.
 
+Start with inside hand position, so that the opponent cannot post on the ground.
+^important
+
 

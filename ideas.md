@@ -1,3 +1,12 @@
+# `2026-09-11`
+
+**Cooldowns**: Per ability instead of mana.
+. Already standard in so many games of the genre.
+. Can be done good with the UI and cooldowns.
+. Think of Cind, Had, WoL, Dea... all, lol.
+. Already have UI to track it.
+. WoL Firedragons charges.
+
 # `2026-09-09`
 
 [ ] (!) Engineer pins could be fire orbs?

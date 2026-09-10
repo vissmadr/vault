@@ -1,4 +1,6 @@
-`2026-09-08` Watch this: [How to defend everything](https://www.youtube.com/watch?v=BWitv9AKoNU)
+`2026-09-10`: !!! Adam Butterfly Guard !!! Go from beginning and FULL and note! Very good for me.
+
+`2026-09-08`: Watch this: [How to defend everything](https://www.youtube.com/watch?v=BWitv9AKoNU)
 
 `2026-09-06`: INSIDE POSITION INSIDE POSITION INSIDE POSITION INSIDE POSITION...
 . Just use it because it's intuitive for you and because it works in practice.
@@ -26,14 +28,14 @@
 
 #F90 turtle
 
-#00A shin to shin
+#00A shin guard
 #00A x guard
+#00A rdlr
 #00A ashi
 
 #00A butterfly
 #00A half butterfly
 #00A knee shield
-#00A tricep ride
 
 #00F coyote
 #00F dogfight

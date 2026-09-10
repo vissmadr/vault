@@ -1,5 +1,10 @@
 # `2026-09-09`
 
+[ ] (!) Engineer pins could be fire orbs?
+. They could be harder to get?
+. And since related to Heat, impermanent, solving the issue.
+. Makes perfect sense for the Detonate visuals, and Fireball (Convergence) visuals then.
+
 Torchlight 2 fills.
 
 # `2026-09-08`

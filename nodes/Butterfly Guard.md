@@ -3,13 +3,15 @@ context:
   - "[[Grappling]]"
 ---
 
-# Butterfly Guard
-
-#empty
-
 #wip Part 2
 
+# Butterfly Guard
+
+Inside position grappling guard.
+
 ---
+
+Butterfly is a versatile guard that offers many attack opportunities.
 
 Multiple good upper-body connections:
 - Overhook
@@ -58,7 +60,7 @@ After the sweep, go for Ashi or stand up for top position.
 
 From Half-butterfly, when the opponent posts on his leg.
 Grab the foot, put the leg hook inside, and pull your hips so you're centered and closer to him.
-Fro this position, lift his foot in the air, push back with the shin, and pull the foot hard.
+From this position, lift his foot in the air, push back with the shin, and pull the foot hard.
 
 ## Marcelo Split Sweep
 

@@ -1,5 +1,14 @@
 # `2026-09-11`
 
+Permutations can all be combo point spenders, so they don't need cooldowns?
+Also they can use orbs?
+
+[ ] ROLL THE BONES!
+
+[ ] Smaller Lightning bar in place of Mana.
+
+[k] Ability cooldowns instead of Mana.
+
 **Cooldowns**: Per ability instead of mana.
 . Already standard in so many games of the genre.
 . Can be done good with the UI and cooldowns.

@@ -1,12 +1,36 @@
 # `2026-09-11`
 
+
+**Roll The Bones**:
+. Thinking of buffs that are not only stats, but also change your gameplay.
+. Not forced to adapt gameplay to the buff, but good if you do.
+. Could combine both gameplay buffs as well as passive buffs, maybe randomly?
+
+Active Buffs List:
+- Immolation: Close range combat in order to burn enemies in AOE.
+- Chrono: sex?
+- Away Focus: Rapidly generates Heat and Special charges as long as no enemies nearby.
+- Next Attack: Once every `n` seconds of no attacking, empowers the next attack greatly. Will do hit-and-run gameplay.
+- (?) Detonate: Chance to not consume FireOrbs, or deterministic every 2nd doesn't consume.
+- StackUnleash: All the heat spend during the buff will be released in an explosion around the player when the buff ends.
+- FireEcho: Casting leaves an echo character that will repeat the last spell cast after a delay.
+- Juxtapose: Chance on attack to summon a clone.
+- FireSpawner: Summons FireSpawns one by one.
+
+Passive Buff List:
+- Passive Heat generation.
+- Movespeed increase.
+- Critical chance.
+- Firebombs cooldown reduction.
+
+**Combine Both**: Thinking to have one gameplay active buff, and then one or many passive buffs, randomly.
+. This way you have one overall thing you can adapt your gameplay to, and some additional buffs that are just useful.
+
 Permutations can all be combo point spenders, so they don't need cooldowns?
-Also they can use orbs?
+Also they can use visual fire orbs?
 
 [ ] ROLL THE BONES!
-
 [ ] Smaller Lightning bar in place of Mana.
-
 [k] Ability cooldowns instead of Mana.
 
 **Cooldowns**: Per ability instead of mana.

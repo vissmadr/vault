@@ -1,3 +1,10 @@
+# `2026-09-12`
+
+[ ] Remove Dash from action bars.
+. This will allow better Permutations.
+
+[ ] Permutations with Auto Focus.
+
 # `2026-09-11`
 
 **MINIGAMES**

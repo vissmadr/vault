@@ -69,19 +69,19 @@ When he pulls back, scoot in, and sweep him from behind with one leg, while push
 
 ## Shin Guard
 
-Hug the leg close with a deep arm grip.
-Shin connection is foot inside, knee outside.
-The other arm and leg are free to play.
-
-**Outside Angle**: Angle yourself a bit to the outside of the opponent.
-. This way the knee of the opponent wouldn't pressure you forward as much.
-. This also makes it harder for him to get underhooks and guillotines.
-
-### Shin Guard Foot Sweep
-
-From Shin guard, the free arm pushes the knee in order to bend it outward.
-The free leg sweeps the opponent's leg from behind.
-Can lean back with the Shin guard while doing this for a moment.
+See [[Shin Guard]]
 
 ## Basic Ashi Entry
 
+When a standing opponent is in front with his feet in a perpendicular line.
+Open the space, get in, gripping behind his knees, and shoot for the ashi.
+Hips need to shoot up and be in the air.
+One leg bites over, the other has its foot behind his leg.
+
+## Forcing Standing Opponent to Knees
+
+Dragging standing opponents to their knees so you can progress seated butterfly controls.
+
+With any upper-body grip against a standing opponent, shrimp back and pull down.
+
+**Interlocked Fingers Grip**: Especially effective grip to drag people down.

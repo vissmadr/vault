@@ -82,3 +82,6 @@ The other arm and leg are free to play.
 From Shin guard, the free arm pushes the knee in order to bend it outward.
 The free leg sweeps the opponent's leg from behind.
 Can lean back with the Shin guard while doing this for a moment.
+
+## Basic Ashi Entry
+

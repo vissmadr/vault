@@ -38,7 +38,6 @@ run through the jungle (LeSale's Satanic Edit)
 # Pink Floyd
 # Dream Theather
 # Gorillaz
-# Joe Cocker
 # Rammstein
 # Porcupine Tree
 # Soundgarden
@@ -54,7 +53,6 @@ run through the jungle (LeSale's Satanic Edit)
 tempest
 hearts/wires
 digital bath
-# Whitesnake
 # Ghost
 # Wardruna
 # misc
@@ -317,6 +315,7 @@ the offspring - self esteem
 snow patrol - chasing cars
 health - hateful
 health - bloodsport
+sierra veins - gone
 george thorogood - bad to the bone
 adam - zhurek (isko alvarez remix)
 teddy swims - the door
@@ -341,8 +340,6 @@ shivaree - goodnight moon
 edwyn collins - a girl like you
 the neighbourhood - softcore
 damiano david - nothing breaks like a heart
-maneskin - off my face
-maneskin - baby said
 sub focus - trip
 sub focus - vibration
 sub focus - original don

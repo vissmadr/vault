@@ -1,5 +1,13 @@
 # `2026-09-11`
 
+**MINIGAMES**
+**MINIGAMES**
+**MINIGAMES**
+**MINIGAMES**
+**MINIGAMES**
+**MINIGAMES**
+**MINIGAMES**
+**MINIGAMES**
 
 **Roll The Bones**:
 . Thinking of buffs that are not only stats, but also change your gameplay.
@@ -30,7 +38,7 @@ Permutations can all be combo point spenders, so they don't need cooldowns?
 Also they can use visual fire orbs?
 
 [ ] ROLL THE BONES!
-[ ] Smaller Lightning bar in place of Mana.
+[k] Smaller Lightning bar in place of Mana.
 [k] Ability cooldowns instead of Mana.
 
 **Cooldowns**: Per ability instead of mana.
@@ -42,7 +50,7 @@ Also they can use visual fire orbs?
 
 # `2026-09-09`
 
-[ ] (!) Engineer pins could be fire orbs?
+[k] (!) Engineer pins could be fire orbs?
 . They could be harder to get?
 . And since related to Heat, impermanent, solving the issue.
 . Makes perfect sense for the Detonate visuals, and Fireball (Convergence) visuals then.
@@ -86,7 +94,7 @@ Also combos!
 - Don't really like the old Meditate orbs movement.
 - Like Orbs as ammo more I think.
 
-[ ] Meteor Mode?
+[k] Meteor Mode?
 . Have it as a mode, where different keys do different things.
 . Still have the Fire permutation thing.
 . Could be the Meditate again? With Meteor-like Detonations.

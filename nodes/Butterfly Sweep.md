@@ -64,6 +64,13 @@ Forced mechanics:
 . To prevent bodylock, be on the side when attacking this.
 . While being on the side, bodylock attempts can be countered by falling down to your side and trapping the bottom arm of the opponent.
 
+**Collartie**: #wip
+
+### Overhook Butterfly
+
+**Far Arm Trap**: Attack to trap the far arm of the opponent.
+One way to trap the arm, if posted heavy the ground, is to grab it and put even more weight on it so that it cannot move.
+
 ## Landing
 
 Always want to get mount if possible.
@@ -71,6 +78,9 @@ Landing in knee slice variations is good.
 Avoid landing in side-control positions.
 
 The goal is to land in a good position that will also manage to control an explosive opponent.
+
+**Overhook Landing**: Landing with an overhook, push your knee across the chest of the opponent to deny his dogfight.
+Frame on this neck with the other hand. Get the overhook out, and put it back in as an underhook. Proceed to passing.
 
 ## Application
 

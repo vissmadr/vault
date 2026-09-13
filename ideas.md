@@ -1,3 +1,26 @@
+# `2026-09-13`
+
+Passives:
+- After spellcast, gain bonus(es) (attackspeed?).
+- Melee attacks stack next spell bonus(es).
+- Every `n`-th (4th?) Fireball/Detonate has bonus.
+- Every `n`-th Melee Attack has bonus.
+- After `n` seconds, next Attack is empowered.
+- Not taking damage for `n` seconds grants Bubble.
+- Every `n`-th Parry something.
+- While Sprint then a Melee Attack has bonus.
+
+**Fire Remnant**: Send out a Fire Remnant at the location, mimicing the player.
+. On re-activation, orbDash/blink fast towards the remnant.
+. Basically Zed & Ember Spirit.
+. The remnant could move and attack maybe.
+. Arrow towards the Remnant.
+. Possibly multiple Remnants, with direction for consume.
+
+**Mark Focus Ability**: Maybe can mark an enemy inside the circle for the Fiora ultimate?
+. Completing the Fiora ultimate, or killing the enemy, grants a bonus?
+. Can combine this with Roll the Bones? Or it can be its own thing.
+
 # `2026-09-12`
 
 [ ] Remove Dash from action bars.

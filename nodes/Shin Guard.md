@@ -12,6 +12,11 @@ context:
 
 ---
 
+#wip [Josh Saunders Shin Guard](https://www.youtube.com/watch?v=32_G0KBI6QA)
+
+> One of my best skills is getting to SingleX from Shin-to-Shin.
+> \- Lachlan Giles
+
 ## Setup
 
 Whichever of the opponents legs is in front, aim for that leg.

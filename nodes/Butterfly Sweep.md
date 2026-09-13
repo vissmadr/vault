@@ -1,15 +1,15 @@
 ---
 aliases:
-  - Butterfly Sweep
+  - Sumi Gaeshi
 context:
   - "[[Grappling]]"
 ---
 
 #wip
 
-# Sumi Gaeshi
+# Butterfly Sweep
 
-(aka. Butterfly Sweep)
+(aka. Sumi Gaeshi)
 
 #wip
 
@@ -61,5 +61,3 @@ Can be very difficult to get the traditional over-under chest-to-chest tie again
 
 Start with inside hand position, so that the opponent cannot post on the ground.
 ^important
-
-

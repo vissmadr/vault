@@ -1,6 +1,6 @@
 # `2026-09-13`
 
-Passives:
+**Passives**:
 - After spellcast, gain bonus(es) (attackspeed?).
 - Melee attacks stack next spell bonus(es).
 - Every `n`-th (4th?) Fireball/Detonate has bonus.
@@ -10,16 +10,44 @@ Passives:
 - Every `n`-th Parry something.
 - While Sprint then a Melee Attack has bonus.
 
+**Short Meditate Focus**:
+. Entering Focus gives a brief meditate Heat generation.
+
+**Lightning Passives on SSS**: 
+. Abilities affected by lightning?
+. Random SkyLightning falls?
+. Random zaps?
+
+**Fiora Passive**:
+. Random vitals revealed on random enemies for bonus(es).
+
 **Fire Remnant**: Send out a Fire Remnant at the location, mimicing the player.
 . On re-activation, orbDash/blink fast towards the remnant.
 . Basically Zed & Ember Spirit.
 . The remnant could move and attack maybe.
 . Arrow towards the Remnant.
 . Possibly multiple Remnants, with direction for consume.
+. A way to trigger a 2nd remnant through something.
+
+**Offense Immolation**:
+. _DOOM / Spectral Dagger_
+. Immolation, but targeted at an enemy, burning heavily.
+. Works the same way as player immolation, meaning burns other enemies nearby.
+. Also sets the ground on fire.
+
+**Bonus on Scorch**:
+. Maybe.
 
 **Mark Focus Ability**: Maybe can mark an enemy inside the circle for the Fiora ultimate?
 . Completing the Fiora ultimate, or killing the enemy, grants a bonus?
 . Can combine this with Roll the Bones? Or it can be its own thing.
+
+## Boss Abilities
+
+Lots of the abovementioned are viable.
+Some abilities are probably better suited for bosses.
+
+**Duel Zone**: AOE around a Boss, immune to all damage outside of it.
 
 # `2026-09-12`
 

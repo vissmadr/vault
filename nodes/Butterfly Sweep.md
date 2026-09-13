@@ -57,6 +57,8 @@ Forced mechanics:
 **Head Position**: Prefered to have the opponent's head towards the falling side.
 . Traditional SumiGaeshi has the head on the other side (over-under chest-to-chest tie), but that's probably worse.
 
+**Three Points of Base**: Drive leg, shoulder, and head.
+
 ## Grips
 
 **Double Tricep Grip**: Grab both triceps of the opponent and close your elbows tight.
@@ -69,7 +71,16 @@ Forced mechanics:
 ### Overhook Butterfly
 
 **Far Arm Trap**: Attack to trap the far arm of the opponent.
-One way to trap the arm, if posted heavy the ground, is to grab it and put even more weight on it so that it cannot move.
+
+Common far arm positions:
+- **Posted on the Ground**: Grab the wrist and put even more weight on it so that it cannot move.
+- **Posted on Your Leg**: Grab his tricep, go with your elbow from the outside to collect his forearm, and close everything tight with your armpit.
+- **Closed Elbow**: Grab his far wrist and pull it inside. Can also grab your own arm with a kimura grip to reinforce.
+
+**Drive Leg Scissor Finish**: Optional, when the opponent is already elevated but still resisting.
+Your drive leg can go to step on the outside of his posted leg, sticky around the knee.
+Pull with the drive leg, while the elevating leg pushes, for a scissor motion finish.
+. Keep in mind that the drive leg elevation is still the main and prefered option.
 
 ## Landing
 
@@ -84,7 +95,7 @@ Frame on this neck with the other hand. Get the overhook out, and put it back in
 
 ## Application
 
-#wip Part 2
+#wip Danaher Part 2
 
 Can be very difficult to get the traditional over-under chest-to-chest tie against a resisting opponent.
 

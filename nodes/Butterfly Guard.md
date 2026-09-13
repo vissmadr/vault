@@ -3,7 +3,7 @@ context:
   - "[[Grappling]]"
 ---
 
-#wip Part 2
+#wip Part 3 15:55
 
 # Butterfly Guard
 
@@ -96,3 +96,5 @@ With any upper-body grip against a standing opponent, shrimp back and pull down.
 **Side Angle**: After the connection, angle to the side, with one leg up and the other on the ground.
 
 **Butterfly Sweep**: From overhook control, attack the [[Butterfly Sweep]].
+
+**Guillotine**: #wip

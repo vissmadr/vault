@@ -21,6 +21,10 @@ Multiple good upper-body connections:
 Butterfly guard and Half-butterfly allows for easy side switching.
 This is useful as you can attack and adapt to both sides and surprise the opponent.
 
+## Resources
+
+Adam Wardzinski: Butterfly Guard Encyclopedia NoGi
+
 ## Handfight
 
 People often forget about handfighting in general, but it is very important.
@@ -35,7 +39,8 @@ People often forget about handfighting in general, but it is very important.
 **Dominant Out-Under Grip**: The Out-Under grip offers great attack opportunities.
 . The first good grip from engage distance.
 . Can also push back with those grips to create distance and reset.
-. Distance management can create new openings, such as Shin guard entry.
+
+**Distance Management**: Important for the butterfly guard to create openings and deny attacks.
 
 ### Two-On-One Control
 

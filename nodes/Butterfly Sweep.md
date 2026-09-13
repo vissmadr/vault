@@ -17,6 +17,11 @@ context:
 
 The best sweep in grappling for me.
 
+## Resources
+
+John Danaher: Master the Move - Sumi Gaeshi
+Adam Wardzinski: Butterfly Guard Encyclopedia NoGi
+
 ## Theory
 
 You can think of the SumiGaeshi as a forced forward roll.

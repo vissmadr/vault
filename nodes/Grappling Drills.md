@@ -18,6 +18,14 @@ Intentionally without much detail, instead focusing on having a large list of dr
 . Chest to back connection to your turtled opponent.
 . Run in circles around him, maintaining the connection.
 
+## Butterfly
+
+**Sumi Gaeshi**: #wip
+
+## RDLR
+
+**Leg to Ground**: #wip
+
 ## Knee Cut (Top)
 
 **Anaconda Hunt**: When you think you can connect the circle on him.
@@ -65,6 +73,3 @@ Intentionally without much detail, instead focusing on having a large list of dr
 . Push his elbow out with your knee, catch with the other leg.
 . Stay on top of the Turtle Control and forcefully choke with one hand against no defense.
 
-## Butterfly
-
-**Sumi Gaeshi**: #wip

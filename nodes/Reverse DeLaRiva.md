@@ -15,9 +15,9 @@ context:
 ## Defending Knee Slice
 
 Have a solid RDLR control with the inside leg.
-Arms frame the opponent to prevent him from getting too close.
+Arms **FRAME** the opponent to prevent him from getting too close.
 
-**Shrimp and Drag**: Shrimp out with the outside leg, and pull the controlled knee of the opponent down to the ground with your inside leg.
+**Shrimp Leg Pull**: Shrimp out with the outside leg, and pull the controlled knee of the opponent down to the ground with your inside leg.
 . Best against a pushing opponent.
 
 **Shin to Shin Drag**: Outside leg catches a butterfly hook. The configuration becomes a shin-to-shin connection.
@@ -27,3 +27,10 @@ Arms frame the opponent to prevent him from getting too close.
 
 When the opponent is on his knees, turn the RDLR hook foot down for better control.
 From there you can progress to stronger connections.
+
+## Tripod Sweep
+
+Control the leg with your arm.
+Outside leg steps on the opponent to push.
+Inside leg switches to trip behind the far leg (on the knee) of the opponent.
+Push with your legs, pull with your arm, and when he falls, use the momentum to stand up.

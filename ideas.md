@@ -1,6 +1,11 @@
+# `2026-09-14`
+
+**Focus Art**: The Focus circle/thing can look better.
+. Could have levels (0-5) relative to the Heat points.
+
 # `2026-09-13`
 
-**Passives**:
+[ ] **Passives**:
 - After spellcast, gain bonus(es) (attackspeed?).
 - Melee attacks stack next spell bonus(es).
 - Every `n`-th (4th?) Fireball/Detonate has bonus.
@@ -10,18 +15,18 @@
 - Every `n`-th Parry something.
 - While Sprint then a Melee Attack has bonus.
 
-**Short Meditate Focus**:
+[k] **Short Meditate Focus**:
 . Entering Focus gives a brief meditate Heat generation.
 
-**Lightning Passives on SSS**: 
+[k] **Lightning Passives on SSS**: 
 . Abilities affected by lightning?
 . Random SkyLightning falls?
 . Random zaps?
 
-**Fiora Passive**:
+[ ] **Fiora Passive**:
 . Random vitals revealed on random enemies for bonus(es).
 
-**Fire Remnant**: Send out a Fire Remnant at the location, mimicing the player.
+[k] **Fire Remnant**: Send out a Fire Remnant at the location, mimicing the player.
 . On re-activation, orbDash/blink fast towards the remnant.
 . Basically Zed & Ember Spirit.
 . The remnant could move and attack maybe.
@@ -29,16 +34,16 @@
 . Possibly multiple Remnants, with direction for consume.
 . A way to trigger a 2nd remnant through something.
 
-**Offense Immolation**:
+[ ] **Offense Immolation**:
 . _DOOM / Spectral Dagger_
 . Immolation, but targeted at an enemy, burning heavily.
 . Works the same way as player immolation, meaning burns other enemies nearby.
 . Also sets the ground on fire.
 
-**Bonus on Scorch**:
-. Maybe.
+[ ] **(?) Bonus on Scorch**:
+. Maybe some slight bonus while walking over Scorch ground.
 
-**Mark Focus Ability**: Maybe can mark an enemy inside the circle for the Fiora ultimate?
+[ ] **Mark Focus Ability**: Maybe can mark an enemy inside the circle for the Fiora ultimate?
 . Completing the Fiora ultimate, or killing the enemy, grants a bonus?
 . Can combine this with Roll the Bones? Or it can be its own thing.
 
@@ -54,7 +59,7 @@ Some abilities are probably better suited for bosses.
 [ ] Remove Dash from action bars.
 . This will allow better Permutations.
 
-[ ] Permutations with Auto Focus.
+[k] Permutations with Auto Focus.
 
 # `2026-09-11`
 

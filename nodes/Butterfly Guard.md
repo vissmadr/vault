@@ -91,15 +91,3 @@ With any upper-body grip against a standing opponent, shrimp back and pull down.
 
 **Interlocked Fingers Grip**: Especially effective grip to drag people down.
 
-## Overhook Control
-
-**Entry**: Get a Collartie, then make a circular motion and catch the overhook deeply and tightly.
-
-**Free Hand**: Used for mobility. Can post on the free hand to manage distance and angles.
-. Apart from mobility, can later be used to attack the head and far arm of the opponent.
-
-**Side Angle**: After the connection, angle to the side, with one leg up and the other on the ground.
-
-**Butterfly Sweep**: From overhook control, attack the [[Butterfly Sweep]].
-
-**Guillotine**: #wip

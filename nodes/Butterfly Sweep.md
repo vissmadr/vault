@@ -5,8 +5,6 @@ context:
   - "[[Grappling]]"
 ---
 
-#wip
-
 # Butterfly Sweep
 
 (aka. Sumi Gaeshi)

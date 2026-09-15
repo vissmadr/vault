@@ -91,3 +91,6 @@ With any upper-body grip against a standing opponent, shrimp back and pull down.
 
 **Interlocked Fingers Grip**: Especially effective grip to drag people down.
 
+## Overhook Control
+
+See [[Overhook Butterfly]]

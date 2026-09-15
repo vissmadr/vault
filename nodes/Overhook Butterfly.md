@@ -3,7 +3,7 @@ context:
   - "[[Grappling]]"
 ---
 
-# Overhook Butterfly Guard
+# Overhook Butterfly
 
 Variation of the [[Butterfly Guard]] with a tight overhook.
 
@@ -15,8 +15,9 @@ Variation of the [[Butterfly Guard]] with a tight overhook.
 . Can post on the free hand to manage distance and angles.
 . Can attack the head, far arm, and far leg of the opponent.
 
-**Side Angle**: After the connection, angle to the side, with one leg up and the other on the ground.
+**Side Angle**: Angle yourself to the side, with one leg up and the other on the ground.
+. This can deny some of the attacking angles of the opponent, like pressuring you forward.
 
-**Butterfly Sweep**: From overhook control, attack the [[Butterfly Sweep]].
+**Butterfly Sweep**: The Overhook Butterfly enables great [[Butterfly Sweep]] attacks.
 
 **Guillotine**: #wip

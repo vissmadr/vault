@@ -1,6 +1,7 @@
 ---
 context:
-  - "[[Game Feel]]"
+  - "[[Player Forgiveness]]"
+  - "[[Game Design]]"
 ---
 
 # Coyote Time

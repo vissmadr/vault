@@ -1,3 +1,17 @@
+# `2026-09-16`
+
+[ ] **Clone & Immolation synergies**:
+. Both burning?
+
+[k] **Clone Explode**:
+. At the end of its lifetime.
+
+If RollTheBones is a thing:
+[ ] **RTB Slot/Cards Visual**: In the center of the screen, could be the upper-middle, have like 1, 2, 3, cards/slots revealing/dropping for the 3 (or so) bonuses that you will have.
+[ ] **Variety not from Roguelike**: This mechanic could potentially give us the gameplay variety without needing to use roguelike mechanics. Like you adapt to whatever the current roll.
+[ ] **Lucky Rolls**: Some rolls could have a chance for sudden more bonus cards and stuff, or rarity for the buffs.
+[ ] **RARITY**: Cards can have rarity, which also works for the randomness factor, like buffs, but could be rare, epic, legendary, etc.
+
 # `2026-09-14`
 
 **Focus Art**: The Focus circle/thing can look better.
@@ -23,7 +37,7 @@
 . Random SkyLightning falls?
 . Random zaps?
 
-[ ] **Fiora Passive**:
+[k] **Fiora Passive**:
 . Random vitals revealed on random enemies for bonus(es).
 
 [k] **Fire Remnant**: Send out a Fire Remnant at the location, mimicing the player.
@@ -56,7 +70,7 @@ Some abilities are probably better suited for bosses.
 
 # `2026-09-12`
 
-[ ] Remove Dash from action bars.
+[k] Remove Dash from action bars.
 . This will allow better Permutations.
 
 [k] Permutations with Auto Focus.

@@ -1,10 +1,38 @@
+# `2026-09-17`
+
+Brainstorming/playtesting critically and RollTheBones seems actually good.
+. What else is the reson to use Immolate rather than Detonate for example? Both are AOE damage, so if one is stronger...
+
+RollTheBones:
+- Immolate
+- Cheap Detonate/Fireball
+- Clone powerup
+- Clone caster
+- Two Clones
+- OnParry something
+- Special recharge
+- Heat regen
+- More Heat generation
+- Spending Heat gives Special charge
+- Backstab
+
+Active abilities:
+- **Spawn FirePets**
+- **Mark Nearby**
+
 # `2026-09-16`
+
+[ ] **Cosmetic Metaprogression**:
+. `thehuglet` idea first.
+. Reward for something specific and challenging, not just because.
+. Reward for "no hit run", tie it to achievements.
 
 [ ] **Clone & Immolation synergies**:
 . Both burning?
 
 [k] **Clone Explode**:
 . At the end of its lifetime.
+. Can synergize well with the swap.
 
 If RollTheBones is a thing:
 [ ] **RTB Slot/Cards Visual**: In the center of the screen, could be the upper-middle, have like 1, 2, 3, cards/slots revealing/dropping for the 3 (or so) bonuses that you will have.

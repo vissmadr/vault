@@ -1,4 +1,25 @@
+# `2026-09-18`
+
+[ ] **Experiment Automatic Immolation**: 
+. Maybe on `SSS` rank?
+
+Immolation is cool.
+
+The new special > old special.
+
+~**Held Shield**: Holding shield can activate it as MerlinShield, but this time with a bigger cooldown?~
+. Feels stupid.
+
 # `2026-09-17`
+
+[ ] **Boss Inverse Mechanic**: Reverses the damage as healing for a duration.
+
+Roll The Bones can be automatic, so you adapt all the time to current bonuses.
+Or a roguelike mechanic.
+
+[ ] **StackingForNextFireball**: Melee attacks increase the damage of next spell by `n`, stacking up to 20 times.
+
+**BombOnHit**: Chance to place a bomb on enemy on melee hit, which detonates through Detonate/Fireball.
 
 Brainstorming/playtesting critically and RollTheBones seems actually good.
 . What else is the reson to use Immolate rather than Detonate for example? Both are AOE damage, so if one is stronger...

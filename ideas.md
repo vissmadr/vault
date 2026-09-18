@@ -1,6 +1,9 @@
 # `2026-09-18`
 
-[ ] **Experiment Automatic Immolation**: 
+[ ] **Card Draft?**:
+. Instead RollTheBones to draft a card, with greedy mechanic.
+
+[ ] **Experiment Automatic Immolation**:
 . Maybe on `SSS` rank?
 
 Immolation is cool.

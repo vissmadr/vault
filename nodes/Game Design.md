@@ -1,6 +1,7 @@
 ---
 context:
   - "[[Discipline]]"
+  - "[[Design]]"
   - "[[Game]]"
 ---
 
@@ -8,7 +9,7 @@ context:
 
 Discipline that studies games and the player experience they create.
 
-The process of creating and shaping the mechanics, systems, rules, and gameplay of a game.
+The process of creating and shaping the mechanics, systems, gameplay, art, and feeling of a game.
 
 ---
 

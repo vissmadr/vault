@@ -1,3 +1,18 @@
+# `2026-09-20`
+
+[ ] **(!) Draft can be Roguelike**:
+. (!) Either the Card button experiment, or just Roguelike.
+. (!) Cinderia for roguelike, ability talents, and curses!
+. (!) Cinderia is a damn good reference it seems!
+
+**Forward Autoaim Detonate**:
+. It's just too cool to not Detonate lol.
+
+**?Shield?**:
+Maybe the Shield doesn't fit as much anyways?
+Dash-only defense?
+And Intercept, too.
+
 # `2026-09-18`
 
 [ ] **Card Draft?**:

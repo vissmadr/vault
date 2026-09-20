@@ -9,12 +9,14 @@ context:
 
 Discipline that studies games and the player experience they create.
 
-The process of creating and shaping the mechanics, systems, gameplay, art, and feeling of a game.
+The process of creating and shaping the systems, mechanics, gameplay, art, and feeling of a game.
 
 ---
 
-**Game Mechanics**: The systems, rules, and objects in the game.
+**Systems and Mechanics**: The systems, entities, rules, and interactions in the game.
 
 **Gameplay**: The interaction between the player and the mechanics.
 
-**Player Experience**: How the player feels when they play the game.
+**Art**: The aesthetics and artistic content of the game.
+
+**Feeling**: The player experience when they play the game.

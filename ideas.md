@@ -1,5 +1,22 @@
 # `2026-09-20`
 
+**Kris Feedback**:
+. Likes the overall mechanics.
+. "It's great how responsive it is."
+. Gets the overall mechanics fast.
+. Likes the flames a lot.
+. Used every single ability.
+. Likes the Detonate alot.
+. Does not like the Convergence.
+. "Lightning is badass" - both Sky and Chain and Enchant.
+. Didn't understand cooldown vs charge on Special.
+. Liked the old special because it was long range and cool.
+. Likes the Detonate and how responsive it is and doesn't stop you.
+. Likes the autoaim of the Detonate and that you're accurate with it.
+
+[ ] **Return Chrono**:
+. No parry anymore.
+
 [ ] **(!) Draft can be Roguelike**:
 . (!) Either the Card button experiment, or just Roguelike.
 . (!) Cinderia for roguelike, ability talents, and curses!

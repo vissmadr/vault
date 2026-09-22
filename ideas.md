@@ -1,3 +1,55 @@
+# `2026-09-21`
+
+[ ] **UI Player Health**
+
+[ ] **as**
+[ ] **as**
+[ ] **as**
+
+[ ] **Fireball Travel Damage Increase**:
+. Reason for the player to go out and shoot from max range.
+
+[ ] **Burn Stacking Slow**
+
+[ ] **Bane of the Stricken**
+
+[ ] **While Moving, While Attacking**:
+. Passive bonus while moving, passive bonus while Attacking.
+
+[ ] **Bonus on >=3 Fireball targets hit**
+
+[ ] **Small FireOrb generation passive**:
+. Small passive regeneration.
+
+[ ] **Auto Tristana Bomb**:
+. Chance to place Tristana bomb on target.
+
+[ ] **LOTS of Combustion-related mechanics**:
+. Can work if there is a powerup that acts in place of the Combustion.
+. See `https://www.wowhead.com/talent-calc/mage/fire/sunfury/EAAAAAFFVVVUBU`
+. Can work with something that we get, like a powerup.
+. Immolation and/or SSS rank stuff maybe? Idk.
+
+[ ] **Cheat Death**
+. On cooldown.
+
+[ ] **Explosion more damage to center**
+
+[ ] **Fireball Cooldown Reduction Mechanics**
+. Stuff like melee hits and/or Burning to reduce Fireball cooldown.
+
+[ ] **After Crit Fail Success Stacking**:
+. After each non-crit, stack increase the chance of the next crit.
+
+[ ] **Cinderia Mechanics**:
+. Instead of card draft ideas, Cinderia seems to have good progression.
+. Roguelike unlocks, in-run ability talents, taint meter with curse.
+
+[k] **Special FireOrbs**:
+. Some orbs are bigger/different than others.
+. Big orbs, lightning-infused orbs, etc.
+. Both visually around the player, on the UI, and for Detonate.
+
 # `2026-09-20`
 
 **Kris Feedback**:
@@ -17,7 +69,7 @@
 [ ] **Return Chrono**:
 . No parry anymore.
 
-[ ] **(!) Draft can be Roguelike**:
+[k] **(!) Draft can be Roguelike**:
 . (!) Either the Card button experiment, or just Roguelike.
 . (!) Cinderia for roguelike, ability talents, and curses!
 . (!) Cinderia is a damn good reference it seems!
@@ -32,7 +84,7 @@ And Intercept, too.
 
 # `2026-09-18`
 
-[ ] **Card Draft?**:
+[k] **Card Draft?**:
 . Instead RollTheBones to draft a card, with greedy mechanic.
 
 [ ] **Experiment Automatic Immolation**:
@@ -47,7 +99,7 @@ The new special > old special.
 
 # `2026-09-17`
 
-[ ] **Boss Inverse Mechanic**: Reverses the damage as healing for a duration.
+[ ] **Boss Inverse Heal Mechanic**: Reverses the damage as healing for a duration.
 
 Roll The Bones can be automatic, so you adapt all the time to current bonuses.
 Or a roguelike mechanic.

@@ -31,7 +31,6 @@
 #00A shin guard
 #00A x guard
 #00A rdlr
-#00A ashi
 
 #00A butterfly
 #00A half butterfly
@@ -40,6 +39,12 @@
 #00F coyote
 #00F dogfight
 #00F mad dog
+
+#00F irimi ashi
+#00F inside ashi
+#00A outside ashi
+#00A cross ashi
+#00A 50/50
 
 #0A0 headquarters
 #0A0 split squat
@@ -77,4 +82,7 @@
 #0FA peruvian necktie
 #0FA japanese necktie
 #0F0 guillotine
-#0F0 ankle lock
+#0F0 shin snapper
+#0F0 heel hook
+#0FA ankle lock
+#0FA z lock

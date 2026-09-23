@@ -1,3 +1,9 @@
+# `2026-09-23`
+
+[ ] **Random Mini Explosions on Burning**:
+. Burning enemies sometimes cause random small explosions.
+. Maybe just on them? Or very small radius?
+
 # `2026-09-21`
 
 [ ] **UI Player Health**
@@ -9,16 +15,18 @@
 [ ] **Fireball Travel Damage Increase**:
 . Reason for the player to go out and shoot from max range.
 
-[ ] **Burn Stacking Slow**
+[ ] **Burn Slow**:
+. Stacking slow based on Burn level?
+. Mandatory to have I think.
 
 [ ] **Bane of the Stricken**
 
-[ ] **While Moving, While Attacking**:
+[k] **While Moving, While Attacking**:
 . Passive bonus while moving, passive bonus while Attacking.
 
 [ ] **Bonus on >=3 Fireball targets hit**
 
-[ ] **Small FireOrb generation passive**:
+[k] **Small FireOrb generation passive**:
 . Small passive regeneration.
 
 [ ] **Auto Tristana Bomb**:

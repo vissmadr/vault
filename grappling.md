@@ -42,9 +42,12 @@
 
 #00F irimi ashi
 #00F inside ashi
+#00F bellydown ashi
+#00F z lock
 #00A outside ashi
 #00A cross ashi
-#00A 50/50
+#00A double cross ashi
+#00A fifty fifty
 
 #0A0 headquarters
 #0A0 split squat

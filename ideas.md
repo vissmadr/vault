@@ -1,4 +1,38 @@
+# `2026-09-24`
+
+[ ] Boris Harizanov:
+. "Shadowstrider" tag.
+
+[ ] **(?) Minmap***:
+. Could show enemies and also luck.
+. Could slightly show the luck field even, if upgraded.
+
+[ ] **Lucky/Unlucky Maps**:
+. Luck scalar based on the map itself.
+
+[ ] **On Numbers**:
+. We either show numbers, or not at all.
+. Without numbers we could rely on the "feel" of things.
+
 # `2026-09-23`
+
+[ ] **On-kill Passives**:
+. Stuff that happen on kills.
+
+[k] **Luck Waves**:
+. Doesn't get more creative/special than that lol.
+. See vault.
+
+[ ] **Runes**:
+. Divinum style.
+. The "bonus" suddenly turns into a "rune" if the icon says so.
+. Runes give better aesthetics to what would've just been a number.
+
+[ ] **Burning Juxtapose Bonus**:
+. Increases chance for clone spawn when hitting burning enemies (so that Fire is synergy).
+
+[ ] **Buffs Bar**:
+. Something WoW inspired maybe?
 
 [ ] **Random Mini Explosions on Burning**:
 . Burning enemies sometimes cause random small explosions.
@@ -15,7 +49,7 @@
 [ ] **Fireball Travel Damage Increase**:
 . Reason for the player to go out and shoot from max range.
 
-[ ] **Burn Slow**:
+[k] **Burn Slow**:
 . Stacking slow based on Burn level?
 . Mandatory to have I think.
 
@@ -43,10 +77,10 @@
 
 [ ] **Explosion more damage to center**
 
-[ ] **Fireball Cooldown Reduction Mechanics**
+[k] **Fireball Cooldown Reduction Mechanics**
 . Stuff like melee hits and/or Burning to reduce Fireball cooldown.
 
-[ ] **After Crit Fail Success Stacking**:
+[ ] **(?) After Crit Fail Success Stacking**:
 . After each non-crit, stack increase the chance of the next crit.
 
 [ ] **Cinderia Mechanics**:
@@ -258,7 +292,7 @@ Passive Buff List:
 Permutations can all be combo point spenders, so they don't need cooldowns?
 Also they can use visual fire orbs?
 
-[ ] ROLL THE BONES!
+[k] ROLL THE BONES!
 [k] Smaller Lightning bar in place of Mana.
 [k] Ability cooldowns instead of Mana.
 
@@ -476,27 +510,27 @@ Lightning-Meditate:
 
 # `2026-08-17`
 
-[ ] Think about abilities/input redesign again, with Empower & LightningEmpower maybe.
+[k] Think about abilities/input redesign again, with Empower & LightningEmpower maybe.
 
-[ ] (!) Think about removing shield for a LightningStance or LightningCharge/Empower or Mark again.
+[k] (!) Think about removing shield for a LightningStance or LightningCharge/Empower or Mark again.
 . Shield can sometimes fight the design, an example of this being the Chrono, and Hades being without a shield.
 . The button can then be used for something Lightning or Mark.
 . Can experiment for cool lightning visuals and stuff with the sword Enchant vfx and the huglet hue shift idea and lightnign particles vfx.
 
-[ ] (!) FireExplosions give FireEnchant automatically.
+[k] (!) FireExplosions give FireEnchant automatically.
 . Reconsider having an active ability for FireEnchant then?
 . Can be freed up for other things if so.
 . Gameplay becomes close orb Detonating to keep FireEnchant up, hitting MeleeFireball, etc.
 . Can be rebalanced for both time and number-of-attacks, too.
 
-[ ] Chrono visual effect.
+[k] Chrono visual effect.
 . Some full-screen post-process thing maybe? Like the shader debug views?
 
-[ ] Analog fire orbs experiment.
+[k] Analog fire orbs experiment.
 . Having a bar that fills by acting/meditating.
 . The bar has visual separators for how many orbs.
 
-[ ] (!) Style-related Heat generation.
+[k] (!) Style-related Heat generation.
 
 # `2026-08-12`
 
@@ -535,7 +569,7 @@ And yet it's all it is and all it can do.
 **TUNE EVERYTHING DOWN!**
 . Chaos right now, but should be tuned down for the actual game.
 
-[ ] While Meditating for the Fireball to be FireNova AOE?
+[k] While Meditating for the Fireball to be FireNova AOE?
 
 Could still go for stances, but less changing the abilities?
 
@@ -569,7 +603,7 @@ Burning and Scorch durations should be short by default.
 . This improves the dynamics of the game.
 . Beowulf ignite is `5` seconds with `+2` from talent.
 
-[ ] (?) Buffs/Debuffs indicators.
+[k] (?) Buffs/Debuffs indicators.
 . Hmm, maybe, not sure.
 
 [k] Lightning from the sky?
@@ -582,15 +616,15 @@ Burning and Scorch durations should be short by default.
 
 [ ] Omnislash?
 
-[ ] Fiora ultimate?
+[k] Fiora ultimate?
 . Hitting a target many times activates the ring.
 . This means it will be mostly vs bosses and elites, as intended.
 . When the ring completes, maybe some cool ground thing or player power or chrono.
 
-[ ] Cooldown reduction/reset on kill?
+[k] Cooldown reduction/reset on kill?
 . Or whatever the antispam mechanic it is, such as mana.
 
-[ ] Puck Q swap?
+[k] Puck Q swap?
 
 # `2026-07-27`
 
@@ -600,7 +634,7 @@ Burning and Scorch durations should be short by default.
 
 [k] Projectile Eater Fireball.
 
-[ ] Luck waves.
+[k] Luck waves.
 . Doesn't get more creative/special than that lol.
 . See vault.
 
@@ -635,7 +669,7 @@ Try both, both can be great.
 
 # `2026-07-24`
 
-[ ] Just copy some mechanics from Divinum, it feels so great!
+[k] Just copy some mechanics from Divinum, it feels so great!
 . What an amazing game feel it has.
 . The Runes, the Masteries, the Skills.
 . The way Attacks work.
@@ -644,10 +678,10 @@ Try both, both can be great.
 
 # `2026-07-23`
 
-[ ] Use the Body Mantle effect.
+[k] Use the Body Mantle effect.
 . Already implemented and waiting.
 
-[ ] IT HAS TO BE PARRY!
+[k] IT HAS TO BE PARRY!
 . Figure out what form exactly, but it feels good!
 . Maybe use the bubble visual for something else? Or for this, but think about it.
 . No need for cooldown reset I think.
@@ -670,12 +704,12 @@ Lightning stance is more RNG.
 
 # `2026-07-22`
 
-[ ] Phantom Lancer: Your (Lightning-only?) attacks have a chance to spawn a clone.
+[k] Phantom Lancer: Your (Lightning-only?) attacks have a chance to spawn a clone.
 . Clones are short-lived and attack an enemy.
 . Juxtapose: Makes clones also have this passive chance (limit this to a cap).
 . Talent: Increases chance for clone spawn when hitting burning enemies (so that Fire is synergy).
 
-[ ] What if Special is a continuous flame/lightning?
+[k] What if Special is a continuous flame/lightning?
 . You hold it down for continuous stream of damage.
 . For Fire maybe hold down to stream Rumble flames while slowly(?) moving.
 . For Lightning could do something else, like charge and release for lightning?

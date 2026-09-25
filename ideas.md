@@ -1,3 +1,35 @@
+# `2026-09-25`
+
+**(?) Hit And Run**:
+. For better hit and run mechanics, what about initial stagger/stun?
+. And then enemies have some resistance after that? Idk.
+
+Luck Cloud ideas:
+```
+- Nearby fog becomes clearer, so you can choose a route.
+- Soaking briefly brightens the disappearing wisps, making collection readable.
+- Different lighting or weather changes its tint and contrast.
+```
+
+Luck Cloud ideas:
+```
+Take the luck with you.
+. Passing through golden mist charges your luck briefly, letting you dash into enemies and spend it attacking. A cloud has a limited amount to give before it needs to
+recover. You get that “catch a favorable current” feeling without needing to fight inside it.
+
+Your attacks burn holes in luck.
+. Good fortune gets used up wherever you fight. A bright patch supports a short offensive burst, then fades, inviting you to relocate. I like the image of
+carving a trail through golden weather. The risk is making movement feel like a chore when you wanted one more swing.
+
+Waves reveal openings on enemies.
+. As a wave passes through an enemy, one side briefly becomes lucky to attack from. You’re dashing around opponents to catch shifting openings. This could fit
+the movement beautifully, although it overlaps with Duelist’s Brand’s directional positioning.
+
+Close calls create luck.
+. An enemy’s missed swing or narrowly avoided arrow leaves a short golden wake. Cut through it and your next attack gets better odds. Enemy aggression would
+continually create opportunities to dodge, turn, and retaliate.
+```
+
 # `2026-09-24`
 
 [ ] Boris Harizanov:

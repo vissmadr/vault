@@ -19,5 +19,8 @@ However, beyond that specialization, those same players are solid in nearly all 
 Specializing into a smaller and more focused system should not mean that you are to ignore everything else.
 It should mean that you have become proficient in all the fundamentals, and you have now found your game.
 
-> Good wrestlers should know every technique well, but master one or two to perfection.
+> "Good wrestlers should know every technique well, but master one or two to perfection."
 > \- Bulgarian saying
+
+> "I know thousands of wrestling techniques, but I only use three."
+> \- Aleksandr Karelin

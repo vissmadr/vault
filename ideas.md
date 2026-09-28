@@ -1,3 +1,19 @@
+# `2026-09-28`
+
+[ ] **Noise Randomized Fuel**:
+. Noise fuel add, so that it's more irregular burn pattern.
+. Like a noise scalar for the fuel field on top.
+
+[ ] **Immolation on SSS**:
+. Consuming more and more the world around.
+. This is what is left of it - revenge.
+. Gus and his wine.
+
+**Story: Not to escape due to revenge**:
+. Because of the revenge, should not exit.
+. Nothing to live but for _burning_ revenge.
+. Can let another, pure, to exit.
+
 # `2026-09-25`
 
 **(?) Hit And Run**:

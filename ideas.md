@@ -1,10 +1,55 @@
+# `2026-09-30`
+
+[k] **Camera Work**
+
+[k] **Abilities GUI Menu**:
+. Kinda like the Passives one, this time on `E` maybe?
+. The player able to choose his abilities.
+
+[ ] **(?) Ability Archetypes**:
+. Group similar abilities into an archetype to choose one?
+
+[ ] **(?) FireOrb Spenders**:
+. Maybe a single ability that spends FireOrbs?
+. Could be Detonate, FirePet summon, something big, etc.
+
+# `2026-09-29`
+
+[k] ~**Consider Full Hex map**:~
+. Both fire ground as well as collisions/pathfinding.
+
+Story:
+. Mother was scientist-like.
+. She knew the world for what it is, and what needs to be done.
+. Was aware of the corruption due to prolonged world incompletion.
+. Wanted to complete the world.
+. But she had to wait.
+. Remained only because the child, for it to complete the world instead.
+. When they found out, they killed her.
+. Child of vengeance.
+
+[ ] **Think/Reconsider Detonate ability**:
+. What we want are the FireOrbs around the player, not necessarily the Detonate.
+. FireOrbs could be another thing, or not as projectiles, but maybe as style or whatever.
+. Or automatic agents.
+
+[ ] **Try Focus targeted continuous stream**:
+. Continuous like the Engineer TL2 barrage.
+. Kinda like the Special, charge-based.
+
+[ ] **Summoner Enemy Units**
+. Unit that spawns other units.
+
+[ ] **Area Caster Enemy Unit**
+. Like the wizard enemies in Divinum.
+
 # `2026-09-28`
 
-[ ] **Noise Randomized Fuel**:
+[k] **Noise Randomized Fuel**:
 . Noise fuel add, so that it's more irregular burn pattern.
 . Like a noise scalar for the fuel field on top.
 
-[ ] **Immolation on SSS**:
+[k] **Immolation on SSS**:
 . Consuming more and more the world around.
 . This is what is left of it - revenge.
 . Gus and his wine.

@@ -1,54 +1,77 @@
+# `2026-10-02`
+
+[ ] **Environmental items/objects to explode**
+
+[ ] **Fuel from Fireball explosions**
+
+[ ] **(?) Idea: Fireball melee hit synergy/mechanic**
+
+Feedback:
+> Likes the Detonate more than the Vortex.
+> (Me too)
+
+[ ] **Shield**:
+. (?) Damage when it explodes.
+. Aftereffect duration (`0.10`?).
+
+**Controller Suggested**:
+. Directional with aim-assist will always be better for controller.
+. Keyboard is still fine.
+. Focus on controller.
+
 # `2026-10-01`
 
-[ ] **(!) NO TARGETING IS BETTER!**:
+[k] **(!) NO TARGETING IS BETTER!**:
 . If the auto-aim and collisions are good enough.
 . Single taps are always better.
 . No pauses this way.
 . **BETTER FLOW STATE**.
 
-[ ] Use new untargeted close Meteor:
+[k] Use new untargeted close Meteor:
 . Make it not stop the player on use?
 
-[ ] **(!) Meteor uses slight velocity**:
+[k] ~**(!) Meteor uses slight velocity**:~
 . Slightly bumps the (untargeted) Meteor direction based on player velocity?
 
-[ ] **Meteor continuous player movement**:
+[k] ~**Meteor continuous player movement**:~
 . Don't stop the player unnecessary.
 
-[ ] **Self Knockback on Abilities**:
+[k] **(?) Self Knockback on Abilities**:
 . When casting stuff like Fireball.
 
 > The Bullrush feels good to play with.
 > Very dynamic and fun hit-and-run gameplay.
+> (Second day) Still feels great.
 
 > Parabola Fireball looks cool actually.
 > While playing feels nice to throw something in the air for once.
+> (Second day) Still feels great.
 
-[ ] **Smooth Appear Gizmos**:
+[k] **Smooth Appear Gizmos**:
 . The Aim gizmos (Focus & Direction) should appear from nothing smoothly, not snap.
 . Idea is that you might tap fast once for instant cast, no need gizmo then.
 
-[ ] (?) Parabola Fireball could be without aim, just tap.
+[k] ~**(?) Parabola Fireball could be without aim, just tap:**~
 . Looks best when it's near I think?
 
-[ ] **(?) Not even Directional aim?**:
+[k] ~**(?) Not even Directional aim?**:~
 . If the auto-aim is good/sane enough, then why even bother with aiming?
 . Could just be infront of the player with the good autoaim maybe?
 
-[ ] **Focus with Directional Gizmo**:
+[k] ~**Focus with Directional Gizmo**:~
 . Combining the best of both, showing the linear direction.
 
-[ ] **Better Aim Stop**:
+[k] ~**Better Aim Stop**:~
 . Maybe better slow down to zero when aiming Directional.
 . But configurable slowdown time, not using the default deceleration as it's too quick.
 . Those abilities shouldn't be charged that long anyways, so it's fine to halt.
 . But smooth to halt, so if you're fast, you have some of your speed remaining, like quick play.
 
-[ ] **Angle Compensation**:
+[k] ~**Angle Compensation**:~
 . Figure out if we should compensate for the (like isometric) squish.
 . See if Hades does it for example.
 
-[ ] **Try t3ssel8r smarter auto-aim**:
+[k] **Try t3ssel8r smarter auto-aim**:
 . For the Directional aim thing.
 . Thinking Directional + Good auto-aim might be best.
 . Hades makes it work kinda? And Ravenswatch Fireball?

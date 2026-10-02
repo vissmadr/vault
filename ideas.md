@@ -1,23 +1,57 @@
 # `2026-10-02`
 
+[ ] **Both Fireball variants at once?**:
+. Instead of choosing one, can have both of them available.
+. (!) One action bar icon, two input buttons.
+. You decide how you spend your Fireball cooldown/charge.
+. Players choose where (or if) to bind their Fireball variants buttons.
+. By default have both available, but on different keys.
+. Some players might choose to use only one.
+. Would make extra sense for the Convergence btw.
+
+[ ] **(?) Try Convergence again?**:
+. Could solve the FireOrbs again.
+. Also for the FireballParabola, too.
+. Since we always have at least one Fireball, right?
+. And then leave a slot for some Ultimate ability?
+
+[ ] **Fireball Fun Passives**:
+. Need to return them now, actually.
+. FireballParabola to have the bounce thing like in Hades 2.
+. FireballDirect to try the Lich ultimate again, but maybe with the new blast.
+
+[ ] **Controller Hotkeys**
+
+[ ] **Impact Direction Explosion**:
+. Ravenswatch Fireball reference.
+. The Grenade vs Fireball feel difference.
+
+[ ] **Impact Direction Particle Velocity**:
+. thehuglet idea & implementation about particle velocity.
+. Particle velocity depends on the parent projectile's velocity.
+. Code reference from chat.
+
 [ ] **Environmental items/objects to explode**
 
 [ ] **Fuel from Fireball explosions**
+. Think about this.
 
 [ ] **(?) Idea: Fireball melee hit synergy/mechanic**
-
-Feedback:
-> Likes the Detonate more than the Vortex.
-> (Me too)
 
 [ ] **Shield**:
 . (?) Damage when it explodes.
 . Aftereffect duration (`0.10`?).
 
-**Controller Suggested**:
+Feedback:
+> Likes the Detonate more than the Vortex.
+> (Me too)
+
+[ ] **Controller Suggested**:
 . Directional with aim-assist will always be better for controller.
 . Keyboard is still fine.
 . Focus on controller.
+. Steam thing to suggest controller.
+. Intro thing to suggest controller.
 
 # `2026-10-01`
 

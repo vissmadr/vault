@@ -1,26 +1,41 @@
+# `2026-10-03`
+
+[ ] **Fire Arc**
+[ ] **Fire Arc Code Cleanup**
+
+[ ] **(?) Chain ability**:
+. Grappling hook type?
+[ ] **Fireball grab interaction**
+. Oh wow.
+
+[ ] **NPC Movement Patch**:
+. Movement as a whole.
+. Local avoidance and collision problems.
+. Rethink what we currently have.
+[ ] **Clone collisions**:
+. They currently stack inside eachother.
+
+[k] ~**(?) Simplify Fireball Direct**:~
+. If the midpoint is at the end, like `>= 0.8`, can simplify.
+. Remove the Direct fireball's speedup, keep it constant.
+. And remove any Direct gizmo elongation.
+
+[k] **Fireball Smart Gizmo**:
+. Fills to indicate the transition.
+
 # `2026-10-02`
 
-[ ] **Both Fireball variants at once?**:
-. Instead of choosing one, can have both of them available.
-. (!) One action bar icon, two input buttons.
-. You decide how you spend your Fireball cooldown/charge.
-. Players choose where (or if) to bind their Fireball variants buttons.
-. By default have both available, but on different keys.
-. Some players might choose to use only one.
-. Would make extra sense for the Convergence btw.
+[ ] **Divinum damaged feedback**:
+. Not simply a vignette, there is more to it.
+. Study it as it feels great.
 
 [ ] **(?) Try Convergence again?**:
 . Could solve the FireOrbs again.
 . Also for the FireballParabola, too.
 . Since we always have at least one Fireball, right?
 . And then leave a slot for some Ultimate ability?
-
-[ ] **Fireball Fun Passives**:
-. Need to return them now, actually.
-. FireballParabola to have the bounce thing like in Hades 2.
-. FireballDirect to try the Lich ultimate again, but maybe with the new blast.
-
-[ ] **Controller Hotkeys**
+[ ] **(?) FireOrbs on Melee Only**:
+. More direct, easier to count without looking at UI.
 
 [ ] **Impact Direction Explosion**:
 . Ravenswatch Fireball reference.
@@ -34,11 +49,32 @@
 [ ] **Environmental items/objects to explode**
 
 [ ] **Fuel from Fireball explosions**
-. Think about this.
+. (!) Think about this.
 
-[ ] **(?) Idea: Fireball melee hit synergy/mechanic**
+[k] **(?) Think about optional held stance/modifier**:
+. Solves the Fireball Direct/Parabola issue, as well as potentially others.
+. Can be on the RB in controller, and Shift on keyboard?
+. Could give more complex mechanics.
 
-[ ] **Shield**:
+[k] **Both Fireball variants at once?**:
+. Instead of choosing one, can have both of them available.
+. (!) One action bar icon, two input buttons.
+. You decide how you spend your Fireball cooldown/charge.
+. Players choose where (or if) to bind their Fireball variants buttons.
+. By default have both available, but on different keys.
+. Some players might choose to use only one.
+. Would make extra sense for the Convergence btw.
+
+[k] ~**(?) Fireball Fun Passives**:~
+. Need to return them now, actually.
+. FireballParabola to have the bounce thing like in Hades 2.
+. FireballDirect to try the Lich ultimate again, but maybe with the new blast.
+
+[k] **Controller Hotkeys**
+
+[x] **(?) Idea: Fireball melee hit synergy/mechanic**
+
+[k] **Shield**:
 . (?) Damage when it explodes.
 . Aftereffect duration (`0.10`?).
 
@@ -121,7 +157,7 @@ Feedback:
 [ ] **(?) Ability Archetypes**:
 . Group similar abilities into an archetype to choose one?
 
-[ ] **(?) FireOrb Spenders**:
+[k] **(?) FireOrb Spenders**:
 . Maybe a single ability that spends FireOrbs?
 . Could be Detonate, FirePet summon, something big, etc.
 
@@ -334,7 +370,7 @@ And Intercept, too.
 [k] **Card Draft?**:
 . Instead RollTheBones to draft a card, with greedy mechanic.
 
-[ ] **Experiment Automatic Immolation**:
+[k] **Experiment Automatic Immolation**:
 . Maybe on `SSS` rank?
 
 Immolation is cool.

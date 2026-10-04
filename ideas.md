@@ -1,6 +1,50 @@
+# `2026-10-04`
+
+[ ] **Fireball and Shatter extra VFX**:
+. Additional non-gameplay projectile particles along the way.
+. For fireball along the travel path.
+. For shatter as additional small fragments.
+. Basically tiny FireOrb visuals.
+
+[ ] **(?) Parry-like Ability?**:
+. Now we have the space for such an ability.
+. Doesn't need to be a literal shield or parry.
+. Could be Fiora/Beowulf/Romeo parry-like mechanic, where we absorb the hits, and counterattack, possibly with movement?
+. Could replace Bullrush.
+
+[ ] **(?) Zed Clone Ability?**:
+. The double clone where we can swap with it.
+. If it's a whole ability can be more advanced.
+
+[ ] **Better Movement Ability?**
+
+[ ] **Research Singleplayer Games Abilities**
+
+[ ] **Non-Fireball ability choice?**:
+. Always have Attack, Dash, and Fireball, and from then on allow the player to choose his other 2-3 slots?
+
+[ ] **Decide on Convergence**:
+. Can be a core mechanic, which solves the fire orbs.
+. Shatter already works with it.
+. If not, need to find a use for the fire orbs.
+[ ] If Convercence is Core:
+. Refactor the codebase so that it's core and not a passive.
+. Will be cleaner with the Shatter and stuff.
+. Think about the FireOrbs and their passives, possibly cleanup some of them.
+
+> Maybe just having Convergence is better, and frees up design space.
+> Without it we would have to use stuff like Detonate, but we already have Special.
+> And we already have other abilities, and potential abilities, too.
+
+[ ] **Lift Aim Gizmos**:
+. World Z vertical height.
+
+[ ] **Forward Explosions**:
+. Instead of circular explosions, try forward in the direction of impact.
+
 # `2026-10-03`
 
-[ ] **Fire Arc**
+[k] **Fire Arc**
 [ ] **Fire Arc Code Cleanup**
 
 [ ] **(?) Chain ability**:

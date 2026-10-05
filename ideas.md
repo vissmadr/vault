@@ -1,3 +1,47 @@
+# `2026-10-05`
+
+[ ] **(!) Better Combo Input**:
+. Sometimes between Dash & Chain & Fireball, the input misses.
+. Need to make sure actions don't block eachother, for great combos.
+. Player intent is king.
+[ ] **(!) Fireball Parabola Input**:
+. Improve it so the taps don't charge it.
+. Charge (range) begins only after `n` seconds of hold, or some ease so it's not in the beginning.
+. This is for better and more consistent combos.
+[ ] **Less Parabola Range**
+
+[ ] **Fireball Parabola Marker**:
+. Something subtle on the ground to indicate where the parabola will fall.
+
+[k] **Beam Ability**
+[ ] **(?) Beam+Fireball Synergy**
+. Very powerful blast?
+. For that synergy the Beam prioritizes the Fireball.
+
+[ ] **(?) Chain+Fireball synergy**
+. Not sure; Can ruin the Parabola and then Pull intent?
+[ ] **(?) Directional-only synergy**:
+. Directional fireball, and the chain pops it, making it explode in circle AOE instead.
+. Kinda needs to be done very fast one after the other.
+. For that synergy the Chain prioritizes the Fireball.
+
+[ ] **Bladeform Passive**:
+. Gaining stacks every sec of not taking damage.
+
+[ ] **(?) Laser-like Hitscan Ability?**:
+
+[ ] **Intercept**:
+. First attack can intercept.
+. Having a short cooldown after no attacks, so that it's only the fresh first one.
+. Visualize on action bars UI by slightly changing the attack icon so it shows when you can intercept.
+
+[ ] **(?) Shield Counterspell/Merlin Ability**:
+. Activate to have for `n` time.
+
+[ ] **(?) Held AOE Charge ability**:
+. Longer hold for more AOE.
+. Tap for instant AOE.
+
 # `2026-10-04`
 
 [ ] **Fireball and Shatter extra VFX**:
@@ -20,14 +64,14 @@
 
 [ ] **Research Singleplayer Games Abilities**
 
-[ ] **Non-Fireball ability choice?**:
+[ ] **(?) Non-Fireball ability choice?**:
 . Always have Attack, Dash, and Fireball, and from then on allow the player to choose his other 2-3 slots?
 
-[ ] **Decide on Convergence**:
+[k] **Decide on Convergence**:
 . Can be a core mechanic, which solves the fire orbs.
 . Shatter already works with it.
 . If not, need to find a use for the fire orbs.
-[ ] If Convercence is Core:
+[k] If Convercence is Core:
 . Refactor the codebase so that it's core and not a passive.
 . Will be cleaner with the Shatter and stuff.
 . Think about the FireOrbs and their passives, possibly cleanup some of them.
@@ -36,21 +80,19 @@
 > Without it we would have to use stuff like Detonate, but we already have Special.
 > And we already have other abilities, and potential abilities, too.
 
-[ ] **Lift Aim Gizmos**:
+[k] **Lift Aim Gizmos**:
 . World Z vertical height.
 
-[ ] **Forward Explosions**:
+[k] **Forward Explosions**:
 . Instead of circular explosions, try forward in the direction of impact.
 
 # `2026-10-03`
 
 [k] **Fire Arc**
-[ ] **Fire Arc Code Cleanup**
+[k] **Fire Arc Code Cleanup**
 
-[ ] **(?) Chain ability**:
+[k] **(?) Chain ability**:
 . Grappling hook type?
-[ ] **Fireball grab interaction**
-. Oh wow.
 
 [ ] **NPC Movement Patch**:
 . Movement as a whole.
@@ -73,7 +115,7 @@
 . Not simply a vignette, there is more to it.
 . Study it as it feels great.
 
-[ ] **(?) Try Convergence again?**:
+[k] **(?) Try Convergence again?**:
 . Could solve the FireOrbs again.
 . Also for the FireballParabola, too.
 . Since we always have at least one Fireball, right?
@@ -81,7 +123,7 @@
 [ ] **(?) FireOrbs on Melee Only**:
 . More direct, easier to count without looking at UI.
 
-[ ] **Impact Direction Explosion**:
+[k] **Impact Direction Explosion**:
 . Ravenswatch Fireball reference.
 . The Grenade vs Fireball feel difference.
 
@@ -92,7 +134,7 @@
 
 [ ] **Environmental items/objects to explode**
 
-[ ] **Fuel from Fireball explosions**
+[k] **Fuel from Fireball explosions**
 . (!) Think about this.
 
 [k] **(?) Think about optional held stance/modifier**:

@@ -1,14 +1,30 @@
+# `2026-10-06`
+
+[ ] Is the movespeed faster now..?
+. Test against older commit.
+
+[ ] **(!) Game Mechanics Project**:
+. Small projects for all game mechanics.
+. Probably web, for the new website.
+. Centered design.
+
+[k] **Chain Two Modes**:
+. Snatch (tap) vs launch (held).
+
+[ ] **(?) Shatter Auto-aim**:
+. Consider auto-aim for the Shatter direction.
+
 # `2026-10-05`
 
-[ ] **(!) Better Combo Input**:
+[k] **(!) Better Combo Input**:
 . Sometimes between Dash & Chain & Fireball, the input misses.
 . Need to make sure actions don't block eachother, for great combos.
 . Player intent is king.
-[ ] **(!) Fireball Parabola Input**:
+[k] **(!) Fireball Parabola Input**:
 . Improve it so the taps don't charge it.
 . Charge (range) begins only after `n` seconds of hold, or some ease so it's not in the beginning.
 . This is for better and more consistent combos.
-[ ] **Less Parabola Range**
+[k] **Less Parabola Range**
 
 [ ] **Fireball Parabola Marker**:
 . Something subtle on the ground to indicate where the parabola will fall.
@@ -25,10 +41,10 @@
 . Kinda needs to be done very fast one after the other.
 . For that synergy the Chain prioritizes the Fireball.
 
-[ ] **Bladeform Passive**:
+[k] **Bladeform Passive**:
 . Gaining stacks every sec of not taking damage.
 
-[ ] **(?) Laser-like Hitscan Ability?**:
+[k] **(?) Laser-like Hitscan Ability?**
 
 [ ] **Intercept**:
 . First attack can intercept.
@@ -94,11 +110,11 @@
 [k] **(?) Chain ability**:
 . Grappling hook type?
 
-[ ] **NPC Movement Patch**:
+[k] **NPC Movement Patch**:
 . Movement as a whole.
 . Local avoidance and collision problems.
 . Rethink what we currently have.
-[ ] **Clone collisions**:
+[k] **Clone collisions**:
 . They currently stack inside eachother.
 
 [k] ~**(?) Simplify Fireball Direct**:~
@@ -240,7 +256,7 @@ Feedback:
 . Kinda like the Passives one, this time on `E` maybe?
 . The player able to choose his abilities.
 
-[ ] **(?) Ability Archetypes**:
+[k] **(?) Ability Archetypes**:
 . Group similar abilities into an archetype to choose one?
 
 [k] **(?) FireOrb Spenders**:
@@ -262,7 +278,7 @@ Story:
 . When they found out, they killed her.
 . Child of vengeance.
 
-[ ] **Think/Reconsider Detonate ability**:
+[k] **Think/Reconsider Detonate ability**:
 . What we want are the FireOrbs around the player, not necessarily the Detonate.
 . FireOrbs could be another thing, or not as projectiles, but maybe as style or whatever.
 . Or automatic agents.
@@ -329,12 +345,13 @@ continually create opportunities to dodge, turn, and retaliate.
 
 [ ] Boris Harizanov:
 . "Shadowstrider" tag.
+. Misho from OpenMat.
 
 [ ] **(?) Minmap***:
 . Could show enemies and also luck.
 . Could slightly show the luck field even, if upgraded.
 
-[ ] **Lucky/Unlucky Maps**:
+[ ] **(?) Lucky/Unlucky Maps**:
 . Luck scalar based on the map itself.
 
 [ ] **On Numbers**:
@@ -345,6 +362,7 @@ continually create opportunities to dodge, turn, and retaliate.
 
 [ ] **On-kill Passives**:
 . Stuff that happen on kills.
+[ ] **Rampage Passive**
 
 [k] **Luck Waves**:
 . Doesn't get more creative/special than that lol.
@@ -369,18 +387,14 @@ continually create opportunities to dodge, turn, and retaliate.
 
 [ ] **UI Player Health**
 
-[ ] **as**
-[ ] **as**
-[ ] **as**
-
-[ ] **Fireball Travel Damage Increase**:
+[ ] **(?) Fireball Travel Damage Increase**:
 . Reason for the player to go out and shoot from max range.
 
 [k] **Burn Slow**:
 . Stacking slow based on Burn level?
 . Mandatory to have I think.
 
-[ ] **Bane of the Stricken**
+[k] **Bane of the Stricken**
 
 [k] **While Moving, While Attacking**:
 . Passive bonus while moving, passive bonus while Attacking.
@@ -393,16 +407,17 @@ continually create opportunities to dodge, turn, and retaliate.
 [ ] **Auto Tristana Bomb**:
 . Chance to place Tristana bomb on target.
 
+[ ] **(?) Big Cooldown?**
 [ ] **LOTS of Combustion-related mechanics**:
 . Can work if there is a powerup that acts in place of the Combustion.
 . See `https://www.wowhead.com/talent-calc/mage/fire/sunfury/EAAAAAFFVVVUBU`
 . Can work with something that we get, like a powerup.
 . Immolation and/or SSS rank stuff maybe? Idk.
 
-[ ] **Cheat Death**
+[k] ~**Cheat Death**~
 . On cooldown.
 
-[ ] **Explosion more damage to center**
+[k] ~**Explosion more damage to center**~
 
 [k] **Fireball Cooldown Reduction Mechanics**
 . Stuff like melee hits and/or Burning to reduce Fireball cooldown.
@@ -410,7 +425,7 @@ continually create opportunities to dodge, turn, and retaliate.
 [ ] **(?) After Crit Fail Success Stacking**:
 . After each non-crit, stack increase the chance of the next crit.
 
-[ ] **Cinderia Mechanics**:
+[ ] **(?) Cinderia Mechanics**:
 . Instead of card draft ideas, Cinderia seems to have good progression.
 . Roguelike unlocks, in-run ability talents, taint meter with curse.
 

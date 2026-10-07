@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nodes/Simplex Noise.md",
+                "file": "nodes/Pareto Principle.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Simplex Noise"
+              "title": "Pareto Principle"
             }
           }
         ]
@@ -154,6 +154,7 @@
   },
   "active": "f30a7a2a1099c9dd",
   "lastOpenFiles": [
+    "nodes/Simplex Noise.md",
     "nodes/Dot Product.md",
     "nodes/Vector Operations.md",
     "nodes/Vector.md",
@@ -179,7 +180,6 @@
     "nodes/Formal Fallacy.md",
     "nodes/Cognitive Bias.md",
     "nodes/Dunning-Kruger Effect.md",
-    "nodes/Confirmation Bias.md",
     "nodes/Adaptive Volatility.md~",
     "nodes/Markdown.md~",
     "nodes/Eric's Diamond.md~",

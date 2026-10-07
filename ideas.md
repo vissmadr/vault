@@ -1,6 +1,30 @@
 # `2026-10-07`
 
+[ ] **Corpse Explode Splatter**:
+. Corpses should splatter or dissapear (preferably splatter) when exploding.
+. Should have a nasty sound later on.
+
+[k] **Beam explode on kill**:
+. Magicka inspired.
+
+[ ] **Better Chain Design**:
+. Snatch is great right now.
+. Not sure about the pull, especially with walls.
+. Could do this fire-through-chain thing.
+
+[ ] **Better Fireball Hold Gizmo Appear Time**:
+. Gizmo is slower showing up than the actual Fireball Direct hold duration.
+
+[ ] **Better Beam Autoaim**:
+. I think that it autoaims too far due to its busted range.
+
+[k] **Screen Corner Enemy Pointers**
+
+[ ] **Shield Enemy**:
+. Blocks player attacks.
+. Chain can pull the shield off.
 [ ] **Shield Enemy Sideways Splash**
+. Looks very nice on walls, this will be very cool there too.
 
 [k] **Autoaim Detonate**
 

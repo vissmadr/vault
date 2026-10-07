@@ -1,4 +1,25 @@
+# `2026-10-07`
+
+[ ] **Shield Enemy Sideways Splash**
+
+[k] **Autoaim Detonate**
+
+[k] **Corpses Knockback**
+
+[k] **Meditate**
+
+[k] **Faster Fireball Input**:
+. Maybe remove the big charge on Parabola, and just have the Direct Fireball.
+. Will fit the "tap vs hold" like for other abilities maybe.
+
+Idea: Doubled Tap/Held abilities where it's a different thing?
+Like for example tap to Shield, hold to Beam?
+
 # `2026-10-06`
+
+[k] Stack-based Debuff Passives:
+. Think about a better way of losing stacks.
+. Could be just FurySwipes where they are all lost after `n` seconds.
 
 [ ] Is the movespeed faster now..?
 . Test against older commit.
@@ -26,7 +47,7 @@
 . This is for better and more consistent combos.
 [k] **Less Parabola Range**
 
-[ ] **Fireball Parabola Marker**:
+[k] **Fireball Parabola Marker**:
 . Something subtle on the ground to indicate where the parabola will fall.
 
 [k] **Beam Ability**

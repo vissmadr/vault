@@ -11,10 +11,14 @@
             "id": "f30a7a2a1099c9dd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "nodes/Simplex Noise.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Simplex Noise"
             }
           }
         ]
@@ -66,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "a8b21f525f867907",
@@ -149,6 +154,11 @@
   },
   "active": "f30a7a2a1099c9dd",
   "lastOpenFiles": [
+    "nodes/Dot Product.md",
+    "nodes/Vector Operations.md",
+    "nodes/Vector.md",
+    "nodes/Zero-sum Game.md",
+    "nodes/Chess.md",
     "nodes/Abstract Machine.md",
     "nodes/AI Model.md",
     "nodes/A-Star Algorithm.md",
@@ -161,8 +171,6 @@
     "nodes/AI as Storage.md",
     "nodes/Adaptive Volatility.md",
     "nodes/Gambler's Fallacy.md",
-    "nodes/Zero-sum Game.md",
-    "nodes/Chess.md",
     "nodes/Exchange When Ahead.md",
     "nodes/Strategy.md",
     "nodes/Algorithm.md",
@@ -172,9 +180,6 @@
     "nodes/Cognitive Bias.md",
     "nodes/Dunning-Kruger Effect.md",
     "nodes/Confirmation Bias.md",
-    "nodes/Halo Effect.md",
-    "nodes/Affinity Bias.md",
-    "nodes/Abstraction.md",
     "nodes/Adaptive Volatility.md~",
     "nodes/Markdown.md~",
     "nodes/Eric's Diamond.md~",

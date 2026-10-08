@@ -1,9 +1,22 @@
 # `2026-10-08`
 
-**Consider _BLOOD_**
-Corpses, blood, burning corpses, exploding burning corpses...
+[ ] **Chain 3D asset**:
+. Think about this, what the best approach should be.
 
-[ ] **Convergence Fireball held + Meditate**:
+[ ] **Blood impact direction velocity**
+[ ] **Blood tuning**
+
+[ ] **Begin Website Simultaneously**
+
+[ ] **New Blood Publisher**:
+. Research this.
+
+[k] **Research Audio**
+
+[k] **Consider BLOOD**
+. Corpses, blood, burning corpses, exploding burning corpses...
+
+[k] **Convergence Fireball held + Meditate**:
 . While holding Fireball, can use the orbs for Convergeance mechanic.
 . Some feedback, like on the UI and maybe some flash or movement that they are for the convergeance.
 
@@ -11,7 +24,7 @@ Corpses, blood, burning corpses, exploding burning corpses...
 
 # `2026-10-07`
 
-[ ] **Corpse Explode Splatter**:
+[k] **Corpse Explode Splatter**:
 . Corpses should splatter or dissapear (preferably splatter) when exploding.
 . Should have a nasty sound later on.
 . Body parts?
@@ -28,7 +41,7 @@ Corpses, blood, burning corpses, exploding burning corpses...
 [ ] **Better Fireball Hold Gizmo Appear Time**:
 . Gizmo is slower showing up than the actual Fireball Direct hold duration.
 
-[ ] **Better Beam Autoaim**:
+[k] **Better Beam Autoaim**:
 . I think that it autoaims too far due to its busted range.
 
 [k] **Screen Corner Enemy Pointers**

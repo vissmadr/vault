@@ -1,8 +1,21 @@
+# `2026-10-08`
+
+**Consider _BLOOD_**
+Corpses, blood, burning corpses, exploding burning corpses...
+
+[ ] **Convergence Fireball held + Meditate**:
+. While holding Fireball, can use the orbs for Convergeance mechanic.
+. Some feedback, like on the UI and maybe some flash or movement that they are for the convergeance.
+
+[ ] **Shield Ability**
+
 # `2026-10-07`
 
 [ ] **Corpse Explode Splatter**:
 . Corpses should splatter or dissapear (preferably splatter) when exploding.
 . Should have a nasty sound later on.
+. Body parts?
+. Blood?
 
 [k] **Beam explode on kill**:
 . Magicka inspired.

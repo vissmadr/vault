@@ -1,4 +1,29 @@
+# `2026-10-09`
+
+[ ] **Lighter FireClones**:
+. More like Cinderia design, where it's a brief hit.
+. Appears to strike, then dissapears.
+. Different from the Remnant.
+
+[ ] **Explosions**:
+. Work on improving the explosions and AOE damage overall.
+. Explosions have vfx on the ground, but what about burst particles?
+
+[k] **Remnant**:
+. While flying to be more like a fireball.
+
+[ ] **Fire orbs arcing path**:
+. Try instead of a straight line for them to wave around and fly towards targets.
+
+[ ] **Experiment Stationary player NPC**:
+. Or very slow.
+
+[k] **Machine Gore Experiment**
+
 # `2026-10-08`
+
+> Blood Feedback:
+> So far 7/7.
 
 [ ] **Chain 3D asset**:
 . Think about this, what the best approach should be.
@@ -6,9 +31,10 @@
 [ ] **Blood impact direction velocity**
 [ ] **Blood tuning**
 
-[ ] **Begin Website Simultaneously**
+[ ] **Begin Website Simultaneously**:
+. New `web` project, with the older being `archive-web`.
 
-[ ] **New Blood Publisher**:
+[ ] **New Blood Interactive**:
 . Research this.
 
 [k] **Research Audio**
@@ -49,7 +75,7 @@
 [ ] **Shield Enemy**:
 . Blocks player attacks.
 . Chain can pull the shield off.
-[ ] **Shield Enemy Sideways Splash**
+[ ] **Shield Enemy Sideways Splash**:
 . Looks very nice on walls, this will be very cool there too.
 
 [k] **Autoaim Detonate**

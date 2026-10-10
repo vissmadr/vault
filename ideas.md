@@ -1,6 +1,71 @@
+# `2026-10-10`
+
+[ ] **Missing VFX juice**:
+. Missing screenshake on new abilities.
+[ ] **Stronger Hitflash**:
+. More white hitflash for the enemies?
+
+[ ] **FirePet Patch**:
+. Way faster on Burning ground, way slower on normal ground.
+. Kinda between moving and stationary, depending on ground.
+. Also depending on Burning level, or only on Burning level, which indirectly is also the ground?
+. Think about if they should have this fire ground chase mechanic at all.
+
+[ ] **UI Work**:
+. Single bind for abilities, no secondary keymap.
+
+[ ] **Hooded Guys Visuals?**:
+. Slightly Magicka style for the humanoids?
+
+[k] **Cleanup**
+[ ] **(!) Archive**
+
+[ ] **(?) Chain Mass Pull**:
+. AOE Around the player that pulls all enemies in.
+. Much longer cooldown than the single Chain snatch.
+. If it's cool, remove the other Chain stuff, like the wall stuff.
+
+[ ] **(?) Meditate abilities?**:
+. Like the design in the past?
+
+[ ] **(?) Meditate RtB Buff Pop?**:
+. Could be made to pop an orb for a random buff?
+. Could be interesting gameplay actually.
+. Could replace the shot-out Detonate on tap.
+. Could give Immolate, lol. Immolate duration per pop?
+. The pops could be small AOE still, melee around the player.
+
+[ ] **Hold ability for after invulnerable**:
+. Should be able to start holding the Fireball and stuff for after the Omnislash or Remnant.
+. This will allow to fire the Fireball directly.
+
+[k] **Omnislash**
+[ ] **Omnislash Player Strike Animation**:
+. Much like the Fire Clone visual behavior.
+[k] **Slower Omnislash**:
+. Reduce the overall speeds a bit, to have more time.
+
+[ ] **(!) Fire Reduction**:
+. Should not disturb the gameplay THAT much.
+. Opacities, less yellow, shorter trails, etc.
+
+[k] **Remnant NPC Behavior**
+
+[ ] **Remnant Smoke Appearance**:
+. Cinderia Shadow Clone appearance.
+. Also Zed W appearance.
+
+[k] **Remnant visual juice**
+[ ] **(?) Remnant circle aura**:
+. Maybe for better readability?
+
+[k] **FireClone on Fire Orb Detonate**
+
 # `2026-10-09`
 
-[ ] **Lighter FireClones**:
+[ ] **Exploding AOE Enemy**
+
+[k] **Lighter FireClones**:
 . More like Cinderia design, where it's a brief hit.
 . Appears to strike, then dissapears.
 . Different from the Remnant.
@@ -12,7 +77,7 @@
 [k] **Remnant**:
 . While flying to be more like a fireball.
 
-[ ] **Fire orbs arcing path**:
+[ ] **(?) Fire orbs arcing path**:
 . Try instead of a straight line for them to wave around and fly towards targets.
 
 [ ] **Experiment Stationary player NPC**:

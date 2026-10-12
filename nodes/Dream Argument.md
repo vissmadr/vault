@@ -15,4 +15,4 @@ The act of dreaming provides evidence that the senses we use to distinguish real
 >
 > \- Rene Descartes
 
-While dreaming, one does not normally realize one is dreaming. On more rare occations, the dream may be contained inside another dream, with the very act of realizing that one is dreaming, itself, being only a dream that one is not aware of having. This had led philosophers to wonder whether it is possible for one to ever assume wakefulness at all.
+While dreaming, one does not normally realize one is dreaming. On more rare occasions, the dream may be contained inside another dream, with the very act of realizing that one is dreaming, itself, being only a dream that one is not aware of having. This had led philosophers to wonder whether it is possible for one to ever assume wakefulness at all.

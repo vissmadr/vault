@@ -21,7 +21,7 @@ For example, negating the vector `<5, -3>` results in `<-5, 3>`.
 
 **Additive Inverse**: Negating a vector `v` results in its _additive inverse_ `-v` such that `v + (-v) = 0`.
 
-**Reverse Direction**: Nagating a vector results in a vector of the same magnitude but opposite direction.
+**Reverse Direction**: Negating a vector results in a vector of the same magnitude but opposite direction.
 
 Visually, it's the same line segment, but with the arrowhead on the other side.
 

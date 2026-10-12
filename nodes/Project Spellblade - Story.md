@@ -89,7 +89,7 @@ Heavily reliant on secrets & indirection. To find the story instead of being tol
 **Reset**:
 
 - The one who successfully leaves the World causes it to reset.
-- Leave without taking anything with you. No legacy. No memory perserved. No proof you existed.
+- Leave without taking anything with you. No legacy. No memory preserved. No proof you existed.
 
 **City**:
 
@@ -157,7 +157,7 @@ Heavily reliant on secrets & indirection. To find the story instead of being tol
 
 - Never gives direct answers.
 - The Sage is not truly hiding. He is testing recognition without authority.
-- The World itself recognizes the sage, but the Heroes/citisenz don't remember him. Only the legend remains.
+- The World itself recognizes the sage, but the Heroes/citizens don't remember him. Only the legend remains.
 - Animals behave differently near him.
 - Has powers that don't even make sense, but doesn't use them.
 - (secret) He is not waiting for the Lord to fall - he is waiting for someone to surpass him.

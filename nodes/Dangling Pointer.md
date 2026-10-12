@@ -17,7 +17,7 @@ The pointer itself still holds the address of the now-invalid memory. Using it l
 
 There are three primary scenarios that create dangling pointers.
 
-**Deallocation of Memory**: The most common cause. When memory is manually freed, but the poitner is not reset to `NULL`, it becomes dangling.
+**Deallocation of Memory**: The most common cause. When memory is manually freed, but the pointer is not reset to `NULL`, it becomes dangling.
 
 ```c
 int main() {
@@ -47,7 +47,7 @@ int main() {
 }
 ```
 
-**Multiple Pointers to the Same Memory**: When having two pointers pointing to the same block of memory, freeing memory through one pointer makes the other poitner dangle.
+**Multiple Pointers to the Same Memory**: When having two pointers pointing to the same block of memory, freeing memory through one pointer makes the other pointer dangle.
 
 ```c
 int main() {
@@ -65,7 +65,7 @@ int main() {
 
 ## Dangers and Consequences
 
-Using a dangling poitner leads to undefined behavior.
+Using a dangling pointer leads to undefined behavior.
 
 **Might Work by Accident**: The OS might not immediately reclaim the memory, and the old value might still be there. This is the most insidious case as the bug hides itself until it doesn't.
 
@@ -73,7 +73,7 @@ Using a dangling poitner leads to undefined behavior.
 
 **Might Corrupt Data**: The memory may already be assigned to serve another purpose. Writing through the dangling pointer corrupts that new data.
 
-**Security Vulenrability**: Attackers can potentially export dangling pointers to execute arbitrary code.
+**Security Vulnerability**: Attackers can potentially export dangling pointers to execute arbitrary code.
 
 ## Prevention
 

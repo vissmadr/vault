@@ -35,7 +35,7 @@ while (i < 10) {
 }
 ```
 
-**Continue Expression**: Zig `while` statements can have an optional 'continue expression' which runs every time the while loop continues (either at the end of the loop or when an explicit `continue` is invoked.
+**Continue Expression**: Zig `while` statements can have an optional 'continue expression' which runs every time the while loop continues (either at the end of the loop or when an explicit `continue` is invoked).
 
 - Continue expressions do NOT execute when a while loop stops because of a `break`!
 

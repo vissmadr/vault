@@ -15,6 +15,6 @@ Phase in the learning process where initial enthusiasm fades and challenges feel
 
 One should be aware that, in general, the learning rate in the beginning is not the same as the learning rate afterwards.
 
-**Overcoming the Dip**: The problem is best resolved through persistence, will, and discipline. Apart from that, being aware of the existance of "the dip" as a concept also helps by knowing it is normal.
+**Overcoming the Dip**: The problem is best resolved through persistence, will, and discipline. Apart from that, being aware of the existence of "the dip" as a concept also helps by knowing it is normal.
 
 **Momentum**: The dip is often the worst phase in many disciplines. One can build momentum after overcoming the dip, as it's usually a gradual & constant increase afterwards.

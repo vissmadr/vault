@@ -5,7 +5,7 @@ context:
 
 # Horizontal Edge Detection Kernel
 
-Detects horizontal edges by highlighting areas where there are singnificant changes in intensity in the vertical direction.
+Detects horizontal edges by highlighting areas where there are significant changes in intensity in the vertical direction.
 
 |     |     |     |
 | --- | --- | --- |

@@ -30,7 +30,7 @@ Can be a massive performance gain (especially for sprite-heavy 2D games), at the
 
 ### Atlas Sizing
 
-**Commion sizes**: `2048x2048`, `4096x4096`, `8192x8192`.
+**Common sizes**: `2048x2048`, `4096x4096`, `8192x8192`.
 
 **Power-of-two Dimensions**: For optimal [[Mipmap]] generation, among other things.
 

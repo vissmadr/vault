@@ -13,7 +13,7 @@ AI as an extremely effective storage format.
 
 `2025 12 02`
 
-I can run a `15GB` local AI model that will answer me "When was Skype created, who created it, what color is it's icon, and roughly how many people used it the first year?".
+I can run a `15GB` local AI model that will answer me "When was Skype created, who created it, what color is its icon, and roughly how many people used it the first year?".
 
 It can answer correctly most of the time, depending on the question.
 

@@ -6,7 +6,7 @@ context:
 
 # Grid Line Drawing
 
-Method to programatically drawing lines on a rectangular grid.
+Method to programmatically draw lines on a rectangular grid.
 
 ---
 

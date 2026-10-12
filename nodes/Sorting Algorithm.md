@@ -14,7 +14,7 @@ context:
 
 The goal is to organize data for efficient searching, analysis, or storage.
 
-**Stability**: Sorting algorithms are _stable_ if they preserve the relative order or equal elements, and are _unstable_ if they don't.
+**Stability**: Sorting algorithms are _stable_ if they preserve the relative order of equal elements, and are _unstable_ if they don't.
 
 ## Common Algorithms
 

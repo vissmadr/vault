@@ -20,7 +20,7 @@ const constantInteger: i32 = 42;
 var mutableInteger: i32 = 42;
 ```
 
-Where possible, `const` values are prefered over `var` values.
+Where possible, `const` values are preferred over `var` values.
 
 **Undefined**: Constants and variables must have a value. If no known value can be given, the `undefined` value, which coerces to any type, may be used as long as a type annotation is provided.
 

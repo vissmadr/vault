@@ -10,7 +10,7 @@ context:
 
 Reference: [WebGL2 Attributes Article](https://webgl2fundamentals.org/webgl/lessons/webgl-attributes.html)
 
-Article about how [[Attribute (Graphics)|attribute]] state is is setup in [[WebGL]].
+Article about how [[Attribute (Graphics)|attribute]] state is set up in [[WebGL]].
 
 ---
 
@@ -197,7 +197,7 @@ This lets you set all of the attributes and the `ELEMENT_ARRAY_BUFFER` in the cu
 You can see it's arguably a good thing to use vertex array objects. Although using them often requires more organization.
 
 **Maximum Attributes**:
-WebGL2 requires that at least 16 attribute sare supported but a particular computer/browser/implementation/driver can support more.
+WebGL2 requires that at least 16 attributes are supported but a particular computer/browser/implementation/driver can support more.
 
 You can find out how many are supported by calling:
 

@@ -17,7 +17,7 @@ Aesthetic [[Bullet Hell]] survivors-like game.
 
 **More Choice**: The runs are less random compared to other similar games. Every level-up offers one of `5` upgrades (instead of the usual `3`), as well as a reroll.
 
-- Allows one to choose the playstyle of the run without being as dependant on RNG.
+- Allows one to choose the playstyle of the run without being as dependent on RNG.
 
 **Mechanics**: Apart from movement, the game includes aiming (with manual shooting) and reload, as well as passive (automatic) attack abilities.
 

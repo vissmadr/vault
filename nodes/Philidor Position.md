@@ -23,7 +23,7 @@ The defender's goal is to force a draw by repetition.
 
 ### Third Rank
 
-First, the defender needs to get his Rook to the third rank away from the pomotion rank.
+First, the defender needs to get his Rook to the third rank away from the promotion rank.
 
 ```chesser
 fen: 8/8/8/8/3pk3/R7/7r/3K4 w - - 3 3

@@ -10,7 +10,7 @@ Arrays in Zig.
 
 ---
 
-Array elements are stored contiguously in memory with no implicit padding inbetween.
+Array elements are stored contiguously in memory with no implicit padding in between.
 
 Arrays are denoted by `[N]T`, where `N` is the number of elements in the array, and `T` is the type of those elements. `N` can also be `_` to infer the array size.
 

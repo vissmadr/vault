@@ -5,7 +5,7 @@ context:
 
 # General-purpose Language
 
-[[Computer Language]] that is broadly applicable accross application domains.
+[[Computer Language]] that is broadly applicable across application domains.
 
 ---
 

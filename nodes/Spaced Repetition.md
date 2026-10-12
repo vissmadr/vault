@@ -9,4 +9,4 @@ Learning technique that involves reviving information at increasing periods over
 
 ---
 
-Enchances long-term retention and recall.
+Enhances long-term retention and recall.

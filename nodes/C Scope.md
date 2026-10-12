@@ -87,7 +87,7 @@ void someFunction() {
 }
 ```
 
-Nested blocks can have variables with ther same name where inner shadows outer:
+Nested blocks can have variables with the same name where inner shadows outer:
 
 ```c
 for (int i = 0; i < 5; i++) {

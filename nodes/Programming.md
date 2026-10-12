@@ -9,4 +9,4 @@ Composition of instructions that systems ([[Computer|Computers]]) can follow to 
 
 The design and implementation of [[Algorithm|Algorithms]] that systems can use.
 
-The result of programming are [[Computer Program|Computer Programs]].
+The result of programming is [[Computer Program|Computer Programs]].

@@ -11,7 +11,7 @@ Intentionally avoiding perfect uniformity in order to have a more natural feel.
 
 ---
 
-Break repetition with small, intentional imperfections and assymetries.
+Break repetition with small, intentional imperfections and asymmetries.
 
 Small imperfections make environments feel more authentic.
 

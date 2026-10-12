@@ -6,7 +6,7 @@ context:
 
 # Liskov Substitution Principle
 
-Subtypes must be substitutable for their base types without altering the corectness of the system.
+Subtypes must be substitutable for their base types without altering the correctness of the system.
 
 ---
 

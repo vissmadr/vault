@@ -23,7 +23,7 @@ How would you design it? What rules would govern it? What patterns would it crea
 - **Autonomy**: Your world needs to be autonomous and self-sufficient.
 - **Intelligence**: The purpose of your world is to achieve intelligence, or something greater, as a result of that intelligence.
 
-So lets think about world-building.
+So let's think about world-building.
 
 **Generative Design**: Since your world needs to be autonomous, meaning that you can't be there forever to manipulate it, then it should probably follow generative design principles. The basic idea is to predefine a set of parameters, and then witness how meaningful patterns begin to emerge out of the chaos. Those emerging patterns have the potential to create life. Life has the potential to evolve. And that should be able to handle the intelligence goal.
 

@@ -5,4 +5,4 @@ context:
 
 # Scorched Earth Strategy
 
-Desctruction of useful resources, leaving the enemy with nothing of value.
+Destruction of useful resources, leaving the enemy with nothing of value.

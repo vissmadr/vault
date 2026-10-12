@@ -9,7 +9,7 @@ context:
 
 ---
 
-**Benefits**: Reduces program size, avoids irrelevant operatios, simplifies program structure.
+**Benefits**: Reduces program size, avoids irrelevant operations, simplifies program structure.
 
 See [[Dead Store]]
 

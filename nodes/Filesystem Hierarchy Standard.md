@@ -23,7 +23,7 @@ The general layout and structure of directories.
 
 ### `/` Root Directory
 
-Primary root diectory of the entire filesystem.
+Primary root directory of the entire filesystem.
 
 Contains all other directories and files.
 

@@ -6,4 +6,4 @@ context:
 
 # GPU Buffer
 
-Region in [[GPU]] memory for for efficiently storing and accessing data.
+Region in [[GPU]] memory for efficiently storing and accessing data.

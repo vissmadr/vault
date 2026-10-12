@@ -10,7 +10,7 @@ Shared boundary or a point of interaction between different systems, components,
 
 ---
 
-Defines a set of rules and protocols for how different parts of a system communicate with each other, ensuring that they can work together effectively without needing to understand the internal workings of eachother.
+Defines a set of rules and protocols for how different parts of a system communicate with each other, ensuring that they can work together effectively without needing to understand the internal workings of each other.
 
 Interfaces expose only what is necessary for the interaction between systems.
 
@@ -18,6 +18,6 @@ Interfaces expose only what is necessary for the interaction between systems.
 
 **Decoupling**: Interfaces allow different components or systems to interact without being tightly coupled.
 
-**Standartization**: Interfaces provide a standardized way for components to communicate, ensuring that they can work together.
+**Standardization**: Interfaces provide a standardized way for components to communicate, ensuring that they can work together.
 
 **Interoperability**: Interfaces enable different systems, even if developed independently, to work together seamlessly.

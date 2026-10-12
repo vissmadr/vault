@@ -13,7 +13,7 @@ Compression of [[Source Code|code]] files by reducing file sizes without affecti
 ---
 
 - Comments are removed from the code.
-- Names are replaced with shorted ones.
+- Names are replaced with shorter ones.
 - Spaces, tabs, and newlines are removed.
 - Optimizes syntax by reducing redundant code.
 - Multiple files can be merged into one.

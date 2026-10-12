@@ -96,7 +96,7 @@ _Aesthetic: Small lights that orbit around you._
 
 Figure out what the Earth Cast is.
 
-- A (Detonate Stun): Offensive approach where wisps are detonated for a short AOE stun. This way you can use Wisps aggressively to extend a combo, or defensively to stun attackes while you escape.
+- A (Detonate Stun): Offensive approach where wisps are detonated for a short AOE stun. This way you can use Wisps aggressively to extend a combo, or defensively to stun attackers while you escape.
 - B (Detonate Heal): Defensive approach where wisps are detonated for an instant heal. This way you can save yourself from a clutch situation, but lose the passive regeneration of the wisp.
 - C (Place on Ground): Wisps are placed on the ground, where they remain giving bonuses to the caster, and act as traps/mines when touched by an enemy.
 

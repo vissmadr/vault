@@ -19,7 +19,7 @@ JavaScript has 7 [[Primitive Data Type|Primitive Data Types]]:
 - **BigInt**: Holds large integers of arbitrary size.
 - **Boolean**: Represents `true` or `false` values.
 - **Undefined**: Variables that are declared but not initialized.
-- **Null**: Signifies deliberate absense of any object value.
+- **Null**: Signifies deliberate absence of any object value.
 - **Symbol**: Represents unique, immutable identifiers.
 
 ## Object

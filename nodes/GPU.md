@@ -16,4 +16,4 @@ Specialized electronic circuit good at parallel computation.
 
 Initially designed for digital image processing and to accelerate computer graphics.
 
-After their initial design, GPUs were found to be useful for non-graphic calculaions, especially for parallel problems.
+After their initial design, GPUs were found to be useful for non-graphic calculations, especially for parallel problems.

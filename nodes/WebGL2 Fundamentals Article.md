@@ -41,7 +41,7 @@ There are 4 ways a shader can receive data:
 1. **Attributes, Buffers, and Vertex Arrays**:
    _Buffers_ are arrays of binary data you upload to the GPU. Buffers are not random access.
 
-   _Attributes_ are used to to specify how to pull data out of the buffers and provide it to the vertex shader.
+   _Attributes_ are used to specify how to pull data out of the buffers and provide it to the vertex shader.
 
    The state of attributes, which buffers to use for each one, and how to pull out data from those buffers is collected into a _vertex array object (VAO)_.
 

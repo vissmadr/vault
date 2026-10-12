@@ -24,7 +24,7 @@ In most circuits, the resistance of the wires is small enough that we can ignore
 
 A path with less resistance draws more current, so a bulb in this path will be brighter.
 
-When the circuits splits into two paths, so does the current, with more current taking the easier path.
+When the circuit splits into two paths, so does the current, with more current taking the easier path.
 
 The total current from a battery is not fixed. Circuits with less resistance receive more current.
 
@@ -66,7 +66,7 @@ The more resistance a route has, the less current flows through it.
 
 ---
 
-The current through a bulb can be found by dividing voltge by resistance.
+The current through a bulb can be found by dividing voltage by resistance.
 
 `Voltage / Resistance = Current`
 
@@ -90,7 +90,7 @@ Each component in a circuit branch adds to that branch's resistance and reduces 
 
 ---
 
-With `n` resistors, each of resistance `RΩ`, are connected in parallel branches, their combined resistance is `RΩ / n`.
+When `n` resistors, each of resistance `RΩ`, are connected in parallel branches, their combined resistance is `RΩ / n`.
 
 Parallel connection: `3Ω`, `3Ω`, and `3Ω`.
 

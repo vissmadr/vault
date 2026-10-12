@@ -5,7 +5,7 @@ context:
 
 # Dunning-Kruger Effect
 
-Cognitive bias about how people with limited competence in a particular domainan misjudge their abilities.
+Cognitive bias about how people with limited competence in a particular domain misjudge their abilities.
 
 ---
 

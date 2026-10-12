@@ -15,7 +15,7 @@ Foundation in [[Computer Science]] and problem-solving.
 
 ---
 
-Problems in computrer science and [[Software Engineering]] are solved using various [[Data Structure|Data Structures]] and [[Algorithm|Algorithms]].
+Problems in computer science and [[Software Engineering]] are solved using various [[Data Structure|Data Structures]] and [[Algorithm|Algorithms]].
 
 Data structures focus on storing and organizing data, while algorithms focus on the operations that can be performed on the data.
 

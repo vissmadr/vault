@@ -39,7 +39,7 @@ See [[C Scope]]
 
 - **Auto**: Explicitly declare automatic (stack-allocated) variables. Redundant (locals are `auto` by default) and almost never written explicitly.
 - **Register**: Hint to the compiler that a variable is going to be used heavily. Mostly ignored since advanced compilers usually optimize better than humans.
-- **Extern**: Decalre a variable or function defined in another file. Used for sharing globals across files. Functions are `extern` by default.
+- **Extern**: Declare a variable or function defined in another file. Used for sharing globals across files. Functions are `extern` by default.
 - **Static**: See [[C Static]]
 
 ## Read-only

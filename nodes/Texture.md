@@ -12,7 +12,7 @@ Digital image, or a set of data, that generally defines how surface details, suc
 
 ---
 
-**Mapping**: Textures are applied (mapped) to the surface of a shapes and polygons. The process is akin to wrapping a physical object in colored paper.
+**Mapping**: Textures are applied (mapped) to the surface of shapes and polygons. The process is akin to wrapping a physical object in colored paper.
 
 **Color Data**: Textures usually contain RGB(A) color data, encoded in different ways.
 

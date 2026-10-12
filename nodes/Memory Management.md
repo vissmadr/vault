@@ -15,7 +15,7 @@ Memory management involves:
 - **Allocation**: Assigning memory to processes when they request it.
 - **Deallocation**: Freeing memory when a process terminates or no longer needs it.
 - **Protection**: Prevents processes from accessing memory they do not own.
-- **Optimization**: Minimazing fragmentation and maximizing utilization.
+- **Optimization**: Minimizing fragmentation and maximizing utilization.
 
 ## Fragmentation
 

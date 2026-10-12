@@ -19,4 +19,4 @@ See [[Dual Coding Theory]]
 
 While proven to be true, the reason behind the effect is up for debate.
 
-**Evolution Theory**: An evolutionary explanation is that sight has a long history, stretching back millions of years and was crucial to survival in the past, wehereas reading & language are relatively recent inventions that require other congnitive processes, such as decoding symbols and linking them to meaning.
+**Evolution Theory**: An evolutionary explanation is that sight has a long history, stretching back millions of years and was crucial to survival in the past, whereas reading & language are relatively recent inventions that require other cognitive processes, such as decoding symbols and linking them to meaning.

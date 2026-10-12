@@ -20,4 +20,4 @@ Used for multimedia, [[Game Development]], and [[Prototyping]].
 
 **Properties**: Simple, elegant, lightweight, straightforward, performant, cross-platform, self-contained.
 
-**Language**: Written in [[C (Programming Language)|C]] with support for other languages aswell, such as [[C++]], [[Zig]], and more.
+**Language**: Written in [[C (Programming Language)|C]] with support for other languages as well, such as [[C++]], [[Zig]], and more.

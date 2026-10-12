@@ -70,7 +70,7 @@ _**String Literals and Unicode Code Point Literals**_
 
 String literals are constant single-item pointers to null-terminated byte arrays.
 
-Dereferencing string literals convertd them to arrays.
+Dereferencing string literals converts them to arrays.
 
 ### Escape Sequences
 

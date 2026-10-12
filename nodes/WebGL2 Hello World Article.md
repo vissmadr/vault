@@ -215,7 +215,7 @@ gl.vertexAttribPointer(
 );
 ```
 
-A hidden part of `gl.vertexAttribPointer` is that it binds the current `ARRAY_BUFFER` to the attribute. In other words now this attribute is bound to `positionBuffer`. That means we're free to bind something esle to the `ARRAY_BUFFER` bind point. The attribute will continue to use the `positionBuffer`.
+A hidden part of `gl.vertexAttribPointer` is that it binds the current `ARRAY_BUFFER` to the attribute. In other words now this attribute is bound to `positionBuffer`. That means we're free to bind something else to the `ARRAY_BUFFER` bind point. The attribute will continue to use the `positionBuffer`.
 
 Note that from the point of view of our GLSL vertex shader the `a_position` attribute is a `vec4` (Vector 4).
 
@@ -232,7 +232,7 @@ Before we draw we should resize the HTML canvas to match its display size. Canva
 > [!Tip]
 > You should always set the size of a [[Canvas Element (HTML)|canvas]] with [[CSS]] since it's far far more flexible than any other method.
 
-To make the number of pixels in the canvas match the size its displayed you can use a helper function:
+To make the number of pixels in the canvas match the size it's displayed you can use a helper function:
 
 ```ts
 function resizeCanvasToDisplaySize(
@@ -261,7 +261,7 @@ Let the CSS determine the size and then adjust to match:
 webGLUtils.resizeCanvasToDisplaySize(gl.canvas);
 ```
 
-We need to tell WebGL how to convert from the clip space values wel'll be setting `gl_Position` to back into pixels (aka. screen space).
+We need to tell WebGL how to convert from the clip space values we'll be setting `gl_Position` to back into pixels (aka. screen space).
 
 To do this we call `gl.viewport` and pass it the current size of the canvas:
 

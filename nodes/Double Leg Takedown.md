@@ -58,7 +58,7 @@ This will make it easier for the opponent to sprawl on you.
 Also, when finishing the double leg, if you look down you will often finish with your face on the mat, which is bad.
 
 When doing the double leg you should have good posture.
-Your head should be moving towards the oponnent's far leg.
+Your head should be moving towards the opponent's far leg.
 
 If the opponent moves back, you chase him down, standing up with the double leg grip and running him down.
 If you run forward, he can keep running backwards, and eventually sprawl your double leg.

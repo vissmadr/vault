@@ -29,7 +29,7 @@ They stay constant regardless of framerate.
 
 They do not scale with `deltaTime`.
 
-**`velocity`**: This is the actual current movement speed. Meaured in _units per second_.
+**`velocity`**: This is the actual current movement speed. Measured in _units per second_.
 
 **`maxVelocity`**: This is the maximum allowed speed. Measured in _units per second_.
 

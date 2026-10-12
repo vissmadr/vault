@@ -59,7 +59,7 @@ print("Or: {}\n", .{@reduce(.Or, vA)});
 
 Vectors generally support the same built-in operators as their underlying base types.
 
-- The exception to this are the keywords `and` and `or` on vectors of booleans, since these operators affect control flow, which is not allowed for vectors.
+- The exceptions to this are the keywords `and` and `or` on vectors of booleans, since these operators affect control flow, which is not allowed for vectors.
 
 All operations are performed element-wise, and return a vector of the same length as the input vectors.
 

@@ -166,7 +166,7 @@ Stormfury
 <!-- Chaos Theory -->
 <!-- Schism -->
 <!-- Mimic -->
-Unforseen Consequences
+Unforeseen Consequences
 Distortion
 Ruin
 Singularity

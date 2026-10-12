@@ -21,7 +21,7 @@ From any King & two Bishops vs King position, the idea is to push the enemy King
 
 ## Center Cone
 
-The goal is get the Bishops together in the center so that they form a 'cone', essentially trapping the enemy King in less than a quarter of the board.
+The goal is to get the Bishops together in the center so that they form a 'cone', essentially trapping the enemy King in less than a quarter of the board.
 
 ```chesser
 fen: 8/8/3k4/8/3BB3/8/4K3/8 w - - 0 1

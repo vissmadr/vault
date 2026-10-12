@@ -14,7 +14,7 @@ Functions in JavaScript.
 
 Input arguments to the function.
 
-- **Default Parameters**: Functions can have _default parameters_, alowing named parameters to be initialized with default values if no value or `undefined` is passed.
+- **Default Parameters**: Functions can have _default parameters_, allowing named parameters to be initialized with default values if no value or `undefined` is passed.
 - **Rest Parameters**: Functions can have an indefinite number of arguments as an array, providing a way to represent [[Variadic Function|variadic functions]].
 
 ## Arrow Function
@@ -50,7 +50,7 @@ Contains all the arguments passed to a function, allowing access to them by inde
 
 ## Scope
 
-Variabes declared within a function in JavaScript are accessible only inside that function.
+Variables declared within a function in JavaScript are accessible only inside that function.
 
 ## Lexical Scoping
 

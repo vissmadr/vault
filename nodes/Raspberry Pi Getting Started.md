@@ -95,7 +95,7 @@ There is also an Ethernet slot.
 
 ### Install an Operating System
 
-To use Raspberry Pi you need an operting system.
+To use Raspberry Pi you need an operating system.
 
 By default, Raspberry Pis check for an operating system on any SD card inserted in the SD card slot.
 

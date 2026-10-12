@@ -26,7 +26,7 @@ Prefer explicit code over implicit code.
 
 _Conventions and idioms matter more than originality._
 
-It's better to have a consistent way of doing things than having multiple different ways of doing thins, even if they seem better in theory.
+It's better to have a consistent way of doing things than having multiple different ways of doing things, even if they seem better in theory.
 
 _LLMs are trained on conventional code, not clever code._
 

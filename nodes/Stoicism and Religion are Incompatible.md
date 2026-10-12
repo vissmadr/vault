@@ -17,7 +17,7 @@ The truth-embracing nature of [[Stoicism]] is in direct conflict with religious 
 
 Stoicism is a philosophy rooted in wisdom, rationality, self-control, and the acceptance of reality as it is.
 
-Central to stoicism is the idea that we should align our will with the natural order of the universe, facing reality without delusion, which often involves accepting possibly uncomfortable truths about life, such as the inevitability of death, the impermancence of all things, and the limits of human control.
+Central to stoicism is the idea that we should align our will with the natural order of the universe, facing reality without delusion, which often involves accepting possibly uncomfortable truths about life, such as the inevitability of death, the impermanence of all things, and the limits of human control.
 
 Stoicism encourages _embracing the undiluted truth_, no matter how painful.
 
@@ -47,7 +47,7 @@ Attempting to combine them results in neither being fully realized.
 
 ## Contrast
 
-When chosing one or the other, consider the most highly contrasting factors.
+When choosing one or the other, consider the most highly contrasting factors.
 
 **Truth**: In Stoicism, the truth is paramount. To accept and embrace the truth, one must first seek it, fostering curiosity, science, and wisdom. In religion, certain premises are often considered unquestionable, which stands in opposition to curiosity and the scientific method.
 

@@ -32,7 +32,7 @@ Continue to offense from there.
 Opponents will often try to deny the ghost escape by dropping to a hip and putting more pressure on the arm below, preventing you from going underneath.
 Nonetheless, continue the ghost escape until you make an angle, aiming to be almost parallel to your opponent.
 The arm below the opponent grabs his lats, or anything on the back that you can get a good hold of.
-While leaning on the side, your opponent is vulenrable to falling towards his back, and he doesn't have anything to post on.
+While leaning on the side, your opponent is vulnerable to falling towards his back, and he doesn't have anything to post on.
 Run the ghost, and when he drops to a hip, you grab his back and pull him for a (sometimes effortless) sweep.
 
 When you grab the lat and try to sweep him towards his back, he can resist and try to pull himself back on top again.
@@ -40,17 +40,17 @@ You can go all-in on the sweep, letting go of your overhook and using your arm t
 This push may help to secure the sweep.
 While pushing with the breadcutter, you can also manage to get your leg in front of his face, too.
 This will almost guarantee the sweep, and with the leg on top of his head, you have a direct scissor choke attack after the sweep lands.
-Remembber that letting go of the overhook compromises your position, like an all-in, and you should do it only when you're confident it will secure the sweep.
+Remember that letting go of the overhook compromises your position, like an all-in, and you should do it only when you're confident it will secure the sweep.
 
 One of the core mechanics of the ghost escape system is to oscillate between the two directions.
 You run left, and when he puts weight there, you reverse towards the right; he goes back to the right, you continue to the left, and so on.
-Repeat this pattern untill you get out one way or the other.
+Repeat this pattern until you get out one way or the other.
 It may take one, two, three, or more attempts.
 Continue running the system until you escape.
 
 You may lose contact with the opponent at any point of the sequence.
 He may try to force a scramble, try to posture up, to put a frame on your neck, etc.
-When that happens justt ry to get out of there and scramble, re-guard, turtle, or get up.
+When that happens just try to get out of there and scramble, re-guard, turtle, or get up.
 Remember that you started from bottom side control, so any reset is a positional improvement.
 
 The opponent may try to lift you up, from which you should be able to keep chest-to-chest contact if your overhook is tight and you bridge.

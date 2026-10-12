@@ -33,7 +33,7 @@ the `9` there means "process 9 vertices".
 2. The [[GLSL]] [[Vertex Shader]] gets called once for each vertex, setting the `gl_Position` value for the current vertex.
 3. The GPU takes that value and stores it internally.
 
-Assument you're drawing `TRIANGLES`, every time this generates 3 vertices the GPU uses them to rasterize (draw with pixels) a triangle.
+Assuming you're drawing `TRIANGLES`, every time this generates 3 vertices the GPU uses them to rasterize (draw with pixels) a triangle.
 
 For each pixel it will call the [[Fragment Shader]], deciding what color to make that pixel.
 

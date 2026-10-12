@@ -35,7 +35,7 @@ Also, its helpful to think about other systems and their potential downsides:
   it in one of two slots to be used later. Removing that, invoking AND casting Meteor
   could be simplified to `E W E R`. Technically, we can simplify further and remove the
   Invoke button (`R`) itself, which leaves us with `E W E`. That's still 3 presses for
-  a single spell. To reduce the button count even further, lets think about whether the
+  a single spell. To reduce the button count even further, let's think about whether the
   order of button presses matter. Meteor can be cast with `E W E`, but also `E E W` and
   `W E E`. The order does not matter, it just needs "2 orbs of E and 1 orb of W" to cast.
   With 3 unordered orbs, that allows for `10` different spells. We can make it so that
@@ -66,7 +66,7 @@ Bruh. Someone actually did it.
 
 Multiple roads to the top of (THE SAME) mountain.
 
-When designing good systems, we may end up in the same place, unaware of eachother.
+When designing good systems, we may end up in the same place, unaware of each other.
 
 #wip
 

@@ -21,4 +21,4 @@ Provides common services for [[Computer Program|computer programs]].
 
 **Device Management**: Interfaces with hardware and peripherals.
 
-**User Inteface**: Provides a way for users to interact with the system.
+**User Interface**: Provides a way for users to interact with the system.

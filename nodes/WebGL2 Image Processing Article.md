@@ -60,7 +60,7 @@ void main() {
 }
 ```
 
-Then we need to load an image, create a terxture and copy the image into the texture. Use async to wait for the image to load:
+Then we need to load an image, create a texture and copy the image into the texture. Use async to wait for the image to load:
 
 ```ts
 function main() {

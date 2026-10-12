@@ -30,7 +30,7 @@ Adam Wardzinski: Butterfly Guard Encyclopedia NoGi
 People often forget about handfighting in general, but it is very important.
 
 **Hands Out**: Hands out to gripfight, protecting the legs.
-. Without the hands, the legs are vulenrable to access.
+. Without the hands, the legs are vulnerable to access.
 
 **Climbing Control**: Good control usually happens progressively step-by-step.
 . Go from one control to another, progressing the chain.

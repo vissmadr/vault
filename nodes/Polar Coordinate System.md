@@ -22,7 +22,7 @@ aliases: basically an infinite amount of coordinates can describe the same point
 
 - Any coordinate that works is okay, but only one is the preferred one to use.
 
-Polar coordinates direcly map to the "direction and magnitude" [[Vector]] interpretation.
+Polar coordinates directly map to the "direction and magnitude" [[Vector]] interpretation.
 
 ## 3D Polar Space
 

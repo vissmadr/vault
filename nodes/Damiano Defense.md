@@ -21,4 +21,4 @@ This leads to loss of material for black, or even a [[Checkmate]].
 fen: rnbqkbnr/pppp2pp/5p2/4N3/4P3/8/PPPP1PPP/RNBQKB1R b KQkq - 0 3
 ```
 
-The Knight opens the light diagonal for the Queen, which can check the King and and win from there.
+The Knight opens the light diagonal for the Queen, which can check the King and win from there.

@@ -9,6 +9,6 @@ Interpreted and very high-level [[Programming Language]] designed for task autom
 
 ---
 
-**Embedded**: Frequently integraded as extensions into larger systems.
+**Embedded**: Frequently integrated as extensions into larger systems.
 
 **Interpreted**: Scripting languages are generally interpreted rather than compiled.

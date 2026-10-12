@@ -26,7 +26,7 @@ The Anaconda is a control and a choking attack in grappling.
 . You can take his elbow across to the other side before you do the roll.
 
 **Left-Right Olympic Roll**: When about to do the Olympic Roll and the opponent posts on their hand, and it's hard to get his elbow closer to the centerline.
-. You can to to the direction of his elbow, and then on the way back do the roll.
+. You can go in the direction of his elbow, and then on the way back do the roll.
 
 **Reverse Olympic Roll**: From the same front-headlock short-anaconda grip, the idea is to roll the guy the other way.
 . It's usually the "wrong" way because he has a hand there that he can post on.
@@ -48,7 +48,7 @@ The Anaconda is a control and a choking attack in grappling.
 **T-position Leg-to-Elbow Hook**: When the opponent connects his hands and tries to open up his elbow, you put your leg on top of his elbow to close it again.
 . After you close his elbow and tighten the grip, don't worry about it slipping away from your leg. No need to do this a second time. Just walk and finish.
 
-**T-position Leg-to-Leg Hook**: Sometimes we can catch one of the legs of the opponent. If we catch their leg, pull it back with out leg hook, and lock our ankles together.
+**T-position Leg-to-Leg Hook**: Sometimes we can catch one of the legs of the opponent. If we catch their leg, pull it back with our leg hook, and lock our ankles together.
 
 **Finishing Requirements**: The two most important Anaconda choke requirements are:
 - Bending their head into an unnatural position, compressing it to their chest.
@@ -83,7 +83,7 @@ The Anaconda is a control and a choking attack in grappling.
 **Standing Anaconda Trip**: Lock the Anaconda, the opponent stands up, stand up with him, step to an angle in the direction of your support arm, step in front of his far leg while falling down for the trip, finish in T-position Anaconda.
 
 **Inverted North-south Anaconda**: From an inverted North-south with an Anaconda, squeeze the grip to prevent opponent from moving easily. Bridge while controlling.
-. To get to the T-position Anaconda with a trap, don't go directly leg-to-elbow, but instead go both legs up, as if towards mount, and then scissor them and whole body falls down towards the elow, still with the leg on top. This detail creates a better angle, pushing the opponent onto his shoulder more, rather than him flat on his back.
+. To get to the T-position Anaconda with a trap, don't go directly leg-to-elbow, but instead go both legs up, as if towards mount, and then scissor them and whole body falls down towards the elbow, still with the leg on top. This detail creates a better angle, pushing the opponent onto his shoulder more, rather than him flat on his back.
 
 ## John Danaher Instructional
 

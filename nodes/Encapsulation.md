@@ -12,4 +12,4 @@ Also refers to the limiting of direct access to some of that data.
 
 ---
 
-Esentially, encapsulation prevents external code from being concerned with the internal workings of an object.
+Essentially, encapsulation prevents external code from being concerned with the internal workings of an object.

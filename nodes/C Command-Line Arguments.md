@@ -18,7 +18,7 @@ When `main()` is called, it is called with two arguments:
 
 The default `argc` count is at least `1` - where `argv[0]` is the program name.
 
-Arguments are always strings. Manually to numbers if needed.
+Arguments are always strings. Manually convert to numbers if needed.
 
 ## Printing Arguments
 

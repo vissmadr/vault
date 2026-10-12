@@ -52,12 +52,12 @@ Polygons are primarily classified by the number of sides.
 - Divides the plane in exactly two regions: one inside and one outside.
 - The sides only meet at vertices. The boundary never crosses itself.
 
-**Convex**: Simple polygon with no identations.
+**Convex**: Simple polygon with no indentations.
 
 - For any two points inside the polygon, the line connecting them also lies completely inside the polygon.
 - All interior angles are less than or equal to `180°`.
 
-**Concave**: Simple polygon that has at least one identation.
+**Concave**: Simple polygon that has at least one indentation.
 
 - There is at least one pair of points inside the polygon where the line segment connecting them passes outside of polygon.
 - At least one interior angle is greater than `180°`.

@@ -7,7 +7,7 @@ context:
 
 # Modular Design
 
-Breaking a system into disctinct, independent components (modules) that together form a cohesive whole.
+Breaking a system into distinct, independent components (modules) that together form a cohesive whole.
 
 ---
 

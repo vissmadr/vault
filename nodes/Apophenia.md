@@ -9,7 +9,7 @@ context:
 
 (Illusory Correlation)
 
-Tendency to percieve meaningful connections or patterns between unrelated things.
+Tendency to perceive meaningful connections or patterns between unrelated things.
 
 ---
 

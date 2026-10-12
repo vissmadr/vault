@@ -18,7 +18,7 @@ Useful when [[Learning]] things and creating networks of [[Mind Map|Mind Maps]].
 Each note should contain only one idea, concept, or piece of information.
 
 **Conciseness**:
-The note should be brief and to the point, avoiding unecessary details.
+The note should be brief and to the point, avoiding unnecessary details.
 
 **Autonomous**:
 The note should be understandable on its own without needing additional context.

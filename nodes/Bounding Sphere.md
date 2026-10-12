@@ -17,4 +17,4 @@ Bounding spheres are often used because of their simplicity.
 
 An advantage of the bounding sphere is that it doesn't care about orientation.
 
-Another advantege is that intersections with a sphere are easy to calculate.
+Another advantage is that intersections with a sphere are easy to calculate.

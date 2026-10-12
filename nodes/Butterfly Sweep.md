@@ -57,7 +57,7 @@ Forced mechanics:
 
 **Hopping Chase**: When in need of more leverage, you can use the drive leg to continue hopping after a lift.
 
-**Head Position**: Prefered to have the opponent's head towards the falling side.
+**Head Position**: Preferred to have the opponent's head towards the falling side.
 . Traditional SumiGaeshi has the head on the other side (over-under chest-to-chest tie), but that's probably worse.
 
 **Three Points of Base**: Drive leg, shoulder, and head.
@@ -83,7 +83,7 @@ Common far arm positions:
 **Drive Leg Scissor Finish**: Optional, when the opponent is already elevated but still resisting.
 Your drive leg can go to step on the outside of his posted leg, sticky around the knee.
 Pull with the drive leg, while the elevating leg pushes, for a scissor motion finish.
-. Keep in mind that the drive leg elevation is still the main and prefered option.
+. Keep in mind that the drive leg elevation is still the main and preferred option.
 
 ## Landing
 

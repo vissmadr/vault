@@ -116,7 +116,7 @@ _Manipulation mode where input keys are used as actions._
 `Ctrl r`: Redo.
 
 `gu`: Lowercase (pending).
-`gU`: Upercase (pending).
+`gU`: Uppercase (pending).
 `g~`: Toggle case (pending).
 `Shift ~`: Toggle case under cursor.
 
@@ -144,7 +144,7 @@ _Search for patterns in the current file._
 
 _Save marks to registers to jump to them later._
 
-**Register Case**: Lowercase register are local marks. Uppercase registers are global marks.
+**Register Case**: Lowercase registers are local marks. Uppercase registers are global marks.
 
 `m<register>`: Set mark to register.
 
@@ -293,7 +293,7 @@ _Default writing mode._
 
 _Reusable storage locations indexed by letters._
 
-`"<register><action>`: Performns an action with a register.
+`"<register><action>`: Performs an action with a register.
 
 - Example: `"wyy` will copy to the `w` register. `"wp` will paste from the `w` register.
 

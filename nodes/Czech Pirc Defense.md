@@ -28,7 +28,7 @@ The general strategy is to:
 
 ### Queen Line
 
-The Queen can be develiped on `a5`, often pinning the `c3` Knight to the King.
+The Queen can be developed on `a5`, often pinning the `c3` Knight to the King.
 
 ```chesser
 fen: rnb1kb1r/pp2pppp/2pp1n2/q7/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 1

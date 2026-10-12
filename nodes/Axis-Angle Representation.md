@@ -26,7 +26,7 @@ See [[Euler Rotation Theorem]]
 
 Advantages:
 
-**Meaningful**: Axis and angle have clear physical interpretations..
+**Meaningful**: Axis and angle have clear physical interpretations.
 
 **Minimal**: Uses exactly 3 degrees of freedom (compact storage).
 

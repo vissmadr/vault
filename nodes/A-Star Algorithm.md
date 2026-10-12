@@ -28,7 +28,7 @@ Where `n` is the next node on the path, `G(n)` is the cost of the path from the 
 
 ## Bounded Relaxation
 
-While the admissability of A\* can guarantee an optimal solution, it also means that it might have to examine a lot of nodes.
+While the admissibility of A\* can guarantee an optimal solution, it also means that it might have to examine a lot of nodes.
 
 It is possible to 'relax' the admissibility, speeding up the search process at the expense of optimality.
 

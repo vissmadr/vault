@@ -73,7 +73,7 @@ struct Point a = {5, 3};
 struct Point *pa = &a;
 ```
 
-Access through pointers can be done by dereferencing (`*`) and the dot (`.`) orperator:
+Access through pointers can be done by dereferencing (`*`) and the dot (`.`) operator:
 
 ```c
 printf("x: %d\n", (*pa).x);

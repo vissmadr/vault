@@ -12,7 +12,7 @@ The possibility of immediately playing the game without prerequisites and setup.
 If possible, it is nice to be able to just quickly play the game.
 
 - Maybe the player doesn't have much time?
-- Maybe they want to just get a qucik round in?
+- Maybe they want to just get a quick round in?
 - Maybe they want to demonstrate to someone else?
 - Maybe they want to quickly test something?
 

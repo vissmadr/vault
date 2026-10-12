@@ -120,7 +120,7 @@ P (in Chaos): Special
 
 - The most basic thing is to re-activate any (if any) mode activation effects, but I think this is dumb.
 - Make something cool out of activating the same mode multiple times.
-- One idea is to 'hard commit' to the mode, which locks the mode change button and puts you in a dark-aggressive version of the mode itself for a duration. But idk about that, plus it kiiinda fucks with the consistency a bit (for a price), plus it kidna forces the player to double-spam the same modes.
+- One idea is to 'hard commit' to the mode, which locks the mode change button and puts you in a dark-aggressive version of the mode itself for a duration. But idk about that, plus it kiiinda fucks with the consistency a bit (for a price), plus it kinda forces the player to double-spam the same modes.
 
 ## Synergies
 

@@ -22,7 +22,7 @@ Abstract turn-based strategy board game.
 
 ## Board
 
-The game is played on a checkered board with 64 squares, arranged in a 8x8 square.
+The game is played on a checkered board with 64 squares, arranged in an 8x8 square.
 
 **File**: The vertical columns, labeled alphabetically from `a` to `h`.
 

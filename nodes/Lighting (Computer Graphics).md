@@ -23,7 +23,7 @@ PBR (Physically-Based Rendering)
 
 ## Light Sources
 
-- **Point Light**: Eminates from a single point outward in all directions.
+- **Point Light**: Emanates from a single point outward in all directions.
 - Directional Light
 - Spot Light
 

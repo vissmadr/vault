@@ -87,13 +87,13 @@ However, adding a 3rd cell to the equation sometimes fucks it up.
 
 **Duplication**: When two cells both want to become the third.
 
-**Dissapearing**: When two cells both dissapear due to 'falling' on the third.
+**Disappearing**: When two cells both disappear due to 'falling' on the third.
 
 And probably many more problems.
 
 ## Recursive Neighbor Scan
 
-An idea to avoid the abovemeantioned problems is to get the cell, the targeted neighbor for any interaction logic, and then get the neighbor's neighbors.
+An idea to avoid the above-mentioned problems is to get the cell, the targeted neighbor for any interaction logic, and then get the neighbor's neighbors.
 
 Without even trying it I feel like this will become an extreme bottleneck due to its recursive nature. Also I'm not even sure that it will fix all of the problems it's supposed to fix.
 
@@ -129,7 +129,7 @@ He also said that by adding the concept of density, the problem can then be view
 
 ## Layering
 
-What if we split the interactions into diferent updates groups? Something like:
+What if we split the interactions into different updates groups? Something like:
 
 1. Empty : Gasses
 2. Empty : Liquids
@@ -148,7 +148,7 @@ The obvious drawback in terms of performance is that there are more update cycle
 
 I want the system to be perfect!
 
-Most falling sand solutions that I've seen include imperfections by design. Things like cell duplication, cell dissapearing, undeterministic order due to race conditions, etc. Most of the time this is irrelevant, as you wont notice a few missing or duplicated pixels out of a thousand.
+Most falling sand solutions that I've seen include imperfections by design. Things like cell duplication, cell disappearing, undeterministic order due to race conditions, etc. Most of the time this is irrelevant, as you won't notice a few missing or duplicated pixels out of a thousand.
 
 But I'll know.
 
@@ -234,7 +234,7 @@ What do I do with the 'other' cell?
 
 ## Other Type Element Solution
 
-What if I add another element type called _'other'_, and treat any elements that are not a part of the current layer's elemnt pair as _'other'_?
+What if I add another element type called _'other'_, and treat any elements that are not a part of the current layer's element pair as _'other'_?
 
 This way, I'll have a preset that can handle _other_ elements in a layer.
 

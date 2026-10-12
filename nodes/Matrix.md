@@ -21,7 +21,7 @@ Rectangular grid of numbers arranged into rows and columns.
 
 **Size**: The size of a matrix is defined by how many rows and columns it contains.
 
-**Notation**: It is said that a matrix with `r` rows and `c` colums is a `r × c` matrix. The notation `m₁₂` denotes the element at row `1` and column `2`.
+**Notation**: It is said that a matrix with `r` rows and `c` columns is a `r × c` matrix. The notation `m₁₂` denotes the element at row `1` and column `2`.
 
 **Dimension**: The _dimension_ of a matrix is given by the number of rows times the number of columns.
 

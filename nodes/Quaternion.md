@@ -21,7 +21,7 @@ Quaternion multiplication can be used to concatenate multiple rotations.
 
 Uses four numbers to express orientation.
 
-Detaile understanding of quaternions is not needed to use them, but one needs to understand what quaternions can do.
+Detailed understanding of quaternions is not needed to use them, but one needs to understand what quaternions can do.
 
 Contains a scalar component and a vector component. Closely related to the [[Axis-Angle Representation]] form.
 
@@ -51,7 +51,7 @@ Algebraically, only the `[1 0]` is an identity quaternion.
 
 The magnitude of `[w (x y z)]` is `√(w² + x² + y² + z²)`.
 
-All quaternions that represent angular displacements are unit quaternions with magnutude equal to `1`.
+All quaternions that represent angular displacements are unit quaternions with magnitude equal to `1`.
 
 ## Conjugate
 

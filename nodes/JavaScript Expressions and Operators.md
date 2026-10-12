@@ -63,7 +63,7 @@ Compares operands and returns a logical (boolean) value.
 
 ## Arithmetic Operators
 
-An arithmetic operator takes numeral values (either literals or variables) as their operans and returns a single numerical value.
+An arithmetic operator takes numeral values (either literals or variables) as their operands and returns a single numerical value.
 
 | Operator                       | Description                                                                                                                                                                                                                  | Example                                                                                                               |
 | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |

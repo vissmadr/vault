@@ -13,7 +13,7 @@ Design ideas related to gameplay.
 
 **Reward Beautiful Gameplay**: One of the main goals is to [[Reward Beautiful Gameplay]] in a way that makes cheesy gameplay undesirable.
 
-**Flow State**: One of the most difficult yet rewarding gameplay design goals is to enable the player achieve flow state in game.
+**Flow State**: One of the most difficult yet rewarding gameplay design goals is to enable the player to achieve flow state in game.
 
 **Challenge**: The player should be on the edge of challenge, where the game is difficult by default, but not unplayable.
 

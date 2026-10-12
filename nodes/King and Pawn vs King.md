@@ -13,7 +13,7 @@ The idea is to use the King to escort the Pawn promotion, winning by a [[King an
 
 **Opposition**: See [[Opposition (Chess)]]
 
-**Key Squares**: Refers to the 3 perpendicular squares that are one square infront of your Pawn.
+**Key Squares**: Refers to the 3 perpendicular squares that are one square in front of your Pawn.
 
 The strategy is to have your King on the _key squares_, causing _opposition_ with the enemy King. Whenever the enemy King breaks the opposition, go to the side and create a safe path for the Pawn.
 

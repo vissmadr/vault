@@ -74,4 +74,4 @@ Feedback from players is also recorded.
 
 Minimalist game design.
 
-Remove frustrations from the player. For example automatically respawn and repair buildings, and don't add unecessary mechanics.
+Remove frustrations from the player. For example automatically respawn and repair buildings, and don't add unnecessary mechanics.

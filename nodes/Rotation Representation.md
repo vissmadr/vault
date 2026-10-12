@@ -18,7 +18,7 @@ See [[Rotation Matrix]]
 Represents rotation by standard matrix transformation.
 
 **Pros**: Simple composition, direct application to [[Vector|Vectors]].
-**Cons**: Over-parametarized, numerical drift, inefficient for [[Interpolation]].
+**Cons**: Over-parameterized, numerical drift, inefficient for [[Interpolation]].
 
 ## Euler Angles
 

@@ -19,7 +19,7 @@ Instead of trying to painfully smash the achilles, we try to break the ankle.
 Elbow deep grip.
 
 Achilles grip is good because it's easy to get and control. But it sucks for breaking. Transition from achilles to half foot grip for the break.
-Oldschool grip for control, half-foot grip for breking.
+Oldschool grip for control, half-foot grip for breaking.
 
 The ability to transition from the oldschool grip to the half-foot grip quickly is one of the most important ankle lock skills in realistic combat.
 
@@ -46,7 +46,7 @@ Squeeze with the legs!
 
 Failure comes from daylight.
 Failure comes from elbow away from center.
-Failure come from opponent foot too deep.
+Failure comes from opponent foot too deep.
 Failure comes from opponent foot slip.
 
 Oldschool Irimi is easy to escape from.
@@ -63,10 +63,10 @@ When reaping, you can lock the triangle.
 
 Bellydown offers extreme breaking pressure.
 Even imperfect grips can break from bellydown.
-The ground stops the opponents leg when you crash down on it.
+The ground stops the opponent's leg when you crash down on it.
 Get bellydown and sprawl.
 When we go with one-handed grip, we can post with the other hand and lift our head up as we arch into a sprawl.
-When we go with two-handed grip, we can post on our forehead and sprawn down.
+When we go with two-handed grip, we can post on our forehead and sprawl down.
 
 Short-lock can be really strong for adding more breaking pressure and control time.
 Attacking the outside, get a butterfly hook with the outside leg, start turning, and go over his leg and below his knee with the inside leg.

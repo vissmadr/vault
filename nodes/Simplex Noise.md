@@ -41,7 +41,7 @@ Normally, every point would be inside a square cell that has 4 vertices. But the
 
 Create a permutation table of pseudorandom numbers used to choose a gradient based on input.
 
-Having a consistent way of choosing gradients ensures that similiar numbers will choose similiar gradients, producing the continuous output effect.
+Having a consistent way of choosing gradients ensures that similar numbers will choose similar gradients, producing the continuous output effect.
 
 > [!TIP]
 > Tested that having the permutation table from 0-255 in order just gives symmetry.

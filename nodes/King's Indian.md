@@ -47,7 +47,7 @@ The center, especially after pushing the `e` pawn, can either be opened or close
 
 ## Scenarios
 
-**Avoiding Bishop Trade**: If there's an enemy Bishop with Queen support attacking your Fianchetto Bishop, and your Rook is already moved out of the way, you can just retreat your Bishop. Perserving the Fianchetto Bishop can be good idea.
+**Avoiding Bishop Trade**: If there's an enemy Bishop with Queen support attacking your Fianchetto Bishop, and your Rook is already moved out of the way, you can just retreat your Bishop. Preserving the Fianchetto Bishop can be good idea.
 
 ```chesser
 fen: r3kbnr/pppq1ppp/2n5/3pp3/8/3P1NPb/PPP1PP1P/RNBQR1KB w Qkq - 0 1

@@ -13,7 +13,7 @@ context:
 
 # On Purpose
 
-My thoughs about purpose, [[Ikigai]], and meaning in life.
+My thoughts about purpose, [[Ikigai]], and meaning in life.
 
 ---
 
@@ -36,7 +36,7 @@ Besides, what if you have a single purpose/goal in life and you manage to comple
 Would that mean that you have achieved everything that you were meant to achieve?
 Who's the arbiter of that?
 
-And whata if you fail? Does it mean that your whole life will be a failure if you don't achieve that one goal?
+And what if you fail? Does it mean that your whole life will be a failure if you don't achieve that one goal?
 Again, who's to say?
 
 In any case, both win or lose, finding another purpose, or many more, is probably the right thing to do.

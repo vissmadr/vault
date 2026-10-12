@@ -44,7 +44,7 @@ _If you don't understand the cost of solving the problem, you don't understand t
 
 _If you don't understand the hardware, you can't reason about the cost of solving the problem._
 
-_Everything is a data problem. Including usability, mainteance, debug-ability, etc. Everything._
+_Everything is a data problem. Including usability, maintenance, debug-ability, etc. Everything._
 
 _Solving problems you probably don't have creates more problems you definitely do._
 

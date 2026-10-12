@@ -45,7 +45,7 @@ Edge pixels are visualized by mixing the original pixel color with an edge highl
 The pixel is considered an edge if the difference in depth between it and its neighbors passes a certain threshold.
 
 **Inner Highlights**: Visualizes differences in surface normal direction, where each pixel is compared against its surrounding neighbors.
-Surface normal vector angles are compared by dot product. The dot product tells us about their alignment relative to eachother.
+Surface normal vector angles are compared by dot product. The dot product tells us about their alignment relative to each other.
 This alignment is then checked against a threshold to determine if the pixel qualifies as an edge or not.
 
 #wip **Bonus**: To elevate this even further, we can use the attenuation of the light shader to lighten or darken edges based on their lighting information.

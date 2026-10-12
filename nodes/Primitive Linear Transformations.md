@@ -25,7 +25,7 @@ Transformation that scales space along specific axes by [[Scalar]] factors.
 
 - Preserves the origin.
 - Determinant equals the product of the scale factors.
-- Invertible as long a no scale factor is zero.
+- Invertible as long as no scale factor is zero.
 
 _**Uniform Scale**_: The entire space is scaled uniformly, thus preserving angles and proportions.
 

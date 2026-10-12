@@ -45,7 +45,7 @@ States:
 
 Methods:
 
-- **`.then()`**: Handles fullfillment.
+- **`.then()`**: Handles fulfillment.
 - **`catch()`**: Handles rejection.
 - **`.finally()`**: Executes after resolution or rejection.
 

@@ -8,7 +8,7 @@ context:
 
 # Gambler's Fallacy
 
-Incorrect assumption that if an event (whose occurrences are independent from eachother) has occurred less frequently than expected, it is more likely to happen again in the future, or vice versa.
+Incorrect assumption that if an event (whose occurrences are independent from each other) has occurred less frequently than expected, it is more likely to happen again in the future, or vice versa.
 
 ---
 

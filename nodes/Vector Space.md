@@ -31,7 +31,7 @@ For any vectors `u`, `v`, `w` in the space, and any scalars `a`, `b`, the follow
 - **Associativity of Addition**: For any `u`, `v`, and `w`, `(u + v) + w = u + (v + w)`.
 - **Additive Identity**: For any `v`, there exists a zero vector `0` such that `v + 0 = v`.
 - **Additive Inverse**: For any `v`, there exists a vector `-v` such that `v + (-v) = 0`.
-- **Multiplicative Identity**: For any `x`, there exist a scalar such that `1x = x`.
+- **Multiplicative Identity**: For any `x`, there exists a scalar such that `1x = x`.
 - **Associativity of Scalar Multiplication**: For any `x`, and for any scalars `a` and `b`, `(ab)x = a(bx)`.
 - **Distribution of Elements to Scalars**: For any `x` and `y`, and any scalar `a`, `a(x + y) = ax + ay`.
 - **Distribution of Scalars to Elements**: For any `x`, and any scalars `a` and `b`, `(a + b)x = ax + bx`.

@@ -7,7 +7,7 @@ context:
 
 # Pixel
 
-The smallest addressible element in a digital image.
+The smallest addressable element in a digital image.
 
 ---
 

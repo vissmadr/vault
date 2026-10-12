@@ -15,7 +15,7 @@ Think about the whole user experience as a step-by-step path or lifecycle beginn
 
 Put yourself in the user perspective and be curious.
 
-_User are made aware of product._
+_Users are made aware of product._
 
 - How were they made aware of it?
 - How did it catch their attention?

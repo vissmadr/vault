@@ -21,7 +21,7 @@ Theory and concepts about pawns in chess.
 
 **Passed Pawn**: [[Passed Pawn]]
 
-**Protected Passed Pawn**: A passed pawn that is defende by another pawn.
+**Protected Passed Pawn**: A passed pawn that is defended by another pawn.
 
 **Pawn Break**: Move that challenges the opponent's pawn structure.
 

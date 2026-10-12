@@ -25,7 +25,7 @@ The player that has the opposition can force the other player out of important s
 
 ## Types
 
-**Direct Opposition**: When the Kigns are on the same rank or file and are separated by one square. The term 'opposition' normally refers to direct opposition.
+**Direct Opposition**: When the Kings are on the same rank or file and are separated by one square. The term 'opposition' normally refers to direct opposition.
 
 **Distant Opposition**: When the Kings are separated by more than one square on the same rank or file. Same rules apply with an **odd** number of squares between them.
 

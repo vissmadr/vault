@@ -5,7 +5,7 @@ context:
 
 # C Static
 
-Keyword for controlling persistance and encapsulation.
+Keyword for controlling persistence and encapsulation.
 
 ---
 

@@ -43,7 +43,7 @@ Remove function calls from iterations.
 
 Hoist invariants out of loops.
 
-Store arrays of data instead of arrays of poitners to data.
+Store arrays of data instead of arrays of pointers to data.
 
 Struct fields should be ordered from largest to smallest.
 

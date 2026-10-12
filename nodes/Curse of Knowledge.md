@@ -17,6 +17,6 @@ Leads to ineffective communication and explanation.
 
 Experts can forget about the challenges of the initial learning process.
 
-Experts can assume others posess understanding of fundamental concepts, which may not be the case.
+Experts can assume others possess understanding of fundamental concepts, which may not be the case.
 
 **Impostor Syndrome**: The curse of knowledge can lead to [[Impostor Syndrome]], as the person might assume that his deep knowledge is actually common sense, thus neglecting his relative expertise and accomplishments.

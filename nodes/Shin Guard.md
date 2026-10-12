@@ -24,7 +24,7 @@ Lachlan Giles: various YouTube videos
 
 ## Setup
 
-Whichever of the opponents legs is in front, aim for that leg.
+Whichever of the opponent's legs is in front, aim for that leg.
 
 Shin connection is foot inside, knee outside.
 Grab deep with the arm and have your head tight to his leg.

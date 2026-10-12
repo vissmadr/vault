@@ -23,7 +23,7 @@ Visually, this is the length between the points on the [[Number Line]].
 
 For two or more dimensions, a point is a position [[Vector|Vectors]] on a [[Cartesian Coordinate System]].
 
-**Intuition**: In 2D, the take horizontal difference `a.x - b.x` and the vertical difference `a.y - b.y`. Those differences are the sides of an imaginary right triangle. The hypotenuse of this triangle is the line segment connecting the points, and therefore the distance between them.
+**Intuition**: In 2D, take the horizontal difference `a.x - b.x` and the vertical difference `a.y - b.y`. Those differences are the sides of an imaginary right triangle. The hypotenuse of this triangle is the line segment connecting the points, and therefore the distance between them.
 
 - This extends to higher dimensions.
 

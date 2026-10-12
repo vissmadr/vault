@@ -9,7 +9,7 @@ context:
 
 (Argument to Moderation)
 
-Logical fallacy asuuming that the truth is always in the middle between two opposites.
+Logical fallacy assuming that the truth is always in the middle between two opposites.
 
 ---
 
@@ -27,4 +27,4 @@ Leads to [[Middle Ground Bias]].
 
 **Argument (True)**: _"Person A is entirely responsible."_
 **Argument (False)**: _"Person B is entirely responsible."_
-**Moderation (False)**: _"Therefore, both of them must be equaly responsible."_
+**Moderation (False)**: _"Therefore, both of them must be equally responsible."_

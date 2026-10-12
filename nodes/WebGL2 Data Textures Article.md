@@ -179,7 +179,7 @@ Here's a table showing which format and type you must supply data for a given in
 | ALPHA                                   | ALPHA           | UNSIGNED_BYTE                  | 1                      |
 
 **Example**:
-Lets create a 3x2 pixel `R8` texture. Because it's an `R8` texture there is only 1 value per pixel in the red channel.
+Let's create a 3x2 pixel `R8` texture. Because it's an `R8` texture there is only 1 value per pixel in the red channel.
 
 ```js
 // Create a texture.
@@ -231,5 +231,5 @@ gl.pixelStorei(gl.UNPACK_ALIGNMENT, alignment);
 Valid alignment values are `1`, `2`, `4`, and `8`.
 
 > [!Tip] Default Alignment to 1
-> The default WebGL alignment is 4 bytes in order to stay compatible with OpenGL. That way if a ported app supplie padded rows it will work unchanged.
+> The default WebGL alignment is 4 bytes in order to stay compatible with OpenGL. That way if a ported app supplies padded rows it will work unchanged.
 > However, in a new app you can just always set it to 1 and be done with it.

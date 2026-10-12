@@ -15,7 +15,7 @@ context:
 
 ---
 
-**Geometry**: [[Transformation]] that changes space while perserving linear proportions.
+**Geometry**: [[Transformation]] that changes space while preserving linear proportions.
 
 **Function**: Takes a [[Vector]] as input, and returns a vector as output, while respecting the underlying core structure of the vector space.
 
@@ -33,7 +33,7 @@ These two properties lead directly to several crucial geometric consequences:
 - **No Translation**: Linear transformations never translate (shift) space. This distinguishes them from [[Affine Transformation|Affine Transformations]].
 - **Preserved Origin**: As a direct result of having no translation, the zero must map to the zero vector, thus preserving the origin of the space.
 - **Lines Remain Lines**: Straight lines are mapped to straight lines (or to the zero vector). They are never curved.
-- **Preserved Linear Structure**: [[Linear Combination]] relationships are preserved. If a point can be described as a weighted sum of other points, this relationship holds after the trasnformation.
+- **Preserved Linear Structure**: [[Linear Combination]] relationships are preserved. If a point can be described as a weighted sum of other points, this relationship holds after the transformation.
 - **Parallel and Evenly Spaced**: In general, grid lines remain parallel and evenly spaced.
 
 In essence, these properties ensure that the linearity of the vector space is preserved. The relative positions of points are maintained in a linear sense.
@@ -54,7 +54,7 @@ See [[Determinant]]
 
 ## Invertibility
 
-Any transformation `F` is _invertible_ if there exist an opposite transformation `F⁻¹`, known as the _inverse of `F`_, that "undoes" the original transformation.
+Any transformation `F` is _invertible_ if there exists an opposite transformation `F⁻¹`, known as the _inverse of `F`_, that "undoes" the original transformation.
 
 All [[Primitive Linear Transformations]] other than projection are invertible. Projection is not invertible since it effectively discards a dimension worth of information.
 

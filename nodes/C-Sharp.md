@@ -6,7 +6,7 @@ context:
 
 # C-Sharp
 
-General-purpose high-level programming programming language.
+General-purpose high-level programming language.
 
 ---
 

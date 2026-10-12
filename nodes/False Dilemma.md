@@ -24,7 +24,7 @@ This may not be the case, as:
 
 ## Example
 
-**False Dicothomy**: _"Shall I be wise and great, or rich and powerful?"_
+**False Dichotomy**: _"Shall I be wise and great, or rich and powerful?"_
 
 **Compatibility**: Falsely asserts that being "_wise and great_" is in opposition to being "_rich and powerful_", when in fact one can be **both** at the same time.
 

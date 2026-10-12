@@ -4,7 +4,7 @@ context:
 
 # Learning
 
-The process of aquiring understanding, knowledge, skills, and behaviors.
+The process of acquiring understanding, knowledge, skills, and behaviors.
 
 ---
 

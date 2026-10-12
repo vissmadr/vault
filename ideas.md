@@ -1,3 +1,29 @@
+# `2026-10-12`
+
+[ ] **Optional Parry/Shield Ability?**
+[ ] **Parry vs Shield different abilities?**
+
+[ ] **On-cast Feel**:
+. DD inspired screen shake on cast.
+
+# `2026-10-11`
+
+DD Ideas:
+. Friendly Critters.
+. Oh-hit VFX.
+. Better blood.
+. Simpler progression.
+. Simpler abilities.
+. Simpler combat.
+
+[k] **Summoner Enemy Type**
+
+[k] **Enemy Spawn Circles**
+
+[ ] **Chain Pull Fix/Update**:
+. Feels buggy when pulling enemies.
+. Maybe release earlier or less physics.
+
 # `2026-10-10`
 
 [ ] **Missing VFX juice**:
@@ -12,7 +38,7 @@
 . Think about if they should have this fire ground chase mechanic at all.
 
 [ ] **UI Work**:
-. Single bind for abilities, no secondary keymap.
+[k] **Single Ability Bind**:
 
 [ ] **Hooded Guys Visuals?**:
 . Slightly Magicka style for the humanoids?
@@ -20,7 +46,7 @@
 [k] **Cleanup**
 [ ] **(!) Archive**
 
-[ ] **(?) Chain Mass Pull**:
+[k] **(?) Chain Mass Pull**:
 . AOE Around the player that pulls all enemies in.
 . Much longer cooldown than the single Chain snatch.
 . If it's cool, remove the other Chain stuff, like the wall stuff.
@@ -39,6 +65,7 @@
 . Should be able to start holding the Fireball and stuff for after the Omnislash or Remnant.
 . This will allow to fire the Fireball directly.
 
+[ ] **Maybe Remove Omnislash?**
 [k] **Omnislash**
 [ ] **Omnislash Player Strike Animation**:
 . Much like the Fire Clone visual behavior.
@@ -63,7 +90,7 @@
 
 # `2026-10-09`
 
-[ ] **Exploding AOE Enemy**
+[k] **Exploding AOE Enemy**
 
 [k] **Lighter FireClones**:
 . More like Cinderia design, where it's a brief hit.

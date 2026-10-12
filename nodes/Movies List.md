@@ -70,6 +70,7 @@ Personal list of great movies.
 | Killers of the Flower Moon     | 8     |
 | Taxi Driver                    | 8     |
 | Monty Python                   | 8     |
+| Tombstone                      | 8     |
 | Silence of the Lambs           | 8     |
 | The Hateful Eight              | 8     |
 | The Wolf of Wall Street        | 8     |
@@ -80,6 +81,7 @@ Personal list of great movies.
 | A Beautiful Mind               | 7     |
 | Interstellar                   | 7     |
 | Se7en                          | 7     |
+| Rounders                       | 7     |
 | Fury                           | 7     |
 | Jarhead                        | 7     |
 | It Was Just an Accident        | 7     |

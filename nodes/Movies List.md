@@ -20,12 +20,12 @@ Personal list of great movies.
 | Memento                        | 9     |
 | Sicario                        | 9     |
 | Choke (Documentary)            | 9     |
-| No Country for Old Men         | 9     |
+| Moneyball                      | 9     |
 | Full Metal Jacket              | 9     |
+| No Country for Old Men         | 9     |
 | Lawrence of Arabia             | 9     |
 | Pulp Fiction                   | 9     |
 | The Thing                      | 9     |
-| Moneyball                      | 9     |
 | Life is Beautiful              | 9     |
 | Crouching Tiger, Hidden Dragon | 9     |
 | The Great Beauty               | 9     |

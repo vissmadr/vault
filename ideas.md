@@ -1,5 +1,9 @@
 # `2026-10-12`
 
+[ ] **Improve Shockwave Scatter**:
+. Reduce the effect, grass distorts too much.
+. Reduce the duration.
+
 [ ] **Optional Parry/Shield Ability?**
 [ ] **Parry vs Shield different abilities?**
 

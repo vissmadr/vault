@@ -216,3 +216,6 @@ A man who procrastinates in his choosing will inevitably have his choice made fo
 
 The only limitation you have is the size of your dream.
 \- Adam Wardzinski
+
+It's unbelievable how much you don't know about the game you've been playing all your life.
+\- Mickey Mantle

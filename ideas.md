@@ -1,6 +1,28 @@
+# `2026-10-13`
+
+> Really love the Cind progression.
+> Probably nice to just have many abilities to choose from.
+> Each run is different.
+
+> Reconsider the amount of Held stuff.
+> Multiple abilities into one is weird when we have many options.
+> Consider Fireball Parabola on Stationary?
+
+[ ] **Pango Swashbuckle**
+
+[ ] **Travelling Damage Forward**
+
+[ ] **Focus on Cind mechanics maybe**:
+. Best roguelike progression I've seen.
+
+> Not sure about Omnislash & Remnant.
+> They're cool, but maybe too fancy...
+
+[k] **Another Shield Attempt**
+
 # `2026-10-12`
 
-[ ] **Improve Shockwave Scatter**:
+[k] **Improve Shockwave Scatter**:
 . Reduce the effect, grass distorts too much.
 . Reduce the duration.
 
@@ -142,7 +164,7 @@ DD Ideas:
 . While holding Fireball, can use the orbs for Convergeance mechanic.
 . Some feedback, like on the UI and maybe some flash or movement that they are for the convergeance.
 
-[ ] **Shield Ability**
+[k] **Shield Ability**
 
 # `2026-10-07`
 
@@ -244,7 +266,7 @@ Like for example tap to Shield, hold to Beam?
 . Having a short cooldown after no attacks, so that it's only the fresh first one.
 . Visualize on action bars UI by slightly changing the attack icon so it shows when you can intercept.
 
-[ ] **(?) Shield Counterspell/Merlin Ability**:
+[k] **(?) Shield Counterspell/Merlin Ability**:
 . Activate to have for `n` time.
 
 [ ] **(?) Held AOE Charge ability**:

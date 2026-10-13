@@ -1,5 +1,9 @@
 # `2026-10-13`
 
+[ ] **Gasses Mechanic**:
+. Something like the old 'Luck Flow Clouds'.
+. You consume the gas, like a Noita-style drug.
+
 [ ] **Riposte Ability**:
 . Instead of Parry ability.
 

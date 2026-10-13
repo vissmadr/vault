@@ -1,5 +1,25 @@
 # `2026-10-13`
 
+[ ] **Riposte Ability**:
+. Instead of Parry ability.
+
+[ ] **(!) Luck stat**:
+. Still have luck stat in the game.
+. Affects chances, both for the progression and gameplay.
+. For example Pango passive.
+. And a multiplier for all things in general.
+
+[ ] **Ability levels and talents**:
+. Could somehow levelup the abilities?
+. And they unlock their talent choices?
+
+[ ] **Try Cind Chain Redesign**:
+. Only pull mechanic.
+. Works for walls.
+. Slash while pulling?
+> It's the same in DD also.
+> Maybe for a good reason?
+
 > Really love the Cind progression.
 > Probably nice to just have many abilities to choose from.
 > Each run is different.
@@ -8,12 +28,15 @@
 > Multiple abilities into one is weird when we have many options.
 > Consider Fireball Parabola on Stationary?
 
-[ ] **Pango Swashbuckle**
+[ ] **Cind Parry**:
+. Playtest it better.
+
+[k] **Pango Swashbuckle**
 
 [ ] **Travelling Damage Forward**
 
 [ ] **Focus on Cind mechanics maybe**:
-. Best roguelike progression I've seen.
+. Maybe the best roguelike progression yet.
 
 > Not sure about Omnislash & Remnant.
 > They're cool, but maybe too fancy...

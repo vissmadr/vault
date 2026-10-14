@@ -1,6 +1,54 @@
 # `2026-10-13`
 
-**Try Embers Aura instead of FireOrbs**:
+> Less player fire.
+> Sword mainly, not so much Immolate and orbs stuff.
+
+Shumpo: Yes
+Swashbuckle: Yes
+Chain: update, otherwise Yes
+Fireball: update, otherwise Yes
+Shield: No, remove
+Beam: Yes
+Bullrush: Edit to slowdown at end? Physics push? LoL inspire? Maybe.
+Remnant: Probably no?
+
+Try Resonating Strike.
+Try like-remnant-only-movement where the player is the fast speedy ball for a short duration.
+Try VoidSpirit rings
+
+[ ] **Dash Charges**
+
+[ ] **(?) Chronosphere**:
+. Try chrono zone?
+
+[ ] **Flame Slash**
+[ ] **Circle Forward**:
+. Travelling circle forward.
+. Like the Zeus shield kinda.
+. Feels nice to play.
+. Could be after `n` attack combo consistent.
+
+[k] **Beam Work**:
+. Juice thickness.
+. Juice shake.
+. Reduce range.
+
+[ ] **Void Spirit Clones**:
+. Experiment with such abilities.
+. Clones that channel abilities themselves.
+. Or just sending out clones that do specific stuff.
+
+[ ] **Real World FireClone Echoes**:
+. Should just be fast spawns that hit a normal (collider) attack.
+. They spawn, swing, despawn, but could hit multiple enemies.
+
+[k] **Iframes**
+
+[k] **Shumpo Slight Start Delay**:
+. Little bit of delay before starting, would be useful for resets.
+. Maybe like `~0.10` or less?
+
+[ ] **Try Embers Aura instead of FireOrbs**:
 . FireOrbs are sometimes starting to become too overwhelming for the design.
 . Can try particles/embers aura instead.
 . FireOrbs could be then used for actual stuff.
@@ -30,7 +78,7 @@
 
 [ ] **Backstab Core Mechanic**
 
-[ ] **Blinkstrike Shumpo Reset**
+[k] **Blinkstrike Shumpo Reset**
 
 [ ] **Locked Actions**:
 . Dash currently cancels out of too much.
@@ -59,10 +107,11 @@
 . Could somehow levelup the abilities?
 . And they unlock their talent choices?
 
-[ ] **Try Cind Chain Redesign**:
+[ ] **Chain Cind Redesign**:
 . Only pull mechanic.
 . Works for walls.
 . Slash while pulling?
+
 > It's the same in DD also.
 > Maybe for a good reason?
 
@@ -465,6 +514,7 @@ Like for example tap to Shield, hold to Beam?
 . Aftereffect duration (`0.10`?).
 
 Feedback:
+
 > Likes the Detonate more than the Vortex.
 > (Me too)
 
@@ -600,6 +650,7 @@ Story:
 . And then enemies have some resistance after that? Idk.
 
 Luck Cloud ideas:
+
 ```
 - Nearby fog becomes clearer, so you can choose a route.
 - Soaking briefly brightens the disappearing wisps, making collection readable.
@@ -607,6 +658,7 @@ Luck Cloud ideas:
 ```
 
 Luck Cloud ideas:
+
 ```
 Take the luck with you.
 . Passing through golden mist charges your luck briefly, letting you dash into enemies and spend it attacking. A cloud has a limited amount to give before it needs to
@@ -780,6 +832,7 @@ Brainstorming/playtesting critically and RollTheBones seems actually good.
 . What else is the reson to use Immolate rather than Detonate for example? Both are AOE damage, so if one is stronger...
 
 RollTheBones:
+
 - Immolate
 - Cheap Detonate/Fireball
 - Clone powerup
@@ -793,6 +846,7 @@ RollTheBones:
 - Backstab
 
 Active abilities:
+
 - **Spawn FirePets**
 - **Mark Nearby**
 
@@ -824,6 +878,7 @@ If RollTheBones is a thing:
 # `2026-09-13`
 
 [ ] **Passives**:
+
 - After spellcast, gain bonus(es) (attackspeed?).
 - Melee attacks stack next spell bonus(es).
 - Every `n`-th (4th?) Fireball/Detonate has bonus.
@@ -836,7 +891,7 @@ If RollTheBones is a thing:
 [k] **Short Meditate Focus**:
 . Entering Focus gives a brief meditate Heat generation.
 
-[k] **Lightning Passives on SSS**: 
+[k] **Lightning Passives on SSS**:
 . Abilities affected by lightning?
 . Random SkyLightning falls?
 . Random zaps?
@@ -896,6 +951,7 @@ Some abilities are probably better suited for bosses.
 . Could combine both gameplay buffs as well as passive buffs, maybe randomly?
 
 Active Buffs List:
+
 - Immolation: Close range combat in order to burn enemies in AOE.
 - Chrono: sex?
 - Away Focus: Rapidly generates Heat and Special charges as long as no enemies nearby.
@@ -907,6 +963,7 @@ Active Buffs List:
 - FireSpawner: Summons FireSpawns one by one.
 
 Passive Buff List:
+
 - Passive Heat generation.
 - Movespeed increase.
 - Critical chance.
@@ -972,6 +1029,7 @@ Also combos!
 # `2026-09-04`
 
 **FINDINGS**:
+
 - Don't really like the old Meditate orbs movement.
 - Like Orbs as ammo more I think.
 
@@ -1103,36 +1161,36 @@ So that you're always free to change stances, but if the bar is depleted it's ju
 # `2026-08-17`
 
 Normal:
-    (j) Attack
-    (k) Dash
-    (l) Shield
-    (u) Detonate
-    (i) Meditate
-    (o) Spell
+(j) Attack
+(k) Dash
+(l) Shield
+(u) Detonate
+(i) Meditate
+(o) Spell
 
 Meditate:
-    (j) Enchant
-    (k) Exit
-    (l) Shield
-    (u) Detonate
-    (i) Exit
-    (o) Vortex
+(j) Enchant
+(k) Exit
+(l) Shield
+(u) Detonate
+(i) Exit
+(o) Vortex
 
 Lightning-Normal:
-    (j) Attack
-    (k) Dash
-    (l) Shield
-    (u) Detonate
-    (i) Meditate
-    (o) Spell
+(j) Attack
+(k) Dash
+(l) Shield
+(u) Detonate
+(i) Meditate
+(o) Spell
 
 Lightning-Meditate:
-    (j) Enchant
-    (k) Exit
-    (l) Shield
-    (u) Detonate
-    (i) Exit
-    (o) Vortex
+(j) Enchant
+(k) Exit
+(l) Shield
+(u) Detonate
+(i) Exit
+(o) Vortex
 
 # `2026-08-17`
 
@@ -1161,6 +1219,7 @@ Lightning-Meditate:
 # `2026-08-12`
 
 [ ] huglet visual ideas from the reference.
+
 ```
 vissmadr — 9:55 PM
 Amazing, as usual
@@ -1204,7 +1263,7 @@ Could still go for stances, but less changing the abilities?
 Balance Fire vs Melee.
 Melee should have bonuses against burning, but not apply that much burning itself.
 Idea is that you try to burn enemies, and then attack them, but not just attack and they auto-burn.
-Like the focus of the player should be to *spread the fire* and then *abuse burning enemies*.
+Like the focus of the player should be to _spread the fire_ and then _abuse burning enemies_.
 
 Held attack to be like dash-spin-attack?
 Some variety, not just "normal attack but with fire".
@@ -1390,9 +1449,9 @@ Gaining charge through motion?
 
 # Driving to Sea
 
-*This is already good enough for a game. Plus everything that will emerge. So just lock in!*
+_This is already good enough for a game. Plus everything that will emerge. So just lock in!_
 
-*It's actually getting there. Stop with the paralysis and make it. Promise it's good if made well.*
+_It's actually getting there. Stop with the paralysis and make it. Promise it's good if made well._
 
 `2026-07-18`
 
@@ -1406,6 +1465,7 @@ Gaining charge through motion?
 . Check the old `skills-draft.md` for ideas for the two.
 
 **Ability Buttons**:
+
 - Attack: Attack combo chain, as well as charge-attack on hold.
 - Dash:
 - Stance: Switch on keydown, can hold for a stance-based special, or something.

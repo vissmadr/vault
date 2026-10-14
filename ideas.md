@@ -1,5 +1,47 @@
 # `2026-10-13`
 
+**Try Embers Aura instead of FireOrbs**:
+. FireOrbs are sometimes starting to become too overwhelming for the design.
+. Can try particles/embers aura instead.
+. FireOrbs could be then used for actual stuff.
+
+> Lines Bossfight Mechanic
+
+> **Cind Attack Type Mechanics**
+> Feels good because attacks are of types, and those types can later be upgraded and synergized.
+> For example 'Swing', 'Thurst', 'Sweep', etc.
+> Those are even in the basic combo.
+
+[ ] **Fireball Control Rework**:
+. Auto-aimed Direct Fireball by default.
+. Can use Parabola if stopped.
+
+> Rue feels amazing.
+> Parry should always be OPTIONAL! Otherwise Cind best parry yet.
+
+[ ] **Destructible environment objects**:
+. Some could burn.
+
+> Dash-through enemies?
+> More Clones mechanics?
+
+[ ] **Stack Attacks**:
+. Can be visualized with Vayne bolts.
+
+[ ] **Backstab Core Mechanic**
+
+[ ] **Blinkstrike Shumpo Reset**
+
+[ ] **Locked Actions**:
+. Dash currently cancels out of too much.
+. Currently looks weird when you cancel some stuff halfway.
+. Should have a bit more punishment for some actions.
+
+# `2026-10-13`
+
+[ ] **(?) Held Aim Chrono**:
+. Experiment with this.
+
 [ ] **Gasses Mechanic**:
 . Something like the old 'Luck Flow Clouds'.
 . You consume the gas, like a Noita-style drug.

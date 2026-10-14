@@ -1,3 +1,26 @@
+# 2026-10-14
+
+Parents dream to get out.
+
+Father/Mother had reached, but held it instead of using.
+Held it to wait for the child to come of age, so the child can exit instead.
+This is a sacrifice of both, for the child.
+
+Parents noticed corruption of world due to gate being open, but can have enough time for the child.
+Longer time, however, would be increasingly bad.
+
+Parents train the child in various things, combat included, until it comes of age to exit ready for the next world.
+
+They (enemies) found out and killed parents.
+Child managed to escape/survive somehow.
+
+Set on vengeance, and only then fulfillment of the parents wish.
+
+#wip What did enemies do to gate?
+Left it closed so they can rule and stagnate this world?
+
+# Older
+
 Mother teaches light.
 . Light orbs around.
 . Tutorial controls.

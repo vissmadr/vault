@@ -1,3 +1,31 @@
+# `2026-10-15`
+
+[ ] **Particle Work**:
+. Revisit everything.
+
+[k] **GPU Particles**
+
+# `2026-10-14`
+
+[ ] **Re-Consider LightningEnchant**
+
+[k] **Shotgun Ability**
+
+[k] **Direct Player Hits**:
+. Inspired by CODG and Had, single hits against the player.
+. Player usually does not take damage.
+. No CC against the player.
+
+[ ] **Redesign NPC Behavior and Attacks**:
+. Inspired by CODG and RW better.
+. Attacks that go towards the player.
+. Less consistent enemy attacking.
+. Better projectile telegraphs, but faster projectiles.
+
+> More blades/weapons, less fire?
+
+[k] **UI Menu Update**
+
 # `2026-10-13`
 
 > Less player fire.
@@ -33,12 +61,13 @@ Try VoidSpirit rings
 . Juice shake.
 . Reduce range.
 
-[ ] **Void Spirit Clones**:
+[k] ~**(?) Void Spirit Clones**:~
 . Experiment with such abilities.
 . Clones that channel abilities themselves.
 . Or just sending out clones that do specific stuff.
+. Too much I think.
 
-[ ] **Real World FireClone Echoes**:
+[k] **Real World FireClone Echoes**:
 . Should just be fast spawns that hit a normal (collider) attack.
 . They spawn, swing, despawn, but could hit multiple enemies.
 
@@ -76,7 +105,7 @@ Try VoidSpirit rings
 [ ] **Stack Attacks**:
 . Can be visualized with Vayne bolts.
 
-[ ] **Backstab Core Mechanic**
+[k] **Backstab Core Mechanic**
 
 [k] **Blinkstrike Shumpo Reset**
 
@@ -107,7 +136,7 @@ Try VoidSpirit rings
 . Could somehow levelup the abilities?
 . And they unlock their talent choices?
 
-[ ] **Chain Cind Redesign**:
+[k] **Chain Cind Redesign**:
 . Only pull mechanic.
 . Works for walls.
 . Slash while pulling?
@@ -164,7 +193,7 @@ DD Ideas:
 
 [k] **Enemy Spawn Circles**
 
-[ ] **Chain Pull Fix/Update**:
+[k] **Chain Pull Fix/Update**:
 . Feels buggy when pulling enemies.
 . Maybe release earlier or less physics.
 
@@ -264,8 +293,8 @@ DD Ideas:
 [ ] **Chain 3D asset**:
 . Think about this, what the best approach should be.
 
-[ ] **Blood impact direction velocity**
-[ ] **Blood tuning**
+[k] **Blood impact direction velocity**
+[k] **Blood tuning**
 
 [ ] **Begin Website Simultaneously**:
 . New `web` project, with the older being `archive-web`.
@@ -295,7 +324,7 @@ DD Ideas:
 [k] **Beam explode on kill**:
 . Magicka inspired.
 
-[ ] **Better Chain Design**:
+[k] **Better Chain Design**:
 . Snatch is great right now.
 . Not sure about the pull, especially with walls.
 . Could do this fire-through-chain thing.

@@ -1,5 +1,10 @@
 # `2026-10-15`
 
+See nvim `:La` weirdness.
+Probably should still load all, not so lazy.
+
+`codex resume 01a14023-6f3a-7d52-90ff-d380b0d697bb`
+
 [ ] **Dagger Chain Hits Passive**:
 . Multiple targets.
 . Still show the circle after the first target hit.

@@ -1,5 +1,39 @@
 # `2026-10-15`
 
+[ ] **Dagger Chain Hits Passive**:
+. Multiple targets.
+. Still show the circle after the first target hit.
+. Study Katarina.
+
+[k] **Dagger Air Spin**:
+
+[k] **Dagger Flame Trail**
+
+[ ] **Slight shumpo air visuals**:
+. As if very slight smoke where dashing.
+
+[k] **Dagger 3D model**
+
+[ ] **Study Katarina**:
+. `https://www.youtube.com/watch?v=YntRtnSvgsU`
+
+[ ] **(!) FireOrbs as Weapon**:
+. Inspired by CODG torch, but advanced.
+. Switch to them for light and for them to pop up.
+. Can use like primary (animation!) attack, like Irelia.
+. Primary attack spending orbs.
+. Can use secondary Meditate orbit!
+. Orbs appear when "weapon" selected.
+
+[k] **Dagger Weapon/Ability**
+
+> Consider weapons design.
+> Inspired by CODG, like primary and secondary.
+> And like 2 slots for independent abilities still.
+
+> Think about simpler and more minimalistic design.
+> Less stuff to use, but with higher quality.
+
 [ ] **Particle Work**:
 . Revisit everything.
 
@@ -210,7 +244,7 @@ DD Ideas:
 . Also depending on Burning level, or only on Burning level, which indirectly is also the ground?
 . Think about if they should have this fire ground chase mechanic at all.
 
-[ ] **UI Work**:
+[k] **UI Work**:
 [k] **Single Ability Bind**:
 
 [ ] **Hooded Guys Visuals?**:
@@ -434,15 +468,15 @@ Like for example tap to Shield, hold to Beam?
 . Could be Fiora/Beowulf/Romeo parry-like mechanic, where we absorb the hits, and counterattack, possibly with movement?
 . Could replace Bullrush.
 
-[ ] **(?) Zed Clone Ability?**:
+[k] **(?) Zed Clone Ability?**:
 . The double clone where we can swap with it.
 . If it's a whole ability can be more advanced.
 
-[ ] **Better Movement Ability?**
+[k] **Better Movement Ability?**
 
-[ ] **Research Singleplayer Games Abilities**
+[k] **Research Singleplayer Games Abilities**
 
-[ ] **(?) Non-Fireball ability choice?**:
+[k] **(?) Non-Fireball ability choice?**:
 . Always have Attack, Dash, and Fireball, and from then on allow the player to choose his other 2-3 slots?
 
 [k] **Decide on Convergence**:
@@ -712,7 +746,7 @@ continually create opportunities to dodge, turn, and retaliate.
 . "Shadowstrider" tag.
 . Misho from OpenMat.
 
-[ ] **(?) Minmap***:
+[k] ~**(?) Minimap***:~
 . Could show enemies and also luck.
 . Could slightly show the luck field even, if upgraded.
 

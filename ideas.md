@@ -1,6 +1,106 @@
+# `2026-10-17`
+
+> Shumpo should be strong with resets, but weak without.
+> That's the way to balance it.
+
+[ ] **Gameplay Slowdown Rebalance**:
+. Chill out V1.
+
+> "Slow down..."
+
+[ ] **(?) Remove Some Clones?**:
+. Could be getting too much and inconsistent for the player.
+. Clones are everywhere now.
+
+[ ] **Meditate Speed Redesign**:
+. Could be speed boost at start only.
+. Could be acceleration-based so more natural.
+
+[k] **Enemy Mark Icons**
+
+[ ] **Smooth Orbs Appear/Disappear**:
+. Maybe some fades and delays and stuff.
+. Equipping Sword not instantly disappear Orbs, etc.
+. Orbs going into the player maybe, idk.
+
+[ ] **Burning Simplification**:
+. As a mechanic of the game, simpler now.
+[k] **UI Burning Simplify**:
+. Could be just burn icon.
+
+[k] **Shumpo Less Pickup Time**
+
+[k] **Shumpo Design**:
+. Thinking it's actually going to be better once enemies are tanky.
+. (!) Right now it's too spazzy due to how quickly everything dies, but that's fine probably.
+. (!) Think about something that rewards rampages, but doesn't do much damage on its own.
+. Without the resets the Shumpo is a bit lacking.
+
+[ ] **Shield Offhand**
+
+[ ] **Chain Redesign**:
+. More like a true offhand weapon.
+
 # `2026-10-16`
 
-[k] **Attack Combos**
+[ ] **Codestyle and Documentation**
+
+[ ] **Style Rework**:
+. Simpler fill bar.
+. No letters.
+. Combo tracker.
+
+[ ] **Combat Log**:
+. Some way to debug more easily.
+
+[ ] **Items During Run**:
+. Sword, Offhand types, Relics.
+. Different items have different bonuses.
+. Can have base damage.
+. Keep it simple.
+
+[ ] **Items Metaprogression**:
+. Gear, colors, bonuses.
+. Permanent unlocks.
+. WoL inspired?
+. Simpler.
+
+[k] **Primary Swing Types Patch**:
+. Shumpo to be considered a Primary attack.
+
+> Daggers could be closely related to crits.
+
+[k] **Avoid Numbers in Tooltips**
+
+[k] **Dagger Work**:
+. Make it good.
+
+[k] **Remove Combo Finishers**:
+. Actually without them better.
+. Don't do much for now anyways.
+. Can have Primary1, Primary2, (Dagger), Primary3 this way.
+
+[ ] **Pickups are dogshit**:
+. They just look terrible.
+. Don't get used to this crap, fix it.
+
+[ ] **Target-only Aim Mode**:
+. Aiming but only switch from one valid target to another.
+. Like some PlayStation games.
+
+[k] **Enemy Pickup Drops**
+
+[k] **Secondary Weapon Passive Bonuses**:
+. Start thinking of the secondary weapon in terms on in-run "item", but not really.
+. Secondary weapon unlocks the ability archetype, as well as gives some passive bonuses.
+
+[k] **Buy Melee Animation Pack**:
+. Purchase from the artist guy with the other asset packs.
+
+[k] **Buy Sword&Gun Animation Pack**:
+. Purchase from the artist guy with the other asset packs.
+
+[k] **Combo Finishers**
 
 [k] **Third Attack Special**:
 . For the Primary and Secondary and Orbs.
@@ -223,7 +323,7 @@ Try VoidSpirit rings
 
 [k] **Pango Swashbuckle**
 
-[ ] **Travelling Damage Forward**
+[ ] **(?) Travelling Damage Forward**
 
 [ ] **Focus on Cind mechanics maybe**:
 . Maybe the best roguelike progression yet.
@@ -239,8 +339,8 @@ Try VoidSpirit rings
 . Reduce the effect, grass distorts too much.
 . Reduce the duration.
 
-[ ] **Optional Parry/Shield Ability?**
-[ ] **Parry vs Shield different abilities?**
+[k] **Optional Parry/Shield Ability?**
+[k] **Parry vs Shield different abilities?**
 
 [ ] **On-cast Feel**:
 . DD inspired screen shake on cast.
@@ -1011,7 +1111,7 @@ If RollTheBones is a thing:
 [ ] **(?) Bonus on Scorch**:
 . Maybe some slight bonus while walking over Scorch ground.
 
-[ ] **Mark Focus Ability**: Maybe can mark an enemy inside the circle for the Fiora ultimate?
+[k] **Mark Focus Ability**: Maybe can mark an enemy inside the circle for the Fiora ultimate?
 . Completing the Fiora ultimate, or killing the enemy, grants a bonus?
 . Can combine this with Roll the Bones? Or it can be its own thing.
 

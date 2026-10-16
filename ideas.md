@@ -1,11 +1,38 @@
+# `2026-10-16`
+
+[k] **Attack Combos**
+
+[k] **Third Attack Special**:
+. For the Primary and Secondary and Orbs.
+
+> Primary, Secondary, Orbs, 2 Abilities.
+> Secondary and Abilities can change.
+
+[ ] **Overall Enemy Impact VFX**:
+. Stronger enemy hitflash for everything.
+. Screenshake.
+. Hit animation.
+. Impact effect.
+. Overhaul everything together as a whole.
+
+[ ] **Simpler Combat Model**:
+. Player damage, enemy stagger (stun), etc.
+
 # `2026-10-15`
 
-See nvim `:La` weirdness.
-Probably should still load all, not so lazy.
+[k] **Dagger Catch Same**:
+. Irrelevant if midair or on ground maybe?
+. To not _punish_ more tactical/delayed play.
 
-`codex resume 01a14023-6f3a-7d52-90ff-d380b0d697bb`
+[k] **Dagger Catch Reset**:
+. Resets one Dash charge upon catch.
+[k] **Dagger Catch Movespeed**:
+. Short movespeed increase upon catch.
 
-[ ] **Dagger Chain Hits Passive**:
+[ ] **Jax Relentless Assault**
+[ ] **Jax Counter-Strike**
+
+[k] **Dagger Chain Hits Passive**:
 . Multiple targets.
 . Still show the circle after the first target hit.
 . Study Katarina.
@@ -14,15 +41,15 @@ Probably should still load all, not so lazy.
 
 [k] **Dagger Flame Trail**
 
-[ ] **Slight shumpo air visuals**:
+[ ] **Slight Shumpo air visuals**:
 . As if very slight smoke where dashing.
 
 [k] **Dagger 3D model**
 
-[ ] **Study Katarina**:
+[k] **Study Katarina**:
 . `https://www.youtube.com/watch?v=YntRtnSvgsU`
 
-[ ] **(!) FireOrbs as Weapon**:
+[k] **(!) FireOrbs as Weapon**:
 . Inspired by CODG torch, but advanced.
 . Switch to them for light and for them to pop up.
 . Can use like primary (animation!) attack, like Irelia.
@@ -263,7 +290,7 @@ DD Ideas:
 . Much longer cooldown than the single Chain snatch.
 . If it's cool, remove the other Chain stuff, like the wall stuff.
 
-[ ] **(?) Meditate abilities?**:
+[k] ~**(?) Meditate abilities?**:~
 . Like the design in the past?
 
 [ ] **(?) Meditate RtB Buff Pop?**:
@@ -277,9 +304,9 @@ DD Ideas:
 . Should be able to start holding the Fireball and stuff for after the Omnislash or Remnant.
 . This will allow to fire the Fireball directly.
 
-[ ] **Maybe Remove Omnislash?**
+[k] **Maybe Remove Omnislash?**
 [k] **Omnislash**
-[ ] **Omnislash Player Strike Animation**:
+[k] **Omnislash Player Strike Animation**:
 . Much like the Fire Clone visual behavior.
 [k] **Slower Omnislash**:
 . Reduce the overall speeds a bit, to have more time.
@@ -401,7 +428,7 @@ Like for example tap to Shield, hold to Beam?
 . Think about a better way of losing stacks.
 . Could be just FurySwipes where they are all lost after `n` seconds.
 
-[ ] Is the movespeed faster now..?
+[k] Is the movespeed faster now..?
 . Test against older commit.
 
 [ ] **(!) Game Mechanics Project**:
@@ -689,7 +716,7 @@ Story:
 . Continuous like the Engineer TL2 barrage.
 . Kinda like the Special, charge-based.
 
-[ ] **Summoner Enemy Units**
+[k] **Summoner Enemy Units**
 . Unit that spawns other units.
 
 [ ] **Area Caster Enemy Unit**
@@ -749,7 +776,7 @@ continually create opportunities to dodge, turn, and retaliate.
 
 [ ] Boris Harizanov:
 . "Shadowstrider" tag.
-. Misho from OpenMat.
+. Misho (Scot) from OpenMat.
 
 [k] ~**(?) Minimap***:~
 . Could show enemies and also luck.

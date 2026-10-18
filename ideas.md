@@ -1,4 +1,42 @@
+# `2026-10-18`
+
+[ ] **Enchant vs Orbs**:
+. Style could affect either one.
+. Currently is affecting Enchant, while Orbs are consistent.
+. But it could affect Orbs gain, while Enchant is consistent?
+. Think about the Enchant visuals, and if it's a benefit to have them progress.
+
+[ ] **Simpler Combat Model**:
+. Player damage, enemy stagger (stun), etc.
+
+[ ] **After Chain Attack?**:
+. Instead of Chain Mark, could use just a new attack with animation.
+. Fantasy of having momentum.
+. MOMENTUM.
+
+[ ] **Marks as Separate Damage Sources?**:
+. Consider a single stacked source vs multiple sources.
+. Marks consumptions for example could be their own damage.
+. Decoupling attacks from one another might be better to prevent explosive synergies.
+. Dagger Mark.
+. Chain Mark.
+
+[k] **Chain Overhaul**
+> Chain got really hot.
+
 # `2026-10-17`
+
+[k] **Enchant Overhaul**
+
+[ ] **Gun/Cannon Offhand Type**:
+. Fourth and maybe final type.
+. Single shot.
+. Flak damage.
+> Glock saint.
+
+[ ] **Enemy Combat System Rework**
+
+[ ] **Action Bars Icons Overhaul**
 
 > Shumpo should be strong with resets, but weak without.
 > That's the way to balance it.
@@ -11,6 +49,7 @@
 [ ] **(?) Remove Some Clones?**:
 . Could be getting too much and inconsistent for the player.
 . Clones are everywhere now.
+. Could be cool though.
 
 [ ] **Meditate Speed Redesign**:
 . Could be speed boost at start only.
@@ -36,16 +75,16 @@
 . (!) Think about something that rewards rampages, but doesn't do much damage on its own.
 . Without the resets the Shumpo is a bit lacking.
 
-[ ] **Shield Offhand**
+[k] **Shield Offhand**
 
-[ ] **Chain Redesign**:
+[k] **Chain Redesign**:
 . More like a true offhand weapon.
 
 # `2026-10-16`
 
 [ ] **Codestyle and Documentation**
 
-[ ] **Style Rework**:
+[k] **Style Rework**:
 . Simpler fill bar.
 . No letters.
 . Combo tracker.
@@ -53,7 +92,7 @@
 [ ] **Combat Log**:
 . Some way to debug more easily.
 
-[ ] **Items During Run**:
+[ ] **(?) Items During Run**:
 . Sword, Offhand types, Relics.
 . Different items have different bonuses.
 . Can have base damage.
@@ -80,11 +119,11 @@
 . Don't do much for now anyways.
 . Can have Primary1, Primary2, (Dagger), Primary3 this way.
 
-[ ] **Pickups are dogshit**:
+[k] **Pickups are dogshit**:
 . They just look terrible.
 . Don't get used to this crap, fix it.
 
-[ ] **Target-only Aim Mode**:
+[k] ~**Target-only Aim Mode**:~
 . Aiming but only switch from one valid target to another.
 . Like some PlayStation games.
 
@@ -115,7 +154,7 @@
 . Impact effect.
 . Overhaul everything together as a whole.
 
-[ ] **Simpler Combat Model**:
+[k] **Simpler Combat Model**:
 . Player damage, enemy stagger (stun), etc.
 
 # `2026-10-15`

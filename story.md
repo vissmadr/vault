@@ -1,3 +1,28 @@
+# 2026-10-18
+
+She locked the end under a Seal.
+Only the family can open the Seal.
+Seal is opened using the Orbs.
+
+They built the city around the Seal.
+They couldn't enter, so they decided to lock it for everyone else.
+This was against the nature of the world.
+
+Once everything is done, the Child completes the world
+Opens the Seal.
+There he finds a letter from her:
+```
+There was no other way.
+I'm sorry that you had to endure all of this.
+
+I'm so proud of you.
+
+Whatever lies out there <?>
+Your path is now your own <?>
+Believe in yourself <?>
+Good Luck <?>
+```
+
 # 2026-10-14
 
 Parents dream to get out.

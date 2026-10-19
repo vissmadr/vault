@@ -8,14 +8,16 @@ context:
 
 # On Software Purism and AI
 
+**Authorship comes from deliberate decisions and understanding, not necessarily from personally executing every step.**
+
 An argument people make against AI is that "AI creates things instead of you".
 This usually implies that without AI you would "create stuff" yourself.
 When it comes to software development, this doesn't make much sense.
 
 Some of that is true, I guess.
-But as a software engineer, I would argue that we never really created that much entirely by ourselves before AI either.
-We already had plenty of automation before AI, which people with such strong opinions seem to forget about.
-Now with AI the automation just happens to be ridiculously better than before.
+But as a software engineer, I would argue that programmers barely create anything by themselves in general.
+We already had plenty of ridiculous automation even before generative-AI, which people with such strong opinions seem to forget about.
+Now with AI the automation just happens to be much better and broader than before.
 
 ## Purists
 

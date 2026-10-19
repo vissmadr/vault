@@ -1,12 +1,19 @@
 # `2026-10-18`
 
+[k] **Clones Breakup**
+
+[k] **Orbs Visibility Toggle**:
+. Gameplay option.
+
+[ ] **Clones Echo effect**
+
 [ ] **Enchant vs Orbs**:
 . Style could affect either one.
 . Currently is affecting Enchant, while Orbs are consistent.
 . But it could affect Orbs gain, while Enchant is consistent?
 . Think about the Enchant visuals, and if it's a benefit to have them progress.
 
-[ ] **Simpler Combat Model**:
+[k] **Simpler Combat Model**:
 . Player damage, enemy stagger (stun), etc.
 
 [ ] **After Chain Attack?**:
@@ -34,7 +41,7 @@
 . Flak damage.
 > Glock saint.
 
-[ ] **Enemy Combat System Rework**
+[k] **Enemy Combat System Rework**
 
 [ ] **Action Bars Icons Overhaul**
 
@@ -57,12 +64,12 @@
 
 [k] **Enemy Mark Icons**
 
-[ ] **Smooth Orbs Appear/Disappear**:
+[k] **Smooth Orbs Appear/Disappear**:
 . Maybe some fades and delays and stuff.
 . Equipping Sword not instantly disappear Orbs, etc.
 . Orbs going into the player maybe, idk.
 
-[ ] **Burning Simplification**:
+[k] **Burning Simplification**:
 . As a mechanic of the game, simpler now.
 [k] **UI Burning Simplify**:
 . Could be just burn icon.
@@ -409,7 +416,7 @@ DD Ideas:
 [ ] **Stronger Hitflash**:
 . More white hitflash for the enemies?
 
-[ ] **FirePet Patch**:
+[k] **FirePet Patch**:
 . Way faster on Burning ground, way slower on normal ground.
 . Kinda between moving and stationary, depending on ground.
 . Also depending on Burning level, or only on Burning level, which indirectly is also the ground?

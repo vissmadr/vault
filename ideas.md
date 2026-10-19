@@ -1,3 +1,26 @@
+# `2026-10-19`
+
+[ ] **Huge GUI Tuning Patch**:
+. EVERYTHING to be its own GUI tunable thing.
+. For example the blood and gore.
+. For example the hitflash effect.
+. For example the Clones visuals.
+. Everything... It's almost free.
+
+[k] **Multicolor Hitflash**:
+. Inspired by DD.
+
+[ ] **Player Action Lock & Mechanics Overhaul**
+[ ] **Shumpo Attack Direction Lock Test**:
+. Must face the attack direction for a brief moment.
+. Good test is Shumpo+Shotgun while moving.
+
+[ ] **Game Loop**
+[ ] **Run Statistics**
+[ ] **Run Statistics Preview**
+
+> Positive Clone feel feedback.
+
 # `2026-10-18`
 
 [k] **Clones Breakup**
@@ -5,9 +28,9 @@
 [k] **Orbs Visibility Toggle**:
 . Gameplay option.
 
-[ ] **Clones Echo effect**
+[k] **Clones Echo effect**
 
-[ ] **Enchant vs Orbs**:
+[ ] **Enchant vs Orbs?**:
 . Style could affect either one.
 . Currently is affecting Enchant, while Orbs are consistent.
 . But it could affect Orbs gain, while Enchant is consistent?
@@ -21,7 +44,7 @@
 . Fantasy of having momentum.
 . MOMENTUM.
 
-[ ] **Marks as Separate Damage Sources?**:
+[k] **Marks as Separate Damage Sources?**:
 . Consider a single stacked source vs multiple sources.
 . Marks consumptions for example could be their own damage.
 . Decoupling attacks from one another might be better to prevent explosive synergies.
@@ -35,7 +58,7 @@
 
 [k] **Enchant Overhaul**
 
-[ ] **Gun/Cannon Offhand Type**:
+[k] **Gun/Cannon Offhand Type**:
 . Fourth and maybe final type.
 . Single shot.
 . Flak damage.

@@ -1,3 +1,10 @@
+# `2026-10-20`
+
+[ ] **Try "Embers Aura"**:
+. Some slight yellow glow on the player?
+
+[ ] **Even Smaller Map**
+
 # `2026-10-19`
 
 [ ] **Huge GUI Tuning Patch**:
@@ -10,14 +17,14 @@
 [k] **Multicolor Hitflash**:
 . Inspired by DD.
 
-[ ] **Player Action Lock & Mechanics Overhaul**
-[ ] **Shumpo Attack Direction Lock Test**:
+[ ] **(!) Player Action Lock & Mechanics Overhaul**
+[ ] **(!) Shumpo Attack Direction Lock Test**:
 . Must face the attack direction for a brief moment.
 . Good test is Shumpo+Shotgun while moving.
 
-[ ] **Game Loop**
-[ ] **Run Statistics**
-[ ] **Run Statistics Preview**
+[ ] **(!) Game Loop**
+[ ] **(!) Run Statistics**
+[ ] **(!) Run Statistics Preview**
 
 > Positive Clone feel feedback.
 
@@ -71,7 +78,7 @@
 > Shumpo should be strong with resets, but weak without.
 > That's the way to balance it.
 
-[ ] **Gameplay Slowdown Rebalance**:
+[k] **Gameplay Slowdown Rebalance**:
 . Chill out V1.
 
 > "Slow down..."
@@ -279,13 +286,13 @@ Try Resonating Strike.
 Try like-remnant-only-movement where the player is the fast speedy ball for a short duration.
 Try VoidSpirit rings
 
-[ ] **Dash Charges**
+[k] **Dash Charges**
 
 [ ] **(?) Chronosphere**:
 . Try chrono zone?
 
-[ ] **Flame Slash**
-[ ] **Circle Forward**:
+[k] ~**Flame Slash**~
+[k] ~**Circle Forward**:~
 . Travelling circle forward.
 . Like the Zeus shield kinda.
 . Feels nice to play.
@@ -312,7 +319,7 @@ Try VoidSpirit rings
 . Little bit of delay before starting, would be useful for resets.
 . Maybe like `~0.10` or less?
 
-[ ] **Try Embers Aura instead of FireOrbs**:
+[k] **Try Embers Aura instead of FireOrbs**:
 . FireOrbs are sometimes starting to become too overwhelming for the design.
 . Can try particles/embers aura instead.
 . FireOrbs could be then used for actual stuff.

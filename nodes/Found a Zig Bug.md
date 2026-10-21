@@ -18,7 +18,7 @@ export fn is231(number: i64) bool {
 
 Zig's LLVM backend miscompiles a valid cast from a larger signed integer to a smaller unsigned integer.
 
-With input `231`, this must return `true`.
+With an input of `231`, this should return `true`.
 In affected optimized builds (like 'ReleastFast' and 'ReleaseSafe'), it returns `false`.
 
 The larger code snippet that I originally used was this:

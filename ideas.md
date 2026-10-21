@@ -1,13 +1,34 @@
+# `2026-10-21`
+
+[ ] **Improve Run Logic**:
+. Think about the loading of the rooms.
+. No menu stops. Have it like: `Safe Zone → Run → Safe Zone → Run...`
+
+[ ] **Safe Zone**
+
+[ ] **NPC Chatboxes**:
+. Think about the design of this.
+
+[k] **Full Game Run**
+
+[k] **Reduce Map Limits**:
+. The maps that the gameplay is actually going to use will be smaller.
+. There is the current "Quarter" map example.
+. All the limits from before can be reduced for better performance and data.
+
 # `2026-10-20`
 
 [ ] **Try "Embers Aura"**:
 . Some slight yellow glow on the player?
 
-[ ] **Even Smaller Map**
+[k] **Performance Optimization**:
+. Ground fire is heavy.
+
+[k] **Even Smaller Map**
 
 # `2026-10-19`
 
-[ ] **Huge GUI Tuning Patch**:
+[ ] **(?) Huge GUI Tuning Patch**:
 . EVERYTHING to be its own GUI tunable thing.
 . For example the blood and gore.
 . For example the hitflash effect.
@@ -17,14 +38,18 @@
 [k] **Multicolor Hitflash**:
 . Inspired by DD.
 
+!!!!!!!!!!!!!!!!!
+
 [ ] **(!) Player Action Lock & Mechanics Overhaul**
 [ ] **(!) Shumpo Attack Direction Lock Test**:
 . Must face the attack direction for a brief moment.
 . Good test is Shumpo+Shotgun while moving.
 
-[ ] **(!) Game Loop**
+[k] **(!) Game Loop**
 [ ] **(!) Run Statistics**
 [ ] **(!) Run Statistics Preview**
+
+!!!!!!!!!!!!!!!!!
 
 > Positive Clone feel feedback.
 

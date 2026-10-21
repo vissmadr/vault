@@ -1,10 +1,47 @@
 # `2026-10-21`
 
-[ ] **Improve Run Logic**:
+[ ] **(?) Separate Orb-like Abilities Magnitudes**:
+. Orbs visual magnitude to be different from explosion magnitude.
+
+[ ] **Orbs on the way back**:
+. Too fast right now.
+
+[ ] **After Orb Hit Passives**
+
+[k] **Orbs Manual Detonate**
+
+[ ] **(?) Player Burn?**
+
+[k] **Orbs Feel**
+
+[ ] **Simplify Abilities**:
+. Fireball and Chain for example.
+. In practice the double mode is probably not that good.
+. Probably even auto-aim Fireball.
+
+[ ] **Consider Attributes**:
+. Like Strength, Agility, and Intelligence.
+. Could simplify the stats if we don't want number crunching.
+. Better on the UI maybe.
+
+[ ] **(?) No Cooldowns**:
+. Power spell (Fireball, Beam), Mobility spell (Shumpo), and Orbs.
+. Power spell can use the whole mana bar.
+. Idk about mobility spell.
+
+[ ] **Room Loading**:
+. Seamless loading of rooms.
+
+[ ] **Upgrade Tech Stack**:
+. There's a temporary fix, but should be updated.
+. Waiting on fixed Zig versions.
+. Check from time to time.
+
+[k] **Improve Run Logic**:
 . Think about the loading of the rooms.
 . No menu stops. Have it like: `Safe Zone → Run → Safe Zone → Run...`
 
-[ ] **Safe Zone**
+[k] **Safe Zone**
 
 [ ] **NPC Chatboxes**:
 . Think about the design of this.

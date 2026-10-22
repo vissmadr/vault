@@ -38,4 +38,10 @@ And that there are the same masses of white belts everywhere.
 
 The difference is the people that are already in the gym 2 hours before the class starts, and 2 hours after it ends.
 
-## 
+## Focus on Few Things
+
+Always have a few things that you're working on simultaneously.
+
+Doesn't need to be a single position, but not too many either.
+
+Helps to learn BJJ, as well as avoiding burnout and just keeping it fun.

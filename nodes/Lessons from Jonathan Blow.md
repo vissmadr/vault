@@ -20,3 +20,14 @@ That was true in the past, and will be true in the future.
 
 There are always the same type of excuses.
 "There is more competition now more than ever."
+
+Everyone can find his reasons to fail.
+We should find ours to succeed.
+
+## Luck
+
+Making a game is not a lottery ticket.
+
+## Money
+
+For almost all of the successful indies, the money is not their primary motivation.

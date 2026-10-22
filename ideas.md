@@ -1,10 +1,12 @@
 # `2026-10-22`
 
-[ ] **Shunpo Rename**:
+One from `pro.md` file.
+
+[k] **Shunpo Rename**:
 . It seems to mean a flash-step.
 . Currently "Shu**m**po".
 
-[ ] **Shunpo Visuals**:
+[k] **Shunpo Visuals**:
 . Both appear and disappear with brief flame leftovers.
 . Something like PA blink.
 . Maybe some slight trail like Katarina?

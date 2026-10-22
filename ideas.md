@@ -1,4 +1,47 @@
+# `2026-10-22`
+
+[ ] **Shunpo Rename**:
+. It seems to mean a flash-step.
+. Currently "Shu**m**po".
+
+[ ] **Shunpo Visuals**:
+. Both appear and disappear with brief flame leftovers.
+. Something like PA blink.
+. Maybe some slight trail like Katarina?
+
+| Ability    | Rating | Comment                                                                     |
+| ---------- | ------ | --------------------------------------------------------------------------- |
+| Fireball   | 9/10   |                                                                             |
+| Beam       | 8/10   |                                                                             |
+| Scatter    | 8/10   |                                                                             |
+| Rapid Fire | 8/10   |                                                                             |
+| Shumpo     | 8/10   | Needs better animation, some slash delay, appear/disappear with fire maybe. |
+| Bullrush   | 8/10   |                                                                             |
+
+[k] **Flame Trail Smoke**:
+. Abilities such as Fireball, Scatter, Rapid Fire, etc.
+. Maybe consider for flame effects in general.
+
+[k] **Bullrush Rework**:
+. More visual, more velocity, more like the player as a projectile.
+
+[k] **Meditate Chrono Improve**:
+. Minimum time for Chrono to be active.
+. Even after a single orb detonates almost immediately.
+
+> Not sure about weapons now...
+> Could use free ability slots instead?
+> Not sure about the Shield, too.
+> Chain is the best of all weapons right now.
+
 # `2026-10-21`
+
+[k] **Beam Rework**:
+. Smaller and thinner visual.
+. Increasing damage per target.
+. Stacking enemy debuff.
+
+[k] **Meditate Time Slow**
 
 [ ] **(?) Separate Orb-like Abilities Magnitudes**:
 . Orbs visual magnitude to be different from explosion magnitude.
@@ -14,7 +57,7 @@
 
 [k] **Orbs Feel**
 
-[ ] **Simplify Abilities**:
+[k] **Simplify Abilities**:
 . Fireball and Chain for example.
 . In practice the double mode is probably not that good.
 . Probably even auto-aim Fireball.
@@ -29,7 +72,7 @@
 . Power spell can use the whole mana bar.
 . Idk about mobility spell.
 
-[ ] **Room Loading**:
+[k] **Room Loading**:
 . Seamless loading of rooms.
 
 [ ] **Upgrade Tech Stack**:
@@ -121,6 +164,7 @@
 . Chain Mark.
 
 [k] **Chain Overhaul**
+
 > Chain got really hot.
 
 # `2026-10-17`
@@ -131,6 +175,7 @@
 . Fourth and maybe final type.
 . Single shot.
 . Flak damage.
+
 > Glock saint.
 
 [k] **Enemy Combat System Rework**

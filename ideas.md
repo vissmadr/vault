@@ -1,3 +1,13 @@
+# `2026-10-23`
+
+[ ] **Remnant Travel Only Ability**:
+. Player as a travelling fireball.
+. Moves constantly forward.
+. Player can steer it while moving.
+. Something like Pango ult mechanic.
+
+[ ] **Incinerate Death Effect**
+
 # `2026-10-22`
 
 One from `pro.md` file.

@@ -31,3 +31,8 @@ Making a game is not a lottery ticket.
 ## Money
 
 For almost all of the successful indies, the money is not their primary motivation.
+
+## Graphics
+
+Graphics really matter.
+Your mind while playing the game will respond differently depending on graphics.

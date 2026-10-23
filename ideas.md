@@ -1,5 +1,12 @@
 # `2026-10-23`
 
+> Study LONE RUIN game.
+
+[ ] **(Rus) Steam Deck Support**:
+. Steam helps if it's Steam Deck verified.
+. They can even promo this.
+. Research this.
+
 [ ] **Remnant Travel Only Ability**:
 . Player as a travelling fireball.
 . Moves constantly forward.

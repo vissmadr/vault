@@ -267,6 +267,7 @@ hybrid - come back to me
 hybrid - dogstar
 hybrid - choke
 hybrid - salt
+hybrid - nails
 parra for cuva - cupa cupa
 lunatic soul - walking on a flashlight beam
 lunatic soul - cold

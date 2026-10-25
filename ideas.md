@@ -138,7 +138,7 @@
 !!!!!!!!!!!!!!!!!
 
 [k] **(!) Player Action Lock & Mechanics Overhaul**
-[ ] **(!) Shumpo Attack Direction Lock Test**:
+[k] **(!) Shumpo Attack Direction Lock Test**:
 . Must face the attack direction for a brief moment.
 . Good test is Shumpo+Shotgun while moving.
 
@@ -159,7 +159,7 @@
 
 [k] **Clones Echo effect**
 
-[ ] **Enchant vs Orbs?**:
+[ ] **(?) Enchant vs Orbs?**:
 . Style could affect either one.
 . Currently is affecting Enchant, while Orbs are consistent.
 . But it could affect Orbs gain, while Enchant is consistent?
@@ -212,7 +212,7 @@
 . Clones are everywhere now.
 . Could be cool though.
 
-[ ] **Meditate Speed Redesign**:
+[k] **Meditate Speed Redesign**:
 . Could be speed boost at start only.
 . Could be acceleration-based so more natural.
 
@@ -243,7 +243,7 @@
 
 # `2026-10-16`
 
-[ ] **Codestyle and Documentation**
+[k] **Codestyle and Documentation**
 
 [k] **Style Rework**:
 . Simpler fill bar.

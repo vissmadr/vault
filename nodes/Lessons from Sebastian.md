@@ -3,7 +3,7 @@ context:
   - "[[Grappling]]"
 ---
 
-# Lesson from Sebastian
+# Lessons from Sebastian
 
 A really good grappler I met and had the chance to roll with and talk to.
 

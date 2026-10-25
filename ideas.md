@@ -17,8 +17,6 @@
 
 # `2026-10-22`
 
-One from `pro.md` file.
-
 [k] **Shunpo Rename**:
 . It seems to mean a flash-step.
 . Currently "Shu**m**po".
@@ -139,7 +137,7 @@ One from `pro.md` file.
 
 !!!!!!!!!!!!!!!!!
 
-[ ] **(!) Player Action Lock & Mechanics Overhaul**
+[k] **(!) Player Action Lock & Mechanics Overhaul**
 [ ] **(!) Shumpo Attack Direction Lock Test**:
 . Must face the attack direction for a brief moment.
 . Good test is Shumpo+Shotgun while moving.

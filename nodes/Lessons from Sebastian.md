@@ -45,3 +45,45 @@ Always have a few things that you're working on simultaneously.
 Doesn't need to be a single position, but not too many either.
 
 Helps to learn BJJ, as well as avoiding burnout and just keeping it fun.
+
+## Guard Concept
+
+He sees guard as nothing more than grips and clinches.
+Grips and clinches you happen to do from the bottom.
+
+He says that the main purpose of all guards is to connect and offbalance the opponent.
+
+## Learn Everything
+
+Doesn't like the concept of systems and thinks it is best to learn everything.
+
+> I disagree with this.
+> Systems are how we make grappling work as a cohesive whole.
+> We need to learn and know everything, but not master everything.
+
+## On Drilling
+
+Doesn't like the idea of drilling a thing you already know.
+
+Instead he would drill it until he gets the move, and then apply it against increasing levels of resistance.
+
+> I don't necessarily agree with this.
+> Repetition is essential for learning.
+> One can figure out a lot of details by just drilling a move he already knows.
+
+## Competitive Ego
+
+He said that all great grapplers he has trained with hate losing.
+
+Even the humble ones that don't act the act, they still hate losing.
+
+There is a healthy amount of ego and competitiveness in order to get good.
+
+## Learning What You Know
+
+He really emphasized on the phenomenon that we often do good things in game without understanding them.
+Or even without realizing we do them.
+
+One big part of grappling (and teaching) is being able to reverse-engineer yourself and what you actually do.
+
+When I asked him about certain techniques, he would often do them in order to figure out the actual details.

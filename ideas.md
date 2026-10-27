@@ -1,3 +1,24 @@
+# `2026-10-27`
+
+See if Fireball core and stuff is different from like Orbs and others.
+It shouldn't be.
+
+[ ] **Reduction**:
+. Begin reducing and preparing for content/polishing.
+
+# `2026-10-26`
+
+[k] **Remove Fire Bloom Setting**
+
+[ ] **Fire Visuals**:
+. Try to make it consistent, like the middle between current good ones.
+
+[ ] **Projectile Reflect**:
+. Return this mechanic.
+. Have the projectiles be set on fire.
+
+[k] **Shield Removal**
+
 # `2026-10-23`
 
 > Study LONE RUIN game.
@@ -7,13 +28,13 @@
 . They can even promo this.
 . Research this.
 
-[ ] **Remnant Travel Only Ability**:
+[k] **Remnant Travel Only Ability**:
 . Player as a travelling fireball.
 . Moves constantly forward.
 . Player can steer it while moving.
 . Something like Pango ult mechanic.
 
-[ ] **Incinerate Death Effect**
+[k] **Incinerate Effect**
 
 # `2026-10-22`
 

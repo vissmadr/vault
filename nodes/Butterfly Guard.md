@@ -5,6 +5,8 @@ context:
 
 #wip Part 3 15:55
 
+#wip Part 7 IS GOLD
+
 # Butterfly Guard
 
 Inside position grappling guard.

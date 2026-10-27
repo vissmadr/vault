@@ -11,10 +11,14 @@
             "id": "f30a7a2a1099c9dd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "nodes/Lessons from Sebastian.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Lessons from Sebastian"
             }
           }
         ]

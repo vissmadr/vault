@@ -15,3 +15,4 @@ It's not about difficulty, but rather removing annoyances and fixing small mecha
 [[Coyote Time]]
 [[Input Buffering]] #wip
 [[Generous Hitboxes]] #wip
+[[Moving Hitbox Radius Change]]

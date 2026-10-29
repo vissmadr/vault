@@ -1,8 +1,17 @@
+# `2026-10-30`
+
+[ ] Slightly more red Enchant?
+
+[ ] **Brainstorm Potential Meditate Special**:
+. Could be channeled or just something special.
+. Or whatever, really, as long as it's fun to use.
+
+[k] **Beam Ability Update**:
+. Juice that shit up.
+
 # `2026-10-29`
 
-Actually try this AOE Scatter ability lol.
-
-[ ] **Reducing Player Hitbox While Moving**
+[k] **Reducing Player Hitbox While Moving**
 . Yet another design cheat.
 
 [ ] **Better Enemies Burning VFX**:

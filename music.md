@@ -302,7 +302,7 @@ kalandra - helvegen
 kalandra - brave new world
 dye - fantasy
 kavinsky - nightcall
-warpain - love is to die
+warpaint - love is to die
 kyuss - demon cleaner
 kyuss - green machine
 kyuss - gardenia

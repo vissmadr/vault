@@ -1,16 +1,36 @@
+# `2026-10-29`
+
+Actually try this AOE Scatter ability lol.
+
+[ ] **Reducing Player Hitbox While Moving**
+. Yet another design cheat.
+
+[ ] **Better Enemies Burning VFX**:
+. More like the Immolate effect maybe?
+
+[ ] **(?) Slots by Spell Type**:
+. Mobility, instant, and channeled.
+
+[ ] **Advanced Fast Meditate Input Details**
+
+[k] **Remove Orb Contact Detonate**
+
+# `2026-10-28`
+
+[k] **(?) Secondary Ability Variant on Meditate**
+
+[k] **Fire Explosions Overhaul**
+
 # `2026-10-27`
 
-See if Fireball core and stuff is different from like Orbs and others.
-It shouldn't be.
-
-[ ] **Reduction**:
+[k] **Reduction**:
 . Begin reducing and preparing for content/polishing.
 
 # `2026-10-26`
 
 [k] **Remove Fire Bloom Setting**
 
-[ ] **Fire Visuals**:
+[k] **Fire Visuals**:
 . Try to make it consistent, like the middle between current good ones.
 
 [ ] **Projectile Reflect**:
@@ -81,7 +101,7 @@ It shouldn't be.
 
 [k] **Meditate Time Slow**
 
-[ ] **(?) Separate Orb-like Abilities Magnitudes**:
+[k] **(?) Separate Orb-like Abilities Magnitudes**:
 . Orbs visual magnitude to be different from explosion magnitude.
 
 [ ] **Orbs on the way back**:
@@ -105,7 +125,7 @@ It shouldn't be.
 . Could simplify the stats if we don't want number crunching.
 . Better on the UI maybe.
 
-[ ] **(?) No Cooldowns**:
+[k] **(?) No Cooldowns**:
 . Power spell (Fireball, Beam), Mobility spell (Shumpo), and Orbs.
 . Power spell can use the whole mana bar.
 . Idk about mobility spell.

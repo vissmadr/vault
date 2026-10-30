@@ -222,3 +222,6 @@ It's unbelievable how much you don't know about the game you've been playing all
 
 I would have written a shorter letter, but did not have the time.
 \- Blaise Pascal
+
+A harmful truth is better than a useful lie.
+\- Thomas Mann

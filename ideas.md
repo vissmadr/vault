@@ -1,6 +1,21 @@
 # `2026-10-30`
 
-[ ] Slightly more red Enchant?
+[ ] Orb Attach Design
+
+[ ] (?) No Meditate Teleport?
+. Not sure if it's the best mechanic.
+
+[ ] Improve burning.
+[ ] Improve corpses.
+[ ] Improve corpses burning.
+
+[ ] (?) Orbs Teleport only where there is fire?
+. Would make the design way more interesting.
+. Hmm, but maybe a bit too inconsistent/annoying?
+
+[k] Same burning effect for corpses.
+
+[k] Slightly more red Enchant?
 
 [ ] **Brainstorm Potential Meditate Special**:
 . Could be channeled or just something special.
@@ -14,7 +29,7 @@
 [k] **Reducing Player Hitbox While Moving**
 . Yet another design cheat.
 
-[ ] **Better Enemies Burning VFX**:
+[k] **Better Enemies Burning VFX**:
 . More like the Immolate effect maybe?
 
 [ ] **(?) Slots by Spell Type**:
@@ -42,7 +57,7 @@
 [k] **Fire Visuals**:
 . Try to make it consistent, like the middle between current good ones.
 
-[ ] **Projectile Reflect**:
+[k] ~**Projectile Reflect**:~
 . Return this mechanic.
 . Have the projectiles be set on fire.
 

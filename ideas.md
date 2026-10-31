@@ -1,15 +1,24 @@
 # `2026-10-30`
 
-[ ] Orb Attach Design
+[k] Held Meditate Abilities:
+. Seems like all of the Orb Meditate abilities can be held.
+. Some reasonable speed to auto-cast while the button is held.
+. Could solve the spam issue for the after-Meditate.
+. If held then doesn't use the next ability when Meditate is over.
+[k] Need great and smooth input in general.
+. Huge game-changer to have good player input.
+. Everything should feel right and player-intended.
 
-[ ] (?) No Meditate Teleport?
+[k] Orb Attach Design
+
+[k] (?) No Meditate Teleport?
 . Not sure if it's the best mechanic.
 
 [ ] Improve burning.
 [ ] Improve corpses.
 [ ] Improve corpses burning.
 
-[ ] (?) Orbs Teleport only where there is fire?
+[k] ~(?) Orbs Teleport only where there is fire?~
 . Would make the design way more interesting.
 . Hmm, but maybe a bit too inconsistent/annoying?
 
@@ -17,7 +26,7 @@
 
 [k] Slightly more red Enchant?
 
-[ ] **Brainstorm Potential Meditate Special**:
+[k] **Brainstorm Potential Meditate Special**:
 . Could be channeled or just something special.
 . Or whatever, really, as long as it's fun to use.
 
@@ -35,7 +44,7 @@
 [ ] **(?) Slots by Spell Type**:
 . Mobility, instant, and channeled.
 
-[ ] **Advanced Fast Meditate Input Details**
+[k] **Advanced Fast Meditate Input Details**
 
 [k] **Remove Orb Contact Detonate**
 
@@ -128,7 +137,7 @@
 [k] **(?) Separate Orb-like Abilities Magnitudes**:
 . Orbs visual magnitude to be different from explosion magnitude.
 
-[ ] **Orbs on the way back**:
+[k] **Orbs on the way back**:
 . Too fast right now.
 
 [ ] **After Orb Hit Passives**
@@ -191,7 +200,7 @@
 # `2026-10-19`
 
 [ ] **(?) Huge GUI Tuning Patch**:
-. EVERYTHING to be its own GUI tunable thing.
+. EVERYTHING could be its own GUI tunable thing.
 . For example the blood and gore.
 . For example the hitflash effect.
 . For example the Clones visuals.

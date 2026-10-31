@@ -1160,7 +1160,7 @@ continually create opportunities to dodge, turn, and retaliate.
 . Could show enemies and also luck.
 . Could slightly show the luck field even, if upgraded.
 
-[ ] **(?) Lucky/Unlucky Maps**:
+[k] **(?) Lucky/Unlucky Maps**:
 . Luck scalar based on the map itself.
 
 [ ] **On Numbers**:
@@ -1182,13 +1182,13 @@ continually create opportunities to dodge, turn, and retaliate.
 . The "bonus" suddenly turns into a "rune" if the icon says so.
 . Runes give better aesthetics to what would've just been a number.
 
-[ ] **Burning Juxtapose Bonus**:
+[k] ~**Burning Juxtapose Bonus**:~
 . Increases chance for clone spawn when hitting burning enemies (so that Fire is synergy).
 
-[ ] **Buffs Bar**:
+[k] ~**Buffs Bar**:~
 . Something WoW inspired maybe?
 
-[ ] **Random Mini Explosions on Burning**:
+[k] **Random Mini Explosions on Burning**:
 . Burning enemies sometimes cause random small explosions.
 . Maybe just on them? Or very small radius?
 
@@ -1196,7 +1196,7 @@ continually create opportunities to dodge, turn, and retaliate.
 
 [ ] **UI Player Health**
 
-[ ] **(?) Fireball Travel Damage Increase**:
+[k] **(?) Fireball Travel Damage Increase**:
 . Reason for the player to go out and shoot from max range.
 
 [k] **Burn Slow**:
@@ -1208,12 +1208,12 @@ continually create opportunities to dodge, turn, and retaliate.
 [k] **While Moving, While Attacking**:
 . Passive bonus while moving, passive bonus while Attacking.
 
-[ ] **Bonus on >=3 Fireball targets hit**
+[k] **Bonus on >=3 Fireball targets hit**
 
 [k] **Small FireOrb generation passive**:
 . Small passive regeneration.
 
-[ ] **Auto Tristana Bomb**:
+[k] **Auto Tristana Bomb**:
 . Chance to place Tristana bomb on target.
 
 [ ] **(?) Big Cooldown?**
@@ -1231,10 +1231,10 @@ continually create opportunities to dodge, turn, and retaliate.
 [k] **Fireball Cooldown Reduction Mechanics**
 . Stuff like melee hits and/or Burning to reduce Fireball cooldown.
 
-[ ] **(?) After Crit Fail Success Stacking**:
+[k] **(?) After Crit Fail Success Stacking**:
 . After each non-crit, stack increase the chance of the next crit.
 
-[ ] **(?) Cinderia Mechanics**:
+[k] **(?) Cinderia Mechanics**:
 . Instead of card draft ideas, Cinderia seems to have good progression.
 . Roguelike unlocks, in-run ability talents, taint meter with curse.
 
@@ -1326,7 +1326,6 @@ Active abilities:
 # `2026-09-16`
 
 [ ] **Cosmetic Metaprogression**:
-. `thehuglet` idea first.
 . Reward for something specific and challenging, not just because.
 . Reward for "no hit run", tie it to achievements.
 
@@ -1350,8 +1349,7 @@ If RollTheBones is a thing:
 
 # `2026-09-13`
 
-[ ] **Passives**:
-
+[k] **Passives**:
 - After spellcast, gain bonus(es) (attackspeed?).
 - Melee attacks stack next spell bonus(es).
 - Every `n`-th (4th?) Fireball/Detonate has bonus.

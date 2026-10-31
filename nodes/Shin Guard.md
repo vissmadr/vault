@@ -19,7 +19,7 @@ context:
 
 Adam Wardzinski: #wip Butterfly Guard Encyclopedia NoGi
 Eoghan O'flanagan: #wip Shin to Shin
-Josh Saunders: #wip [Shin Guard](https://www.youtube.com/watch?v=32_G0KBI6QA)
+Josh Saunders: [Shin Guard](https://www.youtube.com/watch?v=32_G0KBI6QA)
 Lachlan Giles: various YouTube videos
 
 ## Setup

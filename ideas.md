@@ -1,3 +1,7 @@
+# `2026-11-01`
+
+[ ] First Attack on Enemy Bonus
+
 # `2026-10-30`
 
 [k] Held Meditate Abilities:
@@ -592,14 +596,14 @@ Try VoidSpirit rings
 > Multiple abilities into one is weird when we have many options.
 > Consider Fireball Parabola on Stationary?
 
-[ ] **Cind Parry**:
+[k] **Cind Parry**:
 . Playtest it better.
 
 [k] **Pango Swashbuckle**
 
-[ ] **(?) Travelling Damage Forward**
+[k] **(?) Travelling Damage Forward**
 
-[ ] **Focus on Cind mechanics maybe**:
+[k] **Focus on Cind mechanics maybe**:
 . Maybe the best roguelike progression yet.
 
 > Not sure about Omnislash & Remnant.
@@ -616,7 +620,7 @@ Try VoidSpirit rings
 [k] **Optional Parry/Shield Ability?**
 [k] **Parry vs Shield different abilities?**
 
-[ ] **On-cast Feel**:
+[k] **On-cast Feel**:
 . DD inspired screen shake on cast.
 
 # `2026-10-11`
@@ -641,7 +645,7 @@ DD Ideas:
 
 [ ] **Missing VFX juice**:
 . Missing screenshake on new abilities.
-[ ] **Stronger Hitflash**:
+[k] **Stronger Hitflash**:
 . More white hitflash for the enemies?
 
 [k] **FirePet Patch**:
@@ -685,18 +689,18 @@ DD Ideas:
 [k] **Slower Omnislash**:
 . Reduce the overall speeds a bit, to have more time.
 
-[ ] **(!) Fire Reduction**:
+[ ] **(?) Fire Reduction**:
 . Should not disturb the gameplay THAT much.
 . Opacities, less yellow, shorter trails, etc.
 
 [k] **Remnant NPC Behavior**
 
-[ ] **Remnant Smoke Appearance**:
+[k] **Remnant Smoke Appearance**:
 . Cinderia Shadow Clone appearance.
 . Also Zed W appearance.
 
 [k] **Remnant visual juice**
-[ ] **(?) Remnant circle aura**:
+[k] **(?) Remnant circle aura**:
 . Maybe for better readability?
 
 [k] **FireClone on Fire Orb Detonate**
@@ -710,17 +714,17 @@ DD Ideas:
 . Appears to strike, then dissapears.
 . Different from the Remnant.
 
-[ ] **Explosions**:
+[k] **Explosions**:
 . Work on improving the explosions and AOE damage overall.
 . Explosions have vfx on the ground, but what about burst particles?
 
 [k] **Remnant**:
 . While flying to be more like a fireball.
 
-[ ] **(?) Fire orbs arcing path**:
+[k] **(?) Fire orbs arcing path**:
 . Try instead of a straight line for them to wave around and fly towards targets.
 
-[ ] **Experiment Stationary player NPC**:
+[k] **Experiment Stationary player NPC**:
 . Or very slow.
 
 [k] **Machine Gore Experiment**
@@ -730,7 +734,7 @@ DD Ideas:
 > Blood Feedback:
 > So far 7/7.
 
-[ ] **Chain 3D asset**:
+[k] **Chain 3D asset**:
 . Think about this, what the best approach should be.
 
 [k] **Blood impact direction velocity**
@@ -769,7 +773,7 @@ DD Ideas:
 . Not sure about the pull, especially with walls.
 . Could do this fire-through-chain thing.
 
-[ ] **Better Fireball Hold Gizmo Appear Time**:
+[k] **Better Fireball Hold Gizmo Appear Time**:
 . Gizmo is slower showing up than the actual Fireball Direct hold duration.
 
 [k] **Better Beam Autoaim**:
@@ -805,7 +809,7 @@ Like for example tap to Shield, hold to Beam?
 [k] Is the movespeed faster now..?
 . Test against older commit.
 
-[ ] **(!) Game Mechanics Project**:
+[k] **(!) Game Mechanics Project**:
 . Small projects for all game mechanics.
 . Probably web, for the new website.
 . Centered design.
@@ -813,7 +817,7 @@ Like for example tap to Shield, hold to Beam?
 [k] **Chain Two Modes**:
 . Snatch (tap) vs launch (held).
 
-[ ] **(?) Shatter Auto-aim**:
+[k] **(?) Shatter Auto-aim**:
 . Consider auto-aim for the Shatter direction.
 
 # `2026-10-05`
@@ -832,13 +836,13 @@ Like for example tap to Shield, hold to Beam?
 . Something subtle on the ground to indicate where the parabola will fall.
 
 [k] **Beam Ability**
-[ ] **(?) Beam+Fireball Synergy**
+[k] **(?) Beam+Fireball Synergy**
 . Very powerful blast?
 . For that synergy the Beam prioritizes the Fireball.
 
-[ ] **(?) Chain+Fireball synergy**
+[k] **(?) Chain+Fireball synergy**
 . Not sure; Can ruin the Parabola and then Pull intent?
-[ ] **(?) Directional-only synergy**:
+[k] **(?) Directional-only synergy**:
 . Directional fireball, and the chain pops it, making it explode in circle AOE instead.
 . Kinda needs to be done very fast one after the other.
 . For that synergy the Chain prioritizes the Fireball.
@@ -848,7 +852,7 @@ Like for example tap to Shield, hold to Beam?
 
 [k] **(?) Laser-like Hitscan Ability?**
 
-[ ] **Intercept**:
+[k] **Intercept**:
 . First attack can intercept.
 . Having a short cooldown after no attacks, so that it's only the fresh first one.
 . Visualize on action bars UI by slightly changing the attack icon so it shows when you can intercept.
@@ -862,13 +866,13 @@ Like for example tap to Shield, hold to Beam?
 
 # `2026-10-04`
 
-[ ] **Fireball and Shatter extra VFX**:
+[k] **Fireball and Shatter extra VFX**:
 . Additional non-gameplay projectile particles along the way.
 . For fireball along the travel path.
 . For shatter as additional small fragments.
 . Basically tiny FireOrb visuals.
 
-[ ] **(?) Parry-like Ability?**:
+[k] **(?) Parry-like Ability?**:
 . Now we have the space for such an ability.
 . Doesn't need to be a literal shield or parry.
 . Could be Fiora/Beowulf/Romeo parry-like mechanic, where we absorb the hits, and counterattack, possibly with movement?
@@ -938,7 +942,7 @@ Like for example tap to Shield, hold to Beam?
 . Also for the FireballParabola, too.
 . Since we always have at least one Fireball, right?
 . And then leave a slot for some Ultimate ability?
-[ ] **(?) FireOrbs on Melee Only**:
+[k] **(?) FireOrbs on Melee Only**:
 . More direct, easier to count without looking at UI.
 
 [k] **Impact Direction Explosion**:
@@ -1086,7 +1090,7 @@ Story:
 . FireOrbs could be another thing, or not as projectiles, but maybe as style or whatever.
 . Or automatic agents.
 
-[ ] **Try Focus targeted continuous stream**:
+[k] **Try Focus targeted continuous stream**:
 . Continuous like the Engineer TL2 barrage.
 . Kinda like the Special, charge-based.
 

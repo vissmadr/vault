@@ -1,6 +1,8 @@
 # `2026-11-01`
 
-[ ] First Attack on Enemy Bonus
+[ ] Orb manual detonate screenshake.
+
+[ ] First attack on enemy bonus?
 
 # `2026-10-30`
 
@@ -1337,10 +1339,10 @@ Active abilities:
 . Can synergize well with the swap.
 
 If RollTheBones is a thing:
-[ ] **RTB Slot/Cards Visual**: In the center of the screen, could be the upper-middle, have like 1, 2, 3, cards/slots revealing/dropping for the 3 (or so) bonuses that you will have.
-[ ] **Variety not from Roguelike**: This mechanic could potentially give us the gameplay variety without needing to use roguelike mechanics. Like you adapt to whatever the current roll.
-[ ] **Lucky Rolls**: Some rolls could have a chance for sudden more bonus cards and stuff, or rarity for the buffs.
-[ ] **RARITY**: Cards can have rarity, which also works for the randomness factor, like buffs, but could be rare, epic, legendary, etc.
+[k] **RTB Slot/Cards Visual**: In the center of the screen, could be the upper-middle, have like 1, 2, 3, cards/slots revealing/dropping for the 3 (or so) bonuses that you will have.
+[k] **Variety not from Roguelike**: This mechanic could potentially give us the gameplay variety without needing to use roguelike mechanics. Like you adapt to whatever the current roll.
+[k] **Lucky Rolls**: Some rolls could have a chance for sudden more bonus cards and stuff, or rarity for the buffs.
+[k] **RARITY**: Cards can have rarity, which also works for the randomness factor, like buffs, but could be rare, epic, legendary, etc.
 
 # `2026-09-14`
 
@@ -1689,27 +1691,6 @@ Lightning-Meditate:
 
 # `2026-08-12`
 
-[ ] huglet visual ideas from the reference.
-
-```
-vissmadr — 9:55 PM
-Amazing, as usual
-I like how it's not simply fire orange-ish but it fades into this purple-magenta color
-looks awesome
-huglet [LUE!],  — 10:07 PM
-heh that's actually my secret sauce to nice looking VFX
-hue shifting everywhere
-almost every effect in my game has hue shifting over lifetime
-vissmadr — 10:10 PM
-I should play around with that, seems like a ton of value from a relatively simple concept
-embedFile("sietse") [FART],  — 10:11 PM
-Lue shifting
-huglet [LUE!],  — 10:16 PM
-it makes a world of a difference
-its especially potent when you spawn a cluster of particles with differing lifetimes, some will hue shift faster than others
-gives it chonk
-```
-
 Now that the design is heavy on the Meditate as a stance, I should play Melusine.
 Want to feel how the gameplay feels there, see if I can learn anything from her.
 
@@ -1770,7 +1751,7 @@ Burning and Scorch durations should be short by default.
 
 [k] Brand/Lich ultimate?
 
-[ ] Omnislash?
+[k] Omnislash?
 
 [k] Fiora ultimate?
 . Hitting a target many times activates the ring.

@@ -1,8 +1,41 @@
+# `2026-11-02`
+
+> Player gameplay actually feels great.
+
+[k] Burning simplification:
+. Only one boolean level.
+
 # `2026-11-01`
 
-[ ] Orb manual detonate screenshake.
+[k] Default orbs burning damage:
+. Same goes for Attach, otherwise it feels weird.
+
+[ ] Orb Attach ability passives:
+. Behaving like a "Hunter's Mark" in a way.
+. Maybe Trist bomb?
+
+[ ] First Boss.
+
+[ ] Advanced enemy attacks:
+[ ] Melee Dash attacks from mid range.
+[ ] Divinum mage attack.
+[ ] Melee AOE blast.
+
+[ ] Damage balancing.
+
+> Speedup the development now.
+
+[ ] Passives Cleanup.
+. Remove stuff that wont be used.
+
+[ ] Enemy stagger animation bug:
+. Enemies seem to be in stagger/idle animation even when they can move.
+. Beam does this against incoming melee for example.
+
+[k] Orb manual detonate screenshake.
 
 [ ] First attack on enemy bonus?
+. Passive for bonus on fresh enemy hit?
 
 # `2026-10-30`
 

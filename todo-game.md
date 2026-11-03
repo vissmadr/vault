@@ -1,4 +1,31 @@
+# `2026-11-03`
+
+[ ] Consider centered Orbs UI:
+. That probably means no Dash indicators.
+. Many games like these have no Dash indicators anyways.
+. Or they could still be somewhere, like to the side or another place.
+
+[ ] **(Denis) WoL Relic progression**:
+. Could go like Broken → Normal → Improved, etc.
+[ ] **(Denis) Could have combinations**:
+. Like WoL and MOBA games.
+[ ] (Denis) Research Elden Ring relics.
+[ ] (Denis) Channels should be stronger over time.
+
+[k] Fire burn damage logic:
+. Work on the logic of how burn gets applied.
+
+[k] Better FPS meter.
+
 # `2026-11-02`
+
+[k] Apply weather effect.
+
+[ ] Astral form ability.
+
+[k] **Minimalism decision**:
+. More WoL style where more gameplay less stats.
+. Not many numbers.
 
 > Player gameplay actually feels great.
 

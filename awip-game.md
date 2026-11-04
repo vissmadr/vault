@@ -1,4 +1,33 @@
+# `2026-11-04`
+
+[ ] **Think about RTB again**:
+. Could go for two abilities (Divinum) and then RTB cards.
+. Could have cards to activate, but some greed mechanic, possibly negative mods, punishing if activating too much.
+. This could be very very interesting, solving run variety without relying necessarily on roguelike mechanics.
+. Metaprogression could be directing the RTB bonuses towards stuff.
+
+Possible RTB Options:
+. Ability upgrade card?
+. Economic gold gain card?
+. Immolation.
+. Orb regeneration.
+. Orb size.
+. Sword bonus.
+. Movespeed.
+. Cooldown reduction.
+. Burn tickrate.
+. Burn spread.
+. Chrono.
+. FirePets.
+. Marks.
+. Random Lesh fire circles around player.
+. Clones?
+
+[k] Immolation ability.
+
 # `2026-11-03`
+
+[k] Continue `*Design-S` and `*Design-A` brainstorms.
 
 [ ] Consider centered Orbs UI:
 . That probably means no Dash indicators.
@@ -1412,6 +1441,7 @@ If RollTheBones is a thing:
 # `2026-09-13`
 
 [k] **Passives**:
+
 - After spellcast, gain bonus(es) (attackspeed?).
 - Melee attacks stack next spell bonus(es).
 - Every `n`-th (4th?) Fireball/Detonate has bonus.

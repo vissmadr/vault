@@ -225,3 +225,9 @@ I would have written a shorter letter, but did not have the time.
 
 A harmful truth is better than a useful lie.
 \- Thomas Mann
+
+In a discipline where everything is constantly changing, focus on the underlying principles that don't.
+\- John Danaher
+
+Find the things that remain true across different situations, and you can simplify the complexity.
+\- John Danaher

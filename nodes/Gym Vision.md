@@ -13,6 +13,8 @@ The vision and planning for my grappling gym.
 
 ## Onboarding
 
+## Communication Between Coaches
+
 ## Culture
 
 ## Ranks
@@ -79,6 +81,17 @@ He should have solid fundamentals, and should always have a sense of direction f
 
 ## Chill Space
 
+## Buddy
+
+## Female Buddy
+
+## Gym Goals
+
+## Coaches Meetings
+
+Discussing the goals of the gym, and the progress of those goals.
+Discussing individuals and their goals and progress.
+
 ## Rules
 
 ## Safety
@@ -86,6 +99,12 @@ He should have solid fundamentals, and should always have a sense of direction f
 ## Bar
 
 ## Receptionist
+
+## Individual Progress Reviews
+
+## Anonymous Talks
+
+## Warning Talks
 
 ## Strength and Conditioning
 
@@ -114,3 +133,9 @@ He should have solid fundamentals, and should always have a sense of direction f
 ## Wall Member Avatars
 
 ## Rehabilitation
+
+## Website
+
+## Website Calendar
+
+## Contact Phone

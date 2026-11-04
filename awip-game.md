@@ -1,18 +1,24 @@
 # `2026-11-04`
 
+[ ] **FATHER**
+. Reminder.
+
 [ ] **Think about RTB again**:
 . Could go for two abilities (Divinum) and then RTB cards as third.
 . Could have cards to activate, but some greed mechanic, possibly negative mods, punishing if activating too much.
 . This could be very very interesting, solving run variety without relying necessarily on roguelike mechanics.
 . Metaprogression could be directing the RTB bonuses towards stuff.
+. "Wildcards" placeholder name.
+. Possibly instant-effect Wildcards too?
+. Like a deckbuilder in a way.
+. Tap vs held for draw or discard?
+. Environmental wildcards?
 
-Possible RTB Options:
-. Ability upgrade card?
-. Economic gold gain card?
+Possible Wildcard Options:
 . Immolation.
-. Orb regeneration.
-. Orb size.
-. Sword bonus.
+. Orbs regeneration.
+. Orbs size (magnitude) increase.
+. Sword melee bonus.
 . Movespeed.
 . Cooldown reduction.
 . Burn tickrate.
@@ -22,6 +28,9 @@ Possible RTB Options:
 . Marks.
 . Random Lesh fire circles around player.
 . Clones?
+. Ability upgrade card?
+. Economic gold gain card?
+. Permanent run bonuses?
 
 [k] Immolation ability.
 

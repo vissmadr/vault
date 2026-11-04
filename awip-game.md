@@ -1,6 +1,17 @@
 # `2026-11-04`
 
-[ ] Think about potential auto-attach design:
+[ ] **Better orb auto-attach**:
+. Think about the post-Detonate lock.
+. First priority are the player intention and ease of use.
+. Think about the circle visual and if the literal orbs should have their own radii for the attach instead.
+. Think about the orbs contact burn in relation to the attach mechanic.
+
+[ ] Cards metaprogression:
+. Could have card deck before the game.
+. Cards vendor that you use resources to buy from.
+. Can still have random cards.
+
+[k] Think about potential auto-attach design:
 . This will solve the problem of requiring an attach button.
 . Could take some time to auto-attach, so the player can explode early.
 . Could be fast, too.
@@ -9,7 +20,7 @@
 [ ] **FATHER**
 . Reminder.
 
-[ ] **Think about RTB again**:
+[ ] **Think about RTB Cards again**:
 . Could go for two abilities (Divinum) and then RTB cards as third.
 . Could have cards to activate, but some greed mechanic, possibly negative mods, punishing if activating too much.
 . This could be very very interesting, solving run variety without relying necessarily on roguelike mechanics.

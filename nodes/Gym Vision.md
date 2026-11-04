@@ -9,6 +9,10 @@ The vision and planning for my grappling gym.
 
 ---
 
+Metro is important
+
+The idea of failed businesses that sell their places.
+
 #wip
 
 ## Onboarding

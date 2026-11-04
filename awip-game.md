@@ -1,5 +1,11 @@
 # `2026-11-04`
 
+[ ] Think about potential auto-attach design:
+. This will solve the problem of requiring an attach button.
+. Could take some time to auto-attach, so the player can explode early.
+. Could be fast, too.
+. The other Meditte kit abilities aren't really that needed.
+
 [ ] **FATHER**
 . Reminder.
 
@@ -13,6 +19,7 @@
 . Like a deckbuilder in a way.
 . Tap vs held for draw or discard?
 . Environmental wildcards?
+. Wildcard sets where you pick something for possible future set completion.
 
 Possible Wildcard Options:
 . Immolation.

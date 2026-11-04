@@ -11,9 +11,13 @@ The vision and planning for my grappling gym.
 
 #wip
 
+## Onboarding
+
 ## Culture
 
 ## Ranks
+
+#wip
 
 General progression and requirements based on rank.
 

@@ -1,7 +1,7 @@
 # `2026-11-04`
 
 [ ] **Think about RTB again**:
-. Could go for two abilities (Divinum) and then RTB cards.
+. Could go for two abilities (Divinum) and then RTB cards as third.
 . Could have cards to activate, but some greed mechanic, possibly negative mods, punishing if activating too much.
 . This could be very very interesting, solving run variety without relying necessarily on roguelike mechanics.
 . Metaprogression could be directing the RTB bonuses towards stuff.

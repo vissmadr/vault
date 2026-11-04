@@ -11,14 +11,10 @@
             "id": "f30a7a2a1099c9dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nodes/Lessons from Sebastian.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Lessons from Sebastian"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -70,8 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "right": {
     "id": "a8b21f525f867907",
@@ -154,6 +149,7 @@
   },
   "active": "f30a7a2a1099c9dd",
   "lastOpenFiles": [
+    "nodes/Lessons from Sebastian.md",
     "nodes/Lesson from Sebastian.md~",
     "nodes/Lesson from Sebastian.md",
     "nodes/Pareto Principle.md",
@@ -189,7 +185,6 @@
     "_Draft.md~",
     "nodes/LLM Code Optimization.md~",
     "_System.md~",
-    "nodes/WebGL2 Texture Formats.md~",
     "Untitled.canvas",
     "las.png",
     "Argus.canvas",

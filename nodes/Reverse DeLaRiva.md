@@ -12,10 +12,15 @@ context:
 
 ---
 
+## Butterfly Connection
+
+#wip
+
 ## Defending Knee Slice
 
-Have a solid RDLR control with the inside leg.
-Arms **FRAME** the opponent to prevent him from getting too close.
+**Solid Control**: The inside leg hooks deep and lifts up.
+
+**Upper Frames**: Arms frame the opponent to prevent him from getting too close.
 
 **Shrimp Leg Pull**: Shrimp out with the outside leg, and pull the controlled knee of the opponent down to the ground with your inside leg.
 . Best against a pushing opponent.

@@ -1,9 +1,18 @@
 # `2026-11-06`
 
-[ ] **Spell card and effect card**:
+[ ] Card appear design:
+. The noise dissolve thing.
+
+[ ] Meditate toggle setting.
+. Optional held vs toggled.
+. Both Dash and Meditate cancel out of it.
+
+[k] Set wildcards no longer experimental.
+
+[k] **Spell card and effect card**:
 . Independent gain and cooldowns.
 
-[ ] (?) Discard on hold?:
+[k] ~(?) Discard on hold?:~
 . Or maybe not.
 
 [k] **Try Standing Meditate**:
@@ -28,10 +37,13 @@ Cards can be the roguelike mechanic.
 While playing, choose which cards to add in addition to your deck.
 
 New Cards Ideas:
-. Abilities/Spells?
+. Abilities/Spells.
+. Card load speed buff.
+. Card rarity buff.
 . Next spell use has no cooldown.
 . AOE damage blast around the player.
 . Marks all nearby enemies.
+. Berserk card.
 . (?) Recharge all Orbs.
 . (?) Free Orbs for a short time.
 . (?) Cooldowns and Orbs progress `n` seconds into the future.

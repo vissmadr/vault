@@ -7,35 +7,40 @@ context:
 
 # Shin Guard
 
-#empty
 #wip
 
 ---
 
-> One of my best skills is getting to SingleX from Shin-to-Shin.
-> \- Lachlan Giles
+## Benefits
 
-## Resources
+**Connection**: Difficult for an opponent to pull out once you connect the shin guard.
+. Forces stalling opponents into grappling distance.
 
-Adam Wardzinski: #wip Butterfly Guard Encyclopedia NoGi
-Eoghan O'flanagan: #wip Shin to Shin
-Josh Saunders: [Shin Guard](https://www.youtube.com/watch?v=32_G0KBI6QA)
-Lachlan Giles: various YouTube videos
+**Offense**: Can off-balance the opponent, sweep, wrestle-up, enter into [[Irimi Ashi]], enter into [[X Guard]].
+
+**Range**: Can be used as both a long-range and close-range guard.
 
 ## Setup
 
-Whichever of the opponent's legs is in front, aim for that leg.
+Connect to the front leg of the opponent with the same-side arm and leg.
 
-Shin connection is foot inside, knee outside.
-Grab deep with the arm and have your head tight to his leg.
+**Leg Connection**: The foot goes inside, knee outside.
+. Constantly push your foot tight into his shin.
 
-Rotate a bit to the outside of the opponent knee.
-This helps to prevent pressure and access to underhooks and guillotines.
+**Close Range**: Grab around his knee deep with your arm.
+. Keep your head and upper-body connected tight to him.
+. Angle yourself around his leg to the outside.
+. This helps to prevent pressure and access to underhooks and guillotines.
 
-The other arm and leg are free to play.
-It's common for the free arm to push and rotate the opponent's knee.
+**Far Range**: Grab tightly behind his knee.
+. Elbow stays tight inside your leg.
+. This helps to defend against underhooks.
+
+Your other side arm and leg are both versatile and free to play.
 
 ## Attacks
+
+#wip
 
 Attacks from the Shin Guard position.
 

@@ -1,11 +1,23 @@
 # `2026-11-06`
 
-[ ] Card appear design:
+[k] Redesign UI layout.
+
+[k] Dash action bar icon.
+
+[ ] **Convert abilities to cards.**
+[ ] **Convert passives to cards.**
+
+[ ] **Major abilities cleanup.**
+
+[k] Try Meditate instant detonate orbs.
+
+[ ] **Card appear design:**
 . The noise dissolve thing.
 
-[ ] Meditate toggle setting.
+[k] ~Meditate toggle setting.~
 . Optional held vs toggled.
 . Both Dash and Meditate cancel out of it.
+. (!) Tap is for the Orb launch...
 
 [k] Set wildcards no longer experimental.
 
@@ -19,9 +31,9 @@
 . More like a stance toggle for another ability kit.
 . Standing in place, with the focus circle for projectiles or teleports.
 . (Optional) Can solve the orb visibility problem too.
-[ ] Potential Convergence again.
+[k] ~Potential Convergence again.~
 
-[ ] Meditate teleport ground stomp animation?
+[ ] (?) Meditate teleport ground stomp animation?
 
 [ ] (?) Meditate double-variant cards?:
 . Probably not.

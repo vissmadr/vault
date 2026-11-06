@@ -1,6 +1,48 @@
+# `2026-11-06`
+
+[ ] **Spell card and effect card**:
+. Independent gain and cooldowns.
+
+[ ] (?) Discard on hold?:
+. Or maybe not.
+
+[k] **Try Standing Meditate**:
+. More like a stance toggle for another ability kit.
+. Standing in place, with the focus circle for projectiles or teleports.
+. (Optional) Can solve the orb visibility problem too.
+[ ] Potential Convergence again.
+
+[ ] Meditate teleport ground stomp animation?
+
+[ ] (?) Meditate double-variant cards?:
+. Probably not.
+
+[k] Consider only one ability as Special:
+. Others could come from Cards.
+
+[k] Think about reason to use Cards on timing:
+. Could think about most (or all) cards to have something when you activate them.
+. The idea is to not just have to instantly click any beneficial card, but to time when.
+
+Cards can be the roguelike mechanic.
+While playing, choose which cards to add in addition to your deck.
+
+New Cards Ideas:
+. Abilities/Spells?
+. Next spell use has no cooldown.
+. AOE damage blast around the player.
+. Marks all nearby enemies.
+. (?) Recharge all Orbs.
+. (?) Free Orbs for a short time.
+. (?) Cooldowns and Orbs progress `n` seconds into the future.
+
+Study references.
+
 # `2026-11-04`
 
-[ ] **Better orb auto-attach**:
+[k] ~Study 9Kings more.~
+
+[k] **Better orb auto-attach**:
 . Think about the post-Detonate lock.
 . First priority are the player intention and ease of use.
 . Think about the circle visual and if the literal orbs should have their own radii for the attach instead.
@@ -16,9 +58,6 @@
 . Could take some time to auto-attach, so the player can explode early.
 . Could be fast, too.
 . The other Meditte kit abilities aren't really that needed.
-
-[ ] **FATHER**
-. Reminder.
 
 [ ] **Think about RTB Cards again**:
 . Could go for two abilities (Divinum) and then RTB cards as third.

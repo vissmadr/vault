@@ -143,3 +143,5 @@ Discussing individuals and their goals and progress.
 ## Website Calendar
 
 ## Contact Phone
+
+## Coffee Machine

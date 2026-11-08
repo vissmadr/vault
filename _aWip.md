@@ -1,13 +1,142 @@
+# `2026-11-08`
+
+[ ] Orb recharge card:
+. Active recharge instead of buff.
+
+> Prefer active action cards instead of buff duration cards.
+
+[ ] Big cleanup:
+. Lots of redesigns recently.
+
+> Combining mage and rogue seems like the right approach.
+> After all, the initial concept was of a "spellblade", right?
+
+[ ] Consider 2 cards again:
+. Both Shunpo and orb Launch as actions.
+. Abilities share orbs resource.
+. _Choose to spend as caster or assassin._
+. Slow orb regeneration.
+. Final melee attack generates orb?
+[k] Simplify Shunpo:
+. If we have two abilities that consume orbs.
+. Shunpo should no longer attach probably.
+. Attach makes it too overloaded.
+
+> Maybe Shunpo _resets_ are just too much.
+> They make the whole game revolve around them.
+
+[ ] Cleanup deprecated:
+. Chain, Meditate stuff, Chrono.
+
+> Orb lunge attack seems to suck.
+> One and a half attempts already.
+
+> Dash mark sucks.
+
+[k] Dash Mark?:
+. For Shunpo.
+
+[k] (?) Orb detonation card?:
+. Detonates all orbs.
+. Can be the player orbs, or attached ones.
+
+[ ] **Shunpo blur visual**:
+. If it's core, then it needs to look really good.
+
+[ ] Sword hand fire toggle:
+. Doesn't seem to work, it's always on.
+
+[ ] Echo card seems annoying:
+. Probably remove it entirely.
+
+[k] Attach on Shunpo?
+
+[ ] Cards config TOML.
+
+# `2026-11-07`
+
+[k] Shunpo?:
+. Maybe Orbs as Shunpo ammo?
+. Just felt too good.
+
+[ ] Free Cards?:
+. Instead of slot types.
+
+[k] Restore Bubble as passive?
+
+[k] Consider 3 card slots:
+. Utility, Action, Buff?
+
+[k] ~(?) Mirror card mirror art:~
+. Inside the mirror to show other card.
+
+[k] Rethink Meditate again:
+. Orbs are cool, but is Meditate cool right now?
+. Is it boring to use?
+[k] Maybe old Meditate with only on-contact detonations.
+. No need for permutation meditate kit abilities.
+
+[k] Card draft design cheats:
+. Not being able to draft for example double Immolate.
+. Or cards that would break the game if together.
+[k] Card minimum count:
+. Need to have a minimum cards count to prevent bugs.
+
+[k] ~Special as weapon/technique slot?~
+. Fantasy/aesthetic that gives weapons an ability.
+. Shunpo.
+. Fireball.
+. Marks maybe. Melee hit that applies full marks on an enemy.
+. Clones maybe.
+. Chain.
+. FirePets.
+
+[ ] Reduce auto-targeting cone angle.
+
+[k] Think of Card types.
+
+New Cards Ideas:
+
+**Incubator**: While held, upgrade the cards in the other slot. Consume for a major (legendary/chaos) upgrade to the card in the other slot.
+**Mirror**: Copy the other card.
+**Sacrifice**: Stacking sacrifice of the other card `n` times for a powerful effect/transform.
+**Relay**: Using the other card charges this one. Active to cash out.
+**Fusion**: Consume both cards for a combined effect determined by their general types.
+**Quickdraw**: Stronger if used immediately after loading.
+**Learning**: Improves while held.
+**Seal**: Card slot is locked until it the seal expires.
+
+Old Cards Ideas:
+
+- Powerful, but it destroys the next `n` cards drawn.
+- Buff that increases card drawing (loading) speed for a time.
+- Buff that increases card rarity for a time.
+- Support card that increases the rarity of the other slot card.
+- Card that gains stacks every time you use the other slot card. Upon `n` stacks, something powerful.
+- Instantly loads two higher-rarity cards.
+- Chaos card Berserk the player, he deals and takes double damage.
+- Chaos card Berserk nearby enemies, they deal and takes double damage.
+- Fill all player Orbs.
+- Buff that increases Orbs regeneration for a time.
+- Buff that increases magnitude/size of the Orbs for a time.
+- Time slow effect.
+- Shield
+- Diabolic Edict
+- Soul Link
+- Corpse Explosion
+
+[ ] Helpers get to design cards.
+
 # `2026-11-06`
 
 [k] Redesign UI layout.
 
 [k] Dash action bar icon.
 
-[ ] **Convert abilities to cards.**
-[ ] **Convert passives to cards.**
+[k] **Convert abilities to cards.**
+[k] **Convert passives to cards.**
 
-[ ] **Major abilities cleanup.**
+[k] **Major abilities cleanup.**
 
 [k] Try Meditate instant detonate orbs.
 
@@ -33,9 +162,9 @@
 . (Optional) Can solve the orb visibility problem too.
 [k] ~Potential Convergence again.~
 
-[ ] (?) Meditate teleport ground stomp animation?
+[k] ~(?) Meditate teleport ground stomp animation?~
 
-[ ] (?) Meditate double-variant cards?:
+[k] ~(?) Meditate double-variant cards?:~
 . Probably not.
 
 [k] Consider only one ability as Special:
@@ -47,18 +176,6 @@
 
 Cards can be the roguelike mechanic.
 While playing, choose which cards to add in addition to your deck.
-
-New Cards Ideas:
-. Abilities/Spells.
-. Card load speed buff.
-. Card rarity buff.
-. Next spell use has no cooldown.
-. AOE damage blast around the player.
-. Marks all nearby enemies.
-. Berserk card.
-. (?) Recharge all Orbs.
-. (?) Free Orbs for a short time.
-. (?) Cooldowns and Orbs progress `n` seconds into the future.
 
 Study references.
 
@@ -83,7 +200,7 @@ Study references.
 . Could be fast, too.
 . The other Meditte kit abilities aren't really that needed.
 
-[ ] **Think about RTB Cards again**:
+[k] **Think about RTB Cards again**:
 . Could go for two abilities (Divinum) and then RTB cards as third.
 . Could have cards to activate, but some greed mechanic, possibly negative mods, punishing if activating too much.
 . This could be very very interesting, solving run variety without relying necessarily on roguelike mechanics.
@@ -119,7 +236,7 @@ Possible Wildcard Options:
 
 [k] Continue `*Design-S` and `*Design-A` brainstorms.
 
-[ ] Consider centered Orbs UI:
+[k] Consider centered Orbs UI:
 . That probably means no Dash indicators.
 . Many games like these have no Dash indicators anyways.
 . Or they could still be somewhere, like to the side or another place.
@@ -171,10 +288,10 @@ Possible Wildcard Options:
 
 > Speedup the development now.
 
-[ ] Passives Cleanup.
+[k] Passives Cleanup.
 . Remove stuff that wont be used.
 
-[ ] Enemy stagger animation bug:
+[k] ~Enemy stagger animation bug:~
 . Enemies seem to be in stagger/idle animation even when they can move.
 . Beam does this against incoming melee for example.
 
@@ -466,7 +583,7 @@ Possible Wildcard Options:
 
 > "Slow down..."
 
-[ ] **(?) Remove Some Clones?**:
+[k] **(?) Remove Some Clones?**:
 . Could be getting too much and inconsistent for the player.
 . Clones are everywhere now.
 . Could be cool though.
@@ -714,7 +831,7 @@ Try VoidSpirit rings
 > For example 'Swing', 'Thurst', 'Sweep', etc.
 > Those are even in the basic combo.
 
-[ ] **Fireball Control Rework**:
+[k] **Fireball Control Rework**:
 . Auto-aimed Direct Fireball by default.
 . Can use Parabola if stopped.
 
@@ -852,14 +969,14 @@ DD Ideas:
 [k] ~**(?) Meditate abilities?**:~
 . Like the design in the past?
 
-[ ] **(?) Meditate RtB Buff Pop?**:
+[k] **(?) Meditate RtB Buff Pop?**:
 . Could be made to pop an orb for a random buff?
 . Could be interesting gameplay actually.
 . Could replace the shot-out Detonate on tap.
 . Could give Immolate, lol. Immolate duration per pop?
 . The pops could be small AOE still, melee around the player.
 
-[ ] **Hold ability for after invulnerable**:
+[k] **Hold ability for after invulnerable**:
 . Should be able to start holding the Fireball and stuff for after the Omnislash or Remnant.
 . This will allow to fire the Fireball directly.
 

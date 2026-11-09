@@ -1,4 +1,53 @@
+# `2026-11-09`
+
+[k] Instant Seal Card?
+. Instead of Mark expiration blast.
+. Instantly detonate all marks, removing them.
+. Gameplay is better when it's instant consume.
+[k] Reap card is nice, but needs a visual:
+. And possibly a shorter duration.
+[k] Remove Haunt card.
+
+> Shunpo is amazing for gameplay right now.
+
+[k] Better Shunpo mechanics:
+. Better targeting, better jumps.
+
+> Three Orbs as Card indicators?
+> I mean it makes sense...
+> Orbs are from _her_.
+> She always had a thing about fate.
+
+[k] Shunpo mark related card?:
+. Could clear marks on all enemies.
+. Could be buff where marks progress much faster.
+
+[k] Shunpo mark reduction on melee hit.
+
+[k] Three cards again?
+[k] Card slot types again.
+
+> Two cards seems boring...
+> Maybe most magic comes in this form?
+> Instead of the Orbs launch thing.
+> These slots are the player's spells.
+> Inherent abilities of the spellblade.
+> Random element to those spells, chaotic.
+> That's why visualized as cards.
+
+[k] Think about Orbs more.
+> Doesn't really seem that much fun to Launch.
+> People just don't do it. Even I don't do it.
+
+> Shunpo marks are great!
+> This solves the resource problem.
+
 # `2026-11-08`
+
+[k] (?) Reverse Shunpo marks?:
+. Shunpo cooldown per individual enemy.
+. Can Shunpo an enemy by default, but not repeatedly.
+. Multiple times for elites?
 
 [ ] Orb recharge card:
 . Active recharge instead of buff.
@@ -11,7 +60,7 @@
 > Combining mage and rogue seems like the right approach.
 > After all, the initial concept was of a "spellblade", right?
 
-[ ] Consider 2 cards again:
+[k] Consider 2 cards again:
 . Both Shunpo and orb Launch as actions.
 . Abilities share orbs resource.
 . _Choose to spend as caster or assassin._
@@ -25,7 +74,7 @@
 > Maybe Shunpo _resets_ are just too much.
 > They make the whole game revolve around them.
 
-[ ] Cleanup deprecated:
+[k] Cleanup deprecated:
 . Chain, Meditate stuff, Chrono.
 
 > Orb lunge attack seems to suck.
@@ -46,12 +95,13 @@
 [ ] Sword hand fire toggle:
 . Doesn't seem to work, it's always on.
 
-[ ] Echo card seems annoying:
+[k] Echo card seems annoying:
 . Probably remove it entirely.
 
 [k] Attach on Shunpo?
 
-[ ] Cards config TOML.
+[ ] Cards config TOML:
+. Cards should probably have their own configs.
 
 # `2026-11-07`
 
@@ -59,7 +109,7 @@
 . Maybe Orbs as Shunpo ammo?
 . Just felt too good.
 
-[ ] Free Cards?:
+[k] Free Cards?:
 . Instead of slot types.
 
 [k] Restore Bubble as passive?

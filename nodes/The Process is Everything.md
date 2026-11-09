@@ -38,6 +38,7 @@ The best game design emerges during the game development process.
 **Criticism**: Try to be very critical of your own ideas and design.
 . Skepticism and criticism should be an iterative process, going through old ideas from time to time.
 . Try to calibrate everything, think about if it's still good, and think about if it still fits the current design.
+. Always be honest. Do not lie to yourself.
 
 **Faith**: Believe that you will eventually be able to solve any design problem.
 . It might not be today, or the next month, but game design seems to always have good solutions.
@@ -50,4 +51,4 @@ The best game design emerges during the game development process.
 > There were elegant solutions to even the most difficult or seemingly impossible problems.
 
 > The possible design space is just way too big for unsolvable problems to be able to easily exist.
-> Keep trying. It's a grind.
+> It's statistically unlikely that you will encounter something truly unsolvable. Keep grinding.

@@ -1,9 +1,53 @@
+# `2026-11-10`
+
 # `2026-11-09`
+
+[k] Color Experiments
+
+Cards charges?
+. Some cards don't make much sense with only one use, for example GP bombs.
+. Like maybe 3 charges or something to be used fast.
+. Why not some cards with charges.
+
+More melee and close range cards.
+Shunpo gap-close into melee range spell.
+Spellblade feel.
+
+Cards ideas:
+- Chaos card that you hold greedy for n time, but it explodes in random time if you don't drop it.
+- Chaos projectile that you charge and release, but it might explode in your hands if you don't release fast enough.
+- Berserk AOE zone.
+- Chaos heal Oracle-like.
+- Chaos Diabolic Edict with friendly fire.
+
+Cards ideas:
+- Marks
+- Ground zones stuff
+- Old Vortex-ish thing
+- Orbiting projectiles
+- Diabolic Edict
+- Battering Ram: Launch an enemy forward, damaging enemies it collides with.
+- Bladestorm/Whirlwind
+- Flashpoint: Consume an enemy’s accumulated heat for immediate damage and a burst of explosive fragments.
+- Corpse Explosion
+- Tunnel Vision: focus on one enemy, dealing more damage to it, but not to others. Can we connect visuals to that, like blur others?
+- Fireball Array: Loads 3 Fireball cards
+- Frenzy (chaos): Strong bonuses, but cannot stop only melee attacking for the next n seconds.
+- Bomb: needs charges probably.
+- Sword Enchant: Buff to next melee attack
+- Sword Enchants: Buff to next n melee attacks
+- Chaos Bomb: Alchemist; On a timer and have to release it fast. Friendly fire.
+- ChaosFlames: Buff to fire but can also hurt you.
+- ChaosPets: Spawns powerful ChaosPets that are aggressive towards everything, player included.
+- ChaosBlast: Powerful damage, but seals slot for n seconds if it doesn't kill the target.
 
 Card that needs to consume a card.
 
-Exodia card ideas.
-Click to discard, but if combo then it's good.
+? Exodia card ideas.
+? Click to discard, but if combo then it's good.
+
+[ ] Card effects while held:
+. Passive while held, stops when cast.
 
 [k] Instant Seal Card?
 . Instead of Mark expiration blast.

@@ -1,5 +1,10 @@
 # `2026-11-09`
 
+Card that needs to consume a card.
+
+Exodia card ideas.
+Click to discard, but if combo then it's good.
+
 [k] Instant Seal Card?
 . Instead of Mark expiration blast.
 . Instantly detonate all marks, removing them.
@@ -49,7 +54,7 @@
 . Can Shunpo an enemy by default, but not repeatedly.
 . Multiple times for elites?
 
-[ ] Orb recharge card:
+[k] ~Orb recharge card:~
 . Active recharge instead of buff.
 
 > Prefer active action cards instead of buff duration cards.

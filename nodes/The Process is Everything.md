@@ -30,6 +30,24 @@ The best game design emerges during the game development process.
 
 **Cohesiveness**: When you have a number of unrelated good things, try to fill the gaps around them in order to create a cohesive whole.
 . Think of the good ideas as Nodes, and all the rest as links that must connect them into a cohesive whole.
+. Sometimes you have to reject one good idea in order to save other good ideas. Some things just don't work well together.
 
 **Simplicity**: Always iterate and try to simplify good ideas.
 . Find out what makes them good by stripping them down into their bare minimum form.
+
+**Criticism**: Try to be very critical of your own ideas and design.
+. Skepticism and criticism should be an iterative process, going through old ideas from time to time.
+. Try to calibrate everything, think about if it's still good, and think about if it still fits the current design.
+
+**Faith**: Believe that you will eventually be able to solve any design problem.
+. It might not be today, or the next month, but game design seems to always have good solutions.
+. Sometimes the game will change so much that past problems get solved or cleaned up naturally.
+. Sometimes take a big step back and think outside of the box.
+. Focusing on a problem way too much often amplifies it needlessly.
+. Give it time while you work on other problems.
+
+> In my experience, there has never been an unsolvable game design problem yet.
+> There were elegant solutions to even the most difficult or seemingly impossible problems.
+
+> The possible design space is just way too big for unsolvable problems to be able to easily exist.
+> Keep trying. It's a grind.

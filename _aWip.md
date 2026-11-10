@@ -1,5 +1,19 @@
 # `2026-11-10`
 
+[ ] Negative visual effect experiment.
+
+[ ] See through Chaos idea.
+
+[k] Chaos flicker bug on time stop.
+
+[k] Chaos visual research.
+
+[k] Burnout flash VFX.
+
+[k] Hysteria Card:
+. Berserk AOE effect.
+[ ] Refactor & cleanup.
+
 # `2026-11-09`
 
 [k] Color Experiments
@@ -13,15 +27,20 @@ More melee and close range cards.
 Shunpo gap-close into melee range spell.
 Spellblade feel.
 
+Lightning as a powerful but quickdraw element?
+Fire as normal.
+Chaos as double-edged.
+
 Cards ideas:
 - Chaos card that you hold greedy for n time, but it explodes in random time if you don't drop it.
 - Chaos projectile that you charge and release, but it might explode in your hands if you don't release fast enough.
 - Berserk AOE zone.
 - Chaos heal Oracle-like.
 - Chaos Diabolic Edict with friendly fire.
+- (Lightning?) Card that appears very briefly and disappears fast, testing player reaction.
 
 Cards ideas:
-- Marks
+- Weakpoints
 - Ground zones stuff
 - Old Vortex-ish thing
 - Orbiting projectiles
@@ -40,6 +59,7 @@ Cards ideas:
 - ChaosFlames: Buff to fire but can also hurt you.
 - ChaosPets: Spawns powerful ChaosPets that are aggressive towards everything, player included.
 - ChaosBlast: Powerful damage, but seals slot for n seconds if it doesn't kill the target.
+- ChaosBlastMelee: Same as above but melee range for the instant kill evaluation.
 
 Card that needs to consume a card.
 

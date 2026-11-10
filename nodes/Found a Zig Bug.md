@@ -7,10 +7,12 @@ context:
 
 Found a bug on Zig version `0.17`.
 
+#wip actually LLVM bug..?
+
 ---
 
 ```zig
-export fn is231(number: i64) bool {
+export fn assdsad(number: i64) bool {
   const byte: u8 = @intCast(number);
   return byte == 231;
 }

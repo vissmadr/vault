@@ -1,8 +1,129 @@
+# `2026-11-13`
+
+[ ] Cards debug.
+[ ] Cards configuration.
+
+[ ] Transform some Chaos cards.
+
+[ ] Time Lapse bossfight.
+[ ] From which you get the Time Lapse card as reward.
+
+> Think about reducing Chaos cards.
+> Or a better way to discard them.
+
+[k] Simpler time lapse:
+. Only the player.
+
+[k] Remove time lapse.
+[ ] Time Lapse clock ticking sound.
+
+# `2026-11-12`
+
+[ ] Two card decks:
+. One preset, one random.
+. Card covers show which deck the loading card belongs to.
+. Maybe around 9-12 cards for the preset deck? Like 3-4 for each slot.
+. Debug menu for the presets for now.
+
+[ ] Fireball visual tuning:
+. Smoke with embers is kinda off.
+. Fireball needs to look juicy.
+
+[k] Time Lapse heavy refactor and bug hunt.
+
+[k] Weakpoints card.
+
+[ ] Seer normal punch card:
+. Based on movespeed the last few seconds.
+
+[ ] Stacking attacks release card:
+. Attacks stack a bonus that can be released.
+. (!) Getting hit resets the stacks.
+[ ] Stacking cards release card:
+. Cards used stack a bonus that can be released.
+. (!) Getting hit resets the stacks.
+. Less stacks maximum.
+
+[ ] Progressive movement slow card:
+. Some bonus that progressively slows your movement.
+. (?) Continuous Fireball faster loading?
+
+> Chaos element should be more rare.
+> Keep Fire as the main element.
+> Something like 80/20 aesthetics.
+> Should feel more rare and powerful.
+
+> Should not have mediocre cards.
+> Every single card should be good.
+
+Continue in `pro.md` file.
+
+[ ] (?) Wisdom card:
+. Optional, not sure.
+. Utility card that offers level-up bonuses.
+. This is how we connect the slight roguelike mechanics.
+. Automatically solves the problem of when to pause.
+. Can re-use the cards buttons for the choice.
+
+[k] Chaos 'Time Lapse' card:
+. Returns to HP `n` time ago.
+. Maybe position too.
+. The whole environment?
+. Time slow into return?
+
+[ ] Chaos Bolt card:
+. (?) Spawns Chaos Pets.
+
+[ ] Chaos pets.
+
+[k] Bomb card.
+[k] Chaos bomb card.
+
+[k] Remove static eruption cards.
+
+# `2026-11-11`
+
+[k] Update self-inflicted chaos damage.
+
+[k] Fire Eruption card.
+[k] Chaos Eruption card.
+
+[k] Self-inflicted damage should trigger hit vfx.
+
+[k] Discard design:
+. (!) Could be a default countdown for Chaos cards.
+. (!) Some of them can have their effect related to the countdown, like quickdraws or reverse.
+[ ] Better countdown UI.
+
+[ ] Better card config TOML files:
+. Think about how to make this good.
+
+[k] ~Hitstop on Burnout.~
+
+[k] Chaos execute card.
+[k] Execute short pull towards hit.
+[k] Delayed reward/harm.
+[ ] Chaos execute card visuals:
+. Juice it up when it hits/kills.
+
+[k] Frenzy card.
+[ ] Frenzy visuals.
+[k] Frenzy seal actions UI icons and cards.
+[k] Orbs not shown when cards are sealed.
+
+[k] Chaos heal card.
+[ ] Pact card visuals.
+. Direct Chaos hit.
+. Green regeneration "embers" upwards.
+
 # `2026-11-10`
 
-[ ] Negative visual effect experiment.
+[k] Chaos visual tuning.
+[k] Proper Chaos implementation.
 
-[ ] See through Chaos idea.
+[k] Negative visual effect experiment.
+
+[k] See through Chaos idea.
 
 [k] Chaos flicker bug on time stop.
 
@@ -12,7 +133,7 @@
 
 [k] Hysteria Card:
 . Berserk AOE effect.
-[ ] Refactor & cleanup.
+[k] Refactor & cleanup.
 
 # `2026-11-09`
 
@@ -32,6 +153,7 @@ Fire as normal.
 Chaos as double-edged.
 
 Cards ideas:
+
 - Chaos card that you hold greedy for n time, but it explodes in random time if you don't drop it.
 - Chaos projectile that you charge and release, but it might explode in your hands if you don't release fast enough.
 - Berserk AOE zone.
@@ -40,6 +162,7 @@ Cards ideas:
 - (Lightning?) Card that appears very briefly and disappears fast, testing player reaction.
 
 Cards ideas:
+
 - Weakpoints
 - Ground zones stuff
 - Old Vortex-ish thing
@@ -105,6 +228,7 @@ Card that needs to consume a card.
 > That's why visualized as cards.
 
 [k] Think about Orbs more.
+
 > Doesn't really seem that much fun to Launch.
 > People just don't do it. Even I don't do it.
 
@@ -161,7 +285,7 @@ Card that needs to consume a card.
 [ ] **Shunpo blur visual**:
 . If it's core, then it needs to look really good.
 
-[ ] Sword hand fire toggle:
+[k] Sword hand fire toggle:
 . Doesn't seem to work, it's always on.
 
 [k] Echo card seems annoying:
@@ -259,7 +383,7 @@ Old Cards Ideas:
 
 [k] Try Meditate instant detonate orbs.
 
-[ ] **Card appear design:**
+[k] **Card appear design:**
 . The noise dissolve thing.
 
 [k] ~Meditate toggle setting.~

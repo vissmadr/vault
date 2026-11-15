@@ -1,9 +1,52 @@
+# `2026-11-15`
+
+[ ] Auto projectiles launch:
+. Spawns a bunch of fire projectiles that launch on nearby enemies.
+
+[k] Time Lapse mechanics:
+. Return previous card draw order.
+. Prevent infinite Time Lapse recursion.
+
+[ ] Fire wave card:
+. Wave of fire forward.
+. Pierces enemies.
+. Knockback on enemies.
+
+[ ] Card slots reorder:
+. Action cards more on second slot.
+
+[k] Dissimilate card experiment.
+
+Decimate?
+Moonfall?
+Needlework?
+
+[k] Multi-quantity cards.
+
+[k] Separate card slots loading times.
+
+[k] Astral Step card
+
+# `2026-11-14`
+
+> Seems that non-interruptable melee attacks for enemies are good.
+
+[k] Devastate card.
+
 # `2026-11-13`
+
+> Return to Fire.
+> Lesser of it, though.
+> More melee.
+
+> Other enchant effects can be for other characters.
+
+[ ] Major card nerfs and reductions.
 
 [ ] Cards debug.
 [ ] Cards configuration.
 
-[ ] Transform some Chaos cards.
+[k] Transform some Chaos cards.
 
 [ ] Time Lapse bossfight.
 [ ] From which you get the Time Lapse card as reward.
@@ -93,7 +136,7 @@ Continue in `pro.md` file.
 [k] Discard design:
 . (!) Could be a default countdown for Chaos cards.
 . (!) Some of them can have their effect related to the countdown, like quickdraws or reverse.
-[ ] Better countdown UI.
+[k] Better countdown UI.
 
 [ ] Better card config TOML files:
 . Think about how to make this good.
@@ -103,7 +146,7 @@ Continue in `pro.md` file.
 [k] Chaos execute card.
 [k] Execute short pull towards hit.
 [k] Delayed reward/harm.
-[ ] Chaos execute card visuals:
+[k] Chaos execute card visuals:
 . Juice it up when it hits/kills.
 
 [k] Frenzy card.

@@ -234,3 +234,6 @@ Find the things that remain true across different situations, and you can simpli
 
 If the rule you followed brought you to this, of what use was the rule?
 \- Anton Chigurh
+
+Awareness is the first line of defense.
+\- John Danaher

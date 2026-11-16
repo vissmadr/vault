@@ -1,13 +1,43 @@
+# `2026-11-16`
+
+[ ] Shunpo visuals:
+. Slightly from point A to point B.
+
+(?) Experimental:
+[k] Shunpo mark extensions:
+. Marks to explode for slight damage.
+. Not necessarily fire explosions.
+. Only marks that are hit ("activated") with melee at least once.
+[ ] Combust rework:
+. Activate and consume all marks.
+. Not necessarily fire explosions.
+[ ] Mark enemy visuals:
+. Like lighter shader on enemies or something.
+. Not only the UI icon.
+[ ] Mark logic:
+. Shunpo only applies marks, but does not activate them.
+
+[k] Shunpo timing work.
+
+> Shunpo should slightly feel like Explosive Charge.
+
+[k] Work on Shunpo:
+. Should be perfect.
+
+[ ] Garen ult experiment.
+
 # `2026-11-15`
 
-[ ] Auto projectiles launch:
+[k] Refactor & cleanup.
+
+[ ] Auto projectiles launch card:
 . Spawns a bunch of fire projectiles that launch on nearby enemies.
 
 [k] Time Lapse mechanics:
 . Return previous card draw order.
 . Prevent infinite Time Lapse recursion.
 
-[ ] Fire wave card:
+[k] Fire wave card:
 . Wave of fire forward.
 . Pierces enemies.
 . Knockback on enemies.

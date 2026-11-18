@@ -3,12 +3,12 @@
 We need some slight impact effects when we hit the sphere.
 Like, the sphere begins its vibrating thing when hit, which is good, but also add at the moment of the sword hit, a stronger (screen-shake-motion-like) motion for a short duration, like really "ringing/rattling the bell" when we hit it.
 
-[ ] Sphere mechanics.
-[ ] Sphere analog hit bar:
+[k] Sphere mechanics.
+[k] Sphere analog hit bar:
 . Smooth 0-100 bar with smooth fast decay.
 . Vibration and glow are relative to the bar.
 
-[ ] Sphere visuals:
+[k] Sphere visuals:
 . Think about actual geometry and/or Syndra effect.
 
 [ ] Remove the Style feature:

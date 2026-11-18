@@ -1,6 +1,47 @@
+# `2026-11-18`
+
+We need some slight impact effects when we hit the sphere.
+Like, the sphere begins its vibrating thing when hit, which is good, but also add at the moment of the sword hit, a stronger (screen-shake-motion-like) motion for a short duration, like really "ringing/rattling the bell" when we hit it.
+
+[ ] Sphere mechanics.
+[ ] Sphere analog hit bar:
+. Smooth 0-100 bar with smooth fast decay.
+. Vibration and glow are relative to the bar.
+
+[ ] Sphere visuals:
+. Think about actual geometry and/or Syndra effect.
+
+[ ] Remove the Style feature:
+. Can't find a good use for it right now.
+. Simplicity wins, so remove it.
+. Can be potentially restored in the future.
+
+# `2026-11-17`
+
+[ ] Solar and Sphere aim assistance.
+[ ] BUG: Solar and Sphere input instead of direction vector.
+
+[k] Sphere work.
+
+[k] Solar short pull:
+. Pulls enemies to the center while active.
+
+[ ] Remove Dissimilate and Bombs:
+. Spheres instead of Bombs.
+
 # `2026-11-16`
 
-[ ] Shunpo visuals:
+[k] Syndra orbs:
+. Same visuals.
+. Place on ground.
+. Hit with melee.
+
+YNK ideas:
+[k] Enemy freeze.
+[k] Mark explosion visuals.
+[ ] Sound design for Shunpo and Marks.
+
+[k] Shunpo visuals:
 . Slightly from point A to point B.
 
 (?) Experimental:
@@ -14,7 +55,7 @@
 [ ] Mark enemy visuals:
 . Like lighter shader on enemies or something.
 . Not only the UI icon.
-[ ] Mark logic:
+[k] Mark logic:
 . Shunpo only applies marks, but does not activate them.
 
 [k] Shunpo timing work.
@@ -24,7 +65,7 @@
 [k] Work on Shunpo:
 . Should be perfect.
 
-[ ] Garen ult experiment.
+[k] Garen ult experiment.
 
 # `2026-11-15`
 

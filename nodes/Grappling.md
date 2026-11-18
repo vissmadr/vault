@@ -17,3 +17,5 @@ Martial arts that focus on wrestling, ground fighting, control, and submission h
 
 [ ] Forcing near side underhook from half guard top.
 [ ] Arm triangle from 3/4 mount position optimizations against a turning opponent.
+[ ] Short darce choke.
+[ ] Genius quadlemma.

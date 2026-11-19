@@ -1,7 +1,80 @@
+# `2026-11-19`
+
+[ ] Record game statistics.
+
+[k] Better channeled card mechanics:
+. Single press activation with duration.
+. Can cancel out by actions.
+. Slower rotation speed.
+
+[ ] (?) Chronosphere wall effect:
+. Long shot, but could be amazing.
+. When things are at the wall of the sphere.
+
+[k] Damage amplification against stunned.
+
+[ ] (?) Rolling Fireball:
+. Maybe see Kog E for inspiration.
+
+[k] Chronosphere updates:
+. Remove global Chrono.
+. Rename to Chronosphere.
+
+[k] Flamethrower damage as debuff:
+. Maybe a Flamethrower debuff instead of projectile hits would be better.
+. No fragments needed.
+
+[ ] Improve Solar and Halo:
+. Especially with Chronosphere.
+
+[k] Better Firebombs.
+[k] Flamethrower card.
+
+> Chrono seems nice and interesting.
+
+[k] Chrono sphere.
+[ ] Solve Solar and Halo problem:
+. (!) Could remove Chronosphere if no valid solutions.
+
+> Maybe stance is a bad idea.
+> Inconsistent, probably a boring stat check if Wu stance.
+
+[k] Chrono card.
+[k] Chrono zone card.
+
+Return channeled:
+[k] Beam card.
+[k] Rapid Fire card.
+[k] Firebombs card:
+. Channeled cone arcing.
+
+> Short fuse Bombs are actually not that bad, lol.
+> As long as you don't have to play around them.
+> Just leave on the ground and forget.
+
+[ ] (?) Stance experiments:
+. Or maybe not?
+
 # `2026-11-18`
 
-We need some slight impact effects when we hit the sphere.
-Like, the sphere begins its vibrating thing when hit, which is good, but also add at the moment of the sword hit, a stronger (screen-shake-motion-like) motion for a short duration, like really "ringing/rattling the bell" when we hit it.
+> Shunpo Orbs as marks is perfect!
+> Solves all the Shunpo problems.
+
+Design experiments:
+[ ] (?) Stance button experiment.
+[ ] (?) Two cards slots experiment.
+[k] Chaos card slot.
+[k] Shunpo Orbs as Marks.
+[ ] (?) Stance core ability.
+
+[k] ~Dragon Kick card.~
+
+[k] ~Shield counterstrike card.~
+
+[ ] Rework Combust card:
+. Think about Brand mechanics.
+
+# `2026-11-18`
 
 [k] Sphere mechanics.
 [k] Sphere analog hit bar:
@@ -11,7 +84,7 @@ Like, the sphere begins its vibrating thing when hit, which is good, but also ad
 [k] Sphere visuals:
 . Think about actual geometry and/or Syndra effect.
 
-[ ] Remove the Style feature:
+[k] Remove the Style feature:
 . Can't find a good use for it right now.
 . Simplicity wins, so remove it.
 . Can be potentially restored in the future.
@@ -26,7 +99,7 @@ Like, the sphere begins its vibrating thing when hit, which is good, but also ad
 [k] Solar short pull:
 . Pulls enemies to the center while active.
 
-[ ] Remove Dissimilate and Bombs:
+[k] Remove Dissimilate and Bombs:
 . Spheres instead of Bombs.
 
 # `2026-11-16`
@@ -52,7 +125,7 @@ YNK ideas:
 [ ] Combust rework:
 . Activate and consume all marks.
 . Not necessarily fire explosions.
-[ ] Mark enemy visuals:
+[k] Mark enemy visuals:
 . Like lighter shader on enemies or something.
 . Not only the UI icon.
 [k] Mark logic:
@@ -83,7 +156,7 @@ YNK ideas:
 . Pierces enemies.
 . Knockback on enemies.
 
-[ ] Card slots reorder:
+[k] Card slots reorder:
 . Action cards more on second slot.
 
 [k] Dissimilate card experiment.
@@ -114,8 +187,8 @@ Needlework?
 
 [ ] Major card nerfs and reductions.
 
-[ ] Cards debug.
-[ ] Cards configuration.
+[k] Cards debug.
+[k] Cards configuration.
 
 [k] Transform some Chaos cards.
 

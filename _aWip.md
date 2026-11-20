@@ -2,6 +2,8 @@
 
 [ ] Record game statistics.
 
+[k] Cleanup pass.
+
 [k] Better channeled card mechanics:
 . Single press activation with duration.
 . Can cancel out by actions.

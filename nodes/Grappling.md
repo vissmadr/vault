@@ -9,19 +9,25 @@ Martial arts that focus on wrestling, ground fighting, control, and submission h
 
 ---
 
-## Ideas
-
-### Guard
-
-Maybe Eric was once again right all along.
-
 ## Instructional
 
-[ ] Continue 'Power Ride 2.0' to part 2.
+`bodoni-halfGuard`: `v1 00:00`
+`craig-octopus2`: `v1 00:00`
+`craig-powerRide2`: `v1 00:00`
+`danaher-agelessBottomGameGi`: `v1 00:00`
+`danaher-agelessBottomGameNogi`: `v1 00:00`
+`danaher-newWaveNogiHalfGuard`: `v1 00:00`
+`gordon-sysAttackFromHalfGuard`: `v1 00:00`
 
 ## Practice
 
-[ ] Forcing near side underhook from half guard top.
-[ ] Arm triangle from 3/4 mount position optimizations against a turning opponent.
-[ ] Short darce choke.
-[ ] Genius quadlemma.
+## Ideas
+
+Maybe Eric was once again right all along.
+
+### Guard
+
+Focus on mastering Half Guard as usual.
+Seems like Deep Half and Lockdown truly are needed after all.
+
+The main problem is the underhook.

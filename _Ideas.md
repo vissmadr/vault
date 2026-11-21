@@ -1,21 +1,8 @@
-# On Habits
-
-- we are what we do
-- 3 months vs 5 years
-- Kaizen Kaizen Kaizen Kaizen Kaizen...
-- impulsive behavior vs actual choice
-- building yourself
-- fuck talent
-
-# Deserving Money
-
-Money is not what you deserve, but what you ask for and what you can get.
-
-It is not an adequate measure of skill nor experience nor expertise.
-
-It is only a representation of how much you were able to get.
-
 # Other
+
+- Mastery: Habits, obsession, that one video for learning.
+
+- Habits: we are what we do; kaizen; impulsive behavior vs actual choice; building yourself; fuck talent
 
 - On fear (and against)
 
@@ -30,6 +17,8 @@ It is only a representation of how much you were able to get.
 - Explain accessible science design, which is one of the goals with my website.
 
 - Fault of Making Retards Famous (stop doing it)
+
+- Deserving Money.
 
 - Investing in competition vs learning the art. Differences. How one of the most effective way to produce champions is having a trainer that has mastered the art coaching a student who excels at competition.
 

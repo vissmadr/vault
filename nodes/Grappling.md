@@ -9,6 +9,12 @@ Martial arts that focus on wrestling, ground fighting, control, and submission h
 
 ---
 
+## Ideas
+
+### Guard
+
+Maybe Eric was once again right all along.
+
 ## Instructional
 
 [ ] Continue 'Power Ride 2.0' to part 2.

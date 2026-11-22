@@ -25,6 +25,8 @@ Martial arts that focus on wrestling, ground fighting, control, and submission h
 
 [ ] More turtle backtakes.
 
+[ ] Angle lock optimization by Gordon: https://www.youtube.com/watch?v=x6mkAn6N5zk
+
 ## Ideas
 
 Maybe Eric was once again right all along.

@@ -21,6 +21,10 @@ Martial arts that focus on wrestling, ground fighting, control, and submission h
 
 ## Practice
 
+[ ] Half guard angle passing.
+
+[ ] More turtle backtakes.
+
 ## Ideas
 
 Maybe Eric was once again right all along.

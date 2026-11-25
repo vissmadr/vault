@@ -19,6 +19,8 @@ Martial arts that focus on wrestling, ground fighting, control, and submission h
 `danaher-newWaveNogiHalfGuard`: `v1 00:00`
 `gordon-sysAttackFromHalfGuard`: `v1 00:00`
 
+Knee cut: https://www.youtube.com/watch?v=QdsUyO36Kag
+
 ## Practice
 
 [ ] Deep half guard:

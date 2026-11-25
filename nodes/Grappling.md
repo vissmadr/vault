@@ -21,13 +21,12 @@ Martial arts that focus on wrestling, ground fighting, control, and submission h
 
 ## Practice
 
-[ ] Half guard angle passing.
-
-[ ] More turtle backtakes.
-
-[ ] Angle lock optimization by Gordon: https://www.youtube.com/watch?v=x6mkAn6N5zk
+[ ] Deep half guard:
+. Modern William Wilson style.
 
 ## Ideas
+
+DEEP HALF DEEP HALF DEEP HALF...
 
 Maybe Eric was once again right all along.
 

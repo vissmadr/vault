@@ -11,13 +11,13 @@ Martial arts that focus on wrestling, ground fighting, control, and submission h
 
 ## Instructional
 
-`bodoni-halfGuard`: `v1 00:00`
-`craig-octopus2`: `v1 00:00`
-`craig-powerRide2`: `v1 00:00`
-`danaher-agelessBottomGameGi`: `v1 00:00`
-`danaher-agelessBottomGameNogi`: `v1 00:00`
-`danaher-newWaveNogiHalfGuard`: `v1 00:00`
-`gordon-sysAttackFromHalfGuard`: `v1 00:00`
+**Bodoni - Half Guard**: `null`
+**Craig - Octopus 2**: `null`
+**Craig - Power Ride 2**: `null`
+**Danaher - Ageless Bottom Game Gi**: `null`
+**Danaher - Ageless Bottom Game Nogi**: `v2 38:50`
+**Danaher - New Wave Nogi Half Guard**: `null`
+**Gordon - Systematically Attacking From Half Guard**: `null`
 
 Knee cut: https://www.youtube.com/watch?v=QdsUyO36Kag
 

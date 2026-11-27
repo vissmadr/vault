@@ -23,14 +23,9 @@ Knee cut: https://www.youtube.com/watch?v=QdsUyO36Kag
 
 ## Practice
 
-[ ] Deep half guard:
-. Modern William Wilson style.
-
 ## Ideas
 
-DEEP HALF DEEP HALF DEEP HALF...
-
-Maybe Eric was once again right all along.
+Half guard is both the problem and the answer.
 
 ### Guard
 

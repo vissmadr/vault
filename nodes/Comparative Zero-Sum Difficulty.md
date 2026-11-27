@@ -5,7 +5,7 @@ context:
   - "[[Game Theory]]"
 ---
 
-# Comparative Zero-sum Difficulty
+# Comparative Zero-Sum Difficulty
 
 Competitive rulesets and zero-sum games cannot be "easier" or "more difficult" by definition.
 

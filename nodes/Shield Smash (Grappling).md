@@ -5,7 +5,7 @@ context:
 
 # Shield Smash (Grappling)
 
-Pressure passing position against [[Half-guard]] knee shield.
+Pressure passing position against [[Half-Guard]] knee shield.
 
 You lay on top of the opponents's knee shield, while also having a tight-waist grip.
 

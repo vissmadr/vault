@@ -11,7 +11,7 @@ Method of finding unknown intermediate data points based on the range of known d
 
 Common interpolation methods:
 
-- [[Nearest-neighbor Interpolation]]
+- [[Nearest-Neighbor Interpolation]]
 - [[Linear Interpolation]]
 - [[Bilinear Interpolation]]
 - [[Slerp]]

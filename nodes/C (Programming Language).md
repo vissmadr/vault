@@ -3,7 +3,7 @@ aliases:
   - C
 context:
   - "[[Programming Language]]"
-  - "[[General-purpose Language]]"
+  - "[[General-Purpose Language]]"
 ---
 
 # C (Programming Language)

@@ -3,7 +3,7 @@ aliases:
   - Cascading Style Sheets
 context:
   - "[[Style Sheet Language]]"
-  - "[[Domain-specific Language]]"
+  - "[[Domain-Specific Language]]"
 ---
 
 # CSS

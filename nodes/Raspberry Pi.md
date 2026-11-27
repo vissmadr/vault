@@ -1,11 +1,11 @@
 ---
 context:
-  - "[[Single-board Computer]]"
+  - "[[Single-Board Computer]]"
 ---
 
 # Raspberry Pi
 
-Series of small and affordable [[Single-board Computer|Single-board Computers]].
+Series of small and affordable [[Single-Board Computer|Single-board Computers]].
 
 ---
 

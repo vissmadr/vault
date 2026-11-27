@@ -3,6 +3,6 @@ context:
   - "[[Physics]]"
 ---
 
-# N-body Problem
+# N-Body Problem
 
 The problem of predicting the individual motions of a group of celestial objects interacting with each other gravitationally.

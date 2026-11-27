@@ -3,7 +3,7 @@ context:
   - "[[Zig]]"
 ---
 
-# Zig Vectors
+# Zig Command-Line Arguments
 
 Command-line arguments in Zig allow input to be passed to the program.
 

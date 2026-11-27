@@ -4,7 +4,7 @@ context:
   - "[[Hardware]]"
 ---
 
-# Single-board Computer
+# Single-Board Computer
 
 A complete [[Computer]] built on a single [[Printed Circuit Board]].
 

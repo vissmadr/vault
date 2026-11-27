@@ -3,7 +3,7 @@ context:
   - "[[Chess Strategy]]"
 ---
 
-# Castle-based Attack Direction
+# Castle-Based Attack Direction
 
 How castling affects the general direction of attack.
 

@@ -13,6 +13,6 @@ See [[Outpost (Chess)|Outpost]]
 
 See [[Exchange When Ahead]]
 
-See [[Castle-based Attack Direction]]
+See [[Castle-Based Attack Direction]]
 
 See [[Preserving Attack Complexity]]

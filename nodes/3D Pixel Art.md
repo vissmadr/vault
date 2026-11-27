@@ -15,7 +15,7 @@ _Heavily inspired by the art of t3ssel8r._
 ## Pixel Effect
 
 The pixel effect mostly comes from rendering the 3D scene into a small internal resolution, and then scaling that image up without smoothing.
-The key part is using [[Nearest-neighbor Interpolation|nearest-neighbor]] texture filtering. This is to prevent blurry upscaling.
+The key part is using [[Nearest-Neighbor Interpolation|nearest-neighbor]] texture filtering. This is to prevent blurry upscaling.
 
 Example: scaling up a `640x360` render texture `3.0` times using `TEXTURE_FILTER_POINT` for a `1920x1080` output.
 

@@ -3,7 +3,7 @@ context:
   - "[[Grappling]]"
 ---
 
-# Butterfly Half Guard
+# Butterfly Half-Guard
 
 #empty
 

@@ -3,13 +3,13 @@ context:
   - "[[Grappling]]"
 ---
 
-# Half-guard
+# Half-Guard
 
 #empty
 
 ---
 
-## Why Half-guard?
+## Why Half-Guard?
 
 **Connection**: Half-guard offers great connection to the opponent.
 . Great connection can really compensate for disadvantages in speed and athleticism.

@@ -6,7 +6,7 @@ context:
   - "[[Economics]]"
 ---
 
-# Zero-sum Game
+# Zero-Sum Game
 
 (Zero-Sum Situation)
 

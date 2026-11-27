@@ -5,4 +5,4 @@ context:
 
 # Command Language
 
-[[Domain-specific Language|Domain-specific]] [[Computer Language]] used for executing pre-defined operations.
+[[Domain-Specific Language|Domain-specific]] [[Computer Language]] used for executing pre-defined operations.

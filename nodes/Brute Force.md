@@ -1,11 +1,11 @@
 ---
 context:
-  - "[[Problem-solving]]"
+  - "[[Problem-Solving]]"
 ---
 
 # Brute Force
 
-Any exhaustive [[Problem-solving]] [[Algorithm]] that computes all possible solutions until the correct one is found.
+Any exhaustive [[Problem-Solving]] [[Algorithm]] that computes all possible solutions until the correct one is found.
 
 ---
 

@@ -6,7 +6,7 @@ context:
 
 # Barnes-Hut Approximation
 
-Method of approximating the [[N-body Problem]] using [[Quadtree]] subdivision.
+Method of approximating the [[N-Body Problem]] using [[Quadtree]] subdivision.
 
 ---
 

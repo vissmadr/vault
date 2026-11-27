@@ -3,7 +3,7 @@ context:
   - "[[Checkmate Pattern]]"
 ---
 
-# Back-rank Checkmate
+# Back-Rank Checkmate
 
 Common [[Checkmate Pattern]] delivered by a major piece when a King is blocked by its own pieces (usually pawns) on the first or eighth rank.
 

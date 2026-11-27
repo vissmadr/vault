@@ -11,8 +11,8 @@ Formal language used to communicate with a [[Computer]].
 
 Classification by scope:
 
-- [[Domain-specific Language]]
-- [[General-purpose Language]]
+- [[Domain-Specific Language]]
+- [[General-Purpose Language]]
 
 Classification by function:
 

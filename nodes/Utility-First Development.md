@@ -5,7 +5,7 @@ context:
   - "[[Software Development]]"
 ---
 
-# Utility-first Development
+# Utility-First Development
 
 Software development paradigm focused on building good utilities (debugging tools, helper systems) along with the software itself.
 

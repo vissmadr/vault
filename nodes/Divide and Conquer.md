@@ -1,6 +1,6 @@
 ---
 context:
-  - "[[Problem-solving]]"
+  - "[[Problem-Solving]]"
 ---
 
 # Divide and Conquer

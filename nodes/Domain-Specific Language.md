@@ -3,10 +3,10 @@ context:
   - "[[Computer Language]]"
 ---
 
-# Domain-specific Language
+# Domain-Specific Language
 
 [[Computer Language]] specialized for a particular application domain.
 
 ---
 
-This is in contrast to a [[General-purpose Language]].
+This is in contrast to a [[General-Purpose Language]].

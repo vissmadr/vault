@@ -3,7 +3,7 @@ context:
   - "[[Interpolation]]"
 ---
 
-# Nearest-neighbor Interpolation
+# Nearest-Neighbor Interpolation
 
 [[Interpolation]] method that estimates point values by copying the closest known neighboring point.
 

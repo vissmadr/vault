@@ -1,7 +1,7 @@
 ---
 context:
   - "[[Programming Language]]"
-  - "[[General-purpose Language]]"
+  - "[[General-Purpose Language]]"
 ---
 
 # Zig

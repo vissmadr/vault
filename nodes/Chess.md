@@ -14,7 +14,7 @@ Abstract turn-based strategy board game.
 
 ```
 
-**Players**: Chess is a two-player [[Zero-sum Game]]. One player is _white_, the other is _black_.
+**Players**: Chess is a two-player [[Zero-Sum Game]]. One player is _white_, the other is _black_.
 
 **Deterministic**: There is no randomness in chess.
 

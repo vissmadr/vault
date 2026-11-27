@@ -4,7 +4,7 @@ tags:
 context:
 ---
 
-# Self-defense
+# Self-Defense
 
 Hesitation is defeat.
 

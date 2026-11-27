@@ -13,7 +13,7 @@ Recognizable pattern that allows for [[Checkmate]] opportunity.
 
 Common patterns:
 
-- [[Back-rank Checkmate]]
+- [[Back-Rank Checkmate]]
 - [[King and Rook Checkmate]]
 - [[King and Queen Checkmate]]
 - [[Ladder Checkmate]]

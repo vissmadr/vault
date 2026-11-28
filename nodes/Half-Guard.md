@@ -12,7 +12,7 @@ context:
 ## Why Half-Guard?
 
 **Connection**: Half-guard offers great connection to the opponent.
-. Great connection can really compensate for disadvantages in speed and athleticism.
+. Great connection can compensate for disadvantages in speed and athleticism.
 
 **Versatility**: Half-guard is incredibly versatile.
 . From half-guard you can play to survive, sweep, get-up, flank, and submit.
@@ -41,8 +41,7 @@ Fundamental concepts and principles for playing and maintaining half-guard.
 ### Posture
 
 There's "posture" and "optimal posture" from any position.
-
-Important to have good posture even in half-guard when working from underneath the opponent.
+Important to have good posture in half-guard, even when working from the bottom.
 
 **Side**: You want to always be on the side, having your top shoulder off the ground.
 . You never want to be flat on your back with both shoulders on the ground.
@@ -61,16 +60,16 @@ Be disciplined with this.
 
 There is inside position at the upper-body, and inside position at the lower-body.
 
-There are strategic choices to when to give up inside position.
-But generally speaking, when playing guard, prefer inside position.
-
-Inside position allows you to dominate the space between the arms or legs of the opponent.
-This tends to be a safer place to work from, allows to control the space, and fire off attacks from there.
+**Inside Position Preference**: Generally speaking, when playing guard, prefer inside position.
+. Inside position allows you to dominate the space between the arms or legs of the opponent.
+. This tends to be a safer place to work from, allows to control the space, and fire off attacks from there.
 
 When losing inside position, play to reclaim it back.
 
 **Upper-body Inside Position**: Using your arms to frame and control the space between the arms of the opponent.
 **Lower-body Inside Position**: Using your free leg as a knee-shield (both low and high) or as a half-butterfly hook to control the space.
+
+There are strategic choices to when to give up inside position.
 
 **Strategic Knee-shield Removal**: You can strategically remove your knee-shield, offering the opponent a chance to close the distance.
 . Close the distance on your terms, progressing into positions of greater control.
@@ -81,8 +80,8 @@ Distance management and regulation are important abilities for half-guard.
 
 **Posture and Inside Position**: The two key elements for managing distance are posture and inside position.
 
-**Distance Management**: Being able to both open and close the gap on your terms.
-. Keeping distance between you for defense, but also being able to close the distance in order to attack.
+**Intentional Distance**: Being able to both open and close the distance on your terms.
+. Keeping distance for defense, but also being able to close the gap in order to attack.
 
 ### Opponent Head Position
 

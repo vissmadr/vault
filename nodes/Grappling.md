@@ -25,11 +25,11 @@ Knee cut: https://www.youtube.com/watch?v=QdsUyO36Kag
 
 ## Ideas
 
-Half guard is both the problem and the answer.
+Half-guard is both the problem and the answer.
 
 ### Guard
 
-Focus on mastering Half Guard as usual.
-Seems like Deep Half and Lockdown truly are needed after all.
+Focus on mastering half-guard as usual.
+Seems like deep-half and Lockdown truly are needed after all.
 
 The main problem is the underhook.

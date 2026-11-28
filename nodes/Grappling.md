@@ -21,6 +21,8 @@ Martial arts that focus on wrestling, ground fighting, control, and submission h
 
 Knee cut: https://www.youtube.com/watch?v=QdsUyO36Kag
 
+Turtle: https://www.youtube.com/watch?v=a8WoCByT9cA
+
 ## Practice
 
 ## Ideas
